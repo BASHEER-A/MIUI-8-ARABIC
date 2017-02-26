@@ -67,7 +67,7 @@
   <string name="bind_sns_description">تسجيل الدخول ب%s</string>
   <string name="bind_weibo_description">أضف أصدقائك من Sina Weibo</string>
   <string name="binded">متصل</string>
-  <string name="binded_description" formatted="false">تم ربط ال<xliff:g id="id1">%s</xliff:g> بحساب Mi الخاص بك. تم تحديث بيانات ملفك الشخصي من معلومات حسابك على %s.</string>
+  <string name="binded_description" formatted="false">تم ربط ال%s بحساب Mi الخاص بك. تم تحديث بيانات ملفك الشخصي من معلومات حسابك على %s.
   <string name="button_unbind">قطع الاتصال</string>
   <string name="change_activate_email">تغييرعنوان البريد الإلكتروني</string>
   <string name="change_email_address">تغيير البريد الإلكتروني</string>
