@@ -18,12 +18,12 @@
     <item quantity="many">" و %1$d مجلد؟"</item>
   </plurals>
   <plurals name="directory_item_count">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> عنصر</item>
-    <item quantity="zero"><xliff:g id="count">%d</xliff:g> عنصر</item>
-    <item quantity="one"><xliff:g id="count">%d</xliff:g> عنصر</item>
-    <item quantity="two"><xliff:g id="count">%d</xliff:g> عناصر</item>
-    <item quantity="few"><xliff:g id="count">%d</xliff:g> عناصر</item>
-    <item quantity="many"><xliff:g id="count">%d</xliff:g> عنصر</item>
+    <item quantity="other">%d عنصر</item>
+    <item quantity="zero">%d عنصر</item>
+    <item quantity="one">%d عنصر</item>
+    <item quantity="two">%d عناصر</item>
+    <item quantity="few">%d عناصر</item>
+    <item quantity="many">%d عنصر</item>
   </plurals>
   <plurals name="ui_bar_txt_download_progress">
     <item quantity="other">بقي %1$d ملف للتنزيل</item>
@@ -50,12 +50,12 @@
     <item quantity="many">%1$d ملف متبقي للنقل</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other"><xliff:g id="count"> %1$d </xliff:g> مُحدد</item>
-    <item quantity="zero"><xliff:g id="count"> %1$d </xliff:g> مُحدد</item>
+    <item quantity="other"> %1$d  مُحدد</item>
+    <item quantity="zero"> %1$d  مُحدد</item>
     <item quantity="one">%1$d مُحدد</item>
-    <item quantity="two"><xliff:g id="count"> %1$d </xliff:g> مُحددة</item>
-    <item quantity="few"><xliff:g id="count"> %1$d </xliff:g> مُحددة</item>
-    <item quantity="many"><xliff:g id="count"> %1$d </xliff:g> مُحدد</item>
+    <item quantity="two"> %1$d  مُحددة</item>
+    <item quantity="few"> %1$d  مُحددة</item>
+    <item quantity="many"> %1$d  مُحدد</item>
   </plurals>
   <plurals name="items_file">
     <item quantity="other">(%1$d عنصر)</item>
