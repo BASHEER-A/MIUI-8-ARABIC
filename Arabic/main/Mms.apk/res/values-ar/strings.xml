@@ -133,14 +133,14 @@
   <string name="discard_message">تجاهل الرسالة</string>
   <string name="discard_message_reason">سيتم تجاهل رسالتك لأنها لا تحتوي على مستلمين صالحين.</string>
   <string name="discard_slideshow">تجاهل عرض الشرائح</string>
-  <string name="dl_failure_notification">"تعذر تنزيل الرسالة<xliff:g id="subject">%1$s</xliff:g> من<xliff:g id="from">%2$s</xliff:g>."</string>
+  <string name="dl_failure_notification">"تعذر تنزيل الرسالة%1$s من%2$s."</string>
   <string name="done">تم</string>
   <string name="download">تنزيل</string>
   <string name="download_later">"لا يمكن التنزيل في الوقت الحالي. حاول مرة أخرى فيما بعد."</string>
   <string name="downloading">جارٍ التنزيل</string>
   <string name="downloading_file_can_not_play">انتظر حتى ينتهي التسجيل من التنزيل</string>
   <string name="duration_not_a_number">يجب أن تكون المدة رقمًا</string>
-  <string name="duration_sec">المدة(<xliff:g id="duration">%s</xliff:g> ثواني)</string>
+  <string name="duration_sec">المدة(%s ثواني)</string>
   <string name="duration_selector_title">" مدة الشريحة"</string>
   <string name="duration_zero">يجب أن تكون المدة أكبر من ٠ ثانية</string>
   <string name="edit">تعديل</string>
@@ -160,9 +160,9 @@
   <string name="exceed_message_size_limitation">حجم الرساله وصل للحد الأقصى.</string>
   <string name="exceed_message_size_limitation_add_slide">حجم الرسالة  ليس كافي لإضافة شريحة</string>
   <string name="exceed_message_text_limitation">تم الوصول إلى الحد الأقصى لطول الرسالة.</string>
-  <string name="expire_on">إنتهاء الصلاحية: <xliff:g id="date">%s</xliff:g></string>
+  <string name="expire_on">إنتهاء الصلاحية: %s</string>
   <string name="exporting_progress_private_message">جارٍ التصدير\u2026</string>
-  <string name="failed_to_add_media">".هذة إلى رسالتك <xliff:g id="name">%1$s</xliff:g> لا يمكنك إضافة"</string>
+  <string name="failed_to_add_media">".هذة إلى رسالتك %1$s لا يمكنك إضافة"</string>
   <string name="failed_to_resize_image">.لم يتم تغيير حجم الصورة</string>
   <string name="fake_cell_alert_hint">يبدو ان هذه الرسالة ارسلت من رقم هاتف يختلف عن الرقم المعروض. كن حذرا من (رسائل قصيرة SMS) التي تحتوي على طلبات مالية.</string>
   <string name="fake_cell_checking_hint">جارٍ التحقق من الأمان\u2026</string>
@@ -200,7 +200,7 @@
   <string name="guild_add_attachments">Tap to add emoticons and other items</string>
   <string name="guild_add_recipients">Tap to add recipients from contacts</string>
   <string name="guild_msim_switcher">Tap to switch SIM cards</string>
-  <string name="has_invalid_recipient">مستلمين غير صالحين: &lt;<xliff:g id="name">%1$s</xliff:g>&gt;</string>
+  <string name="has_invalid_recipient">مستلمين غير صالحين: &lt;%1$s &gt;</string>
   <string name="hidden_sender_address">إخفاء عنوان المرسل</string>
   <string name="hint_search_sms">%d رسالة</string>
   <string name="hms_add_image_progress_message">جارٍ التنفيذ\u2026</string>
@@ -355,9 +355,9 @@
   <string name="no_subject_view">(بدون موضوع)</string>
   <string name="non_english_subject_limit">الحد الأقصى ١٣ حرفا</string>
   <string name="nosend_message">"عدم الإرسال"</string>
-  <string name="notification_failed_multiple">"تعذر إرسال<xliff:g id="count">%s</xliff:g>من الرسائل"</string>
+  <string name="notification_failed_multiple">"تعذر إرسال%sمن الرسائل"</string>
   <string name="notification_failed_multiple_title">لم يتم إرسال الرسائل</string>
-  <string name="notification_multiple">[<xliff:g id="count">%s</xliff:g>]</string>
+  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">رسائل جديدة</string>
   <string name="number_add_hint">أدخل رقم الهاتف</string>
   <string name="open_audio_record_panel">فتح لوحة تسجيل الصوت</string>
@@ -393,7 +393,7 @@
   <string name="pref_smart_messages_settings">رسائل ذكية</string>
   <string name="pref_sms_theme_title">عرض</string>
   <string name="pref_summary_allow_si_sl_push">السماح للرسائل بتحميل المحتوى من مواقع الويب</string>
-  <string name="pref_summary_delete_limit"><xliff:g id="count">%1$s</xliff:g>من الرسائل لكل محادثة</string>
+  <string name="pref_summary_delete_limit">%1$sمن الرسائل لكل محادثة</string>
   <string name="pref_summary_delivery_reports">عرض تقارير التسليم لجميع الرسائل المرسلة</string>
   <string name="pref_summary_delivery_ringtone">تلقي إشعارات صوتية للرسائل المُرسلة.</string>
   <string name="pref_summary_hide_festival">إخفاء ميزات اللغة الصينية فقط عند تعيين النظام إلى لغة أخرى غير صينية</string>
@@ -517,7 +517,7 @@
   <string name="select_audio">اختيار ملف صوتي</string>
   <string name="select_bottom_text">النص في الأسفل</string>
   <string name="select_copy_text">تحديد ونسخ نص الرسالة</string>
-  <string name="select_different_media">حدد<xliff:g id="name">%1$s</xliff:g>آخر.</string>
+  <string name="select_different_media">حدد%1$sآخر.</string>
   <string name="select_link_title">إختيار إجراء</string>
   <string name="select_local_audio">تحديد ملف صوتي</string>
   <string name="select_local_video">تحديد ملف فيديو</string>
@@ -557,8 +557,8 @@
   <string name="sim_full_title">بطاقة SIM ممتلئة</string>
   <string name="sim_manage_messages_title">الرسائل النصية على بطاقة SIM</string>
   <string name="sim_view">عرض</string>
-  <string name="slide_number">Slide <xliff:g id="number" example="5">%d</xliff:g></string>
-  <string name="slide_show_part">Part <xliff:g id="part">%1$d</xliff:g>/<xliff:g id="total">%2$d</xliff:g></string>
+  <string name="slide_number">Slide %d</string>
+  <string name="slide_show_part">Part %1$d %2 $d</string>
   <string name="slide_up_to_cancel">اسحب للأعلى للإلغاء</string>
   <string name="slideshow_activity">عرض الشرائح</string>
   <string name="sms_card_partner_label">"شريك بطاقة الرسائل القصيرة:\u0020"</string>
@@ -623,8 +623,8 @@
   <string name="to_count">%d مستلمين</string>
   <string name="to_label">"إلى "</string>
   <string name="to_send_wrapper">سيتم الإرسال في %s</string>
-  <string name="too_many_attachments">"لا يمكن تجاوز<xliff:g id="maxLimit">%1$s</xliff:g>مرفق. فقط المرفق الأول<xliff:g id="currentCount">%2$s</xliff:g>سيتم إضافته."</string>
-  <string name="too_many_recipients">"تحتوي الرسالة على عدد كبير من المستلمين(<xliff:g id="currentCount">%1$s</xliff:g>). لا يمكن أن يكون لديك أكتر من <xliff:g id="maxLimit">%2$s</xliff:g>مستلم."</string>
+  <string name="too_many_attachments">"لا يمكن تجاوز%1$sمرفق. فقط المرفق الأول%2$sسيتم إضافته."</string>
+  <string name="too_many_recipients">"تحتوي الرسالة على عدد كبير من المستلمين(%1$s). لا يمكن أن يكون لديك أكتر من %2$sمستلم."</string>
   <string name="too_many_unsent_mms">"لا يمكن إرسال الرسالة في الوقت الحالي. يوجد الكثير من رسائل الوسائط المتعددة الغير مرسلة."</string>
   <string name="try_to_send">محاولة الإرسال</string>
   <string name="type_attachment">المرفقات</string>
@@ -634,7 +634,7 @@
   <string name="type_to_compose_text_or_leave_blank">اكتب الرسالة، أو اتركه فارغًا</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">الفيديو</string>
-  <string name="undelivered_msg_dialog_body">تعذر إرسال الرسالة.\nتمت المحاولة: <xliff:g id="message">%s</xliff:g>.</string>
+  <string name="undelivered_msg_dialog_body">تعذر إرسال الرسالة.\nتمت المحاولة: %s.</string>
   <string name="undelivered_msg_dialog_title">رسالة لم يتم تسليمها</string>
   <string name="undelivered_sms_dialog_body">".تعذر إرسال هذة الرسالة"</string>
   <string name="unknown_num">رقم غير معروف</string>
@@ -642,7 +642,7 @@
   <string name="unstick">إلغاء تثبيت</string>
   <string name="unstick_conversation">إلغاء تثبيت المحادثة الحالية</string>
   <string name="unsticked_conversation">تم إلغاء تثبيت المحادثة بالفعل</string>
-  <string name="unsupported_media_format">صيغة<xliff:g id="name">%1$s</xliff:g>غير مدعومة.</string>
+  <string name="unsupported_media_format">صيغة%1$sغير مدعومة.</string>
   <string name="url_fraud_dangerous_alert">قد يكون الموقع الذي تحاول القيام بزيارتة خطير. ربما يضر الجهاز والبيانات الخاصة بك. الزيارة على أي حال؟\n%s</string>
   <string name="url_fraud_insurance">تأمين مخادع</string>
   <string name="url_fraud_risky_alert">قد يكون الموقع الذي تحاول القيام بزيارتة خطير. الزيارة على أي حال؟\n%s</string>
