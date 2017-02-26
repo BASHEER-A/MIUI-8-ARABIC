@@ -456,7 +456,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="bluetooth_ask_discovery">An app wants to make your phone visible to other Bluetooth devices for %1$d seconds.</string>
   <string name="bluetooth_ask_enablement">An app wants to turn Bluetooth ON for this device.</string>
   <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">"\u0020 يرغب في تشغيل البلوتوث وجعل هاتفك مرئياً للأجهزة الأخرى لمدة <xliff:g id="timeout">%1$d</xliff:g> ثانية."</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">"\u0020 يرغب في تشغيل البلوتوث وجعل هاتفك مرئياً للأجهزة الأخرى لمدة %1$d ثانية."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"\u0020 يرغب في تشغيل البلوتوث وجعل هاتفك مرئياً للأجهزة الأخرى. يمكنك تغيير ذلك لاحقاً من إعدادات البلوتوث."</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wants to turn on Bluetooth and Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
@@ -2625,7 +2625,7 @@ There are other users present on this device.
   <string name="preferred_app_settings_reset_button">إعادة تعيين</string>
   <string name="preferred_app_settings_reset_message">سيتم إعادة تعيين تفضيلات التطبيقات الافتراضية إلى إعدادات المصنع المسبقة.</string>
   <string name="preferred_application_title">%sمفضل</string>
-  <string name="preferred_application_warning_message">قد يؤدي استبدال %1$s الافتراضي إلى زيادة استهلاك الطاقة وتقليل السرعة، ويمكن أن يعرض محتويات الهاتف للخطر. استخدم <xliff:g id="APPLICATION_LABEL">%2$s</xliff:g> بدلاً منه.</string>
+  <string name="preferred_application_warning_message">قد يؤدي استبدال %1$s الافتراضي إلى زيادة استهلاك الطاقة وتقليل السرعة، ويمكن أن يعرض محتويات الهاتف للخطر. استخدم %2$s بدلاً منه.</string>
   <string name="preferred_application_warning_replace">استبدل</string>
   <string name="preferred_application_warning_title">استبدال %s الافتراضي</string>
   <string name="preferred_application_warning_use_system">استخدم %s</string>
@@ -3427,7 +3427,7 @@ Possibly incorrect PIN."</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">سيتم تعطيل الإشعارات، مشغل الموسيقى، الكاميرا، وصفحة Mi الرئيسية على شاشة القفل.</string>
   <string name="skip_step">تخطي</string>
-  <string name="slot_number">(فتحة <xliff:g id="slot_num">%1$d</xliff:g>)</string>
+  <string name="slot_number">(فتحة %1$d)</string>
   <string name="slot_status_title">معلومات IMEI</string>
   <string name="small_font">Small</string>
   <string name="smartcover_sensitive_title">الغطاء الذكي</string>
