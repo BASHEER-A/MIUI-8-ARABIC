@@ -4,7 +4,7 @@
   <string name="accessibility_airplane_mode">وضع الطائرة.</string>
   <string name="accessibility_assistant">الكرة السريعة</string>
   <string name="accessibility_back">رجوع</string>
-  <string name="accessibility_battery_level">البطارية <xliff:g id="number">%d</xliff:g> في المئة.</string>
+  <string name="accessibility_battery_level">البطارية %d في المئة.</string>
   <string name="accessibility_bluetooth_connected">البلوتوث متصل.</string>
   <string name="accessibility_bluetooth_disconnected">البلوتوث غير متصل.</string>
   <string name="accessibility_bluetooth_tether">ربط البلوتوث.</string>
@@ -59,13 +59,13 @@
   <string name="audio_effect_info">تحسين الصوت</string>
   <string name="audio_effect_settings">اختر نوع سماعات الرأس</string>
   <string name="available_via_passpoint">Available via %1$s</string>
-  <string name="battery_low_percent_format"><xliff:g id="number">%d%%</xliff:g> متبقي</string>
+  <string name="battery_low_percent_format">%d%% متبقي</string>
   <string name="battery_low_title">توصيل الشاحن</string>
   <string name="battery_profiles">استخدام وضع البطارية</string>
   <string name="block_notification_content_text">"لن تظهر إشعارات %1$s مرة أخرى. يمكنك تغيير ذلك في الإعدادات."</string>
   <string name="block_notification_text">إخفاء</string>
-  <string name="block_record_notification_more_text">إخفاء الإشعارات من تطبيقات <xliff:g id="appname">%1$s</xliff:g> &amp; <xliff:g id="count">%2$d</xliff:g>.</string>
-  <string name="block_record_notification_text">إخفاء الإشعارات من <xliff:g id="appname">%1$s</xliff:g>.</string>
+  <string name="block_record_notification_more_text">إخفاء الإشعارات من تطبيقات %1$s &amp; %2$d.</string>
+  <string name="block_record_notification_text">إخفاء الإشعارات من %1$s.</string>
   <string name="block_record_notification_title">إشعارات مخفية</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
@@ -137,8 +137,8 @@
   <string name="data_usage_disabled_dialog_enable">إعادة تفعيل البيانات</string>
   <string name="data_usage_disabled_dialog_mobile_title">بيانات الهاتف غير مفعلة</string>
   <string name="data_usage_disabled_dialog_title">البيانات غير مفعلة</string>
-  <string name="description_direction_left">مرّر لليسار لـ <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
-  <string name="description_direction_up">مرّر لأعلى لـ <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+  <string name="description_direction_left">مرّر لليسار لـ %s.</string>
+  <string name="description_direction_up">مرّر لأعلى لـ %s.</string>
   <string name="description_target_search">بحث</string>
   <string name="disable_notification_summary">عدم إظهار الإشعارات من التطبيقات المحدّدة مطلقا</string>
   <string name="disable_notification_title">إخفاء الإشعارات</string>
@@ -191,12 +191,12 @@
   <string name="mdb_restore_mode">إستعادة وضع</string>
   <string name="mdb_usb_disconnection_exit">USB غير متصل</string>
   <string name="media_projection_action_text">ابدأ الآن</string>
-  <string name="media_projection_dialog_text">"سيبدأ <xliff:g id="app_seeking_permission" example="Hangouts">%s</xliff:g> في التقاط كل شيء معروض على الشاشة."</string>
+  <string name="media_projection_dialog_text">"سيبدأ %s في التقاط كل شيء معروض على الشاشة."</string>
   <string name="media_projection_remember_text">"عدم الإظهار مرة أخرى"</string>
   <string name="megabyte_per_second">م/ث</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">نعم</string>
-  <string name="network_speed_suffix"><xliff:g id="NUMBER">%1$s</xliff:g><xliff:g id="UNIT">%2$s</xliff:g></string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">لا توجد إشعارات.</string>
   <string name="no_weather_description">احصل على معلومات الطقس &gt;</string>
   <string name="notification_header_title">الإشعارات</string>
@@ -305,14 +305,14 @@
   <string name="torch_activity_name">ضوء الفلاش</string>
   <string name="torch_closed">إيقاف ضوء الفلاش</string>
   <string name="torch_opened">تشغيل ضوء الفلاش</string>
-  <string name="usb_accessory_confirm_prompt">فتح <xliff:g id="activity">%1$s</xliff:g> عند اتصال ملحق الـ USB هذا؟</string>
-  <string name="usb_accessory_permission_prompt">السماح لتطبيق <xliff:g id="application">%1$s</xliff:g> للوصول إلى ملحق USB؟</string>
-  <string name="usb_accessory_uri_prompt">لا يوجد تطبيقات مثبتة تعمل مع ملحق الـ USB هذا. معرفة المزيد حول هذا الملحق في <xliff:g id="url">%1$s</xliff:g></string>
+  <string name="usb_accessory_confirm_prompt">فتح %1$s عند اتصال ملحق الـ USB هذا؟</string>
+  <string name="usb_accessory_permission_prompt">السماح لتطبيق %1$s للوصول إلى ملحق USB؟</string>
+  <string name="usb_accessory_uri_prompt">لا يوجد تطبيقات مثبتة تعمل مع ملحق الـ USB هذا. معرفة المزيد حول هذا الملحق في %1$s</string>
   <string name="usb_debugging_always">السماح دائما من هذا الكمبيوتر</string>
-  <string name="usb_debugging_message">بصمة مفتاح RSA الكمبيوتر هي:\n<xliff:g id="fingerprint">%1$s</xliff:g></string>
+  <string name="usb_debugging_message">بصمة مفتاح RSA الكمبيوتر هي:\n%1$s</string>
   <string name="usb_debugging_title">تمكين خاصية تصحيح أخطاء USB؟</string>
-  <string name="usb_device_confirm_prompt">فتح <xliff:g id="activity">%1$s</xliff:g> عند اتصال جهاز الـ USB هذا؟</string>
-  <string name="usb_device_permission_prompt">السماح لتطبيق <xliff:g id="application">%1$s</xliff:g> للوصول إلى جهاز USB؟</string>
+  <string name="usb_device_confirm_prompt">فتح %1$s عند اتصال جهاز الـ USB هذا؟</string>
+  <string name="usb_device_permission_prompt">السماح لتطبيق %1$s للوصول إلى جهاز USB؟</string>
   <string name="usb_function_charging_text">متصل في وضع الشحن</string>
   <string name="usb_mode_dont_ask">تذكر هذا الاختيار</string>
   <string name="usb_mode_mount_storage_title">فتح وحدة تخزين USB؟</string>
@@ -339,11 +339,11 @@
   <string name="user_guide_for_toggle">يمكن تمرير قائمة مفاتيح التبديل بشكل أفقي</string>
   <string name="user_guide_for_toggle_list">إدارة مفاتيح التبديل</string>
   <string name="vpn_text">المس لعرض الإعدادات.</string>
-  <string name="vpn_text_long">متصل بـ <xliff:g id="session" example="office">%s</xliff:g>. اضغط لعرض التفاصيل.</string>
+  <string name="vpn_text_long">متصل بـ %s. اضغط لعرض التفاصيل.</string>
   <string name="vpn_title">تم تفعيل VPN</string>
-  <string name="vpn_title_long">اتصال بـ VPN باستخدام <xliff:g id="app" example="FooVPN client">%s</xliff:g></string>
-  <string name="weather_description_no_aqi"><xliff:g id="WEATHER_TYPE">%1$s</xliff:g></string>
-  <string name="weather_publish_time">تم تحديثه <xliff:g id="HOUR_MINUTE">%1$s</xliff:g></string>
+  <string name="vpn_title_long">اتصال بـ VPN باستخدام %s</string>
+  <string name="weather_description_no_aqi">%1$s</string>
+  <string name="weather_publish_time">تم تحديثه %1$s</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
