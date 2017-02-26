@@ -42,20 +42,20 @@
     <item quantity="many">%d يوم</item>
   </plurals>
   <plurals name="baby_album_sharer_recommand_old_pictures">
-    <item quantity="zero"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
-    <item quantity="other"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم أضافتها</item>
-    <item quantity="one"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
-    <item quantity="two"><xliff:g id="NUMBER">%1$d</xliff:g> صور من <xliff:g id="BABY_NAME">%2$s</xliff:g> سيتم إضافتها</item>
-    <item quantity="few"><xliff:g id="NUMBER">%1$d</xliff:g> صور من <xliff:g id="BABY_NAME">%2$s</xliff:g> سيتم إضافتها</item>
-    <item quantity="many"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
+    <item quantity="zero">%1$d صورة من %2$s ستتم إضافتها</item>
+    <item quantity="other">%1$d صورة من %2$s ستتم أضافتها</item>
+    <item quantity="one">%1$d صورة من %2$s ستتم إضافتها</item>
+    <item quantity="two">%1$d صور من %2$s سيتم إضافتها</item>
+    <item quantity="few">%1$d صور من %2$s سيتم إضافتها</item>
+    <item quantity="many">%1$d صورة من %2$s ستتم إضافتها</item>
   </plurals>
   <plurals name="baby_album_sharer_recommand_new_pictures">
-    <item quantity="zero"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
-    <item quantity="other"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
-    <item quantity="one"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
-    <item quantity="two"><xliff:g id="NUMBER">%1$d</xliff:g> صور من <xliff:g id="BABY_NAME">%2$s</xliff:g> سيتم إضافتها</item>
-    <item quantity="few"><xliff:g id="NUMBER">%1$d</xliff:g> صور من <xliff:g id="BABY_NAME">%2$s</xliff:g> سيتم إضافتها</item>
-    <item quantity="many"><xliff:g id="NUMBER">%1$d</xliff:g> صورة من <xliff:g id="BABY_NAME">%2$s</xliff:g> ستتم إضافتها</item>
+    <item quantity="zero">%1$d صورة من %2$s ستتم إضافتها</item>
+    <item quantity="other">%1$d صورة من %2$s ستتم إضافتها</item>
+    <item quantity="one">%1$d صورة من %2$s ستتم إضافتها</item>
+    <item quantity="two">%1$d صور من %2$s سيتم إضافتها</item>
+    <item quantity="few">%1$d صور من %2$s سيتم إضافتها</item>
+    <item quantity="many">%1$d صورة من %2$s ستتم إضافتها</item>
   </plurals>
   <plurals name="album_already_share_user_count">
     <item quantity="zero">تم المشاركة إلى %d شخص</item>
