@@ -15,8 +15,8 @@
   <string name="__leak_canary_share_with">Share with&#8230;</string>
   <string name="__leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
   <string name="accept">قبول</string>
-  <string name="accept_or_deny"><xliff:g id="NAME">%1$s</xliff:g> قام بمشاركة الألبوم <xliff:g id="ALBUM">%2$s</xliff:g> معك.</string>
-  <string name="add_automatically_alert_msg">هل تريد إضافة الصور من \"<xliff:g id="BABY_NAME">%1$s</xliff:g>\" إلى هذا الألبوم تلقائيًا؟</string>
+  <string name="accept_or_deny">%1$s قام بمشاركة الألبوم %2$s معك.</string>
+  <string name="add_automatically_alert_msg">هل تريد إضافة الصور من \"%1$s\" إلى هذا الألبوم تلقائيًا؟</string>
   <string name="add_automatically_alert_title">إضافة الصور تلقائيًا</string>
   <string name="add_sharer">إضافة عضو</string>
   <string name="add_to_album">إضافة إلى ألبوم</string>
@@ -27,8 +27,8 @@
   <string name="add_to_album_tip">صور Cloud</string>
   <string name="add_to_secret_exist">الصورة موجودة مسبقا في الألبوم المخفي</string>
   <string name="add_to_secret_fail">"تعذر الإضافة إلى الألبوم المخفي"</string>
-  <string name="add_to_secret_failed_with_reason">"لا يمكن الإضافة إلى الألبوم المخفي.<xliff:g id="REASON"> %1$s</xliff:g>."</string>
-  <string name="add_to_secret_failed_with_reason_and_count">"<xliff:g id="COUNT"> %2$s</xliff:g> عنصر لا يمكن إضافتة إلى الألبوم المخفي. <xliff:g id="REASON"> %1$s</xliff:g>."</string>
+  <string name="add_to_secret_failed_with_reason">"لا يمكن الإضافة إلى الألبوم المخفي. %1$s."</string>
+  <string name="add_to_secret_failed_with_reason_and_count">" %2$s عنصر لا يمكن إضافتة إلى الألبوم المخفي.  %1$s."</string>
   <string name="add_to_secret_successful">تمت الإضافة إلى الألبوم المخفي</string>
   <string name="add_to_share_album_not_delete">"لا يمكن حذف صورة من إلبوم المشاركة"</string>
   <string name="adding">جارٍ الإضافة\u2026</string>
@@ -59,12 +59,12 @@
   <string name="album_quota_fulfiled">توجد الكثير من الألبومات. احذف بعض الألبومات وقم بالمحاولة مرة أخرى.</string>
   <string name="album_screenshot_name">لقطات الشاشة</string>
   <string name="album_share_exit_confirm">هل تريد الخروج من هذا الألبوم؟</string>
-  <string name="album_share_kicked"><xliff:g id="ALBUM">%1$s</xliff:g> مغلق</string>
+  <string name="album_share_kicked">%1$s مغلق</string>
   <string name="album_share_stat_content">دعوات</string>
-  <string name="album_share_subtitle_accepting">جارٍ قبول الدعوة من <xliff:g id="USER_NAME">%1$s</xliff:g>\u2026</string>
-  <string name="album_share_subtitle_denying">جارٍ تجاهل الدعوة من <xliff:g id="USER_NAME">%1$s</xliff:g>\u2026</string>
-  <string name="album_share_subtitle_invited">تمت مشاركته من طرف <xliff:g id="USER_NAME">%1$s</xliff:g></string>
-  <string name="album_share_subtitle_normal">تمت مشاركته من طرف <xliff:g id="USER_NAME">%1$s</xliff:g></string>
+  <string name="album_share_subtitle_accepting">جارٍ قبول الدعوة من %1$s\u2026</string>
+  <string name="album_share_subtitle_denying">جارٍ تجاهل الدعوة من %1$s\u2026</string>
+  <string name="album_share_subtitle_invited">تمت مشاركته من طرف %1$s</string>
+  <string name="album_share_subtitle_normal">تمت مشاركته من طرف %1$s</string>
   <string name="album_share_subtitle_not_ready">تنقص معلومات الألبوم</string>
   <string name="album_share_subtitle_quitting">جارٍ الإنهاء\u2026</string>
   <string name="album_share_subtitle_requesting">جارٍ الحصول على معلومات الألبوم\u2026</string>
@@ -105,8 +105,8 @@
   <string name="baby_album_needs_auto_backup_tip">"لا يمكن إيقاف النسخ الاحتياطي التلقائي لألبوم الطفل"</string>
   <string name="baby_album_new_photo_remind">هناك صور جديدة في ألبوم الطفل.</string>
   <string name="baby_album_setting_title">معلومات الطفل</string>
-  <string name="baby_album_sharer_accept_dialog_msg">إلى<xliff:g id="BABY_NAME">%1$s</xliff:g> <xliff:g id="SHARER_RELATION">%2$s</xliff:g>،\n<xliff:g id="BABY_NAME">%3$s</xliff:g> <xliff:g id="OWNER_RELATION">%4$s</xliff:g> قام بمشاركة ألبوم <xliff:g id="BABY_NAME">%5$s</xliff:g> معك</string>
-  <string name="baby_album_sharer_recommand_face">هل تريد إضافة صور <xliff:g id="BABY_NAME">%1$s</xliff:g> الموجودة؟</string>
+  <string name="baby_album_sharer_accept_dialog_msg">إلى%1$s %2$s،\n%3$s %4$s قام بمشاركة ألبوم %5$s معك</string>
+  <string name="baby_album_sharer_recommand_face">هل تريد إضافة صور %1$s الموجودة؟</string>
   <string name="baby_album_sharers_page_title">مشاركة مع الأسرة</string>
   <string name="baby_birthday">تاريخ الميلاد</string>
   <string name="baby_lock_wallpaper">خلفية شاشة القفل</string>
@@ -676,9 +676,9 @@
   <string name="error_unknown_host">"لا يمكن الاتصال بالشبكة. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى."</string>
   <string name="exit">خروج</string>
   <string name="exit_share">الخروج من الألبوم</string>
-  <string name="exit_share_failed">"تعذر الخروج <xliff:g id="NAME">%1$s</xliff:g>"</string>
+  <string name="exit_share_failed">"تعذر الخروج %1$s"</string>
   <string name="exit_share_in_process">جارٍ الإنهاء\u2026</string>
-  <string name="exit_share_successfully">تم الخروج <xliff:g id="NAME">%1$s</xliff:g></string>
+  <string name="exit_share_successfully">تم الخروج %1$s</string>
   <string name="exit_video_play">خروج</string>
   <string name="expand_people">عرض المزيد من الأشخاص</string>
   <string name="face_album_detecting_tip">لحظة من فضلك\u2026</string>
@@ -702,7 +702,7 @@
   <string name="fancycolor_title">Background effects</string>
   <string name="fast_share_auto_render">تجميل</string>
   <string name="fast_share_auto_render_finish">تم التجميل</string>
-  <string name="fileSizeSuffix"><xliff:g example="123" id="number">%1$s</xliff:g><xliff:g example="KB" id="unit">%2$s</xliff:g></string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="filter">فلتر</string>
   <string name="filter_a4_aesthetic">مكرر</string>
   <string name="filter_clarendon_fresh">منعش</string>
@@ -731,7 +731,7 @@
   <string name="get_album_info_in_process">"جارٍ الحصول على تفاصيل الألبوم المشترك\u2026"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">غيغابايت</string>
-  <string name="has_invalid_recipient">مستلمين غير صالحين: <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="has_invalid_recipient">مستلمين غير صالحين: %1$s</string>
   <string name="have_known">فهمت</string>
   <string name="hidden_album_display_name">ألبوم مخفي</string>
   <string name="home_page_empty">فارغ</string>
@@ -768,8 +768,8 @@
   <string name="invalid_invition_url">عنوان دعوة غير صالح</string>
   <string name="invalid_recipient_message">أسماء المستلمين التي قمت بإدخالها غير صالحة</string>
   <string name="invite_sharer_confirm_button_text">دعوة</string>
-  <string name="invite_sharer_relation_tip">"<xliff:g id="BABY_NAME">%1$s</xliff:g> أقرباء"</string>
-  <string name="invite_sharer_title">"دعوة <xliff:g id="SHARER_RELATION">%2$s</xliff:g> <xliff:g id="SHARER_RELATION">%2$s</xliff:g>"</string>
+  <string name="invite_sharer_relation_tip">"%1$s أقرباء"</string>
+  <string name="invite_sharer_title">"دعوة %2$s %2$s"</string>
   <string name="invite_tip">"مشاركة صور طفلك"</string>
   <string name="is">نعم</string>
   <string name="kick_owner_user_positive_button_text">إزالة</string>
@@ -915,7 +915,7 @@
   <string name="projection_device_connection_failed">"تعذر الاتصال بجهاز العرض"</string>
   <string name="projection_local_mobile">هذا الهاتف</string>
   <string name="projection_multi_title">أجهزة</string>
-  <string name="projection_single_title">عرض إلى <xliff:g id="DEVICE_NAME">%s</xliff:g></string>
+  <string name="projection_single_title">عرض إلى %s</string>
   <string name="projection_slide_exit">إيقاف عرض الشرائح</string>
   <string name="projection_slide_fail_cause_loading">إعادة تشغيل عرض الشرائح بعد تحميل الصورة</string>
   <string name="projection_slide_playing">جارٍ تشغيل عرض الصور على %s</string>
@@ -924,7 +924,7 @@
   <string name="publish_failed">"تعذر النشر"</string>
   <string name="publish_succeeded">تم نشر الألبوم</string>
   <string name="publishing">جارٍ النشر\u2026</string>
-  <string name="quotation">\"<xliff:g>%s</xliff:g>\"</string>
+  <string name="quotation">\"%s\"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">تمت إزالته من الاقتراحات</string>
   <string name="recommanded_face_added_tip">اضيف إلى \"%s\"</string>
@@ -942,8 +942,8 @@
   <string name="release_space_finish_format">تفريغ %s من التخزين المحلي</string>
   <string name="remove_from_other_albums_tip">قم بتشغيل المزامنة مع Mi Cloud لنقل العناصر من ألبومات أخرى. هل تريد النقل الآن؟</string>
   <string name="remove_from_secret_fail">"تعذر الإزالة من الألبوم المخفي"</string>
-  <string name="remove_from_secret_failed_with_reason">"لا يمكن الإزالة من الألبوم المخفي.<xliff:g id="REASON"> %1$s</xliff:g>."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"<xliff:g id="COUNT"> %2$s</xliff:g> عنصر لا يمكن إزالته من الألبوم المخفي. <xliff:g id="REASON"> %1$s</xliff:g>."</string>
+  <string name="remove_from_secret_failed_with_reason">"لا يمكن الإزالة من الألبوم المخفي. %1$s."</string>
+  <string name="remove_from_secret_failed_with_reason_and_count">" %2$s عنصر لا يمكن إزالته من الألبوم المخفي.  %1$s."</string>
   <string name="remove_from_secret_successful">تمت الإزالة من الألبوم المخفي</string>
   <string name="rename_face_album">تغيير الاسم</string>
   <string name="rename_fail_msg">"تعذر تغيير الاسم"</string>
@@ -1003,9 +1003,9 @@
   <string name="share_album">ألبوم المشاركة</string>
   <string name="share_album_needs_auto_upload_tip">"لا يمكن إيقاف تشغيل النسخ الاحتياطي لألبومات المشاركة"</string>
   <string name="share_app_is_launching">{0,choice,0#إطلاق التطبيق\u2026|1#%s is جار إطلاق\u2026}</string>
-  <string name="share_by_email_start">مشاركة <xliff:g id="NAME">%1$s</xliff:g> في الخلفية</string>
-  <string name="share_by_email_successfully">تمت مشاركة <xliff:g id="NAME">%1$s</xliff:g></string>
-  <string name="share_public_url_text">"لقد قمت بمشاركة الألبوم <xliff:g id="ALBUM_NAME">%1$s</xliff:g> معك. يمكنك عرضه على <xliff:g id="URL">%2$s</xliff:g>"</string>
+  <string name="share_by_email_start">مشاركة %1$s في الخلفية</string>
+  <string name="share_by_email_successfully">تمت مشاركة %1$s</string>
+  <string name="share_public_url_text">"لقد قمت بمشاركة الألبوم %1$s معك. يمكنك عرضه على %2$s"</string>
   <string name="share_with_family">مشاركة مع الأسرة</string>
   <string name="sharer_quota_fulfiled">"لقد قمت بمشاركة هذا الألبوم مسبقا مع أقصى عدد من الأشخاص."</string>
   <string name="show_hidden_album_title">إظهار الألبومات المخفية</string>
@@ -1052,7 +1052,7 @@
   <string name="to_enable_sync_dialog_message">تشغيل المزامنة أولاً</string>
   <string name="to_enable_sync_dialog_positive_button_text">اذهب إلى الإعدادات</string>
   <string name="to_enable_sync_dialog_title">مزامنة</string>
-  <string name="too_many_recipients">"لا يمكن إضافة أكثر من <xliff:g id="maxLimit">%2$s</xliff:g> مستلم (لقد قمت بإضافة <xliff:g id="currentCount">%1$s</xliff:g>)."</string>
+  <string name="too_many_recipients">"لا يمكن إضافة أكثر من %2$s مستلم (لقد قمت بإضافة %1$s)."</string>
   <string name="trash_bin">حجم المهملات</string>
   <string name="trash_bin_summary">تصفح الصور المحذوفة مؤخرا و التي تم القيام بنسخة احتياطية لها</string>
   <string name="try_to_send">إرسال</string>
