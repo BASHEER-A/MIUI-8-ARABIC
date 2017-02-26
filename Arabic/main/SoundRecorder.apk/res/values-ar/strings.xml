@@ -139,11 +139,11 @@
   <string name="text_btn_recording">تسجيل</string>
   <string name="text_btn_wave">موجة</string>
   <string name="text_finish">تأكيد</string>
-  <string name="timer_format" formatted="false"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
-  <string name="timer_format_three_sections" formatted="false"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+  <string name="timer_format" formatted="false">%02d: %02d</string>
+  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">يمكن ل%1$s تسجيل حوالي %2$s</string>
   <string name="toast_uninstall_fileexplorer">"مدير التطبيق غير مثبت"</string>
-  <string name="wifi_recommended_body" formatted="false">سيؤدي استخدام اتصال بيانات شبكة الجوال لتنزيل هذا الملف (<xliff:g id="SIZE">%s</xliff:g>) إلى زيادة استخدام بياناتك. في حال تجاوزك حد استخدام البيانات المسموح به، فأن شركة الاتصالات قد تفرض عليك رسوماً إضافية. لإنتظارالاتصال بشبكة Wi-Fi لتنزيل الملف، انقر<xliff:g id="QUEUE_TEXT">%s</xliff:g>.</string>
+  <string name="wifi_recommended_body" formatted="false">سيؤدي استخدام اتصال بيانات شبكة الجوال لتنزيل هذا الملف (%s) إلى زيادة استخدام بياناتك. في حال تجاوزك حد استخدام البيانات المسموح به، فأن شركة الاتصالات قد تفرض عليك رسوماً إضافية. لإنتظارالاتصال بشبكة Wi-Fi لتنزيل الملف، انقر%s.</string>
   <string name="wifi_recommended_title">تحذير استخدام البيانات</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
