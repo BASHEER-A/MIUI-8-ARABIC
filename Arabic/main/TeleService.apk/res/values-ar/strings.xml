@@ -757,7 +757,7 @@ Top up and start talking"</string>
   <string name="msim_default_setting">الإعدادات الافتراضية</string>
   <string name="msim_disable_sim_card_btn_text">موافق</string>
   <string name="msim_disable_sim_card_summary_default_card">"تم تعيين هذه البطاقة كبطاقة SIM الافتراضية حاليا. إذا أوقفت استخدامها، فلن تتمكن من إجراء المكالمات أو استخدام اتصال بيانات الجوال. يمكنك إيقاف بطاقة SIM هذه بعد إعداد تعيين بطاقة SIM الأخرى كافتراضية."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">قد لا تتمكن من إجراء مكالمات أو استخدام اتصال بيانات الجوال. هل تريد إيقاف استخدام بطاقة SIM <xliff:g id="operator">%s</xliff:g>؟</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">قد لا تتمكن من إجراء مكالمات أو استخدام اتصال بيانات الجوال. هل تريد إيقاف استخدام بطاقة SIM %s؟</string>
   <string name="msim_disable_sim_card_title">إيقاف استخدام بطاقة SIM</string>
   <string name="msim_enable_sim">تشغيل</string>
   <string name="msim_general_setting">الإعدادات</string>
@@ -796,7 +796,7 @@ Top up and start talking"</string>
   <string name="network_error_message">لا يمكن الاتصال بالشبكة</string>
   <string name="network_error_message_livetalk">Try to make a regular call. It will be charged by the operator.</string>
   <string name="network_error_title">Network error</string>
-  <string name="network_forbidden"><xliff:g id="network">%s</xliff:g> (مرفوض)</string>
+  <string name="network_forbidden">%s (مرفوض)</string>
   <string name="network_global">Global</string>
   <string name="network_id">هوية الشبكة</string>
   <string name="network_info_message">Network message</string>
