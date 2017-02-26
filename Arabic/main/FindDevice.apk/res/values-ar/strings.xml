@@ -10,10 +10,10 @@
   <string name="default_lock_msg_words_with_phone">مرحباً! لقد فقدت جهازي. هل يمكنك الاتصال بي؟ شكراً!</string>
   <string name="device_locked">تم قفل هذا الجهاز</string>
   <string name="device_lost">تم فقدان هذا الجهاز</string>
-  <string name="disable_find_device_error">"\"لا يمكن إيقاف تشغيل العثور على الجهاز.\"<xliff:g id="reason">%1$s</xliff:g>"</string>
+  <string name="disable_find_device_error">"\"لا يمكن إيقاف تشغيل العثور على الجهاز.\"%1$s"</string>
   <string name="disable_find_device_success">\"العثور على الجهاز\" متوقف</string>
   <string name="doing_extra_login_steps">جارٍ التحقق من تسجيل الدخول\u2026</string>
-  <string name="enable_find_device_error">"\"لا يمكن تشغيل العثور على الجهاز.\"<xliff:g id="reason">%1$s</xliff:g>"</string>
+  <string name="enable_find_device_error">"\"لا يمكن تشغيل العثور على الجهاز.\"%1$s"</string>
   <string name="enable_find_device_success">\"العثور على الجهاز\" يعمل</string>
   <string name="find_device">العثور على الجهاز</string>
   <string name="find_device_crash">\"العثور على الجهاز\" أُغلِق بشكل غير متوقع. </string>
