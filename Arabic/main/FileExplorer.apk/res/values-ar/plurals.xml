@@ -18,20 +18,20 @@
     <item quantity="many">" و d$1% مجلد؟"</item>
   </plurals>
   <plurals name="directory_item_count">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> عنصر</item>
-    <item quantity="zero"><xliff:g id="count">%d</xliff:g> عنصر</item>
-    <item quantity="one"><xliff:g id="count">%d</xliff:g> عنصر</item>
-    <item quantity="two"><xliff:g id="count">%d</xliff:g> عناصر</item>
-    <item quantity="few"><xliff:g id="count">%d</xliff:g> عناصر</item>
-    <item quantity="many"><xliff:g id="count">%d</xliff:g> عنصر</item>
+    <item quantity="other">%d عنصر</item>
+    <item quantity="zero">%d عنصر</item>
+    <item quantity="one">%d عنصر</item>
+    <item quantity="two">%d عناصر</item>
+    <item quantity="few">%d عناصر</item>
+    <item quantity="many">%d عنصر</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other">تم تحديد <xliff:g id="count"> %1$d </xliff:g></item>
-    <item quantity="zero">تم تحديد <xliff:g id="count"> %1$d </xliff:g></item>
-    <item quantity="one">تم تحديد <xliff:g id="count"> %1$d </xliff:g></item>
-    <item quantity="two">تم تحديد <xliff:g id="count"> %1$d </xliff:g></item>
-    <item quantity="few">تم تحديد <xliff:g id="count"> %1$d </xliff:g></item>
-    <item quantity="many">تم تحديد <xliff:g id="count"> %1$d </xliff:g></item>
+    <item quantity="other">تم تحديد  %1$d </item>
+    <item quantity="zero">تم تحديد %1$d </item>
+    <item quantity="one">تم تحديد  %1$d </item>
+    <item quantity="two">تم تحديد  %1$d </item>
+    <item quantity="few">تم تحديد  %1$d </item>
+    <item quantity="many">تم تحديد  %1$d </item>
   </plurals>
   <plurals name="items_file">
     <item quantity="other">(%1$d عنصر)</item>
