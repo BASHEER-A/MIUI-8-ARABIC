@@ -12,7 +12,7 @@
   <string name="backup_finished_notification_content">تم القيام بنسخة احتياطية للشاشة الرئيسية، إعدادات النظام، الخ.</string>
   <string name="backup_now">القيام بنسخة احتياطية الآن</string>
   <string name="backup_size">الحجم: %s</string>
-  <string name="backup_size_summary">الحجم: <xliff:g>%1$s</xliff:g></string>
+  <string name="backup_size_summary">الحجم: %1$s</string>
   <string name="backup_success">تم الاحتفاظ بنسخة احتياطية بنجاح</string>
   <string name="backup_successfully">تم القيام بنسخة احتياطية بنجاح</string>
   <string name="backup_to_cloud">نسخ التطبيق احتياطيًا</string>
@@ -60,7 +60,7 @@
   <string name="cloud_backup_detail_frequence_day">القيام بنسخ احتياطي كل %1$s</string>
   <string name="cloud_backup_detail_manage">إدارة النسخ الاحتياطية</string>
   <string name="cloud_backup_detail_manage_summary">
-        <xliff:g id="quantity">%1$s</xliff:g> نسخ احتياطية، الحجم:%2$s
+        %1$s نسخ احتياطية، الحجم:%2$s
     </string>
   <string name="cloud_backup_detail_state">نسخ Mi Cloud الإحتياطي</string>
   <string name="cloud_backup_detail_state_summary">التطبيقات, الشاشة الرئيسية و إعدادات النظام</string>
