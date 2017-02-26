@@ -63,17 +63,17 @@
   <string name="cloud_backup_login">تسجيل الدخول إلى حساب Mi</string>
   <string name="cloud_backup_window_title">نسخ Mi Cloud الإحتياطي</string>
   <string name="cloud_home_title">Mi Cloud</string>
-  <string name="cloud_item_info_summary">"\u0020 (محلي: <xliff:g id="LOCAL_COUNT">%1$s</xliff:g> |Mi Cloud: <xliff:g id="CLOUD_COUNT">%2$s</xliff:g>)"</string>
+  <string name="cloud_item_info_summary">"\u0020 (محلي: %1$s |Mi Cloud: %2$s)"</string>
   <string name="cloud_last_backup">"آخر عملية نسخ احتياطي في\u0020"</string>
   <string name="cloud_no_backup">لا توجد نسخ احتياطية</string>
-  <string name="cloud_restore_guide">لإستعادة بيانات المستخدم لـ <xliff:g id="APP">%s</xliff:g>، المس إستعادة</string>
+  <string name="cloud_restore_guide">لإستعادة بيانات المستخدم لـ %s، المس إستعادة</string>
   <string name="cloud_restore_title">استعادة البيانات الاحتياطية</string>
   <string name="cloud_restore_window_title">استعادة Mi Cloud</string>
   <string name="cloud_search">جارٍ البحث\u2026</string>
   <string name="compute_backup_info">جار الحصول على معلومات النسخ الاحتياطي\u2026</string>
   <string name="compute_delete_contact_info">جار الحصول على المعلومات\u2026</string>
   <string name="contact_title">جهات الاتصال</string>
-  <string name="current_account">مرحباً <xliff:g id="ACCOUNT">%s</xliff:g></string>
+  <string name="current_account">مرحباً %s</string>
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">الهاتف</string>
   <string name="current_sim">بطاقة SIM الحالية</string>
@@ -96,7 +96,7 @@
   <string name="enable_encrypt_summery1">سجل الدخول إلى حساب Mi للوصول إلى النسخ الاحتياطية المشفرة.</string>
   <string name="enable_encrypt_summery2">"سيتم تشفير النسخ الاحتياطية تلقائياً. ستحتاج لتسجيل الدخول إلى حساب Mi للوصول إليها."</string>
   <string name="enable_encrypt_title">تشفيرالنسخ الاحتياطية</string>
-  <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة الاحتياطية بواسطة <xliff:g id="account" example="110000">%1$s</xliff:g>. للإستعادة، احذف الحساب الحالي وسجل الدخول كـ <xliff:g id="account" example="110000">%2$s</xliff:g>.</string>
+  <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة الاحتياطية بواسطة %1$s. للإستعادة، احذف الحساب الحالي وسجل الدخول كـ %2$s.</string>
   <string name="err_authentication_failed">فشلت المصادقة</string>
   <string name="err_bakfile_broken">"لا يمكن استخدام هذه النسخة الاحتياطية."</string>
   <string name="err_filesystem_mount">"لا يمكن الوصول إلى تخزين جهاز التوجيه"</string>
@@ -138,7 +138,7 @@
   <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Mi Cloud وغيرها من خدمات Mi من أي مكان.</string>
   <string name="miliao_account_login">تسجيل الدخول مع Mi Talk</string>
   <string name="mms_title">رسائل الوسائط المتعددة</string>
-  <string name="multi_select_title"><xliff:g id="number" example="15">%1$s</xliff:g> محدد</string>
+  <string name="multi_select_title">%1$s محدد</string>
   <string name="multi_user_mode_backup_message">"لا يمكن استخدام النسخ الاحتياطي في وضع تعدد المستخدمين. قم بإيقاف وضع تعدد المستخدمين للمتابعة."</string>
   <string name="multi_user_mode_dialog_message">"لا يمكن استخدام ناقل Mi في وضع تعدد المستخدمين. قم بإيقاف وضع تعدد المستخدمين للمتابعة."</string>
   <string name="multi_user_mode_dialog_title">"انت في وضع تعدد المستخدمين"</string>
@@ -227,11 +227,11 @@
   <string name="task_backup_finished_local">"تم النسخ الاحتياطي "</string>
   <string name="task_canceled">تم إلغاء النسخ الاحتياطي</string>
   <string name="task_canceled_all_local">تم الإلغاء</string>
-  <string name="task_canceled_local">لم يكتمل النسخ الاحتياطي (<xliff:g id="PERCENT">%s</xliff:g>)</string>
+  <string name="task_canceled_local">لم يكتمل النسخ الاحتياطي (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟"</string>
   <string name="task_failed">"تعذر النسخ الاحتياطي"</string>
   <string name="task_failed_all_local">"تعذر النسخ الاحتياطي"</string>
-  <string name="task_failed_local">لم يكتمل النسخ الاحتياطي (<xliff:g id="PERCENT">%s</xliff:g>)</string>
+  <string name="task_failed_local">لم يكتمل النسخ الاحتياطي (%s)</string>
   <string name="task_finished">"تم الاحتفاظ بنسخة احتياطية بنجاح\u0020"</string>
   <string name="task_local_backup_cancel_dialog">"لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟"</string>
   <string name="task_pending">جارٍ الإنتظار\u2026</string>
@@ -250,7 +250,7 @@
   <string name="task_running_restore_hint">هذه المهمة قيد التشغيل بالفعل في الخلفية</string>
   <string name="task_service_not_launched">"المهمة لم تبدأ بعد"</string>
   <string name="task_stopped_exception">تم إلغاء الاستعادة</string>
-  <string name="total_num"><xliff:g id="COUNT">%d</xliff:g> عنصر، </string>
+  <string name="total_num">%d عنصر، </string>
   <string name="trans_backingup">جارٍ النسخ الاحتياطي\u2026</string>
   <string name="trans_backingup_no_items">جارٍ المزامنة\u2026</string>
   <string name="trans_calculating">جارٍ الحساب\u2026</string>
@@ -326,14 +326,14 @@
   <string name="user_notice_title">تنبيه</string>
   <string name="wifi_title">إعدادات Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_bytes_unit"><xliff:g id="size">%1$s</xliff:g>بايت</string>
+  <string name="xiaomi_bytes_unit">%1$sبايت</string>
   <string name="xiaomi_connect_download_manager_fail">"تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية."</string>
   <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
-  <string name="xiaomi_kilobytes_unit"><xliff:g id="size">%1$s</xliff:g>كيلوبايت</string>
-  <string name="xiaomi_megabytes_unit"><xliff:g id="size">%1$s</xliff:g>ميغابايت</string>
+  <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+  <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
   <string name="xiaomi_router">جهاز توجيه Mi </string>
   <string name="xiaomi_router_location">جهاز توجيه Mi%s</string>
-  <string name="xiaomi_update_dialog_message">تقديم حجم النسخة: <xliff:g id="version_name">%1$s</xliff:g>\nالحجم: <xliff:g id="app_size">%2$s</xliff:g></string>
-  <string name="xiaomi_update_dialog_message_diff">تقديم حجم النسخة: <xliff:g id="version_name">%1$s</xliff:g>\nحجم تحديث دلتا: <xliff:g id="app_size">%2$s</xliff:g></string>
+  <string name="xiaomi_update_dialog_message">تقديم حجم النسخة: %1$s\nالحجم: %2$s</string>
+  <string name="xiaomi_update_dialog_message_diff">تقديم حجم النسخة: %1$s\nحجم تحديث دلتا: %2$s</string>
   <string name="xiaomi_update_dialog_title">تحديث متاح</string>
 </resources>
