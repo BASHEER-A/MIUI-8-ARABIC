@@ -225,7 +225,7 @@
   <string name="recommend_apps_switch_title">التطبيقات الدعائية</string>
   <string name="recommend_apps_tips">"تحتاج هذه الميزة للاتصال بالإنترنت لتعمل بشكل طبيعي. لإيقاف هذه الميزة، اضغط على اسم المجلد."</string>
   <string name="reset_scene_prompt">سيتم إعادة تعيين الشاشة للتنسيق الافتراضي.</string>
-  <string name="screen_number"><xliff:g>%d</xliff:g> شاشة</string>
+  <string name="screen_number">%d شاشة</string>
   <string name="scroll_tip_format_when_announce_accessibility">صفحة %1$d، %2$d تطبيق</string>
   <string name="select_all">تحديد الكل</string>
   <string name="select_frame">إطار</string>
@@ -260,13 +260,13 @@
   <string name="transformation_type_stack">تتالي</string>
   <string name="uninstall">إلغاء التثبيت</string>
   <string name="uninstall_dialog_message">إلغاء التثبيت سيزيل كل بيانات التطبيق.</string>
-  <string name="uninstall_dialog_title_format">إلغاء تثبيت <xliff:g id="appname">%s</xliff:g>؟</string>
-  <string name="uninstall_dialog_title_multi_format" formatted="false">إلغاء تثبيت <xliff:g id="appname">%s</xliff:g> و<xliff:g id="count">%d</xliff:g> other apps تطبيق اخر؟</string>
-  <string name="uninstall_result_failed">"لا يمكن إلغاء تثبيت <xliff:g id="appname">%s</xliff:g>"</string>
+  <string name="uninstall_dialog_title_format">إلغاء تثبيت %s؟</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">إلغاء تثبيت %s و%d other apps تطبيق اخر؟</string>
+  <string name="uninstall_result_failed">"لا يمكن إلغاء تثبيت %s"</string>
   <string name="uninstall_result_multi_succeeded">%1$d تطبيق تم إلغاءه</string>
-  <string name="uninstall_result_other_failed" formatted="false">"لا يمكن إلغاء تثبيت <xliff:g id="appname">%s</xliff:g> و<xliff:g id="count">%d</xliff:g> تطبيق آخر"</string>
+  <string name="uninstall_result_other_failed" formatted="false">"لا يمكن إلغاء تثبيت %s و%d تطبيق آخر"</string>
   <string name="uninstall_result_succeeded">تم الغاء التطبيق</string>
-  <string name="uninstall_result_two_failed">"لا يمكن إلغاء تثبيت <xliff:g id="appname">%s</xliff:g> وتطبيق آخر"</string>
+  <string name="uninstall_result_two_failed">"لا يمكن إلغاء تثبيت %s وتطبيق آخر"</string>
   <string name="uninstall_with_xspace_dialog_message">ستتم إزالة التطبيقات المزدوجة المتشابهة جنبا إلى جنب مع بيانات التطبيق.</string>
   <string name="uninstall_xspace_dialog_message">إلغاء تثبيت التطبيقات المزدوجة سيزيل كل بيانات التطبيق.</string>
   <string name="uninstall_xspace_dialog_title_format">إلغاء التثبيت المزدوج \"%s\"</string>
