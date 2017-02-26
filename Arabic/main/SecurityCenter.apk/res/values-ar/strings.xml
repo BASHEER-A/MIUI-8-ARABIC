@@ -148,16 +148,16 @@
   <string name="battery_history_column_percent">حركيات الشحن</string>
   <string name="battery_history_column_time">الوقت</string>
   <string name="battery_history_column_type">مشكلة</string>
-  <string name="battery_history_days"><xliff:g id="days">%1$d</xliff:g>يوم <xliff:g id="hours">%2$d</xliff:g>ساعة <xliff:g id="minutes">%3$d</xliff:g>دقيقة <xliff:g id="seconds">%4$d</xliff:g>ثانية</string>
-  <string name="battery_history_days_no_seconds"><xliff:g id="days">%1$d</xliff:g>يوم <xliff:g id="hours">%2$d</xliff:g>س <xliff:g id="minutes">%3$d</xliff:g>دق</string>
-  <string name="battery_history_hours"><xliff:g id="hours">%1$d</xliff:g>ساعة <xliff:g id="minutes">%2$d</xliff:g>دقيقة<xliff:g id="seconds">%3$d</xliff:g>ثانية</string>
-  <string name="battery_history_hours_no_seconds"><xliff:g id="hours">%1$d</xliff:g>س <xliff:g id="minutes">%2$d</xliff:g>دق</string>
-  <string name="battery_history_minutes"><xliff:g id="minutes">%1$d</xliff:g>دق <xliff:g id="seconds">%2$d</xliff:g>ث</string>
-  <string name="battery_history_minutes_no_seconds"><xliff:g id="minutes">%1$d</xliff:g>دق</string>
-  <string name="battery_history_seconds"><xliff:g id="seconds">%1$d</xliff:g>ث</string>
+  <string name="battery_history_days">%1$dيوم %2$dساعة %3$dدقيقة %4$dثانية</string>
+  <string name="battery_history_days_no_seconds">%1$dيوم %2$dس %3$dدق</string>
+  <string name="battery_history_hours">%1$dساعة %2$dدقيقة%3$dثانية</string>
+  <string name="battery_history_hours_no_seconds">%1$dس %2$dدق</string>
+  <string name="battery_history_minutes">%1$dدق %2$d>ث</string>
+  <string name="battery_history_minutes_no_seconds">%1$dدق</string>
+  <string name="battery_history_seconds">%1$dث</string>
   <string name="battery_stats_charging_label">يتم الشحن </string>
   <string name="battery_stats_gps_on_label">GPS قيد التشغيل</string>
-  <string name="battery_stats_on_battery"><xliff:g id="time">%1$s</xliff:g> على البطارية</string>
+  <string name="battery_stats_on_battery">%1$s على البطارية</string>
   <string name="battery_stats_phone_signal_label">إشارة شبكة الجوال</string>
   <string name="battery_stats_screen_on_label">الشاشة قيد التشغيل</string>
   <string name="battery_stats_wake_lock_label">يقظة</string>
@@ -169,7 +169,7 @@
   <string name="begin_date">تاريخ إعادة تعيين الاستخدام</string>
   <string name="bind_xiaomi_account_cancel">إلغاء</string>
   <string name="bind_xiaomi_account_confirm">إضافة</string>
-  <string name="bind_xiaomi_account_dialog_summery">"أنت على وشك إضافة حساب <xliff:g id="ACCOUNT">%s</xliff:g>. اذا نسيت كلمة المرور الخاصة بك، يمكنك استخدام هذا الحساب لإعادة تعيينها. سيتم حذف الحساب تلقائيا اذا قمت بتسجيل الخروج."</string>
+  <string name="bind_xiaomi_account_dialog_summery">"أنت على وشك إضافة حساب %s. اذا نسيت كلمة المرور الخاصة بك، يمكنك استخدام هذا الحساب لإعادة تعيينها. سيتم حذف الحساب تلقائيا اذا قمت بتسجيل الخروج."</string>
   <string name="bind_xiaomi_account_success">تمت إضافة حساب Mi بنجاح</string>
   <string name="bind_xiaomi_account_summary">استخدم حساب Mi لإعادة تعيين كلمة المرور</string>
   <string name="bind_xiaomi_account_title">إضافة حساب Mi</string>
@@ -350,7 +350,7 @@
   <string name="descx_start_scan_system">بدء مسح حماية النظام</string>
   <string name="detail_app_button">معلومات التطبيق</string>
   <string name="details_subtitle">استخدام التفاصيل</string>
-  <string name="diagnostic_attention_dialog_message">"تشخيص <xliff:g id="operation_name" example="China Unicom(SIM 1)">%1$s</xliff:g> قيد التقدم. انتظر حتى ينتهي ثم حاول مرة اخرى."</string>
+  <string name="diagnostic_attention_dialog_message">"تشخيص %1$s قيد التقدم. انتظر حتى ينتهي ثم حاول مرة اخرى."</string>
   <string name="dialog_app_roaming_message">"%1$s لا يمكنها استخدام بيانات الجوال أثناء التجوال. عندما تتجول, فقط التطبيقات التي قمت باضافتها الى قائمة الاستثناءات تستطيع استخدام بيانات الجوال."</string>
   <string name="dialog_app_roaming_title">"%1$s لا يمكنها استعمال بيانات التجوال"</string>
   <string name="dialog_msg_auto_start_declare">قد تشير بعض التطبيقات بصورة غير صحيحة إلى قيام MIUI بمنعها من البدء. تحقق من الأذونات التي تم منحها إلى تطبيقات فردية في الإعدادات والتطبيقات.</string>
@@ -408,7 +408,7 @@
   <string name="firewall_fragment_tab_title_sys">النظام</string>
   <string name="firewall_network_restrict_notify_message">انقر لتغيير الإعدادات.</string>
   <string name="firewall_network_restrict_notify_mobile">بيانات الهاتف الجوال</string>
-  <string name="firewall_network_restrict_notify_title">"<xliff:g id="app_name" example="Facebook">%1$s</xliff:g> لا يمكنه استخدام <xliff:g id="network_type" example="Wi-Fi">%2$s</xliff:g>"</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s لا يمكنه استخدام %2$s"</string>
   <string name="firewall_restrict_android_dialog_content">للتأكد من ان جهازك يعمل بشكل طبيعي، عدد قليل من تطبيقات نظام الأندرويد ستظل على اتصال بالإنترنت. هذه التطبيقات ستستخدم اتصال بيانات الجوال ويمكن أن تولد رسوم بسيطة من شركة الاتصالات الخاصة بك.</string>
   <string name="firewall_restrict_android_dialog_title">تنبيه</string>
   <string name="firewall_rule_group_title_mobile">الهاتف الجوال</string>
@@ -562,12 +562,12 @@
   <string name="lockpattern_need_to_unlock_wrong">حاول مجدداً</string>
   <string name="lockpattern_pattern_confirmed_header">نقش جديد للقفل</string>
   <string name="lockpattern_pattern_entered_header">تمت اضافة النقش</string>
-  <string name="lockpattern_recording_incorrect_too_short">قم بتوصيل <xliff:g id="NUMBER">%d</xliff:g> نقاط على الاقل</string>
+  <string name="lockpattern_recording_incorrect_too_short">قم بتوصيل %d نقاط على الاقل</string>
   <string name="lockpattern_recording_inprogress">"إرفع إصبعك عند الانتهاء"</string>
   <string name="lockpattern_recording_intro_header">قم بتوصيل ٤ نقاط على الاقل لإنشاء نقش</string>
   <string name="lockpattern_retry_button_text">ارسم مجددا</string>
   <string name="lockpattern_settings_help_how_to_record">رسم نقش</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"انتظر لـ <xliff:g id="NUMBER">%d</xliff:g> ثانية و حاول مجدداً. "</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"انتظر لـ %d ثانية و حاول مجدداً. "</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">محاولات غير ناجحة كثيرة جدا!</string>
   <string name="lockpattern_tutorial_cancel_label">إلغاء</string>
   <string name="lockpattern_tutorial_continue_label">التالي</string>
@@ -590,7 +590,7 @@
   <string name="main_button_usage_adjust_manual">تعيين حد استخدام البيانات</string>
   <string name="main_button_usage_adjusting">جارٍ التغيير\u2026</string>
   <string name="main_button_usage_package_setting">تعيين حد استخدام البيانات</string>
-  <string name="main_message_no_package_by_dual">قم بتعيين حد بيانات <xliff:g id="sim_card" example="sim卡1">%s</xliff:g></string>
+  <string name="main_message_no_package_by_dual">قم بتعيين حد بيانات %s</string>
   <string name="main_primary_message_traffic_cur_leisure">استخدام البيانات خارج أوقات الذروة</string>
   <string name="main_primary_message_traffic_cur_normal">يخضع لحد بيانات أوقات الذروة</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">تم تجاوز حد الاستخدام</string>
@@ -716,13 +716,13 @@
   <string name="notify_daily_data_usage_body">لتحديد استخدام البيانات تلقائيًا، قم بإعداد خطة بياناتك الشهرية.</string>
   <string name="notify_daily_limit_body">انقر لتعيين حد البيانات.</string>
   <string name="notify_daily_limit_title">%s مستخدم اليوم</string>
-  <string name="notify_daily_limit_title_for_slotnum"><xliff:g id="sim_card" example="SIM1">%1$s</xliff:g> استخدم <xliff:g id="data_used" example="2M">%2$s</xliff:g> اليوم</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s استخدم %2$s اليوم</string>
   <string name="notify_month_traffic_body">قم بتعيين حد لاستخدام البيانات لتجنب تجاوز خطة بياناتك الشهرية.</string>
   <string name="notify_month_traffic_title">استخدم %s هذا الشهر</string>
-  <string name="notify_month_traffic_title_for_slotnum"><xliff:g id="sim_card" example="SIM1">%1$s</xliff:g> استخدم<xliff:g id="data_used" example="2M">%2$s</xliff:g> هذا الشهر</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s استخدم%2$s هذا الشهر</string>
   <string name="notify_weekly_traffic_body">لتحديد استخدام البيانات تلقائيًا، قم بإعداد خطة بياناتك الشهرية.</string>
   <string name="notify_weekly_traffic_title">%s مستخدم هذا الأسبوع</string>
-  <string name="notify_weekly_traffic_title_for_slotnum"><xliff:g id="sim_card" example="SIM1">%1$s</xliff:g> مستخدم <xliff:g id="data_used" example="2M">%2$s</xliff:g> هذا الأسبوع</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s مستخدم %2$s هذا الأسبوع</string>
   <string name="ok">موافق</string>
   <string name="ok_button">موافق</string>
   <string name="open">فتح</string>
