@@ -60,7 +60,7 @@
   <string name="backsound_set_hint">تعيين رسالة الغياب الخاصة بك على %s؟</string>
   <string name="baidu_thanks">مدعوم من Baidu</string>
   <string name="birthday">تاريخ الميلاد</string>
-  <string name="bl_block_info" formatted="false">المكالمات: <xliff:g id="tel_count">%d</xliff:g> | الرسائل النصية SMS: <xliff:g id="ms_count">%d</xliff:g></string>
+  <string name="bl_block_info" formatted="false">المكالمات: %d | الرسائل النصية SMS: %d</string>
   <string name="bl_no_blacklist">لا توجد أرقام محظورة.</string>
   <string name="bl_no_block_call">لا توجد مكالمات محظورة.</string>
   <string name="bl_no_block_sms">لا يوجد رسائل نصية محظورة.</string>
@@ -79,7 +79,7 @@
    <string name="customizer_mode_user_define_name">قواعد</string>
   <string name="dlg_add_blacklist">حظر هذا الرقم؟</string>
   <string name="dlg_add_blacklist_title">إضافة إلى قائمة الحظر</string>
-  <string name="dlg_add_blacklist_warn_conflict_content"%1$s و%2$s جهات اتصال أخرى موجودة مسبقا في قائمة الاستثناءات.</string>
+  <string name="dlg_add_blacklist_warn_conflict_content">%1$s و%2$s جهات اتصال أخرى موجودة مسبقا في قائمة الاستثناءات.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">تعارض في الإستثنائات</string>
   <string name="dlg_add_keyword">أضف كلمات مفتاحية</string>
   <string name="dlg_add_manual_hint">أدخل رقم الهاتف</string>
