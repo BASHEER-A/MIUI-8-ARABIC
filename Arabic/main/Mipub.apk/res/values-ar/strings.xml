@@ -67,7 +67,7 @@
   <string name="ex_type_mx">رسالة Mi</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">تم الوصول للحد الأقصى لحجم الرسالة.</string>
-  <string name="failed_to_add_media">"لا يمكنك إضافة <xliff:g id="name">%1$s</xliff:g> إلى رسالتك."</string>
+  <string name="failed_to_add_media">"لا يمكنك إضافة %1$s إلى رسالتك."</string>
   <string name="failed_to_resize_image">"تعذر تغيير حجم الصورة."</string>
   <string name="feedback_description_hint">اكتب ملاحظاتك هنا</string>
   <string name="feedback_submit">ارسال</string>
@@ -199,7 +199,7 @@
   <string name="search_setting_description">النص في رسائلك</string>
   <string name="search_show_more_results">عرض المزيد</string>
   <string name="secs">ثواني</string>
-  <string name="select_different_media">حدد<xliff:g id="name">%1$s</xliff:g> آخر.</string>
+  <string name="select_different_media">حدد%1$s آخر.</string>
   <string name="select_link_title">إختيار إجراء</string>
   <string name="select_recipient">اختيار مستلمين</string>
   <string name="send">ارسال</string>
@@ -236,7 +236,7 @@
   <string name="undelivered_msg_dialog_title">رسالة لم يتم تسليمها</string>
   <string name="unstick">إلغاء تثبيت</string>
   <string name="unsticked_conversation">تم إلغاء تثبيت المحادثة بالفعل</string>
-  <string name="unsupported_media_format">صيغة <xliff:g id="name">%1$s</xliff:g> غير مدعومة.</string>
+  <string name="unsupported_media_format">صيغة %1$s غير مدعومة.</string>
   <string name="view">عرض</string>
   <string name="view_hms_attachment_fail">"لا يمكن تنزيل الصورة"</string>
   <string name="view_hms_details">تفاصيل</string>
