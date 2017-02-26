@@ -7,7 +7,7 @@
   <string name="account_phone">الهاتف فقط، لم تتم مزامنته</string>
   <string name="account_sim">بطاقة SIM</string>
   <string name="account_sim2">بطاقة SIM‏ %d</string>
-  <string name="account_type_format"><xliff:g id="source" example="Gmail">%1$s</xliff:g> جهة اتصال</string>
+  <string name="account_type_format">%1$s جهة اتصال</string>
   <string name="actionIncomingCall">المكالمات الواردة</string>
   <string name="action_menu_overflow_description">المزيد من الخيارات</string>
   <string name="activity_title_confirm_add_detail">أضف إلى جهات الاتصال</string>
@@ -20,7 +20,7 @@
   <string name="add_blacklist_dialog_message">حظر المكالمات والرسائل من هذا الرقم؟</string>
   <string name="add_blacklist_dialog_title">حظر رقم الهاتف هذا؟</string>
   <string name="add_connection_button">إضافة اتصال</string>
-  <string name="add_contact_dlg_message_fmt">إضافة \"<xliff:g id="email">%s</xliff:g>\" إلى جهات الاتصال؟</string>
+  <string name="add_contact_dlg_message_fmt">إضافة \"%s\" إلى جهات الاتصال؟</string>
   <string name="add_display_photo_entry">إضافة صورة الملف الشخصي</string>
   <string name="add_field">إضافة حقل آخر</string>
   <string name="add_incall_show_entry">إضافة فيديو</string>
@@ -48,7 +48,7 @@
   <string name="batch_delete">حذف الدفعة</string>
   <string name="blacklist">حظر</string>
   <string name="bluetooth_connection_failed_toast">تقطع اتصال البلوتوث</string>
-  <string name="blurbJoinContactDataWith">اختر جهة الاتصال التي ترغب في دمجها مع <xliff:g id="name">%s</xliff:g>:</string>
+  <string name="blurbJoinContactDataWith">اختر جهة الاتصال التي ترغب في دمجها مع %s:</string>
   <string name="btn_rotation">تدوير</string>
   <string name="btn_split_contact">فصل</string>
   <string name="button_cancel_scan">إيقاف</string>
@@ -60,14 +60,14 @@
   <string name="callAgain">الاتصال مرة أخرى</string>
   <string name="callBack">إعادة المكالمة</string>
   <string name="callDetailTitle">تفاصيل المكالمات</string>
-  <string name="callDetailsDurationFormat" formatted="false"><xliff:g id="minutes" example="42">%s</xliff:g> دق <xliff:g id="seconds" example="28">%s</xliff:g> ث</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s دق %s ث</string>
   <string name="callShortcutActivityTitle">اختر رقم للاتصال</string>
-  <string name="call_assistant">طلب <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="call_assistant">طلب %s</string>
   <string name="call_callback">طلب إعادة المكالمة</string>
   <string name="call_car">الاتصال بالسيارة</string>
   <string name="call_charge">شحن الرصيد</string>
   <string name="call_company_main">الاتصال بهاتف الشركة الرئيسي</string>
-  <string name="call_custom">طلب <xliff:g id="custom">%s</xliff:g></string>
+  <string name="call_custom">طلب %s</string>
   <string name="call_disambig_title">اختيار الرقم</string>
   <string name="call_fax_home">الاتصال بفاكس المنزل</string>
   <string name="call_fax_work">الاتصال بفاكس العمل</string>
@@ -75,7 +75,7 @@
   <string name="call_isdn">الاتصال بـ ISDN</string>
   <string name="call_left">توازن الهاتف</string>
   <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g></string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">جديد</string>
   <string name="call_log_old_header">الأقدم</string>
   <string name="call_main">الاتصال بالرئيسي</string>
@@ -94,9 +94,7 @@
   <string name="call_sim2_menu_title">الطلب باستخدام بطاقة SIM 2</string>
   <string name="call_telex">الاتصال بالتلكس</string>
   <string name="call_tty_tdd">الاتصال بـ TTY/TDD</string>
-  <string name="call_type_and_date">
-        <xliff:g id="call_type" example="Friends">%1$s</xliff:g>  <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>
-    </string>
+  <string name="call_type_and_date">%1$s %2$s </string>
   <string name="call_unit">CNY</string>
   <string name="call_work">الاتصال بالعمل</string>
   <string name="call_work_mobile">الاتصال بالهاتف الجوال للعمل</string>
@@ -148,8 +146,8 @@
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">تجاهل هذه التغييرات؟</string>
   <string name="cancel_confirmation_dialog_title">إلغاء</string>
-  <string name="cancel_export_confirmation_message">هل ترغب في إلغاء تصدير <xliff:g id="filename" example="export.vcf">%s</xliff:g>؟</string>
-  <string name="cancel_import_confirmation_message">هل ترغب في إلغاء استيراد <xliff:g id="filename" example="import.vcf">%s</xliff:g>؟</string>
+  <string name="cancel_export_confirmation_message">هل ترغب في إلغاء تصدير %s؟</string>
+  <string name="cancel_import_confirmation_message">هل ترغب في إلغاء استيراد %s؟</string>
   <string name="cancel_import_dialog_message">هل ترغب في إيقاف استيراد جهات الاتصال؟</string>
   <string name="cancel_import_dialog_title">إيقاف</string>
   <string name="cancel_vcard_import_or_export_failed">"تعذر إلغاء استيراد/تصدير vCard"</string>
@@ -183,8 +181,8 @@
   <string name="cloud_state_loading">لحظة من فضلك\u2026</string>
   <string name="cloud_state_sync_finished">تمت المزامنة مع Mi Cloud</string>
   <string name="cloud_state_syncing">تمت المزامنة مع Mi Cloud</string>
-  <string name="combined_title_and_miprofile_swaped"><xliff:g id="organization_company_and_title">%1$s</xliff:g>, <xliff:g id="miprofile_swaped">%2$s</xliff:g></string>
-  <string name="combined_title_and_miprofile_swaped_huge_mode"><xliff:g id="organization_company_and_title">%1$s</xliff:g>\n<xliff:g id="miprofile_swaped">%2$s</xliff:g></string>
+  <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
+  <string name="combined_title_and_miprofile_swaped_huge_mode">%1$s\n%2$s</string>
   <string name="composer_failed_to_get_database_infomation">"تعذر الحصول على معلومات قاعدة البيانات."</string>
   <string name="composer_has_no_exportable_contact">لا توجد جهات اتصال قابلة للتصدير. إذا كان لديك جهات اتصال على هاتفك، فقد لا يسمح بعض موفري البيانات بتصدير جهات الاتصال من الهاتف.</string>
   <string name="composer_not_initialized">"لم يتم بدء تشغيل مؤلف vCard بشكل صحيح."</string>
@@ -199,7 +197,7 @@
   <string name="confirm_delete_contact_all_call_logs">مسح سجل المكالمات؟</string>
   <string name="confirm_delete_selected_all_call_logs">مسح سجل المكالمات؟</string>
   <string name="confirm_delete_sim_entry_miui_title">حذف</string>
-  <string name="confirm_export_message">سيتم تصدير قائمة جهات الاتصال لديك إلى ملف: <xliff:g id="vcard_filename">%s</xliff:g>.</string>
+  <string name="confirm_export_message">سيتم تصدير قائمة جهات الاتصال لديك إلى ملف: %s.</string>
   <string name="confirm_export_title">هل ترغب في تصدير جهات الاتصال؟</string>
   <string name="connections">الاتصالات</string>
   <string name="contactDetailAbout">معلومات جهة الاتصال</string>
@@ -240,20 +238,20 @@
   <string name="contact_detail_profile_switch_on_fail_toast">"تعذر تشغيل بطاقات جهات الاتصال"</string>
   <string name="contact_detail_profile_switch_on_subtitle">انقر لتشغيل بطاقات جهات اتصال</string>
   <string name="contact_detail_profile_switch_on_success_toast">بطاقات جهات الاتصال مشغلة</string>
-  <string name="contact_directory_description">الدليل <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g></string>
+  <string name="contact_directory_description">الدليل %1$s</string>
   <string name="contact_edit_save_error_empty">جهة الاتصال فارغة</string>
   <string name="contact_edit_title_edit">تعديل جهة الاتصال</string>
   <string name="contact_edit_title_insert">حفظ على %s</string>
   <string name="contact_edit_title_readonly">جهة اتصال للقراءة فقط</string>
   <string name="contact_editor_prompt_multiple_accounts">حفظ جهة الاتصال الى</string>
-  <string name="contact_editor_prompt_one_account">سيتم مزامنة جهة الاتصال الجديدة مع <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g>.</string>
+  <string name="contact_editor_prompt_one_account">سيتم مزامنة جهة الاتصال الجديدة مع %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">تخزين على الجوال أو على حساب جديد على الإنترنت</string>
   <string name="contact_is_readOnly">"يتعذر تعديل جهات الاتصال المحددة للقراءة فقط"</string>
   <string name="contact_list_loading">جارٍ التحميل\u2026</string>
   <string name="contact_pick_photo">صورة</string>
   <string name="contact_read_only">غير قابل للتعديل من هذا التطبيق.</string>
-  <string name="contact_status_update_attribution">عبر <xliff:g id="source" example="Google Talk">%1$s</xliff:g></string>
-  <string name="contact_status_update_attribution_with_date"><xliff:g id="date" example="3 hours ago">%1$s</xliff:g> عبر <xliff:g id="source" example="Google Talk">%2$s</xliff:g></string>
+  <string name="contact_status_update_attribution">عبر %1$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s عبر %2$s</string>
   <string name="contact_unfavorite_toast">تمت الإزالة من المفضلة</string>
   <string name="contactsAllLabel">جهات الاتصال</string>
   <string name="contactsFavoritesLabel">المفضلة</string>
@@ -295,7 +293,7 @@
   <string name="delete_dial_input">حذف</string>
   <string name="delete_duplicate">دمج</string>
   <string name="delete_duplicate_message">"يتم الآن دمج جهات الاتصال\u2026 "</string>
-  <string name="delete_group_dialog_message">حذف المجموعة\"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"،لن يتم حذف جهات الاتصال نفسها.
+  <string name="delete_group_dialog_message">حذف المجموعة\"%1$s\"،لن يتم حذف جهات الاتصال نفسها.
     </string>
   <string name="delete_group_dialog_title">حذف المجموعة</string>
   <string name="delete_selected_sim_entry_miui">حذف جهات الاتصال المحددة</string>
@@ -305,7 +303,7 @@
   <string name="deleting_sim_entry_miui">Deleting contacts on SIM card\u2026</string>
   <string name="deleting_sim_entry_miui_prepare">جارٍ إعداد جهات الاتصال\u2026</string>
   <string name="description_add_contact">إضافة جهة الاتصال</string>
-  <string name="description_call">طلب <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_call">طلب %1$s</string>
   <string name="description_call_log_incoming_call">مكالمة واردة</string>
   <string name="description_call_log_missed_call">المكالمات الفائتة</string>
   <string name="description_call_log_outgoing_call">مكالمة صادرة</string>
@@ -315,7 +313,7 @@
   <string name="description_contact_photo">صورة جهة الاتصال</string>
   <string name="description_delete_button">مسافة للخلف</string>
   <string name="description_dial_button">طلب</string>
-  <string name="description_dial_phone_number">طلب هاتف <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_dial_phone_number">طلب هاتف %1$s</string>
   <string name="description_digits_edittext">رقم للاتصال به</string>
   <string name="description_image_button_comma">فاصلة</string>
   <string name="description_image_button_dial">طلب</string>
@@ -336,12 +334,12 @@
   <string name="description_image_button_zero">صفر</string>
   <string name="description_minus_button">ناقص</string>
   <string name="description_plus_button">زائد</string>
-  <string name="description_quick_contact_for">جهة اتصال سريعة لـ <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_quick_contact_for">جهة اتصال سريعة لـ %1$s</string>
   <string name="description_search_button">بحث</string>
-  <string name="description_send_message">إرسال رسالة إلى <xliff:g id="name">%1$s</xliff:g></string>
-  <string name="description_send_text_message">إرسال رسالة نصية إلى <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_send_message">إرسال رسالة إلى %1$s</string>
+  <string name="description_send_text_message">إرسال رسالة نصية إلى %1$s</string>
   <string name="description_star">مفضلة</string>
-  <string name="description_view_contact">عرض جهة اتصال <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_view_contact">عرض جهة اتصال %1$s</string>
   <string name="description_view_contact_detail">عرض جهة الاتصال</string>
   <string name="description_voicemail_button">البريد الصوتي</string>
   <string name="deselect_all">إلغاء الكل</string>
@@ -402,7 +400,7 @@
   <string name="display_options_view_names_as">عرض أسماء جهة الاتصال كـ</string>
   <string name="display_sim_contacts">عرض جهات اتصال بطاقة SIM</string>
   <string name="display_ungrouped">جميع جهات الاتصال الأخرى</string>
-  <string name="display_warn_remove_ungrouped">إزالة \"<xliff:g id="group" example="Starred">%s</xliff:g>\" من عملية المزامنة سيؤدي إلى إزالة اي جهات الاتصال غير منتمية إلى مجموعات عملية المزامنة.</string>
+  <string name="display_warn_remove_ungrouped">إزالة \"%s\" من عملية المزامنة سيؤدي إلى إزالة اي جهات الاتصال غير منتمية إلى مجموعات عملية المزامنة.</string>
   <string name="duplicate_group_name">توجد مجموعة تحمل هذا الاسم مسبقا</string>
   <string name="editContactDescription">تعديل جهة الاتصال</string>
   <string name="editContactNameExpandCloseDescription">تقليص الأسم</string>
@@ -413,7 +411,7 @@
   <string name="edit_contact_photo">تعديل صورة جهة الاتصال</string>
   <string name="email">إرسال بريد إلكتروني</string>
   <string name="emailLabelsGroup">البريد الإلكتروني</string>
-  <string name="email_custom">إرسال بريد إلكتروني إلى <xliff:g id="custom">%s</xliff:g></string>
+  <string name="email_custom">إرسال بريد إلكتروني إلى %s</string>
   <string name="email_home">إرسال بريد إلكتروني إلى عنوان البريد الإلكتروني الخاص بالمنزل</string>
   <string name="email_mobile">إرسال بريد إلكتروني إلى عنوان البريد الإلكتروني الخاص بالهاتف الجوال</string>
   <string name="email_other">إرسال بريد إلكتروني</string>
@@ -436,24 +434,24 @@
   <string name="export_to_sim_prepare_title">جارٍالتجهيز\u2026</string>
   <string name="export_to_sim_title">جارٍ التصدير\u2026</string>
   <string name="export_vcard_description">"تصدير vCard إلى بطاقة SD"</string>
-  <string name="exporting_contact_failed_message">لم يتم تصدير بيانات جهة الاتصال.n\السبب: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+  <string name="exporting_contact_failed_message">لم يتم تصدير بيانات جهة الاتصال.n\السبب: \"%s\"</string>
   <string name="exporting_contact_failed_title">"تعذر التصدير"</string>
-  <string name="exporting_contact_list_message">جارٍ التصدير إلى <xliff:g id="file_name">%s</xliff:g>.</string>
-  <string name="exporting_contact_list_progress" formatted="false"><xliff:g id="current_number">%s</xliff:g> من <xliff:g id="total_number">%s</xliff:g> جهة اتصال</string>
+  <string name="exporting_contact_list_message">جارٍ التصدير إلى %s.</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s من %s جهة اتصال</string>
   <string name="exporting_contact_list_title">جارٍ تصدير بيانات جهة الاتصال</string>
-  <string name="exporting_vcard_canceled_title">تم الغاء تصدير <xliff:g id="filename" example="export.vcf">%s</xliff:g>.</string>
-  <string name="exporting_vcard_finished_title">تصدير <xliff:g id="filename" example="export.vcf">%s</xliff:g> انتهى.</string>
-  <string name="external_profile_title">ملفي الشخصي لـ<xliff:g id="external_source">%1$s</xliff:g></string>
-  <string name="fail_reason_could_not_initialize_exporter">"تعذر بدء تشغيل المصدّر: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"تعذر فتح \"<xliff:g id="file_name">%s</xliff:g>": <xliff:g id="exact_reason">%s</xliff:g>."</string>
-  <string name="fail_reason_error_occurred_during_export">حدث خطأ أثناء التصدير: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="exporting_vcard_canceled_title">تم الغاء تصدير %s.</string>
+  <string name="exporting_vcard_finished_title">تصدير %s انتهى.</string>
+  <string name="external_profile_title">ملفي الشخصي لـ%1$s</string>
+  <string name="fail_reason_could_not_initialize_exporter">"تعذر بدء تشغيل المصدّر: \"%s\"."</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"تعذر فتح \"%s": %s."</string>
+  <string name="fail_reason_error_occurred_during_export">حدث خطأ أثناء التصدير: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"تعذر تجميع المعلومات التعريفية من ملفات vCard."</string>
   <string name="fail_reason_failed_to_read_files">"تعذر استيراد ملف أو أكثر من الملفات (%s)."</string>
   <string name="fail_reason_io_error">خطأ الإدخال/الإخراج</string>
   <string name="fail_reason_low_memory_during_import">لا توجد ذاكرة كافية. قد يكون الملف كبير جداً.</string>
   <string name="fail_reason_no_exportable_contact">لا توجد جهة اتصال قابلة للتصدير.</string>
   <string name="fail_reason_not_supported">"صيغة غير مدعومة."</string>
-  <string name="fail_reason_too_long_filename">اسم الملف المطلوب كبير جدًا (\"<xliff:g id="filename">%s</xliff:g>\").</string>
+  <string name="fail_reason_too_long_filename">اسم الملف المطلوب كبير جدًا (\"%s\").</string>
   <string name="fail_reason_too_many_vcard">توجد ملفات vCard كثيرة جداً على بطاقة الذاكرة SD.</string>
   <string name="fail_reason_unknown">خطأ غير معروف.</string>
   <string name="fail_reason_vcard_parse_error">"تعذرتحليل vCard لسبب غير متوقع."</string>
@@ -463,10 +461,10 @@
   <string name="firewall_setting">قائمة الحظر</string>
   <string name="force_touch_miprofile">بطاقات جهة اتصال</string>
   <string name="force_touch_new_contact">جهة اتصال جديدة</string>
-  <string name="foundTooManyContacts">تم العثور على أكثر من <xliff:g id="count">%d</xliff:g> جهة اتصال.</string>
+  <string name="foundTooManyContacts">تم العثور على أكثر من %d جهة اتصال.</string>
   <string name="fraud_more_indemnity">المزيد</string>
   <string name="frequentList">متكرر</string>
-  <string name="from_account_format"><xliff:g id="source" example="user@gmail.com">%1$s</xliff:g></string>
+  <string name="from_account_format">%1$s</string>
   <string name="full_name">الاسم</string>
   <string name="gallery">المعرض</string>
   <string name="generic_no_account_prompt">حافظ على جهات اتصالك آمنة حتى إذا فقدت هاتفك: عليك بمزامنتها مع الخدمة عبر الإنترنت.</string>
@@ -549,9 +547,9 @@
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importing contacts from SIM card\u2026</string>
   <string name="importing_sim_contacts_miui_prepare">جارٍ إعداد جهات الاتصال\u2026</string>
-  <string name="importing_vcard_canceled_title">تم إلغاء استيراد <xliff:g id="filename" example="import.vcf">%s</xliff:g></string>
-  <string name="importing_vcard_description">جارٍ الاتصال <xliff:g id="name" example="Joe Due">%s</xliff:g></string>
-  <string name="importing_vcard_finished_title">تم الانتهاء من استيراد vCard‏ <xliff:g id="filename" example="import.vcf">%s</xliff:g></string>
+  <string name="importing_vcard_canceled_title">تم إلغاء استيراد %s</string>
+  <string name="importing_vcard_description">جارٍ الاتصال %s</string>
+  <string name="importing_vcard_finished_title">تم الانتهاء من استيراد vCard‏ %s</string>
   <string name="insertContactDescription">إنشاء جهة اتصال</string>
   <string name="insertGroupDescription">إنشاء مجموعة</string>
   <string name="invalidContactMessage">"جهة اتصال غير موجودة"</string>
@@ -570,7 +568,7 @@
   <string name="listSingleContact">جهة اتصال واحدة</string>
   <string name="listTotalAllContactsZero">لا توجد جهات اتصال</string>
   <string name="listTotalAllContactsZeroCustom">لا توجد جهات اتصال ظاهرة.</string>
-  <string name="listTotalAllContactsZeroGroup">لا توجد جهات اتصال في <xliff:g id="name" example="Friends">%s</xliff:g></string>
+  <string name="listTotalAllContactsZeroGroup">لا توجد جهات اتصال في %s</string>
   <string name="listTotalAllContactsZeroStarred">لا توجد جهات اتصال مفضلة</string>
   <string name="listTotalPhoneContactsZero">لا توجد جهات اتصال بأرقام هاتف</string>
   <string name="list_filter_all_accounts">جميع جهات الاتصال</string>
@@ -593,7 +591,7 @@
   <string name="lunar_leap">闰</string>
   <string name="lunar_yue">月</string>
   <string name="make_primary">تذكر هذا الاختيار</string>
-  <string name="map_custom">عرض عنوان <xliff:g id="custom">%s</xliff:g></string>
+  <string name="map_custom">عرض عنوان %s</string>
   <string name="map_home">عرض عنوان المنزل</string>
   <string name="map_other">عرض العنوان</string>
   <string name="map_work">عرض عنوان العمل</string>
@@ -613,7 +611,7 @@
   <string name="menu_bar_group_ringtone_largeui">نغمة الرنين</string>
   <string name="menu_bar_group_sms">الرسائل القصيرة</string>
   <string name="menu_call">مكالمة جهة اتصال</string>
-  <string name="menu_callNumber">طلب <xliff:g id="number">%s</xliff:g></string>
+  <string name="menu_callNumber">طلب %s</string>
   <string name="menu_call_ip_number">طلب مكالمة IP (طلب %s)</string>
   <string name="menu_clear_frequents">مسح المتكرر</string>
   <string name="menu_contacts_filter">جهات الاتصال المراد عرضها</string>
@@ -691,12 +689,12 @@
   <string name="miprofile_nick_name_edit_dialog_message">الإسم المستعار سيظهر في سجل المكالمات و معلومات الملف الشخصي</string>
   <string name="miprofile_nick_name_edit_dialog_title">تعديل الاسم المستعار</string>
   <string name="miprofile_notice_text">"اضغط لعرض صورة الملف الشخصي لجهة الاتصال"</string>
-  <string name="miprofile_request_agenda_date">هذا الشخص يريد تبادل البطاقات [<xliff:g id="DATE">%1$s</xliff:g>]</string>
-  <string name="miprofile_request_agenda_today">هذا الشخص يريد تبادل البطاقات [اليوم <xliff:g id="DATE">%1$s</xliff:g>]</string>
-  <string name="miprofile_request_agenda_yesterday">هذا الشخص يريد تبادل البطاقات [أمس<xliff:g id="DATE">%1$s</xliff:g>]</string>
+  <string name="miprofile_request_agenda_date">هذا الشخص يريد تبادل البطاقات [%1$s]</string>
+  <string name="miprofile_request_agenda_today">هذا الشخص يريد تبادل البطاقات [اليوم %1$s]</string>
+  <string name="miprofile_request_agenda_yesterday">هذا الشخص يريد تبادل البطاقات [أمس%1$s]</string>
   <string name="miprofile_request_agree">قبول</string>
   <string name="miprofile_request_agree_exchange_profile">بطاقات اتصال متبادلة</string>
-  <string name="miprofile_request_agreed">وافق <xliff:g id="name">%1$s</xliff:g> على تبادل بطاقات جهات الاتصال</string>
+  <string name="miprofile_request_agreed">وافق %1$s على تبادل بطاقات جهات الاتصال</string>
   <string name="miprofile_request_alertdialog_message">سيتم إرسال بطاقتك تلقائيًا بعد موافقة هذا الشخص.</string>
   <string name="miprofile_request_alertdialog_title">تبادل بطاقات جهات الاتصال</string>
   <string name="miprofile_request_deleted_or_not_added">تم حذف البطاقة او لم تتم اضافتها</string>
@@ -705,8 +703,8 @@
   <string name="miprofile_request_menu_clear_request">مسح السجل</string>
   <string name="miprofile_request_message"><xliff:g id="COUNT">%$1s</xliff:g> يرغب في تبادل بطاقات جهات الاتصال</string>
   <string name="miprofile_request_notification_message">قم بالقبول لعرض صورة الملف الشخصي ومعلومات إضافية</string>
-  <string name="miprofile_request_notification_title"><xliff:g id="number">%1$s</xliff:g> شخصًا يرغب في تبادل بطاقات جهات الاتصال</string>
-  <string name="miprofile_request_notification_title_name"><xliff:g id="number">%1$s</xliff:g> شخصًا يرغب في تبادل بطاقات جهات الاتصال</string>
+  <string name="miprofile_request_notification_title">%1$s شخصًا يرغب في تبادل بطاقات جهات الاتصال</string>
+  <string name="miprofile_request_notification_title_name">%1$s شخصًا يرغب في تبادل بطاقات جهات الاتصال</string>
   <string name="miprofile_save_alertdialog_message">سيتم إرسال بطاقتك إلى جهة الاتصال هذه تلقائيًا.</string>
   <string name="miprofile_save_alertdialog_title">تم استلام بطاقة جهة الاتصال</string>
   <string name="miprofile_switch_off_alertdialog_message">"لن تستطيع تبادل بطاقات جهة الاتصال مع الاشخاص الآخرين."</string>
@@ -795,8 +793,8 @@
   <string name="none_paired">لا يوجد أجهزة مقترنة في الوقت الحالي</string>
   <string name="not_applied">"تعذر التطبيق"</string>
   <string name="notification_action_voicemail_play">تشغيل</string>
-  <string name="notification_new_voicemail_ticker">بريد صوتي جديد من <xliff:g id="caller">%1$s</xliff:g></string>
-  <string name="notification_voicemail_callers_list"><xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g></string>
+  <string name="notification_new_voicemail_ticker">بريد صوتي جديد من %1$s</string>
+  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">لوحة الاتصال</string>
   <string name="open_contact">عرض جهة الاتصال</string>
   <string name="open_dial_pad_description">فتح لوحة الاتصال</string>
@@ -811,7 +809,7 @@
   <string name="option_view_contact">عرض</string>
   <string name="option_view_group">عرض</string>
   <string name="organizationLabelsGroup">منظمة</string>
-  <string name="organization_company_and_title"><xliff:g id="company" example="Technical Program Manager">%1$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%2$s</xliff:g></string>
+  <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">جهات اتصال أخرى</string>
   <string name="other_phone">هواتف أخرى</string>
   <string name="path_batch_delete">System apps/Contacts/Organize contacts/Delete batch</string>
@@ -840,7 +838,7 @@
   <string name="payphone">هاتف عمومي</string>
   <string name="people">جهات الاتصال</string>
   <string name="percent_sign">%</string>
-  <string name="percentage"><xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g></string>
+  <string name="percentage">%s %%</string>
   <string name="phoneLabelsGroup">الهاتف</string>
   <string name="phone_call_type_livetalk">حزمة شحن الرصيد</string>
   <string name="phone_call_type_voip">صوت Mi</string>
@@ -851,8 +849,8 @@
   <string name="photo_fragment">صورة</string>
   <string name="photo_labels_group">صورة الملف الشخصي</string>
   <string name="photo_load_failed">"تعذر تحميل الصورة"</string>
-  <string name="pick_new_photo">اختر صورة جديدة من <xliff:g id="name">%s</xliff:g></string>
-  <string name="pick_photo">اختر صورة من <xliff:g id="name">%s</xliff:g></string>
+  <string name="pick_new_photo">اختر صورة جديدة من %s</string>
+  <string name="pick_photo">اختر صورة من %s</string>
   <string name="pickerNewContactHeader">إنشاء جهة اتصال جديدة</string>
   <string name="pickerNewContactText">إنشاء جهة اتصال جديدة</string>
   <string name="picker_all_list_empty">لا توجد جهات اتصال</string>
@@ -999,7 +997,7 @@
   <string name="scan_merge"> \"البحث عن جهات الاتصال المكررة\u2026\" </string>
   <string name="scan_qrcode_card_hint1">امسح رمز QR الموجود بالأعلى</string>
   <string name="scan_qrcode_card_hint2"></string>
-  <string name="scanning_sdcard_failed_message">السبب: \"<xliff:g id="fail_reason">%s</xliff:g>\".</string>
+  <string name="scanning_sdcard_failed_message">السبب: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"تعذر فحص بطاقة SD"</string>
   <string name="searchHint">البحث عن جهات الاتصال</string>
   <string name="search_batch_delete">Organize;Contacts</string>
@@ -1060,7 +1058,7 @@
   <string name="simContacts_title">جهات اتصال بطاقة SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">عرض مساحة بطاقة الـSIM</string>
-  <string name="sim_capacity_content" formatted="false">الإجمالي <xliff:g id="items">%d</xliff:g> | المستخدم <xliff:g id="items">%d</xliff:g></string>
+  <string name="sim_capacity_content" formatted="false">الإجمالي %d | المستخدم %d</string>
   <string name="sim_card_no_free_space_message">لا توجد مساحة كافية</string>
   <string name="sim_card_no_free_space_title">بطاقة SIM ممتلئة</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">إلغاء تحديد الكل</string>
@@ -1096,11 +1094,11 @@
   <string name="smart_group_location_label">المواقع</string>
   <string name="smart_group_location_unavailable">لا توجد معلومات عن الموقع</string>
   <string name="sms">رسالة نصية</string>
-  <string name="sms_assistant">إرسال رسالة إلى <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="sms_assistant">إرسال رسالة إلى %s</string>
   <string name="sms_callback">إرسال رسالة لرقم معاودة الاتصال</string>
   <string name="sms_car">إرسال رسالة لهاتف السيارة</string>
   <string name="sms_company_main">إرسال رسالة لهاتف الشركة الرئيسي</string>
-  <string name="sms_custom">إرسال رسالة نصية إلى <xliff:g id="custom">%s</xliff:g></string>
+  <string name="sms_custom">إرسال رسالة نصية إلى %s</string>
   <string name="sms_disambig_title">اختيار الرقم</string>
   <string name="sms_fax_home">إرسال رسالة لرقم فاكس المنزل</string>
   <string name="sms_fax_work">إرسالة رسالة لرقم فاكس العمل</string>
@@ -1171,7 +1169,7 @@
   <string name="unknown_contact_name">جهة اتصال غير معروفة</string>
   <string name="upgrade_in_progress">جارٍ تحديث قائمة جهة الاتصال.</string>
   <string name="upgrade_out_of_memory">يتم الآن ترقية جهات الاتصال لديك.
-    n\n\تتطلب عملية الترقية تقريبا <xliff:g id="size_in_megabytes">%s</xliff:g>
+    n\n\تتطلب عملية الترقية تقريبا %s
     ميغابايت من مساحة التخزين الداخلية.n\n\اختر واحدًا من الخيارات التالية:</string>
   <string name="upgrade_out_of_memory_retry">إعادة محاولة الترقية</string>
   <string name="upgrade_out_of_memory_uninstall">إزالة بعض التطبيقات</string>
@@ -1180,10 +1178,10 @@
   <string name="useful_numbers">أرقام مفيدة</string>
   <string name="user_profile_contacts_list_header">أنا</string>
   <string name="vcard_export_request_rejected_message">تم رفض طلب تصدير vCard. حاول مرة أخرى لاحقا.</string>
-  <string name="vcard_export_will_start_message">سيتم تصدير <xliff:g id="filename" example="import.vcf">%s</xliff:g> بعد قليل.</string>
-  <string name="vcard_import_failed">"تعذر استيراد vCard‏ <xliff:g id="filename" example="import.vcf">%s</xliff:g>."</string>
+  <string name="vcard_export_will_start_message">سيتم تصدير %s بعد قليل.</string>
+  <string name="vcard_import_failed">"تعذر استيراد vCard‏ %s."</string>
   <string name="vcard_import_request_rejected_message">تم رفض طلب استيراد vCard. حاول مرة أخرى لاحقا.</string>
-  <string name="vcard_import_will_start_message">سيتم استيراد <xliff:g id="filename" example="import.vcf">%s</xliff:g> بعد قليل.</string>
+  <string name="vcard_import_will_start_message">سيتم استيراد %s بعد قليل.</string>
   <string name="vcard_import_will_start_message_with_default_name">سيتم استيراد الملف قريباً.</string>
   <string name="vcard_info_send_error">"لا يمكن الارسال وذلك لخطأ vCard"</string>
   <string name="vcard_unknown_filename">جهة اتصال</string>
@@ -1217,7 +1215,7 @@
   <string name="voip_shortcut_name">صوت Mi</string>
   <string name="voip_video_description">مكالمة فيديو VoIP</string>
   <string name="websiteLabelsGroup">موقع ويب</string>
-  <string name="widget_name_and_phonetic"><xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">مسح البيانات</string>
   <string name="yellowPageNavigationIconLabel">الصفحات الصفراء</string>
   <string name="yellowPageNavigationLabel">الصفحات الصفراء</string>
