@@ -884,7 +884,7 @@
   <string name="orientation_unlock_tip">التدوير التلقائي مشغّل</string>
   <string name="other_album">ألبومات أخرى</string>
   <string name="other_settings">الإعدادات الإضافية</string>
-  <string name="owner_album_subtitle">تمت مشاركته مع <xliff:g id="MEMBER_COUNT">%1$s</xliff:g> شخص</string>
+  <string name="owner_album_subtitle">تمت مشاركته مع %1$s شخص</string>
   <string name="people_page_label">الأشخاص</string>
   <string name="people_page_unname">غير مسمى</string>
   <string name="pet_album_display_name">صور الحيوانات الأليفة</string>
