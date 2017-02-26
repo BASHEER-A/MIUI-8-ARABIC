@@ -18,27 +18,28 @@
     <item quantity="many">%1$s results for \"%2$s\"</item>
   </plurals>
   <plurals name="note_terms">
-    <item quantity="zero"><xliff:g id="count">%1$s</xliff:g> ملاحظة</item>
-    <item quantity="other"><xliff:g id="count">%1$s</xliff:g> ملاحظة</item>
-    <item quantity="one"><xliff:g id="count">%1$s</xliff:g> ملاحظة</item>
-    <item quantity="two"><xliff:g id="count">%1$s</xliff:g> ملاحظات</item>
-    <item quantity="few"><xliff:g id="count">%1$s</xliff:g> ملاحظات</item>
-    <item quantity="many"><xliff:g id="count">%1$s</xliff:g> ملاحظة</item>
+    <item quantity="zero">%1$s ملاحظة</item>
+    <item quantity="other">%1$s ملاحظة</item>
+    <item quantity="one">%1$s ملاحظة</item>
+    <item quantity="two">%1$s ملاحظات</item>
+    <item quantity="few">%1$s ملاحظات</item>
+    <item quantity="many">%1$s ملاحظة</item>
   </plurals>
   <plurals name="folder_terms">
-    <item quantity="zero"><xliff:g id="count">%1$s</xliff:g> مجلد</item>
-    <item quantity="other"><xliff:g id="count">%1$s</xliff:g> مجلد</item>
-    <item quantity="one"><xliff:g id="count">%1$s</xliff:g> مجلد</item>
-    <item quantity="two"><xliff:g id="count">%1$s</xliff:g> مجلدات</item>
-    <item quantity="few"><xliff:g id="count">%1$s</xliff:g> مجلدات</item>
-    <item quantity="many"><xliff:g id="count">%1$s</xliff:g> مجلد</item>
+    <item quantity="zero">%1$s مجلد</item>
+    <item quantity="other">%1$s مجلد</item>
+    <item quantity="one">%1$s مجلد</item>
+    <item quantity="two">%1$s مجلدات</item>
+    <item quantity="few">%1$s مجلدات</item>
+    <item quantity="many">%1$s مجلد</item>
   </plurals>
   <plurals name="cloud_state_unsynced_count">
-    <item quantity="zero">"لم تتم مزامنة <xliff:g id="terms">%1$s</xliff:g>"</item>
-    <item quantity="other">"لم تتم مزامنة <xliff:g id="terms">%1$s</xliff:g>"</item>
-    <item quantity="one">"لم تتم مزامنة <xliff:g id="terms">%1$s</xliff:g>"</item>
-    <item quantity="two">"لم تتم مزامنة <xliff:g id="terms">%1$s</xliff:g>"</item>
-    <item quantity="few">"لم تتم مزامنة <xliff:g id="terms">%1$s</xliff:g>"</item>
-    <item quantity="many">"لم تتم مزامنة <xliff:g id="terms">%1$s</xliff:g>"</item>
+    <item quantity="zero">"لم تتم مزامنة %1$s"</item>
+    <item quantity="other">"لم تتم مزامنة %1$s"</item>
+    <item quantity="one">"لم تتم مزامنة ">%1$s"</item>
+    <item quantity="two">"لم تتم مزامنة %1$s"</item>
+    <item quantity="few">"لم تتم مزامنة %1$s"</item>
+    <item quantity="many">"لم تتم مزامنة %1$s"</item>
   </plurals>
 </resources>
+
