@@ -76,17 +76,10 @@
   <string name="call_transfer_info">حظر المكالمات المعاد توجيهها من أرقام غير معروفة</string>
   <string name="cancle">إلغاء</string>
   <string name="close_callwait">إيقاف</string>
-  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL, cloudUid TEXT DEFAULT NULL, type TEXT DEFAULT 0 );</string>
-  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
-  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0 );</string>
-  <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
-  <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
-  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT, callType INTEGER NOT NULL DEFAULT 0 );</string>
-  <string name="customizer_mode_user_define_name">قواعد</string>
+   <string name="customizer_mode_user_define_name">قواعد</string>
   <string name="dlg_add_blacklist">حظر هذا الرقم؟</string>
   <string name="dlg_add_blacklist_title">إضافة إلى قائمة الحظر</string>
-  <string name="dlg_add_blacklist_warn_conflict_content"><xliff:g id="tel">%1$s</xliff:g> و<xliff:g id="tel_count">%2$s</xliff:g> جهات اتصال أخرى موجودة مسبقا في قائمة الاستثناءات.</string>
+  <string name="dlg_add_blacklist_warn_conflict_content"%1$s و%2$s جهات اتصال أخرى موجودة مسبقا في قائمة الاستثناءات.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">تعارض في الإستثنائات</string>
   <string name="dlg_add_keyword">أضف كلمات مفتاحية</string>
   <string name="dlg_add_manual_hint">أدخل رقم الهاتف</string>
@@ -259,16 +252,12 @@
   <string name="st_antispam_mode_customize_sum">إنشاء قواعد قائمة الحظر</string>
   <string name="st_antispam_mode_denyownself_sum">قواعد مخصصة</string>
   <string name="st_antispam_mode_only_all_deny">حظر كل شيء</string>
-  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
   <string name="st_antispam_mode_only_all_deny_sum">حظر كل المكالمات والرسائل</string>
   <string name="st_antispam_mode_only_contacts">السماح فقط بجهات الاتصال</string>
-  <string name="st_antispam_mode_only_contacts_state">11110000</string>
   <string name="st_antispam_mode_only_contacts_sum">السماح بالمكالمات والرسائل من جهات الاتصال فقط</string>
   <string name="st_antispam_mode_only_whitelist">السماح فقط بالاستثناءات</string>
-  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
   <string name="st_antispam_mode_only_whitelist_sum">السماح بالمكالمات والرسائل فقط من الأرقام الموجودة في قائمة الاستثناءات</string>
   <string name="st_antispam_mode_smart">الأرقام المبلغ عنها</string>
-  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">"حظر الأرقام التي أضفتها يدوياً و الأرقام التي تم الإبلاغ عنها من قبل مستخدمين آخرين"</string>
   <string name="st_antispam_notification_sum">إظهار إشعارعند حظر مكالمة أو رسالة</string>
   <string name="st_antispam_title_anoy_incoming">المكالمات الواردة من الغرباء</string>
@@ -351,7 +340,6 @@
   <string name="st_title_other_group">أخرى</string>
   <string name="st_title_settings_other_group">إعدادات إضافية</string>
   <string name="st_title_show_antispamnotification">إشعارات قائمة الحظر</string>
-  <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_sim_unknown">غير معروف</string>
   <string name="st_title_whitelist_numbers">الاستثناءات</string>
   <string name="sure">موافق</string>
@@ -369,5 +357,4 @@
   <string name="website">الموقع الإلكتروني</string>
   <string name="whitelist_prefix_add_hint">إضافة كل الأرقام التي تشتمل على بادئة إلى الاستثناءات</string>
   <string name="wl_no_whitelist">لا توجد استثناءات.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
