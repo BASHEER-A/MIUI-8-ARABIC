@@ -95,7 +95,7 @@
   <string name="menu_item_sort_name">الإسم</string>
   <string name="menu_item_sort_size">الحجم</string>
   <string name="miui_device_name">Android</string>
-  <string name="name_model">"%1$s's %2$s"</string>
+  <string name="name_model">"%1$s's%2$s"</string>
   <string name="open_wifi">تشغيل Wi-Fi الآن</string>
   <string name="open_wifi_description">الاتصال بشبكة Wi-Fi لاستعادة التطبيق</string>
   <string name="open_wifi_setting">إعدادات Wi-Fi</string>
