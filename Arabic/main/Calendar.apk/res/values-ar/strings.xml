@@ -52,7 +52,7 @@
   <string name="birthday_event_description_day_before_yesterday">أول أمس كان</string>
   <string name="birthday_event_description_days_ago">%1$d days since</string>
   <string name="birthday_event_description_days_later">%1$d days until</string>
-  <string name="birthday_event_description_default">"%1$s ثانية %2$s%3$s %4$s"</string>
+  <string name="birthday_event_description_default">"%1$s ثانية %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"></string>
   <string name="birthday_event_description_detail_smart"></string>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
