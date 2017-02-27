@@ -27,8 +27,8 @@
   <string name="add_to_album_tip">صور Cloud</string>
   <string name="add_to_secret_exist">الصورة موجودة مسبقا في الألبوم المخفي</string>
   <string name="add_to_secret_fail">"تعذر الإضافة إلى الألبوم المخفي"</string>
-  <string name="add_to_secret_failed_with_reason">"لا يمكن الإضافة إلى الألبوم المخفي. %1$s."</string>
-  <string name="add_to_secret_failed_with_reason_and_count">" %2$s عنصر لا يمكن إضافتة إلى الألبوم المخفي.  %1$s."</string>
+  <string name="add_to_secret_failed_with_reason">"لا يمكن الإضافة إلى الألبوم المخفي.%1$s."</string>
+  <string name="add_to_secret_failed_with_reason_and_count">"%2$s عنصر لا يمكن إضافتة إلى الألبوم المخفي. %1$s."</string>
   <string name="add_to_secret_successful">تمت الإضافة إلى الألبوم المخفي</string>
   <string name="add_to_share_album_not_delete">"لا يمكن حذف صورة من إلبوم المشاركة"</string>
   <string name="adding">جارٍ الإضافة\u2026</string>
@@ -105,7 +105,7 @@
   <string name="baby_album_needs_auto_backup_tip">"لا يمكن إيقاف النسخ الاحتياطي التلقائي لألبوم الطفل"</string>
   <string name="baby_album_new_photo_remind">هناك صور جديدة في ألبوم الطفل.</string>
   <string name="baby_album_setting_title">معلومات الطفل</string>
-  <string name="baby_album_sharer_accept_dialog_msg">إلى%1$s %2$s،\n%3$s %4$s قام بمشاركة ألبوم %5$s معك</string>
+  <string name="baby_album_sharer_accept_dialog_msg">إلى%1$s%2$s،\n%3$s%4$s قام بمشاركة ألبوم %5$s معك</string>
   <string name="baby_album_sharer_recommand_face">هل تريد إضافة صور %1$s الموجودة؟</string>
   <string name="baby_album_sharers_page_title">مشاركة مع الأسرة</string>
   <string name="baby_birthday">تاريخ الميلاد</string>
@@ -702,7 +702,7 @@
   <string name="fancycolor_title">Background effects</string>
   <string name="fast_share_auto_render">تجميل</string>
   <string name="fast_share_auto_render_finish">تم التجميل</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter">فلتر</string>
   <string name="filter_a4_aesthetic">مكرر</string>
   <string name="filter_clarendon_fresh">منعش</string>
@@ -769,7 +769,7 @@
   <string name="invalid_recipient_message">أسماء المستلمين التي قمت بإدخالها غير صالحة</string>
   <string name="invite_sharer_confirm_button_text">دعوة</string>
   <string name="invite_sharer_relation_tip">"%1$s أقرباء"</string>
-  <string name="invite_sharer_title">"دعوة %2$s %2$s"</string>
+  <string name="invite_sharer_title">"دعوة %2$s%2$s"</string>
   <string name="invite_tip">"مشاركة صور طفلك"</string>
   <string name="is">نعم</string>
   <string name="kick_owner_user_positive_button_text">إزالة</string>
@@ -942,8 +942,8 @@
   <string name="release_space_finish_format">تفريغ %s من التخزين المحلي</string>
   <string name="remove_from_other_albums_tip">قم بتشغيل المزامنة مع Mi Cloud لنقل العناصر من ألبومات أخرى. هل تريد النقل الآن؟</string>
   <string name="remove_from_secret_fail">"تعذر الإزالة من الألبوم المخفي"</string>
-  <string name="remove_from_secret_failed_with_reason">"لا يمكن الإزالة من الألبوم المخفي. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">" %2$s عنصر لا يمكن إزالته من الألبوم المخفي.  %1$s."</string>
+  <string name="remove_from_secret_failed_with_reason">"لا يمكن الإزالة من الألبوم المخفي.%1$s."</string>
+  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s عنصر لا يمكن إزالته من الألبوم المخفي. %1$s."</string>
   <string name="remove_from_secret_successful">تمت الإزالة من الألبوم المخفي</string>
   <string name="rename_face_album">تغيير الاسم</string>
   <string name="rename_fail_msg">"تعذر تغيير الاسم"</string>
