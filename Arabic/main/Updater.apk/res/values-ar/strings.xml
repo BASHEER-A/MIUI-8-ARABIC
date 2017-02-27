@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">عن الهاتف</string>
   <string name="active_xiaomi_account">تفعيل</string>
@@ -104,7 +104,7 @@
   <string name="menu_title_pick_rom_file">اختيار حزمة تحديث</string>
   <string name="menu_title_recovery">إعادة التشغيل إلى وضع الاسترداد</string>
   <string name="miui_BBS">"
-      <a href="http://bbs.miui.com">ذهب إلى منتدى MIUI </a>
+      &lt;a href="http://bbs.miui.com"&gt;&amp;#1584;&amp;#1607;&amp;#1576; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1605;&amp;#1606;&amp;#1578;&amp;#1583;&amp;#1609; MIUI &lt;/a&gt;
   
   
   "</string>
@@ -202,7 +202,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update_content_unsign">"لقد قمت بتحديت MIUI الى %1$s! للاطلاع على سجل التغيير المفصل، اذهب إلى%2$s\""</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">Sending&#8230;</string>
+  <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
@@ -225,7 +225,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="uncrypt_title">فك التشفير (%s)</string>
   <string name="unkown_error_title">"لا يمكن التنزيل"</string>
   <string name="unstable_build">غير مستقر</string>
-  <string name="update_comment_hint"></string>
+  <string name="update_comment_hint"/>
   <string name="update_comment_title">تعليق</string>
   <string name="update_downfull_no_info_sum">انتظر لمدة دقيقة أو اثنتين ثم حاول مرة أخرى.</string>
   <string name="update_downfull_no_info_title">"لا يمكن تنزيل التحديث"</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">انتقال إلى الصفحة الرئيسية</string>
   <string name="abc_action_bar_up_description">انتقل لأعلى</string>
@@ -317,9 +317,9 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="date_picker_dialog_title">تعيين التاريخ</string>
-  <string name="date_picker_label_day"></string>
-  <string name="date_picker_label_month"></string>
-  <string name="date_picker_label_year"></string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_time_done">تم</string>
   <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
   <string name="deselect_all">الغاء التحديد</string>
@@ -337,7 +337,7 @@
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="email">البريد الإلكتروني</string>
-  <string name="empty"></string>
+  <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="error_forbidden">تم إيقاف المزامنة بسبب مشاكل مع حساب Mi الخاص بك.</string>

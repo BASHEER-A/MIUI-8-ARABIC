@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">انقر لفتح خلفية كاروسيل</string>
   <string name="click_to_enter_text">انقر للعرض</string>

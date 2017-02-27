@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">انتقال إلى الصفحة الرئيسية</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -79,7 +79,7 @@
   <string name="alisdk_message_10002_message">SDK 初始化出错，错误信息为 {0}</string>
   <string name="alisdk_message_10002_name">INIT_EXCEPTION</string>
   <string name="alisdk_message_10002_type">E</string>
-  <string name="alisdk_message_10003_action"></string>
+  <string name="alisdk_message_10003_action"/>
   <string name="alisdk_message_10003_message">当前操作已经取消</string>
   <string name="alisdk_message_10003_name">USER_CANCEL</string>
   <string name="alisdk_message_10003_type">I</string>
@@ -103,7 +103,7 @@
   <string name="alisdk_message_10010_message">发生错误，消息为 {0}, 请使用 LogCat 查看更多细节</string>
   <string name="alisdk_message_10010_name">GENERIC_SYSTEM_ERROR</string>
   <string name="alisdk_message_10010_type">E</string>
-  <string name="alisdk_message_10011_action"></string>
+  <string name="alisdk_message_10011_action"/>
   <string name="alisdk_message_10011_message">当前用户未登录</string>
   <string name="alisdk_message_10011_name">USER_ALREADY_LOGOUT</string>
   <string name="alisdk_message_10011_type">W</string>
@@ -115,7 +115,7 @@
   <string name="alisdk_message_10014_message">当前网络不可用</string>
   <string name="alisdk_message_10014_name">NETWORK_NOT_AVAILABLE</string>
   <string name="alisdk_message_10014_type">E</string>
-  <string name="alisdk_message_10015_action"></string>
+  <string name="alisdk_message_10015_action"/>
   <string name="alisdk_message_10015_message">退出登录</string>
   <string name="alisdk_message_10015_name">USER_LOGOUT</string>
   <string name="alisdk_message_10015_type">I</string>
@@ -126,7 +126,7 @@
   <string name="alisdk_message_10022_message">SDK 组件 {0} 启动出错，错误消息为 {1}</string>
   <string name="alisdk_message_10022_name">PLUGIN_INIT_FAILED</string>
   <string name="alisdk_message_10022_type">E</string>
-  <string name="alisdk_message_100_action"></string>
+  <string name="alisdk_message_100_action"/>
   <string name="alisdk_message_100_message">操作成功</string>
   <string name="alisdk_message_100_name">ACTION_SUCCESS</string>
   <string name="alisdk_message_100_type">I</string>
@@ -146,7 +146,7 @@
   <string name="alisdk_message_14_message">输入参数 {0} 为 null 或者为空</string>
   <string name="alisdk_message_14_name">NULL_OR_EMPTY_PARAMETER</string>
   <string name="alisdk_message_14_type">E</string>
-  <string name="alisdk_message_15_action"></string>
+  <string name="alisdk_message_15_action"/>
   <string name="alisdk_message_15_message">{0} 模块 请求服务端出错，错误消息为 {1}</string>
   <string name="alisdk_message_15_name">SERVER_REQUEST_FAILED</string>
   <string name="alisdk_message_15_type">E</string>
@@ -158,7 +158,7 @@
   <string name="alisdk_message_17_message">不能获取类名为 {0}，过滤条件为 {1} 的服务</string>
   <string name="alisdk_message_17_name">SERVICE_NOT_AVAILABLE_ERROR</string>
   <string name="alisdk_message_17_type">E</string>
-  <string name="alisdk_message_18_action"></string>
+  <string name="alisdk_message_18_action"/>
   <string name="alisdk_message_18_message">系统繁忙，请稍后再试</string>
   <string name="alisdk_message_18_name">SERVER_BUSY_ERROR</string>
   <string name="alisdk_message_18_type">E</string>
@@ -277,7 +277,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">هذه علامة التبويب الأخيرة</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">اسحب لأعلى للإغلاق</string>
   <string name="browserFrameFileErrorLabel">مشكلة الملف</string>
-  <string name="browserFrameFormResubmitLabel"></string>
+  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"الصفحة التي تحاول عرضها تحتوي على بيانات تم إرسالها مسبقا. إذا قمت بإعادة إرسال البيانات، سيتم تكرار الإجراءات السابقة (مثل عمليات البحث أو الشراء)."</string>
   <string name="browserFrameNetworkErrorLabel">مشكلة في الاتصال</string>
   <string name="cancel">إلغاء</string>
@@ -808,7 +808,7 @@ Leave this page?"</string>
   <string name="readmode_login"> تسجيل الدخول </string>
   <string name="readmode_login_message"> تحتاج إلى تسجيل الدخول لقراءة المزيد. </string>
   <string name="readmode_page_load_error">"لا يمكن تحميل الصفحة"</string>
-  <string name="readmode_page_loading">لحظة من فضلك&#8230;</string>
+  <string name="readmode_page_loading">لحظة من فضلك…</string>
   <string name="readmode_pay">شراء الفصل</string>
   <string name="readmode_pay_message"> عليك أن تدفع لقراءة الفصل التالي.</string>
   <string name="readmode_reach_last_page">هذه الصفحة الأخيرة</string>
@@ -995,7 +995,7 @@ Leave this page?"</string>
   <string name="video_download_failed">"Couldn't download"</string>
   <string name="video_download_finding_address">Getting download URL</string>
   <string name="video_download_pause">Paused</string>
-  <string name="video_download_start">Downloading&#8230;</string>
+  <string name="video_download_start">Downloading…</string>
   <string name="video_download_success">Complete</string>
   <string name="video_download_unknown_name">Unknown Name</string>
   <string name="video_download_unknown_size">Size unknown</string>
@@ -1031,10 +1031,10 @@ Leave this page?"</string>
   <string name="view_document_downloaded_files">عرض الملفات التي تم تحميلها في التنزيلات</string>
   <string name="voice_sub_title">"
 ألا تعرف ماذا تقول؟ جرب \"افتح mi.com!\""</string>
-  <string name="voice_title">قل الأمر&#8230;</string>
-  <string name="voice_title_distinguish">معالجة&#8230;</string>
-  <string name="voice_title_listening">الاستماع&#8230;</string>
-  <string name="voice_title_please">ابدأ في التحدث&#8230;</string>
+  <string name="voice_title">قل الأمر…</string>
+  <string name="voice_title_distinguish">معالجة…</string>
+  <string name="voice_title_listening">الاستماع…</string>
+  <string name="voice_title_please">ابدأ في التحدث…</string>
   <string name="voice_title_speech_again">"تعذر فهمك"</string>
   <string name="weather_location_confirm_message">إيقاف هذه الميزة قد يؤثّر على الإستخدام.</string>
   <string name="webpage_bookmark_title">إشارات مرجعية</string>

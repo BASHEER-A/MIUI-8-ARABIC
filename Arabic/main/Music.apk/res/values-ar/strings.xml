@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">حساب</string>
   <string name="account_and_cloud">حساب</string>
@@ -226,7 +226,7 @@
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_share_dialog">Share using</string>
-  <string name="download_speed_null"></string>
+  <string name="download_speed_null"/>
   <string name="download_start">جارٍ بدء التحميل\u2026</string>
   <string name="download_start_btn">تنزيل مجاني</string>
   <string name="download_success">Complete</string>
@@ -244,7 +244,7 @@
   <string name="download_while_playing_title">تنزيل أثناء التشغيل</string>
   <string name="downloaded_empty">Empty</string>
   <string name="downloading_empty">Empty</string>
-  <string name="downloads_operating">Working&#8230;</string>
+  <string name="downloads_operating">Working…</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -482,7 +482,7 @@
   <string name="not_now">ليس الآن</string>
   <string name="not_selected">اختيار اغنية</string>
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
-  <string name="notif_text_engine_on">Accelerating&#8230;</string>
+  <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
   <string name="notif_title_multiple_downloading">Downloading %1$d files</string>
   <string name="notif_title_single_downloading">Downloading %1$s</string>

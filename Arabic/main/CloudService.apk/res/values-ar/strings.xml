@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">الوصول مرفوض</string>
   <string name="account">حساب</string>
@@ -102,7 +102,7 @@
   <string name="find_device_status_ok">اعثر على جهازك من أي مكان عبر i.mi.com</string>
   <string name="find_device_status_ok_international">اعثر على جهازك من أي مكان على www.mi.com/micloud</string>
   <string name="find_device_success_title">العثور على الجهاز</string>
-  <string name="forget_password"><u>نسيت كلمة المرور</u></string>
+  <string name="forget_password">&lt;u&gt;&amp;#1606;&amp;#1587;&amp;#1610;&amp;#1578; &amp;#1603;&amp;#1604;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1608;&amp;#1585;&lt;/u&gt;</string>
   <string name="free_space_has_received">لقد أضفت مساحة مجانية بالفعل هذا الشهر</string>
   <string name="free_space_receive_fail">"تتعذر الترقية"</string>
   <string name="get_first_month_gb">احصل على %s مساحة مجانية</string>
@@ -218,8 +218,8 @@
   <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_first_login_summary"></string>
-  <string name="micloud_first_login_title"></string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">سيتم عمل نسخة احتياطية لجميع الصور، مقاطع الفيديو، الملاحظات، والتطبيقات في Cloud.\n\nوبهذه الطريقة، إذا فقدت الجهاز أو تضرر، فستظل بياناتك في أمان. \n\nوعند أمتلاء مساحة تخزين Cloud، فلن تذهب بياناتك القديمة إلى أي مكان. ولكن، لن يتم عمل نسخة احتياطية لإي محتوى يتم إضافته (مثل الصور، مقاطع الفيديو، الملاحظات، والتطبيقات).\n\nلتفادي ذلك، يمكنك إما إزالة بعض الملفات القديمة لتوفير مساحة للملفات الجديدة، أو يمكنك شراء مساحة تخزين إضافية.</string>
   <string name="micloud_full_influence_title">عندما يمتلئ Mi Cloud الخاصة بك\u2026</string>
   <string name="micloud_main_battery_low">لا يوجد بطارية كافية للمزامنة</string>
@@ -316,7 +316,7 @@
   <string name="micloud_space_applist_title">إدارة التطبيقات</string>
   <string name="micloud_space_duokan_detail">تنزيل وإدارة الكتب الإلكترونية بإستخدام تطبيق Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence"><u>ماذا يحدث عندما تنفد المساحة لدي؟</u></string>
+  <string name="micloud_space_full_influence">&lt;u&gt;&amp;#1605;&amp;#1575;&amp;#1584;&amp;#1575; &amp;#1610;&amp;#1581;&amp;#1583;&amp;#1579; &amp;#1593;&amp;#1606;&amp;#1583;&amp;#1605;&amp;#1575; &amp;#1578;&amp;#1606;&amp;#1601;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&amp;#1575;&amp;#1581;&amp;#1577; &amp;#1604;&amp;#1583;&amp;#1610;&amp;#1567;&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">إدارة التسجييلات المخزنة على جهازك</string>
   <string name="micloud_space_soundrecorder_title">التسجيلات</string>
   <string name="micloud_storage">التخزين</string>
@@ -334,7 +334,7 @@
   <string name="micloud_title_dspt" formatted="false">%s الإجمالي\n%sالمستخدم |%s المتبقي</string>
   <string name="micloud_title_dspt_remain">%s متبقي</string>
   <string name="micloud_title_full_dspt">"لقد وصلت إلى حدك الاقصى للتخزين"</string>
-  <string name="micloud_unlogin_for_time_summary"></string>
+  <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_member">الحصول على مساحة تخزين إضافية</string>
   <string name="micloud_upgrade_space">الحصول على مساحة تخزين إضافية</string>
@@ -352,7 +352,7 @@
   <string name="microsoft_cloud">خدمة Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">حوالي ٨٠ يوان في السنة</string>
-  <string name="more_activity_in_upgrade_space">تعرف المزيد على <a href="http://i.mi.com">http://i.mi.com</a></string>
+  <string name="more_activity_in_upgrade_space">تعرف المزيد على &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">رسالة Mi</string>
   <string name="mx_dspt_provision">رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.\n\nيمكنك تشغيل هذه الميزة او ايقافها في اي وقت من الإعدادات.</string>
   <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وارسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
@@ -405,7 +405,7 @@
   <string name="short_cut_desc">إضافة أيقونة Mi Cloud للشاشة الرئيسية؟</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">Sending&#8230;</string>
+  <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
@@ -477,5 +477,5 @@
   <string name="wipe_data_dialog_msg_separator">،</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr"></string>
+  <string name="xmpp_server_addr"/>
 </resources>

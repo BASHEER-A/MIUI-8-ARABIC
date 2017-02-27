@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">الحسابات</string>
   <string name="aaid_info">"
@@ -122,8 +122,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
 Your Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device’s location information."</string>
   <string name="additional_permissions">Additional permissions</string>
   <string name="additional_permissions_more">%1$d more</string>
-  <string name="additional_system_update"></string>
-  <string name="additional_system_update_menu"></string>
+  <string name="additional_system_update"/>
+  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">تحديثات النظام الإضافية</string>
   <string name="adjust_3d_depth_title">"تعديل عمق الـ 3D للألعاب"</string>
   <string name="advanced_apps">Advanced</string>
@@ -226,7 +226,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_memory_use">Memory use</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">The app wasn’t found in the list of installed apps.</string>
-  <string name="app_not_found_dlg_title"></string>
+  <string name="app_not_found_dlg_title"/>
   <string name="app_notification_block_summary">Never show notifications from this app</string>
   <string name="app_notification_block_title">Block all</string>
   <string name="app_notification_peekable_summary">Let this app emphasize certain notifications by sliding them briefly into view on the current screen</string>
@@ -292,7 +292,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
   <string name="attempt_other_network">تبديل الشبكات</string>
-  <string name="audio_list_loading">Loading&#8230;</string>
+  <string name="audio_list_loading">Loading…</string>
   <string name="audio_profile_settings_title">ملفات تعريفات الصوت</string>
   <string name="audio_record_proc_title">Noise cancellation</string>
   <string name="auto_brightness_summary">Optimize brightness level for available light</string>
@@ -335,13 +335,13 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="backup_data_summary">نسخ احتياطي لبيانات إي تطبيق، كلمات مرور شبكات Wi-Fi ، وغيرها من الإعدادات الأخرى إلى خوادم Google</string>
   <string name="backup_data_title">Back up my data</string>
   <string name="backup_erase_dialog_message">إيقاف النسخ الأحتياطي لكلمات مرور شبكات Wi-Fi، الإشارات المرجعية، الإعدادات الأخرى، بيانات إي تطبيق، ومسح جميع النسخ الموجودة على خوادم Google؟</string>
-  <string name="backup_erase_dialog_title"></string>
+  <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Backup service is inactive.</string>
   <string name="backup_pw_cancel_button_text">Cancel</string>
   <string name="backup_pw_set_button_text">Set backup password</string>
   <string name="backup_section_title">Backup &amp; restore</string>
   <string name="band_mode_failed">Unsuccessful</string>
-  <string name="band_mode_loading">Loading band list&#8230;</string>
+  <string name="band_mode_loading">Loading band list…</string>
   <string name="band_mode_set">Set</string>
   <string name="band_mode_succeeded">Successful</string>
   <string name="band_mode_title">Set GSM/UMTS band</string>
@@ -469,13 +469,13 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
 
 Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Make sure it is showing this passkey:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
-  <string name="bluetooth_connect_specific_profiles_title">Connect to&#8230;</string>
+  <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
   <string name="bluetooth_connected">Connected</string>
   <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
   <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
   <string name="bluetooth_connected_no_map">Connected (no message access)</string>
-  <string name="bluetooth_connecting">Connecting&#8230;</string>
+  <string name="bluetooth_connecting">Connecting…</string>
   <string name="bluetooth_connecting_error_message">Couldn’t connect to %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Do you want to connect to \"%1$s\"?</string>
   <string name="bluetooth_connection_notif_message">Touch to connect to \"%1$s\".</string>
@@ -489,7 +489,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_device_advanced_rename_device">Rename</string>
   <string name="bluetooth_device_advanced_title">Paired Bluetooth device</string>
   <string name="bluetooth_device_context_connect">Connect</string>
-  <string name="bluetooth_device_context_connect_advanced">Options&#8230;</string>
+  <string name="bluetooth_device_context_connect_advanced">Options…</string>
   <string name="bluetooth_device_context_disconnect">Disconnect</string>
   <string name="bluetooth_device_context_disconnect_unpair">Disconnect &amp; unpair</string>
   <string name="bluetooth_device_context_pair_connect">Pair &amp; connect</string>
@@ -508,7 +508,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_disconnect_pan_user_profile">Internet access via %1$s will be disconnected.</string>
   <string name="bluetooth_disconnect_title">Disconnect?</string>
   <string name="bluetooth_disconnected">Disconnected</string>
-  <string name="bluetooth_disconnecting">Disconnecting&#8230;</string>
+  <string name="bluetooth_disconnecting">Disconnecting…</string>
   <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
   <string name="bluetooth_dock_settings">Dock Settings</string>
   <string name="bluetooth_dock_settings_a2dp">For music and media</string>
@@ -524,7 +524,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_enter_passkey_msg">Type the pairing code then press Return or Enter</string>
   <string name="bluetooth_enter_passkey_other_device">You may also need to type this passkey on the other device.</string>
   <string name="bluetooth_enter_pin_other_device">You may also need to type this PIN on the other device.</string>
-  <string name="bluetooth_error_title"></string>
+  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Connected to phone audio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
   <string name="bluetooth_hid_profile_summary_connected">Connected to input device</string>
@@ -552,7 +552,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_opp_profile_summary_connected">Connected to file transfer server</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Not connected to file transfer server</string>
   <string name="bluetooth_opp_profile_summary_use_for">Use for file transfer</string>
-  <string name="bluetooth_pairing">Pairing&#8230;</string>
+  <string name="bluetooth_pairing">Pairing…</string>
   <string name="bluetooth_pairing_accept">Pair</string>
   <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
   <string name="bluetooth_pairing_decline">Cancel</string>
@@ -611,7 +611,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_sap_request">SIM access request</string>
   <string name="bluetooth_scan_for_devices">Scan for devices</string>
   <string name="bluetooth_search_for_devices">Refresh</string>
-  <string name="bluetooth_searching_for_devices">Searching&#8230;</string>
+  <string name="bluetooth_searching_for_devices">Searching…</string>
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Manage connections, set device name &amp; discoverability</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
@@ -624,9 +624,9 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_tethering_off_subtext">Not sharing this phone’s Internet connection</string>
   <string name="bluetooth_tethering_off_subtext_config">Sharing this %1$d’s Internet connection</string>
   <string name="bluetooth_tethering_overflow_error">Can’t tether to more than %1$d devices.</string>
-  <string name="bluetooth_turning_off">Turning Bluetooth off&#8230;</string>
-  <string name="bluetooth_turning_on">Turning Bluetooth on&#8230;</string>
-  <string name="bluetooth_unknown"></string>
+  <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
+  <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
+  <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">إضافة جهاز</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">سيتم استبدال الجهاز القديم بآخر جديد.</string>
   <string name="bluetooth_unlock_change_matched_device">اختيار جهاز آخر</string>
@@ -776,7 +776,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="check_find_device_status_failure_confirm">موافق</string>
   <string name="check_update">التحقق من وجود تحديثات</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
-  <string name="checking_decryption">Checking&#8230;</string>
+  <string name="checking_decryption">Checking…</string>
   <string name="checking_find_device_status">جارٍ التحقق من حالة العثور على الجهاز\u2026</string>
   <string name="checking_for_updates">جار التحقق من وجود تحديثات\u2026</string>
   <string name="childmod_privacy_password_role_instruction">Turn on Child mode to prevent unwanted actions when the device is used by a child</string>
@@ -822,7 +822,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="color_yellow">Yellow</string>
   <string name="common_settings">الإعدادات السريعة</string>
   <string name="complete_settings">الإعدادات العامة</string>
-  <string name="computing_size">Computing&#8230;</string>
+  <string name="computing_size">Computing…</string>
   <string name="config_charging_function_name">charging</string>
   <string name="config_list_label">Configured networks</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
@@ -875,7 +875,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="credentials_reset_warning_plural">Incorrect password. You have %1$d more chances before credential storage is erased.</string>
   <string name="credentials_settings_not_available">Credentials are not available for this user</string>
   <string name="credentials_title">Credential storage</string>
-  <string name="credentials_unlock"></string>
+  <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Type the password for credential storage.</string>
   <string name="credentials_wrong_password">Incorrect password.</string>
   <string name="crypt_keeper_button_text">Encrypt phone</string>
@@ -959,7 +959,7 @@ Some accounts may also automatically copy any changes you make on the phone to t
   <string name="data_usage_background_label">Background:</string>
   <string name="data_usage_cellular_data">Cellular data</string>
   <string name="data_usage_cellular_data_summary">Paused at limit</string>
-  <string name="data_usage_change_cycle">Change cycle&#8230;</string>
+  <string name="data_usage_change_cycle">Change cycle…</string>
   <string name="data_usage_cycle">Data usage cycle</string>
   <string name="data_usage_cycle_editor_positive">Set</string>
   <string name="data_usage_cycle_editor_subtitle">Date of each month:</string>
@@ -1149,7 +1149,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
   <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
   <string name="dlg_error_unmount_text">Couldn’t unmount USB storage. Try again later.</string>
-  <string name="dlg_error_unmount_title"></string>
+  <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dlg_switch">Switch</string>
   <string name="dndm_alarm_content">Sounds</string>
@@ -1338,7 +1338,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_mcc_not3">MCC field must be 3 digits.</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
   <string name="error_name_empty">The Name field can’t be empty.</string>
-  <string name="error_title"></string>
+  <string name="error_title"/>
   <string name="every_day">Every day</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
@@ -1427,7 +1427,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_touch_enable">تشغيل لمس 3D</string>
   <string name="force_touch_enable_tips">اضغط على أيقونات التطبيقات في مشغل البرامج (Launcher) مع الكبس قليلا لعرض القائمات المختصرة عندما يكون لمس 3D يعمل.</string>
   <string name="forget">Forget</string>
-  <string name="forget_password_button_text"><u>نسيت كلمة المرور</u></string>
+  <string name="forget_password_button_text">&lt;u&gt;&amp;#1606;&amp;#1587;&amp;#1610;&amp;#1578; &amp;#1603;&amp;#1604;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1608;&amp;#1585;&lt;/u&gt;</string>
   <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Add Mi Account</string>
   <string name="forget_privacy_password_summary">Use Mi Account to reset your password</string>
@@ -1527,37 +1527,37 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
   <string name="heavy_weight_stop_description">This app can’t safely be stopped. If you stop it, you may lose some of your current work.</string>
   <string name="help_label">Help &amp; feedback</string>
-  <string name="help_uri_about"></string>
-  <string name="help_uri_accessibility"></string>
-  <string name="help_uri_apps"></string>
-  <string name="help_uri_beam"></string>
-  <string name="help_uri_dashboard"></string>
-  <string name="help_uri_default"></string>
-  <string name="help_uri_display"></string>
-  <string name="help_uri_interruptions"></string>
-  <string name="help_uri_notifications"></string>
-  <string name="help_uri_other_sounds"></string>
-  <string name="help_uri_printing"></string>
-  <string name="help_uri_storage"></string>
-  <string name="help_uri_wallpaper"></string>
-  <string name="help_url_accounts"></string>
-  <string name="help_url_backup_reset"></string>
-  <string name="help_url_battery"></string>
-  <string name="help_url_bluetooth"></string>
-  <string name="help_url_choose_lockscreen"></string>
-  <string name="help_url_data_usage"></string>
-  <string name="help_url_dreams"></string>
-  <string name="help_url_fingerprint"></string>
-  <string name="help_url_location_access"></string>
-  <string name="help_url_more_networks"></string>
-  <string name="help_url_nfc_payment"></string>
-  <string name="help_url_remote_display"></string>
-  <string name="help_url_security"></string>
-  <string name="help_url_sound"></string>
-  <string name="help_url_tether"></string>
-  <string name="help_url_users"></string>
-  <string name="help_url_vpn"></string>
-  <string name="help_url_wifi"></string>
+  <string name="help_uri_about"/>
+  <string name="help_uri_accessibility"/>
+  <string name="help_uri_apps"/>
+  <string name="help_uri_beam"/>
+  <string name="help_uri_dashboard"/>
+  <string name="help_uri_default"/>
+  <string name="help_uri_display"/>
+  <string name="help_uri_interruptions"/>
+  <string name="help_uri_notifications"/>
+  <string name="help_uri_other_sounds"/>
+  <string name="help_uri_printing"/>
+  <string name="help_uri_storage"/>
+  <string name="help_uri_wallpaper"/>
+  <string name="help_url_accounts"/>
+  <string name="help_url_backup_reset"/>
+  <string name="help_url_battery"/>
+  <string name="help_url_bluetooth"/>
+  <string name="help_url_choose_lockscreen"/>
+  <string name="help_url_data_usage"/>
+  <string name="help_url_dreams"/>
+  <string name="help_url_fingerprint"/>
+  <string name="help_url_location_access"/>
+  <string name="help_url_more_networks"/>
+  <string name="help_url_nfc_payment"/>
+  <string name="help_url_remote_display"/>
+  <string name="help_url_security"/>
+  <string name="help_url_sound"/>
+  <string name="help_url_tether"/>
+  <string name="help_url_users"/>
+  <string name="help_url_vpn"/>
+  <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
   <string name="hide">Hide</string>
   <string name="hide_screen_button">Hide screen buttons</string>
@@ -1634,7 +1634,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="internal_format">مسح سعة التخزين الداخلية</string>
   <string name="internal_format_summary">"مسح كل بيانات سعة التخزين الداخلية للجهاز"</string>
   <string name="internal_media_format_button_text">مسح سعة التخزين الداخلية</string>
-  <string name="internal_media_format_desc">مسح سعة التخزين الداخلية؟ سيتم حذف <b>كل</b> من بياناتك! سيتم إعادة تشغيل هاتفك بعد مسح سعة التخزين الداخلية.</string>
+  <string name="internal_media_format_desc">مسح سعة التخزين الداخلية؟ سيتم حذف &lt;b&gt;&amp;#1603;&amp;#1604;&lt;/b&gt; &amp;#1605;&amp;#1606; &amp;#1576;&amp;#1610;&amp;#1575;&amp;#1606;&amp;#1575;&amp;#1578;&amp;#1603;! &amp;#1587;&amp;#1610;&amp;#1578;&amp;#1605; &amp;#1573;&amp;#1593;&amp;#1575;&amp;#1583;&amp;#1577; &amp;#1578;&amp;#1588;&amp;#1594;&amp;#1610;&amp;#1604; &amp;#1607;&amp;#1575;&amp;#1578;&amp;#1601;&amp;#1603; &amp;#1576;&amp;#1593;&amp;#1583; &amp;#1605;&amp;#1587;&amp;#1581; &amp;#1587;&amp;#1593;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1582;&amp;#1586;&amp;#1610;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1583;&amp;#1575;&amp;#1582;&amp;#1604;&amp;#1610;&amp;#1577;.</string>
   <string name="internal_media_format_final_desc">"محو سعة التخزين الداخلية؟ لا يمكن التراجع عن هذا الإجراء! سيتم إعادة تشغيل هاتفك بعد مسح سعة التخزين الداخلية."</string>
   <string name="internal_media_format_title">مسح سعة التخزين الداخلية</string>
   <string name="internal_memory">Internal storage</string>
@@ -2016,7 +2016,7 @@ There are other users present on this device.
   <string name="memory_available_read_only">Available (read-only)</string>
   <string name="memory_avg_desc">Average %1$s</string>
   <string name="memory_avg_use">Average</string>
-  <string name="memory_calculating_size">Calculating&#8230;</string>
+  <string name="memory_calculating_size">Calculating…</string>
   <string name="memory_clear_cache_message">This will clear cached data for all apps.</string>
   <string name="memory_clear_cache_title">Clear cached data?</string>
   <string name="memory_dcim_usage">Pictures, videos</string>
@@ -2088,7 +2088,7 @@ There are other users present on this device.
   <string name="modify_privacy_password">Change password</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">Couldn’t move app. %1$s</string>
-  <string name="move_app_failed_dlg_title"></string>
+  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
@@ -2267,7 +2267,7 @@ There are other users present on this device.
   <string name="now">إعادة التشغيل الآن</string>
   <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
-  <string name="oem_preferred_feedback_reporter"></string>
+  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
   <string name="oem_unlock_enable">OEM unlocking</string>
   <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>
@@ -2559,7 +2559,7 @@ There are other users present on this device.
   <string name="phone_call_noise_suppression">تقليل الضوضاء أثناء المكالمات</string>
   <string name="phone_info_label">Phone info</string>
   <string name="phone_language">Language</string>
-  <string name="phone_language_summary"></string>
+  <string name="phone_language_summary"/>
   <string name="pico_installed">Installed</string>
   <string name="pico_languages_and_voices">Languages and voices</string>
   <string name="pico_not_installed">Not installed</string>
@@ -2692,7 +2692,7 @@ There are other users present on this device.
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
-  <string name="privacy_password_transparent_tiltle"></string>
+  <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Show pattern</string>
   <string name="privacy_protect_title">حماية الخصوصية</string>
   <string name="privacy_relative">خصوصية</string>
@@ -2826,9 +2826,9 @@ There are other users present on this device.
   <string name="receiver_clean">تفريغ مساحة</string>
   <string name="recent_location_requests_summary">عرض كل التطبيقات التي تطلب الوصول إلى معلومات موقعك</string>
   <string name="recent_location_requests_title">الوصول إلى الموقع</string>
-  <string name="recompute_size">Recomputing size&#8230;</string>
+  <string name="recompute_size">Recomputing size…</string>
   <string name="record_anr_in_background">تسجيل خلفية حالات ANR</string>
-  <string name="regulatory_info_text"></string>
+  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
   <string name="remove_account_label">Remove account</string>
@@ -2884,7 +2884,7 @@ There are other users present on this device.
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_mute">None</string>
   <string name="ringtone_slot_setting_title">إعدادات SIM الفردية</string>
-  <string name="ringtone_summary"></string>
+  <string name="ringtone_summary"/>
   <string name="ringtone_title">Phone ringtone</string>
   <string name="ringtone_uniform_setting_title">ضبط SIM المزدوجة</string>
   <string name="roaming">Data roaming</string>
@@ -3007,7 +3007,7 @@ This setting affects all users on this phone."</string>
   <string name="sd_insert_summary">Insert USB storage for mounting</string>
   <string name="sd_memory">USB storage</string>
   <string name="sd_mount">Mount USB storage</string>
-  <string name="sd_mount_summary"></string>
+  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
   <string name="sdcard_format">Erase USB storage</string>
   <string name="sdcard_setting">USB storage</string>
@@ -3016,7 +3016,7 @@ This setting affects all users on this phone."</string>
   <string name="sdcard_settings_mass_storage_status">USB storage is being used as a mass storage device.</string>
   <string name="sdcard_settings_not_present_status">USB storage not mounted.</string>
   <string name="sdcard_settings_read_only_status">USB storage mounted read-only.</string>
-  <string name="sdcard_settings_scanning_status">Scanning USB storage for media&#8230;</string>
+  <string name="sdcard_settings_scanning_status">Scanning USB storage for media…</string>
   <string name="sdcard_settings_screen_mass_storage_text">Enable USB mass storage</string>
   <string name="sdcard_settings_total_bytes_label">Total bytes:</string>
   <string name="sdcard_settings_unmounted_status">It’s now safe to remove the USB storage.</string>
@@ -3309,11 +3309,11 @@ This setting affects all users on this phone."</string>
   <string name="settings_forbidden_message">هذا الإعداد مُعطل</string>
   <string name="settings_label">Settings</string>
   <string name="settings_label_launcher">Settings</string>
-  <string name="settings_license_activity_loading">Loading&#8230;</string>
+  <string name="settings_license_activity_loading">Loading…</string>
   <string name="settings_license_activity_title">Open source licenses</string>
   <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
   <string name="settings_package">com.android.settings</string>
-  <string name="settings_safetylegal_activity_loading">Loading&#8230;</string>
+  <string name="settings_safetylegal_activity_loading">Loading…</string>
   <string name="settings_safetylegal_activity_title">Safety information</string>
   <string name="settings_safetylegal_activity_unreachable">You don’t have a data connection. To view this information now, go to %s from any computer connected to the Internet.</string>
   <string name="settings_safetylegal_title">Safety information</string>
@@ -3490,7 +3490,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_screen_key_recent_apps">Recent apps button</string>
   <string name="status_bar_settings">الإشعارات وشريط الحالة</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
-  <string name="status_bar_settings_all_app_display_loading">Just a sec&#8230;</string>
+  <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
@@ -3640,12 +3640,12 @@ After formatting, this ^1 will only work in this device.
 \"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;\" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
   <string name="storage_wizard_format_confirm_public_body">هذا يتطلب تهيأة ^1.
-        \n<b>التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.</b> لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها.
+        \n&lt;b&gt;&amp;#1575;&amp;#1604;&amp;#1578;&amp;#1607;&amp;#1610;&amp;#1571;&amp;#1577; &amp;#1578;&amp;#1605;&amp;#1581;&amp;#1608; &amp;#1603;&amp;#1575;&amp;#1601;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1576;&amp;#1610;&amp;#1575;&amp;#1606;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1582;&amp;#1586;&amp;#1606;&amp;#1577; &amp;#1581;&amp;#1575;&amp;#1604;&amp;#1610;&amp;#1575; &amp;#1601;&amp;#1610;  ^1.&lt;/b&gt; &amp;#1604;&amp;#1578;&amp;#1580;&amp;#1606;&amp;#1576; &amp;#1601;&amp;#1602;&amp;#1583;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1576;&amp;#1610;&amp;#1575;&amp;#1606;&amp;#1575;&amp;#1578;&amp;#1548; &amp;#1602;&amp;#1605; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1606;&amp;#1592;&amp;#1585; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1602;&amp;#1610;&amp;#1575;&amp;#1605; &amp;#1576;&amp;#1606;&amp;#1587;&amp;#1582;&amp;#1577; &amp;#1573;&amp;#1581;&amp;#1578;&amp;#1610;&amp;#1575;&amp;#1591;&amp;#1610;&amp;#1577; &amp;#1604;&amp;#1607;&amp;#1575;.
     </string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
   <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
-  <string name="storage_wizard_format_progress_title">Formatting ^1&#8230;</string>
+  <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
   <string name="storage_wizard_init_external_summary">For moving photos and other media between devices.</string>
   <string name="storage_wizard_init_external_title">Use as portable storage</string>
   <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
@@ -3663,7 +3663,7 @@ After formatting, this ^1 will only work in this device.
 • Keep the device charged."</string>
   <string name="storage_wizard_migrate_later">Move later</string>
   <string name="storage_wizard_migrate_now">Move now</string>
-  <string name="storage_wizard_migrate_progress_title">Moving data&#8230;</string>
+  <string name="storage_wizard_migrate_progress_title">Moving data…</string>
   <string name="storage_wizard_migrate_title">Move data to new storage</string>
   <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
 
@@ -3673,7 +3673,7 @@ Don’t remove the ^2 during the move."</string>
 
 The ^2 app on this device won’t be available until the move is complete."</string>
   <string name="storage_wizard_move_progress_cancel">Cancel move</string>
-  <string name="storage_wizard_move_progress_title">Moving ^1&#8230;</string>
+  <string name="storage_wizard_move_progress_title">Moving ^1…</string>
   <string name="storage_wizard_ready_external_body">
 ^1 الخاص بك تم تعيينها جميعا للاستخدام مع صور ووسائط اخرى.
     </string>
@@ -3717,7 +3717,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_error">Sync error</string>
   <string name="sync_failed">Sync failed</string>
   <string name="sync_gmail">Gmail</string>
-  <string name="sync_in_progress">Syncing now&#8230;</string>
+  <string name="sync_in_progress">Syncing now…</string>
   <string name="sync_is_failing">Sync is currently experiencing problems. It will be back shortly.</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel sync</string>
@@ -3742,7 +3742,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="system_package">System updates can’t be installed on external media.</string>
   <string name="system_storage">تخزين النظام</string>
   <string name="system_ui_settings">Show SystemUI Tuner</string>
-  <string name="system_update_settings_list_item_summary"></string>
+  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">System updates</string>
   <string name="tap_to_wake">Tap to wake</string>
   <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
@@ -3797,7 +3797,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_settings">كرة التعقب</string>
   <string name="trackball_wake_title">إيقاظ كرة التعقب</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="translation_contributors_summary"></string>
+  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">المساهمون</string>
   <string name="trust_agent_disabled_device_admin">Disabled by administrator</string>
   <string name="trusted_credentials">Trusted credentials</string>
@@ -3903,7 +3903,7 @@ Your saved fingerprints will also be removed from this device and you won\'t be 
   <string name="unlock_set_unlock_mode_pin">رمز PIN</string>
   <string name="unlock_set_unlock_none_summary">No security</string>
   <string name="unlock_set_unlock_none_title">لا شيء</string>
-  <string name="unlock_set_unlock_off_summary"></string>
+  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">None</string>
   <string name="unlock_set_unlock_password_summary">أدخل أربعة حروف أو أرقام أو أكثر لإلغاء قفل الجهاز</string>
   <string name="unlock_set_unlock_password_title">كلمة المرور</string>
@@ -3963,7 +3963,7 @@ Your saved fingerprints will also be removed from this device and you won\'t be 
   <string name="usb_midi_summary">Lets MIDI enabled applications work over USB with MIDI software on your computer.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">وضع وحدة تخزين USB</string>
-  <string name="usb_mount_summary"></string>
+  <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">الحصول على برامج تشغيل لأنظمة Windows و OSX</string>
   <string name="usb_msd_driver_installer_title">قرص مثبت المشغل (MSD)</string>
   <string name="usb_msd_summary">نقل الملفات باستخدام Windows أو OSX</string>
@@ -4008,7 +4008,7 @@ Any user can update apps for all other users."</string>
   <string name="user_add_user_or_profile_menu">Add user or profile</string>
   <string name="user_add_user_title">Add new user?</string>
   <string name="user_add_user_type_title">Add</string>
-  <string name="user_adding_new_user">Adding new user&#8230;</string>
+  <string name="user_adding_new_user">Adding new user…</string>
   <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
   <string name="user_cannot_manage_message">Only the phone’s owner can manage users.</string>
   <string name="user_confirm_remove_message">All apps and data will be deleted.</string>
@@ -4033,8 +4033,8 @@ Any user can update apps for all other users."</string>
   <string name="user_dict_settings_context_menu_edit_title">Edit</string>
   <string name="user_dict_settings_edit_dialog_title">Edit word</string>
   <string name="user_dict_settings_empty_text">ليس لديك أية قواميس.\nانقر على علامة الجمع لإضافة كلمات.</string>
-  <string name="user_dict_settings_more_languages">More languages&#8230;</string>
-  <string name="user_dict_settings_summary"></string>
+  <string name="user_dict_settings_more_languages">More languages…</string>
+  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Personal dictionary</string>
   <string name="user_enable_calling">Turn on phone calls</string>
   <string name="user_enable_calling_and_sms_confirm_message">Call and SMS history will be shared with this user.</string>
@@ -4407,7 +4407,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
   <string name="wifi_p2p_menu_rename">Rename device</string>
   <string name="wifi_p2p_menu_search">Search for devices</string>
-  <string name="wifi_p2p_menu_searching">Searching&#8230;</string>
+  <string name="wifi_p2p_menu_searching">Searching…</string>
   <string name="wifi_p2p_peer_devices">Peer devices</string>
   <string name="wifi_p2p_persist_network">Remember this connection</string>
   <string name="wifi_p2p_remembered_groups">Remembered groups</string>
@@ -4477,8 +4477,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_back">Back</string>
   <string name="wifi_setup_cancel">Cancel</string>
   <string name="wifi_setup_connect">Connect</string>
-  <string name="wifi_setup_description_connected">انقر<b>التالي</b> لمتابعة التثبيت.\n\nانقر<b>رجوع</b> للاتصال بشبكة Wi-Fi مختلفة.</string>
-  <string name="wifi_setup_description_connecting">Connecting can take a few minutes&#8230;</string>
+  <string name="wifi_setup_description_connected">انقر&lt;b&gt;&amp;#1575;&amp;#1604;&amp;#1578;&amp;#1575;&amp;#1604;&amp;#1610;&lt;/b&gt; &amp;#1604;&amp;#1605;&amp;#1578;&amp;#1575;&amp;#1576;&amp;#1593;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1579;&amp;#1576;&amp;#1610;&amp;#1578;.\n\n&amp;#1575;&amp;#1606;&amp;#1602;&amp;#1585;&lt;b&gt;&amp;#1585;&amp;#1580;&amp;#1608;&amp;#1593;&lt;/b&gt; &amp;#1604;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; Wi-Fi &amp;#1605;&amp;#1582;&amp;#1578;&amp;#1604;&amp;#1601;&amp;#1577;.</string>
+  <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">"لا يمكنك تهيئة اتصال شبكة EAP Wi-Fi أثناء الإعداد. يمكنك بعد الإعداد الذهاب إلى الإعدادات &gt; الشبكات اللاسلكية."</string>
   <string name="wifi_setup_forget">Forget</string>
@@ -4487,13 +4487,13 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_refresh_list">Refresh list</string>
   <string name="wifi_setup_save">Save</string>
   <string name="wifi_setup_skip">Skip</string>
-  <string name="wifi_setup_status_connecting">Connecting&#8230;</string>
+  <string name="wifi_setup_status_connecting">Connecting…</string>
   <string name="wifi_setup_status_eap_not_supported">EAP isn’t supported.</string>
   <string name="wifi_setup_status_edit_network">Type network configuration</string>
   <string name="wifi_setup_status_existing_network">Connect to existing network</string>
   <string name="wifi_setup_status_new_network">Connect to new network</string>
   <string name="wifi_setup_status_proceed_to_next">Go to the next step</string>
-  <string name="wifi_setup_status_scanning">Scanning networks&#8230;</string>
+  <string name="wifi_setup_status_scanning">Scanning networks…</string>
   <string name="wifi_setup_status_select_network">Touch a network to connect to it</string>
   <string name="wifi_setup_status_unsecured_network">Connect to unsecured network</string>
   <string name="wifi_setup_title">إعداد Wi-Fi</string>
@@ -4566,9 +4566,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_tether_failed_subtext">حدث خطأ في نقطة الاتصال المحمولة</string>
   <string name="wifi_tether_setting_title">إعدادات</string>
   <string name="wifi_tether_settings_title">نقطة اتصال شخصية</string>
-  <string name="wifi_tether_starting">Turning hotspot on&#8230;</string>
-  <string name="wifi_tether_stopping">Turning off hotspot&#8230;</string>
-  <string name="wifi_type_approval"></string>
+  <string name="wifi_tether_starting">Turning hotspot on…</string>
+  <string name="wifi_tether_stopping">Turning off hotspot…</string>
+  <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">موافقة النوع</string>
   <string name="wifi_unchanged">(unchanged)</string>
@@ -4598,7 +4598,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_wapi_user_cert">شهادة المستخدم</string>
   <string name="wifi_wps_available_first_item">WPS available</string>
   <string name="wifi_wps_available_second_item">" (WPS available)"</string>
-  <string name="wifi_wps_complete">WPS succeeded. Connecting to the network&#8230;</string>
+  <string name="wifi_wps_complete">WPS succeeded. Connecting to the network…</string>
   <string name="wifi_wps_connected">تم الاتصال بشبكة Wi-Fi %s</string>
   <string name="wifi_wps_failed_auth">Authentication failure. Please try again.</string>
   <string name="wifi_wps_failed_generic">WPS failed. Please try again in a few minutes.</string>
@@ -4610,7 +4610,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_wps_onstart_pbc">إضغط على زر التثبيت المحمي لشبكة Wi-Fi في جهاز التوجيه. قد يسمى \"WPS\" أو قد يحمل هذا الرمز:</string>
   <string name="wifi_wps_onstart_pin">أدخل رمز Pin %1$s بجهاز توجيه الـ Wi-Fi. قد يستغرق التثبيت دقيقتين لاكماله.</string>
   <string name="wifi_wps_overlap_error">تم اكتشاف دورة شبكة Wi-Fi أخرى. انتظر دقيقة أو اثنتين ثم حاول مرة أخرى.</string>
-  <string name="wifi_wps_setup_msg">Starting WPS&#8230;</string>
+  <string name="wifi_wps_setup_msg">Starting WPS…</string>
   <string name="wifi_wps_setup_title">إعداد Wi-Fi المحمي</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Window animation scale</string>

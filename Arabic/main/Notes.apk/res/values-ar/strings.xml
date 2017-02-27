@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">مزامنة الملاحظات مع حساب Mi  الخاصة بك؟</string>
   <string name="alarm_bar_title">تذكير</string>
@@ -119,7 +119,7 @@ Tap the plus to create a folder"</string>
   <string name="select_account_prompt">مزامنة الملاحظات</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">Sending&#8230;</string>
+  <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>

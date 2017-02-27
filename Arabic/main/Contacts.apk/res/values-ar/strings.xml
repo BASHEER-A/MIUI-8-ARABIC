@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">تفاصيل سجل المكالمات</string>
   <string name="account_container_title">مستورد من</string>
@@ -80,7 +80,7 @@
   <string name="call_main">الاتصال بالرئيسي</string>
   <string name="call_mms">الاتصال بـ MMS</string>
   <string name="call_mobile">الاتصال بالجوال</string>
-  <string name="call_not_found">&#160;--</string>
+  <string name="call_not_found"> --</string>
   <string name="call_operator_init">تعيين شركة الاتصالات</string>
   <string name="call_other">اتصال</string>
   <string name="call_other_fax">الاتصال بالفاكس</string>
@@ -186,13 +186,13 @@
   <string name="composer_has_no_exportable_contact">لا توجد جهات اتصال قابلة للتصدير. إذا كان لديك جهات اتصال على هاتفك، فقد لا يسمح بعض موفري البيانات بتصدير جهات الاتصال من الهاتف.</string>
   <string name="composer_not_initialized">"لم يتم بدء تشغيل مؤلف vCard بشكل صحيح."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"></string>
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"></string>
-  <string name="config_export_file_suffix"></string>
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
   <string name="config_export_vcard_type">v30_generic</string>
   <string name="config_import_vcard_type">default</string>
-  <string name="config_prohibited_phone_number_regexp"></string>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">مسح سجل المكالمات؟</string>
   <string name="confirm_delete_selected_all_call_logs">مسح سجل المكالمات؟</string>
   <string name="confirm_delete_sim_entry_miui_title">حذف</string>
@@ -417,7 +417,7 @@
   <string name="email_work">إرسال بريد إلكتروني إلى عنوان البريد الإلكتروني الخاص بالعمل</string>
   <string name="emergency_number_label">رقم الطوارئ</string>
   <string name="emptyGroup">لا يوجد أشخاص في هذه المجموعة</string>
-  <string name="empty_divider_title"></string>
+  <string name="empty_divider_title"/>
   <string name="enter_contact_name">"أدخل اسم الشخص"</string>
   <string name="eventLabelsGroup">تاريخ الميلاد</string>
   <string name="eventTypeCustom">مخصص</string>
@@ -477,7 +477,7 @@
   <string name="group_create_fail_toast">"يتعذر إنشاء مجموعة"</string>
   <string name="group_create_success_toast">تم إنشاء المجموعة</string>
   <string name="group_delete_success_toast">تم حذف المجموعة</string>
-  <string name="group_detail_label_placeholder">&#160;&#160;</string>
+  <string name="group_detail_label_placeholder">  </string>
   <string name="group_edit_field_hint_text">اسم المجموعة</string>
   <string name="group_member_remove_toast">تمت الإزالة من المجموعة</string>
   <string name="group_move_fail_toast">"تعذر نقل جهات اتصال"</string>
@@ -492,10 +492,10 @@
   <string name="group_sms_progress_msg">\"جارٍ التنظيم في مجموعات\u2026\"</string>
   <string name="groupsLabel">المجموعات</string>
   <string name="groups_list_empty">لا توجد مجموعات</string>
-  <string name="help_url_people_add"></string>
-  <string name="help_url_people_edit"></string>
-  <string name="help_url_people_main"></string>
-  <string name="hint_distance"></string>
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
+  <string name="hint_distance"/>
   <string name="hint_findContacts">البحث عن جهات اتصال</string>
   <string name="hint_more_contact">دمج جهات الاتصال المكررة</string>
   <string name="hybrid_check_network">إعدادات الشبكة</string>
@@ -742,38 +742,38 @@
   <string name="nickname_picker_name_column">اسم جهة الاتصال</string>
   <string name="nickname_picker_nickname_column">العنوان</string>
   <string name="noAccounts">لإنشاء مجموعات تحتاج إلى حساب.</string>
-  <string name="noContactHelpTextAccountsInfo"></string>
+  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">إستعادة بيانات جهة الاتصال من حساب Mi</string>
   <string name="noContacts">لا توجد جهات اتصال</string>
-  <string name="noContactsHelpText">\"لا توجد لديك أيه جهات اتصال لعرضها.\n\nلإضافة جهات اتصال، اضغط على <font fgcolor="#ffffffff"><b>القائمة</b></font>، ثم المس:\n
-        \n<li><font fgcolor="#ffffffff"><b>حسابات</b></font>لإضافة حساب أو إعداده به جهات اتصال يمكنك مزامنتها مع الهاتف\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>جهة اتصال جديد</b></font> إنشاء جهة اتصال جديدة من البداية\n</li>
-       \n<li><font fgcolor="#ffffffff"><b>استيراد/تصدير</b></font> استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD\n</li>\"
+  <string name="noContactsHelpText">\"لا توجد لديك أيه جهات اتصال لعرضها.\n\nلإضافة جهات اتصال، اضغط على &lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1604;&amp;#1602;&amp;#1575;&amp;#1574;&amp;#1605;&amp;#1577;&lt;/b&gt;&lt;/font&gt;&amp;#1548; &amp;#1579;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;:\n
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576;&amp;#1575;&amp;#1578;&lt;/b&gt;&lt;/font&gt;&amp;#1604;&amp;#1573;&amp;#1590;&amp;#1575;&amp;#1601;&amp;#1577; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576; &amp;#1571;&amp;#1608; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1576;&amp;#1607; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606;&amp;#1603; &amp;#1605;&amp;#1586;&amp;#1575;&amp;#1605;&amp;#1606;&amp;#1578;&amp;#1607;&amp;#1575; &amp;#1605;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1607;&amp;#1575;&amp;#1578;&amp;#1601;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&lt;/b&gt;&lt;/font&gt; &amp;#1573;&amp;#1606;&amp;#1588;&amp;#1575;&amp;#1569; &amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577; &amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1576;&amp;#1583;&amp;#1575;&amp;#1610;&amp;#1577;\n&lt;/li&gt;
+       \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583;/&amp;#1578;&amp;#1589;&amp;#1583;&amp;#1610;&amp;#1585;&lt;/b&gt;&lt;/font&gt; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1605;&amp;#1606; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; SIM &amp;#1571;&amp;#1608; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; SD\n&lt;/li&gt;\"
     </string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
-  <string name="noContactsHelpTextWithSync">\"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فسيستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)\n\nلإضافة جهات اتصال، المس <font fgcolor="#ffffffff"><b>القائمة</b></font>، ثم المس:\n
-        \n<li><font fgcolor="#ffffffff"><b>حسابات</b></font> لإضافة حساب أو إعداده به جهات اتصال يمكنك مزامنتها مع الهاتف\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>خيارات العرض</b></font> لتغيير جهات الاتصال التي ستكون ظاهرة\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>جهة اتصال جديدة</b></font> لإنشاء جهة اتصال جديدة من البداية\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>استيراد/تصدير</b></font> لاستيراد جهات الاتصال من بطاقة SIM او بطاقة الذاكرة SD\n</li>\"
+  <string name="noContactsHelpTextWithSync">\"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فسيستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)\n\nلإضافة جهات اتصال، المس &lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1604;&amp;#1602;&amp;#1575;&amp;#1574;&amp;#1605;&amp;#1577;&lt;/b&gt;&lt;/font&gt;&amp;#1548; &amp;#1579;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;:\n
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576;&amp;#1575;&amp;#1578;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1573;&amp;#1590;&amp;#1575;&amp;#1601;&amp;#1577; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576; &amp;#1571;&amp;#1608; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1576;&amp;#1607; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606;&amp;#1603; &amp;#1605;&amp;#1586;&amp;#1575;&amp;#1605;&amp;#1606;&amp;#1578;&amp;#1607;&amp;#1575; &amp;#1605;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1607;&amp;#1575;&amp;#1578;&amp;#1601;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1582;&amp;#1610;&amp;#1575;&amp;#1585;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1585;&amp;#1590;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1578;&amp;#1594;&amp;#1610;&amp;#1610;&amp;#1585; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1610; &amp;#1587;&amp;#1578;&amp;#1603;&amp;#1608;&amp;#1606; &amp;#1592;&amp;#1575;&amp;#1607;&amp;#1585;&amp;#1577;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1573;&amp;#1606;&amp;#1588;&amp;#1575;&amp;#1569; &amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577; &amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1576;&amp;#1583;&amp;#1575;&amp;#1610;&amp;#1577;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583;/&amp;#1578;&amp;#1589;&amp;#1583;&amp;#1610;&amp;#1585;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1605;&amp;#1606; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; SIM &amp;#1575;&amp;#1608; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1584;&amp;#1575;&amp;#1603;&amp;#1585;&amp;#1577; SD\n&lt;/li&gt;\"
     
     </string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)"</string>
-  <string name="noContactsNoSimHelpText">\"لا توجد لديك أيه جهات اتصال لعرضها.\n\nلإضافة جهات اتصال، المس  <font fgcolor="#ffffffff"><b>القائمة</b></font>، ثم المس:\n
-        \n<li><font fgcolor="#ffffffff"><b>حسابات</b></font> لإضافة حساب أو إعداده به جهات اتصال يمكنك مزامنتها مع الهاتف\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>جهة اتصال جديدة</b></font> لإنشاء جهة اتصال جديدة من البداية\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>استيراد/تصدير</b></font> لاستيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏\\n</li>\"    </string>
-  <string name="noContactsNoSimHelpTextWithSync">\"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فسيستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)\n\nلإضافة جهات اتصال، المس <font fgcolor="#ffffffff"><b>القائمة</b></font>، ثم المس:\n
-        \n<li><font fgcolor="#ffffffff"><b>حسابات</b></font> لإضافة حساب أو إعداده به جهات اتصال يمكنك مزامنتها مع الهاتف\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>خيارات العرض</b></font> لتغيير جهات الاتصال التي ستكون ظاهرة\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>جهة اتصال جديدة</b></font> لإنشاء جهة اتصال جديدة من البداية\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>استيراد/تصدير</b></font> لاستيراد جهات الاتصال من بطاقة الذاكرة SD\n</li>\"
+  <string name="noContactsNoSimHelpText">\"لا توجد لديك أيه جهات اتصال لعرضها.\n\nلإضافة جهات اتصال، المس  &lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1604;&amp;#1602;&amp;#1575;&amp;#1574;&amp;#1605;&amp;#1577;&lt;/b&gt;&lt;/font&gt;&amp;#1548; &amp;#1579;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;:\n
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576;&amp;#1575;&amp;#1578;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1573;&amp;#1590;&amp;#1575;&amp;#1601;&amp;#1577; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576; &amp;#1571;&amp;#1608; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1576;&amp;#1607; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606;&amp;#1603; &amp;#1605;&amp;#1586;&amp;#1575;&amp;#1605;&amp;#1606;&amp;#1578;&amp;#1607;&amp;#1575; &amp;#1605;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1607;&amp;#1575;&amp;#1578;&amp;#1601;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1573;&amp;#1606;&amp;#1588;&amp;#1575;&amp;#1569; &amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577; &amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1576;&amp;#1583;&amp;#1575;&amp;#1610;&amp;#1577;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583;/&amp;#1578;&amp;#1589;&amp;#1583;&amp;#1610;&amp;#1585;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1605;&amp;#1606; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; SIM &amp;#1571;&amp;#1608; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; SD&amp;#8207;\\n&lt;/li&gt;\"    </string>
+  <string name="noContactsNoSimHelpTextWithSync">\"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فسيستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)\n\nلإضافة جهات اتصال، المس &lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1604;&amp;#1602;&amp;#1575;&amp;#1574;&amp;#1605;&amp;#1577;&lt;/b&gt;&lt;/font&gt;&amp;#1548; &amp;#1579;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;:\n
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576;&amp;#1575;&amp;#1578;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1573;&amp;#1590;&amp;#1575;&amp;#1601;&amp;#1577; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576; &amp;#1571;&amp;#1608; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1576;&amp;#1607; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606;&amp;#1603; &amp;#1605;&amp;#1586;&amp;#1575;&amp;#1605;&amp;#1606;&amp;#1578;&amp;#1607;&amp;#1575; &amp;#1605;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1607;&amp;#1575;&amp;#1578;&amp;#1601;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1582;&amp;#1610;&amp;#1575;&amp;#1585;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1585;&amp;#1590;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1578;&amp;#1594;&amp;#1610;&amp;#1610;&amp;#1585; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1610; &amp;#1587;&amp;#1578;&amp;#1603;&amp;#1608;&amp;#1606; &amp;#1592;&amp;#1575;&amp;#1607;&amp;#1585;&amp;#1577;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1573;&amp;#1606;&amp;#1588;&amp;#1575;&amp;#1569; &amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;&amp;#1577; &amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1576;&amp;#1583;&amp;#1575;&amp;#1610;&amp;#1577;\n&lt;/li&gt;
+        \n&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583;/&amp;#1578;&amp;#1589;&amp;#1583;&amp;#1610;&amp;#1585;&lt;/b&gt;&lt;/font&gt; &amp;#1604;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1583; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1605;&amp;#1606; &amp;#1576;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1584;&amp;#1575;&amp;#1603;&amp;#1585;&amp;#1577; SD\n&lt;/li&gt;\"
     </string>
   <string name="noContactsWithPhoneNumbers">لا توجد جهات اتصال بأرقام هاتف</string>
   <string name="noFavoritesHelpText">\"لا توجد لديك أية جهات مفضلة.\n\nلإضافة جهة اتصال إلى قائمة جهات الاتصال المفضلة لديك:\n
-        <li>المس<b>علامة تبويب</b>جهات الاتصال\n</li>
-        \n<li>المس جهة الاتصال التي ترغب في إضافتها إلى قائمة المفضلة\n</li>
-        \n<li>المس النجمة الموجودة بجوار اسم جهة الاتصال\n</li>\"
+        &lt;li&gt;&amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&lt;b&gt;&amp;#1593;&amp;#1604;&amp;#1575;&amp;#1605;&amp;#1577; &amp;#1578;&amp;#1576;&amp;#1608;&amp;#1610;&amp;#1576;&lt;/b&gt;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604;\n&lt;/li&gt;
+        \n&lt;li&gt;&amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587; &amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1610; &amp;#1578;&amp;#1585;&amp;#1594;&amp;#1576; &amp;#1601;&amp;#1610; &amp;#1573;&amp;#1590;&amp;#1575;&amp;#1601;&amp;#1578;&amp;#1607;&amp;#1575; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1602;&amp;#1575;&amp;#1574;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1601;&amp;#1590;&amp;#1604;&amp;#1577;\n&lt;/li&gt;
+        \n&lt;li&gt;&amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587; &amp;#1575;&amp;#1604;&amp;#1606;&amp;#1580;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1580;&amp;#1608;&amp;#1583;&amp;#1577; &amp;#1576;&amp;#1580;&amp;#1608;&amp;#1575;&amp;#1585; &amp;#1575;&amp;#1587;&amp;#1605; &amp;#1580;&amp;#1607;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604;\n&lt;/li&gt;\"
     </string>
   <string name="noGroups">لا توجد مجموعات</string>
   <string name="noMatchingContacts">لم يتم العثور على جهات اتصال مطابقة.</string>
@@ -935,7 +935,7 @@
   <string name="profile_name_photo">صورة</string>
   <string name="public_account_name">حساب عام</string>
   <string name="pull_to_refresh_pull_label">اسحب للتحديث</string>
-  <string name="pull_to_refresh_refreshing_label">لحظة من فضلك&#8230;</string>
+  <string name="pull_to_refresh_refreshing_label">لحظة من فضلك…</string>
   <string name="pull_to_refresh_release_label">حرّره للتحديث</string>
   <string name="qr_card_card">رمز QR</string>
   <string name="qrcode_card_title">رمز QR</string>
@@ -995,7 +995,7 @@
   <string name="scan_duplicate_message">%1$d جهة اتصال بمعلومات متطابقة</string>
   <string name="scan_merge"> \"البحث عن جهات الاتصال المكررة\u2026\" </string>
   <string name="scan_qrcode_card_hint1">امسح رمز QR الموجود بالأعلى</string>
-  <string name="scan_qrcode_card_hint2"></string>
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">السبب: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"تعذر فحص بطاقة SD"</string>
   <string name="searchHint">البحث عن جهات الاتصال</string>
@@ -1130,10 +1130,10 @@
   <string name="summary_kind_title">ملخص</string>
   <string name="t9_search_guide_pinyin_title1">أدخل الارقام للإيجاد جهات الاتصال</string>
   <string name="t9_search_guide_pinyin_title2">أدخل \"٩\" و \"٤\" للبحث عن
-        \"<font fgcolor="">س</font>لام<font fgcolor="">ط</font>بجي\"</string>
+        \"&lt;font fgcolor=""&gt;&amp;#1587;&lt;/font&gt;&amp;#1604;&amp;#1575;&amp;#1605;&lt;font fgcolor=""&gt;&amp;#1591;&lt;/font&gt;&amp;#1576;&amp;#1580;&amp;#1610;\"</string>
   <string name="t9_search_guide_zhuyin_title1">أدخل الارقام للإيجاد جهات الاتصال</string>
   <string name="t9_search_guide_zhuyin_title2">أدخل \"٥\" و \"٦\" للبحث عن
-        \"<font fgcolor="">J</font>eff <font fgcolor="">M</font></string>
+        \"&lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;</string>
   <string name="take_new_photo">التقاط صورة جديدة</string>
   <string name="take_photo">التقاط صورة</string>
   <string name="telecom_fraud_insurance">تأمين احتيال الاتصالات</string>

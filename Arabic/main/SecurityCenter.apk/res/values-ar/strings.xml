@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">الرسائل النصية القصيرة ورسائل الوسائط المتعددة</string>
   <string name="Setting_lock">الإعدادات</string>
@@ -151,7 +151,7 @@
   <string name="battery_history_days_no_seconds">%1$dيوم %2$dس %3$dدق</string>
   <string name="battery_history_hours">%1$dساعة %2$dدقيقة%3$dثانية</string>
   <string name="battery_history_hours_no_seconds">%1$dس %2$dدق</string>
-  <string name="battery_history_minutes">%1$dدق %2$d>ث</string>
+  <string name="battery_history_minutes">%1$dدق %2$d&gt;ث</string>
   <string name="battery_history_minutes_no_seconds">%1$dدق</string>
   <string name="battery_history_seconds">%1$dث</string>
   <string name="battery_stats_charging_label">يتم الشحن </string>
@@ -416,8 +416,8 @@
   <string name="firewall_service_network_blocked">تم تقييد %1$s من استخدام %2$s‏ من الشبكات</string>
   <string name="five_percent_total_pkg">%s (5%% من البيانات شهرية)</string>
   <string name="foreground_traffic">الأمامي %s</string>
-  <string name="forget_password_button_text"><u>نسيت كلمة السر</u></string>
-  <string name="forget_pattern"><u>نسيت كلمة المرور</u></string>
+  <string name="forget_password_button_text">&lt;u&gt;&amp;#1606;&amp;#1587;&amp;#1610;&amp;#1578; &amp;#1603;&amp;#1604;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1587;&amp;#1585;&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;&amp;#1606;&amp;#1587;&amp;#1610;&amp;#1578; &amp;#1603;&amp;#1604;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1608;&amp;#1585;&lt;/u&gt;</string>
   <string name="free_time_traffic">حد البيانات خارج أوقات الذروة</string>
   <string name="free_time_traffic_hint">إدخال حد البيانات خارج أوقات الذروة</string>
   <string name="free_time_traffic_settings">حد البيانات خارج أوقات الذروة</string>
@@ -471,7 +471,7 @@
   <string name="hints_scan_result_risk">المخاطر التي تم كشفها</string>
   <string name="hints_scan_result_safe">آمن</string>
   <string name="hints_scan_result_virus">الفيروسات التي تم اكتشافها</string>
-  <string name="hints_scanning_text">جارٍ الفحص&#8230;</string>
+  <string name="hints_scanning_text">جارٍ الفحص…</string>
   <string name="hints_scanning_virus_by_cloud">جارٍ فحص Cloud\u2026</string>
   <string name="hints_unknown_virus_name">غير معروف</string>
   <string name="hints_virus_apk_list_item_summary">apk</string>
@@ -682,7 +682,7 @@
   <string name="network_operator_exception_summary">"تعذر تفعيل بطاقة SIM، يرجى التأكد من تركيب بطاقة SIM الخاصة بك بشكل سليم ومن أن شركة الاتصالات الخاصة بك قد قامت بتفعيل خطة هاتفك الجوال."</string>
   <string name="network_permission_exception_tips">"يتعذر استخدام بيانات الجوال للاتصال بالشبكة"</string>
   <string name="network_roaming_exception_tips">"يتعذر استخدام بيانات الجوال أثناء التجوال للاتصال بالشبكة."</string>
-  <string name="network_route_exception_detail">قد تكون هناك مشكلة في جهاز التوجيه الذي تتصل به:\n\n‏<b>‏١. مشكلات في شبكة الـWi-Fi العامة</b>‏\nإذا كنت متصل بشبكة Wi-Fi عامة، فمن الممكن أن يؤدي عدد المستخدمين المتصلين بهذه الشبكة إلى إبطاء عمل الشبكة أو إلى حدوث مشكلات في الاتصال. انتقل الى شبكة أخرى وحاول مرة أخرى.\n\n‏ <b>‏٢. مشكلات من مزود خدمة الإنترنت</b>\n تأكد من أن حسابك في وضع جيد مع مزود خدمة الإنترنت الخاص بك.\n\n <b>٣. مشكلات بجهاز التوجيه</b>\nجرب إعادة تشغيل جهاز التوجيه الخاص بك أو مراجعة إعدادات المشرف بجهاز التوجيه.\n\n <b>٤. مشكلات أخرى في جهاز التوجيه</b>\nقم بقراءة التعليمات المرفقة بجهاز التوجيه وقم بإستعادة إعدادات المصنع لجهاز التوجيه الخاص بك.\n\n <b>٥. تأكد من أن جهاز التوجيه متصل بشكل سليم</b>\nجرب استخدام كابل \"Ethernet cable\" لتوصيل جهاز التوجيه. إذا كان لديك شك في وجود مشكلة في الاتصال داخل منزلك، قم بالاتصال بمزود خدمة الإنترنت.</string>
+  <string name="network_route_exception_detail">قد تكون هناك مشكلة في جهاز التوجيه الذي تتصل به:\n\n‏&lt;b&gt;&amp;#8207;&amp;#1633;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1601;&amp;#1610; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1600;Wi-Fi &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1575;&amp;#1605;&amp;#1577;&lt;/b&gt;&amp;#8207;\n&amp;#1573;&amp;#1584;&amp;#1575; &amp;#1603;&amp;#1606;&amp;#1578; &amp;#1605;&amp;#1578;&amp;#1589;&amp;#1604; &amp;#1576;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; Wi-Fi &amp;#1593;&amp;#1575;&amp;#1605;&amp;#1577;&amp;#1548; &amp;#1601;&amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1605;&amp;#1603;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1610;&amp;#1572;&amp;#1583;&amp;#1610; &amp;#1593;&amp;#1583;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1605;&amp;#1610;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1578;&amp;#1589;&amp;#1604;&amp;#1610;&amp;#1606; &amp;#1576;&amp;#1607;&amp;#1584;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1573;&amp;#1576;&amp;#1591;&amp;#1575;&amp;#1569; &amp;#1593;&amp;#1605;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1571;&amp;#1608; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1581;&amp;#1583;&amp;#1608;&amp;#1579; &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604;. &amp;#1575;&amp;#1606;&amp;#1578;&amp;#1602;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1609; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1571;&amp;#1582;&amp;#1585;&amp;#1609; &amp;#1608;&amp;#1581;&amp;#1575;&amp;#1608;&amp;#1604; &amp;#1605;&amp;#1585;&amp;#1577; &amp;#1571;&amp;#1582;&amp;#1585;&amp;#1609;.\n\n&amp;#8207; &lt;b&gt;&amp;#8207;&amp;#1634;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1605;&amp;#1606; &amp;#1605;&amp;#1586;&amp;#1608;&amp;#1583; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1606;&amp;#1578;&amp;#1585;&amp;#1606;&amp;#1578;&lt;/b&gt;\n &amp;#1578;&amp;#1571;&amp;#1603;&amp;#1583; &amp;#1605;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576;&amp;#1603; &amp;#1601;&amp;#1610; &amp;#1608;&amp;#1590;&amp;#1593; &amp;#1580;&amp;#1610;&amp;#1583; &amp;#1605;&amp;#1593; &amp;#1605;&amp;#1586;&amp;#1608;&amp;#1583; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1606;&amp;#1578;&amp;#1585;&amp;#1606;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1589; &amp;#1576;&amp;#1603;.\n\n &lt;b&gt;&amp;#1635;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1576;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;&lt;/b&gt;\n&amp;#1580;&amp;#1585;&amp;#1576; &amp;#1573;&amp;#1593;&amp;#1575;&amp;#1583;&amp;#1577; &amp;#1578;&amp;#1588;&amp;#1594;&amp;#1610;&amp;#1604; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1589; &amp;#1576;&amp;#1603; &amp;#1571;&amp;#1608; &amp;#1605;&amp;#1585;&amp;#1575;&amp;#1580;&amp;#1593;&amp;#1577; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1588;&amp;#1585;&amp;#1601; &amp;#1576;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;.\n\n &lt;b&gt;&amp;#1636;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1571;&amp;#1582;&amp;#1585;&amp;#1609; &amp;#1601;&amp;#1610; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;&lt;/b&gt;\n&amp;#1602;&amp;#1605; &amp;#1576;&amp;#1602;&amp;#1585;&amp;#1575;&amp;#1569;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1593;&amp;#1604;&amp;#1610;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1601;&amp;#1602;&amp;#1577; &amp;#1576;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1608;&amp;#1602;&amp;#1605; &amp;#1576;&amp;#1573;&amp;#1587;&amp;#1578;&amp;#1593;&amp;#1575;&amp;#1583;&amp;#1577; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1589;&amp;#1606;&amp;#1593; &amp;#1604;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1589; &amp;#1576;&amp;#1603;.\n\n &lt;b&gt;&amp;#1637;. &amp;#1578;&amp;#1571;&amp;#1603;&amp;#1583; &amp;#1605;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1605;&amp;#1578;&amp;#1589;&amp;#1604; &amp;#1576;&amp;#1588;&amp;#1603;&amp;#1604; &amp;#1587;&amp;#1604;&amp;#1610;&amp;#1605;&lt;/b&gt;\n&amp;#1580;&amp;#1585;&amp;#1576; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1575;&amp;#1605; &amp;#1603;&amp;#1575;&amp;#1576;&amp;#1604; \"Ethernet cable\" &amp;#1604;&amp;#1578;&amp;#1608;&amp;#1589;&amp;#1610;&amp;#1604; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;. &amp;#1573;&amp;#1584;&amp;#1575; &amp;#1603;&amp;#1575;&amp;#1606; &amp;#1604;&amp;#1583;&amp;#1610;&amp;#1603; &amp;#1588;&amp;#1603; &amp;#1601;&amp;#1610; &amp;#1608;&amp;#1580;&amp;#1608;&amp;#1583; &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1577; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1583;&amp;#1575;&amp;#1582;&amp;#1604; &amp;#1605;&amp;#1606;&amp;#1586;&amp;#1604;&amp;#1603;&amp;#1548; &amp;#1602;&amp;#1605; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1605;&amp;#1586;&amp;#1608;&amp;#1583; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1606;&amp;#1578;&amp;#1585;&amp;#1606;&amp;#1578;.</string>
   <string name="network_sim_exception_detail">قد تكون هناك مشكلة في بطاقة SIM الخاصة بك:\n\n
          ١. تأكد من أن حسابك في وضع جيدة مع شركة الاتصالات الخاصة بك. جرب استخدام بطاقة SIM خاصة بصديق لك وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n
          ٢. إذا كنت تستخدم بطاقتي SIM، جرب الانتقال إلى البطاقة الأخرى وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n
@@ -758,7 +758,7 @@
   <string name="optmizingbar_optimize_done">تم التحسين</string>
   <string name="optmizingbar_ready">جار التحسين\u2026</string>
   <string name="optmizingbar_stop_optmize">إيقاف</string>
-  <string name="optmizingbar_title_acceleration">جارٍ التحسين&#8230;</string>
+  <string name="optmizingbar_title_acceleration">جارٍ التحسين…</string>
   <string name="optmizingbar_title_clear">مسح ذاكرة التخزين المؤقت</string>
   <string name="optmizingbar_title_security">الحماية</string>
   <string name="optmizingbar_title_system">حماية النظام</string>
@@ -1003,7 +1003,7 @@
   <string name="preferred_app_entries_launcher">المُشغل</string>
   <string name="preferred_app_entries_messaging">الرسائل</string>
   <string name="preferred_app_entries_music">الموسيقى</string>
-  <string name="privacy_declare_dialog_message">"باستخدام هذه الخدمة، فأنت توافق على <a href=%s> شروط الخدمة</a> الخاصة بمتصفح Opera\."</string>
+  <string name="privacy_declare_dialog_message">"باستخدام هذه الخدمة، فأنت توافق على  شروط الخدمة الخاصة بمتصفح Opera\."</string>
   <string name="privacy_declare_dialog_title">شروط الخدمة</string>
   <string name="privacy_mode_dialog_title">وضع الزائر</string>
   <string name="privacy_prompt_tc_sms_report_message">"سيتم تشفير رقم هاتفك وتفاصيل شركة الاتصالات الخاصة بك و رفعها الى خوادم Mi لتحديث معلومات استخدام البيانات الخاصة بك."</string>
@@ -1102,19 +1102,17 @@
   <string name="safepay_alert_dialog_button_continue">متابعة</string>
   <string name="safepay_alert_dialog_button_risk">إصلاح</string>
   <string name="safepay_alert_dialog_button_unknown">تحقق مرة اخرى</string>
-  <string name="safepay_alert_dialog_title_risk"><font color="#ec2700">خطر موجود! قطع الدفع الحالي!</font></string>
-  <string name="safepay_alert_dialog_title_unknown">"<font color="#f59c00">تعذر التحقق من امن الدفع. اتصل بالإنترنت ثم حاول مرة أخرى.</font>"</string>
+  <string name="safepay_alert_dialog_title_risk">خطر موجود! قطع الدفع الحالي!</string>
+  <string name="safepay_alert_dialog_title_unknown">"تعذر التحقق من امن الدفع. اتصل بالإنترنت ثم حاول مرة أخرى."</string>
   <string name="sc_allow_network_dialog_message">يحتاج هذا التطبيق للاتصال بالإنترنت ليعمل بشكل طبيعي.</string>
   <string name="sc_allow_network_dialog_tiltle">"تعذر استخدام هذه الميزة"</string>
   <string name="scan_status_risk">ذو خطورة</string>
   <string name="scan_status_safe">آمن</string>
-  <string name="scanning_bar_cache_title">جارٍ فحص المهملات&#8230;</string>
-  <string name="scanning_bar_memory_title">جارٍ فحص ذاكرة التخزين المؤقت&#8230;</string>
+  <string name="scanning_bar_cache_title">جارٍ فحص المهملات…</string>
+  <string name="scanning_bar_memory_title">جارٍ فحص ذاكرة التخزين المؤقت…</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="scanning_bar_system_text">أذونات التطبيقات</string>
-  <string name="scanning_bar_system_title">جارٍ فحص النظام&#8230;</string>
-  <string name="score_pts">%</string>
-  <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
+  <string name="scanning_bar_system_title">جارٍ فحص النظام…</string>
   <string name="section_clear_acc_item_title">"%s. إذا مازال هناك مساحة غير كافية، حاول استخدام المنظف."</string>
   <string name="section_security_defend_item_title">قم بحماية بياناتك مع قفل التطبيقات</string>
   <string name="section_system_item_fixed">تم الاصلاح</string>
@@ -1230,7 +1228,7 @@
   <string name="tc_diagnostic_all_error_notification_title">"تعذر اكمال التشخيص"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">انقر لتعديل نوع الشبكة</string>
   <string name="tc_diagnostic_brand_error_notification_title">نوع شبكة خاطئ</string>
-  <string name="tc_diagnostic_brand_result">"<font color='#CC0000'> النتيجة: اسم مشغل شبكة الجوال غير صحيح<br/><br/>قم بتعيين اسم مشغل شبكة الجوال: %1$s<br/>المشغل الفعلي:%2$s</font>"</string>
+  <string name="tc_diagnostic_brand_result">" النتيجة: اسم مشغل شبكة الجوال غير صحيحقم بتعيين اسم مشغل شبكة الجوال: %1$s2$s"</string>
   <string name="tc_diagnostic_complete">تم</string>
   <string name="tc_diagnostic_fragment_default">حول التشخيص\n١. سيقوم الجهاز بالاتصال بشبكة الخادم، ارسال رسالة مجانية، و انتظار استجابة الخادم. قد يستغرق ذلك ٥ دقائق.\n٢. يمكنك الخروج من هذه الصفحة خلال التشخيص، سيتم ذلك في الخلفية.</string>
   <string name="tc_diagnostic_location_error_notification_summary">انقر لتعديل الموقع</string>
@@ -1241,24 +1239,24 @@
   <string name="tc_diagnostic_onekey_repair_botton">إصلاح</string>
   <string name="tc_diagnostic_operator_error_notification_summary">انقر لتغيير إعدادات مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_operator_error_notification_title">مشغّل شبكة جوال خاطئ</string>
-  <string name="tc_diagnostic_operator_result">"<font color='#CC0000'> النتيجة: خادم غير صحيح <br/><br/> الخادم المُعين: %1$s<br/> الخادم الفعلي: %2$s</font>"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color="#CC0000"&gt; &amp;#1575;&amp;#1604;&amp;#1606;&amp;#1578;&amp;#1610;&amp;#1580;&amp;#1577;: &amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1594;&amp;#1610;&amp;#1585; &amp;#1589;&amp;#1581;&amp;#1610;&amp;#1581; &lt;br/&gt;&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1615;&amp;#1593;&amp;#1610;&amp;#1606;: %1$s&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1601;&amp;#1593;&amp;#1604;&amp;#1610;: %2$s&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">إصلاح ومتابعة</string>
-  <string name="tc_diagnostic_repair_location">"<font color='#3EC234'>اكتمل التشخيص، اصلاح مشاكل الموقع.</font>"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"<font color='#3EC234'>اكتمل التشخيص، اصلاح مشاكل الموقع ومشغل شبكة الجوال.</font>"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color="#3EC234"&gt;&amp;#1575;&amp;#1603;&amp;#1578;&amp;#1605;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&amp;#1548; &amp;#1575;&amp;#1589;&amp;#1604;&amp;#1575;&amp;#1581; &amp;#1605;&amp;#1588;&amp;#1575;&amp;#1603;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593;.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color="#3EC234"&gt;&amp;#1575;&amp;#1603;&amp;#1578;&amp;#1605;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&amp;#1548; &amp;#1575;&amp;#1589;&amp;#1604;&amp;#1575;&amp;#1581; &amp;#1605;&amp;#1588;&amp;#1575;&amp;#1603;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1608;&amp;#1605;&amp;#1588;&amp;#1594;&amp;#1604; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1608;&amp;#1575;&amp;#1604;.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">تم التغيير بنجاح</string>
-  <string name="tc_diagnostic_result">"<font color='#CC0000'> النتيجة: تعذر اكتمال التشخيص<br/><br/>الأبلاغ عن هذه الخلل لمساعدة MIUI في تطوير أدوات التشخيص</font>"</string>
-  <string name="tc_diagnostic_sim_location_result">"<font color='#CC0000'>النتيجة: موقع خاطئ <br/><br/> الموقع المُعين: %1$s<br/> الموقع الفعلي: %2$s</font>"</string>
+  <string name="tc_diagnostic_result">"&lt;font color="#CC0000"&gt; &amp;#1575;&amp;#1604;&amp;#1606;&amp;#1578;&amp;#1610;&amp;#1580;&amp;#1577;: &amp;#1578;&amp;#1593;&amp;#1584;&amp;#1585; &amp;#1575;&amp;#1603;&amp;#1578;&amp;#1605;&amp;#1575;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&lt;br/&gt;&lt;br/&gt;&amp;#1575;&amp;#1604;&amp;#1571;&amp;#1576;&amp;#1604;&amp;#1575;&amp;#1594; &amp;#1593;&amp;#1606; &amp;#1607;&amp;#1584;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1604;&amp;#1604; &amp;#1604;&amp;#1605;&amp;#1587;&amp;#1575;&amp;#1593;&amp;#1583;&amp;#1577; MIUI &amp;#1601;&amp;#1610; &amp;#1578;&amp;#1591;&amp;#1608;&amp;#1610;&amp;#1585; &amp;#1571;&amp;#1583;&amp;#1608;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color="#CC0000"&gt;&amp;#1575;&amp;#1604;&amp;#1606;&amp;#1578;&amp;#1610;&amp;#1580;&amp;#1577;: &amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1582;&amp;#1575;&amp;#1591;&amp;#1574; &lt;br/&gt;&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1615;&amp;#1593;&amp;#1610;&amp;#1606;: %1$s&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1601;&amp;#1593;&amp;#1604;&amp;#1610;: %2$s&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">لم يتم إيجاد خادم الشبكة</string>
-  <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>خطأ</font>"</string>
-  <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>لا يوجد اتصال بالشبكة</font>"</string>
-  <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>لم يتمكن من الحصول على معلومات</font>"</string>
-  <string name="tc_diagnostic_status_success">"<font color='#3EC234'>صحيح</font>"</string>
-  <string name="tc_diagnostic_status_success_brand">"<font color='#3EC234'>استجاب خادم الشبكة</font>"</string>
-  <string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>نفذ الوقت</font>"</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color="#CC0000"&gt;&amp;#1582;&amp;#1591;&amp;#1571;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color="#ED9523"&gt;&amp;#1604;&amp;#1575; &amp;#1610;&amp;#1608;&amp;#1580;&amp;#1583; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color="#ED9523"&gt;&amp;#1604;&amp;#1605; &amp;#1610;&amp;#1578;&amp;#1605;&amp;#1603;&amp;#1606; &amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1581;&amp;#1589;&amp;#1608;&amp;#1604; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1605;&amp;#1593;&amp;#1604;&amp;#1608;&amp;#1605;&amp;#1575;&amp;#1578;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color="#3EC234"&gt;&amp;#1589;&amp;#1581;&amp;#1610;&amp;#1581;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color="#3EC234"&gt;&amp;#1575;&amp;#1587;&amp;#1578;&amp;#1580;&amp;#1575;&amp;#1576; &amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color="#CC0000"&gt;&amp;#1606;&amp;#1601;&amp;#1584; &amp;#1575;&amp;#1604;&amp;#1608;&amp;#1602;&amp;#1578;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">جارٍ الإختبار\u2026</string>
   <string name="tc_diagnostic_success_notification_summary">قم بالابلاغ عن هذا الخلل لمساعدة MIUI تحسين ادوات التشخيص</string>
   <string name="tc_diagnostic_success_notification_title">مشغّل شبكة الجوال والعلامة تجارية صحيحة</string>
-  <string name="tc_diagnostic_success_result">"<font color='#CC0000'>النتيجة: مشغل شبكة الجوال و تعيين الاسم الصحيح<br/><br/>تعذر عليها انهاء التعديل:<br/>١. قد لا يمكن الاعتماد على احصائيات مشغل شبكة الجوال في بداية أو في نهاية الشهر.<br/>٢. لم يكن مساعد الشبكة محدث.<br/><br/>قم بالإبلاغ عن هذا الخلل لمساعدة MIUI تحسن ادوات التشخيص</font>"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color="#CC0000"&gt;&amp;#1575;&amp;#1604;&amp;#1606;&amp;#1578;&amp;#1610;&amp;#1580;&amp;#1577;: &amp;#1605;&amp;#1588;&amp;#1594;&amp;#1604; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1608;&amp;#1575;&amp;#1604; &amp;#1608; &amp;#1578;&amp;#1593;&amp;#1610;&amp;#1610;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1587;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1589;&amp;#1581;&amp;#1610;&amp;#1581;&lt;br/&gt;&lt;br/&gt;&amp;#1578;&amp;#1593;&amp;#1584;&amp;#1585; &amp;#1593;&amp;#1604;&amp;#1610;&amp;#1607;&amp;#1575; &amp;#1575;&amp;#1606;&amp;#1607;&amp;#1575;&amp;#1569; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1593;&amp;#1583;&amp;#1610;&amp;#1604;:&lt;br/&gt;&amp;#1633;. &amp;#1602;&amp;#1583; &amp;#1604;&amp;#1575; &amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1593;&amp;#1578;&amp;#1605;&amp;#1575;&amp;#1583; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1581;&amp;#1589;&amp;#1575;&amp;#1574;&amp;#1610;&amp;#1575;&amp;#1578; &amp;#1605;&amp;#1588;&amp;#1594;&amp;#1604; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1608;&amp;#1575;&amp;#1604; &amp;#1601;&amp;#1610; &amp;#1576;&amp;#1583;&amp;#1575;&amp;#1610;&amp;#1577; &amp;#1571;&amp;#1608; &amp;#1601;&amp;#1610; &amp;#1606;&amp;#1607;&amp;#1575;&amp;#1610;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1607;&amp;#1585;.&lt;br/&gt;&amp;#1634;. &amp;#1604;&amp;#1605; &amp;#1610;&amp;#1603;&amp;#1606; &amp;#1605;&amp;#1587;&amp;#1575;&amp;#1593;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1605;&amp;#1581;&amp;#1583;&amp;#1579;.&lt;br/&gt;&lt;br/&gt;&amp;#1602;&amp;#1605; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1573;&amp;#1576;&amp;#1604;&amp;#1575;&amp;#1594; &amp;#1593;&amp;#1606; &amp;#1607;&amp;#1584;&amp;#1575; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1604;&amp;#1604; &amp;#1604;&amp;#1605;&amp;#1587;&amp;#1575;&amp;#1593;&amp;#1583;&amp;#1577; MIUI &amp;#1578;&amp;#1581;&amp;#1587;&amp;#1606; &amp;#1575;&amp;#1583;&amp;#1608;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">تشخيص مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_upload_button">الإبلاغ</string>
   <string name="tc_diagnostic_upload_no_network">شكراً لملاحظاتك! سيم تقديم تقريرك عند اتصالك بالشبكة.</string>
@@ -1285,7 +1283,7 @@
   <string name="tc_sms_report_notify_get_timeout_body">انتهت مهلة العملية. تأكد مع شركة اتصالاتك من أن رمز استعلام رسالة SMS الذي أدخلته صحيحًا.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"تعذر استلام رسالة (SMS) استخدام البيانات"</string>
   <string name="tc_sms_report_receive_content">محتوى رسالة (SMS) تقرير استخدام البيانات(تأكيد إحصائيات الاستخدام)</string>
-  <string name="tc_sms_report_receive_content_null">"ساعد في تحسين هذه الميزة!<br/>إليك الطريقة:<br/>١. اذهب إلى "فحص أمر رسالةSMS للأوامر" و"رقم المستلم\.<br/>٢. اضغط \"الحصول على قالب رسالة SMS \"<br/>٣. انتظر حتى استلام رسالة SMS من شركة الاتصالات<br/>٤. اضغط \"تحميل إلى MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"ساعد في تحسين هذه الميزة!&lt;br/&gt;&amp;#1573;&amp;#1604;&amp;#1610;&amp;#1603; &amp;#1575;&amp;#1604;&amp;#1591;&amp;#1585;&amp;#1610;&amp;#1602;&amp;#1577;:&lt;br/&gt;&amp;#1633;. &amp;#1575;&amp;#1584;&amp;#1607;&amp;#1576; &amp;#1573;&amp;#1604;&amp;#1609; "&amp;#1601;&amp;#1581;&amp;#1589; &amp;#1571;&amp;#1605;&amp;#1585; &amp;#1585;&amp;#1587;&amp;#1575;&amp;#1604;&amp;#1577;SMS &amp;#1604;&amp;#1604;&amp;#1571;&amp;#1608;&amp;#1575;&amp;#1605;&amp;#1585;" &amp;#1608;"&amp;#1585;&amp;#1602;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&amp;#1578;&amp;#1604;&amp;#1605;\.&lt;br/&gt;&amp;#1634;. &amp;#1575;&amp;#1590;&amp;#1594;&amp;#1591; \"&amp;#1575;&amp;#1604;&amp;#1581;&amp;#1589;&amp;#1608;&amp;#1604; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1602;&amp;#1575;&amp;#1604;&amp;#1576; &amp;#1585;&amp;#1587;&amp;#1575;&amp;#1604;&amp;#1577; SMS \"&lt;br/&gt;&amp;#1635;. &amp;#1575;&amp;#1606;&amp;#1578;&amp;#1592;&amp;#1585; &amp;#1581;&amp;#1578;&amp;#1609; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1604;&amp;#1575;&amp;#1605; &amp;#1585;&amp;#1587;&amp;#1575;&amp;#1604;&amp;#1577; SMS &amp;#1605;&amp;#1606; &amp;#1588;&amp;#1585;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&lt;br/&gt;&amp;#1636;. &amp;#1575;&amp;#1590;&amp;#1594;&amp;#1591; \"&amp;#1578;&amp;#1581;&amp;#1605;&amp;#1610;&amp;#1604; &amp;#1573;&amp;#1604;&amp;#1609; MIUI\"&amp;#8203;"</string>
   <string name="tc_sms_report_receive_num">رقم المستلِم</string>
   <string name="tc_sms_report_send_num">هاتف شركة الاتصالات #</string>
   <string name="tc_sms_report_summary">ساعدنا في تحسين هذه الميزة بإرسال تقرير إذا كانت معلومات استخدام البيانات الخاصة بك غير صحيحة أو تعذر تحديثها</string>
@@ -1299,7 +1297,7 @@
   <string name="tc_sms_report_upload_when_net">شكرًا لملاحظاتك!</string>
   <string name="ten_percent_total_pkg">%s (10%% من البيانات شهرية)</string>
   <string name="text_button">فهمت</string>
-  <string name="text_day"></string>
+  <string name="text_day"/>
   <string name="text_lock_info">ارسم نقش إلغاء قفل الشاشة</string>
   <string name="third_application">التطبيقات المثبتة</string>
   <string name="three_percent_total_pkg">%s ( 3%% من البيانات شهرية)</string>
@@ -1396,7 +1394,7 @@
   <string name="traffic_limit_error_alert_title">تذكير حد البيانات %s</string>
   <string name="traffic_none">بدون</string>
   <string name="traffic_over_purchase_body">انقر لعرض التفاصيل.</string>
-  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.<br/>إذا تجاوزت حد استخدام بيانات خطتك، يمكن أن تفرض عليك شركة الاتصالات مصاريفًا إضافية.<br/><br/><font color='#ccffffff'><U>اضغط لإعادة شحن رصيدك.</U></font>"</string>
+  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.&lt;br/&gt;&amp;#1573;&amp;#1584;&amp;#1575; &amp;#1578;&amp;#1580;&amp;#1575;&amp;#1608;&amp;#1586;&amp;#1578; &amp;#1581;&amp;#1583; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1575;&amp;#1605; &amp;#1576;&amp;#1610;&amp;#1575;&amp;#1606;&amp;#1575;&amp;#1578; &amp;#1582;&amp;#1591;&amp;#1578;&amp;#1603;&amp;#1548; &amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1578;&amp;#1601;&amp;#1585;&amp;#1590; &amp;#1593;&amp;#1604;&amp;#1610;&amp;#1603; &amp;#1588;&amp;#1585;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1605;&amp;#1589;&amp;#1575;&amp;#1585;&amp;#1610;&amp;#1601;&amp;#1611;&amp;#1575; &amp;#1573;&amp;#1590;&amp;#1575;&amp;#1601;&amp;#1610;&amp;#1577;.&lt;br/&gt;&lt;br/&gt;&lt;font color="#ccffffff"&gt;&lt;U&gt;&amp;#1575;&amp;#1590;&amp;#1594;&amp;#1591; &amp;#1604;&amp;#1573;&amp;#1593;&amp;#1575;&amp;#1583;&amp;#1577; &amp;#1588;&amp;#1581;&amp;#1606; &amp;#1585;&amp;#1589;&amp;#1610;&amp;#1583;&amp;#1603;.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">تم تجاوز حد الاستخدام</string>
   <string name="traffic_purchase_body">اضغط إعادة شحن رصيدك.</string>
   <string name="traffic_purchse_suggestion">إعادة شحن بيانات جوال</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_info">حسابي الخاص</string>
   <string name="account_name_not_login">تسجيل الدخول</string>
@@ -225,7 +225,7 @@
   <string name="resource_menu_refresh">تحديث</string>
   <string name="resource_mute">لا شيء</string>
   <string name="resource_my">المتواجدة</string>
-  <string name="resource_network_diagnostics"><u>تشخيصات الشبكة</u></string>
+  <string name="resource_network_diagnostics">&lt;u&gt;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577;&lt;/u&gt;</string>
   <string name="resource_no_match_app">لم يتم العثور على اي تطبيق للتعامل مع هذا الإجراء.</string>
   <string name="resource_no_network_text">"لا يمكن الاتصال بالشبكة."</string>
   <string name="resource_no_result">"لم يتم العثور على أي شيء"</string>
@@ -394,7 +394,7 @@
   <string name="to_activate_the_account">قم بتفعيل حساب Mi الخاص بك الآن</string>
   <string name="wallpaper_crop">قص</string>
   <string name="wallpaper_decoded_error">"لا يمكن تحميل خلفية الشاشة"</string>
-  <string name="wallpaper_loading_text">Just a sec&#8230;</string>
+  <string name="wallpaper_loading_text">Just a sec…</string>
   <string name="wallpaper_set_as_both">تعيين الكل</string>
   <string name="wallpaper_set_as_destop">تعيين كشاشة رئيسية</string>
   <string name="wallpaper_set_as_lockscreen">تعيين كشاشة القفل</string>

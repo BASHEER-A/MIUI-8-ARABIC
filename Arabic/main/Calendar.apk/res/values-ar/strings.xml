@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessbility_suggestion_dropdown_opened">اقتراحات الاتصال فتح</string>
   <string name="accessibility_add_attendee">Add attendee</string>
@@ -41,7 +41,7 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">انتهت الصلاحية</string>
   <string name="alert_title">Calendar notifications</string>
-  <string name="anniversary_metric"></string>
+  <string name="anniversary_metric"/>
   <string name="anniversary_term">anniversary</string>
   <string name="app_label">التقويم</string>
   <string name="birthday_calendar_display_name">تذكيرات تاريخ الميلاد</string>
@@ -53,20 +53,20 @@
   <string name="birthday_event_description_days_ago">%1$d days since</string>
   <string name="birthday_event_description_days_later">%1$d days until</string>
   <string name="birthday_event_description_default">"%1$s ثانية %2$s %3$s %4$s"</string>
-  <string name="birthday_event_description_detail_leap"></string>
-  <string name="birthday_event_description_detail_smart"></string>
+  <string name="birthday_event_description_detail_leap"/>
+  <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">اليوم هو</string>
   <string name="birthday_event_description_tomorrow">غداً هو</string>
   <string name="birthday_event_description_yesterday">أمس كان</string>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-  <string name="birthday_metric"></string>
-  <string name="birthday_notification_age_term"></string>
+  <string name="birthday_metric"/>
+  <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%1$s يوم حتى %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"لا تنسى أن تتمنى لهم التوفيق."</string>
   <string name="birthday_notification_title_days_later">"%1$s %2$s قادم"</string>
   <string name="birthday_notification_title_today">"%3$s %1$s"</string>
-  <string name="birthday_notification_type_term_lunar"></string>
+  <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">تاريخ الميلاد</string>
   <string name="book_card_free">免费</string>
   <string name="book_card_rating_text">|   %1$s 条评论</string>
@@ -138,7 +138,7 @@
   <string name="delete_topic_success">退订\"%s\"成功</string>
   <string name="deleting_calendar">退订中</string>
   <string name="departure">المغادرة</string>
-  <string name="directory_searching_fmt">Searching %s&#8230;</string>
+  <string name="directory_searching_fmt">Searching %s…</string>
   <string name="discard_label">Cancel</string>
   <string name="do_not_check">Do NOT check -&gt;</string>
   <string name="does_not_repeat">One-time event</string>
@@ -150,7 +150,7 @@
   <string name="drop_down_list_footer_default_text">更多</string>
   <string name="drop_down_list_footer_no_more_text">没有更多了</string>
   <string name="drop_down_list_header_default_text">点击可以刷新</string>
-  <string name="drop_down_list_header_loading_text">加载中&#8230;</string>
+  <string name="drop_down_list_header_loading_text">加载中…</string>
   <string name="drop_down_list_header_pull_text">下拉可以刷新</string>
   <string name="drop_down_list_header_release_text">松开可以刷新</string>
   <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
@@ -228,7 +228,7 @@
   <string name="horoscope_select_activity_label">选择星座</string>
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
-  <string name="huangli_label"></string>
+  <string name="huangli_label"/>
   <string name="image_content">Image</string>
   <string name="insert_event_dialog_btn_negative">لا</string>
   <string name="insert_event_dialog_btn_positive">نعم</string>
@@ -244,7 +244,7 @@
   <string name="jump_date_full">انتقال إلى تاريخ</string>
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
-  <string name="loading">Just a sec&#8230;</string>
+  <string name="loading">Just a sec…</string>
   <string name="local_calendar_display_name">تقويم محلي</string>
   <string name="local_owner_account_name">تم الحفظ لهذا الجهاز</string>
   <string name="lunar_date">التاريخ القمري</string>
@@ -254,8 +254,8 @@
   <string name="menu_general_preferences">General</string>
   <string name="menu_preferences">Settings</string>
   <string name="menu_reminder_preferences">التذكيرات</string>
-  <string name="miui_chinese_week_range_double"></string>
-  <string name="miui_chinese_week_range_single"></string>
+  <string name="miui_chinese_week_range_double"/>
+  <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">New</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>
@@ -340,7 +340,7 @@
   <string name="preferences_week_start_day_title">Start of the week</string>
   <string name="presence_label">Status</string>
   <string name="privacy_label">Privacy</string>
-  <string name="quick_response_custom_msg">Custom message&#8230;</string>
+  <string name="quick_response_custom_msg">Custom message…</string>
   <string name="quick_response_dialog_title">Choose quick response</string>
   <string name="quick_response_email_failed">"Couldn't find a mail app"</string>
   <string name="quick_response_settings">Quick responses</string>
@@ -373,7 +373,7 @@
   <string name="repeat_label_frequency">تكراري</string>
   <string name="repeat_label_interval">كل</string>
   <string name="repeat_label_week">أسبوع</string>
-  <string name="repeat_lunar_yearly"></string>
+  <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">"\u0020%1$s %2$s"</string>
   <string name="repeats_label">Repeat</string>
