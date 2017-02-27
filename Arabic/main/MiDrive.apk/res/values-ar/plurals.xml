@@ -50,12 +50,12 @@
     <item quantity="many">%1$d ملف متبقي للنقل</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other"> %1$d  مُحدد</item>
-    <item quantity="zero"> %1$d  مُحدد</item>
+    <item quantity="other">%1$d  مُحدد</item>
+    <item quantity="zero">%1$d  مُحدد</item>
     <item quantity="one">%1$d مُحدد</item>
-    <item quantity="two"> %1$d  مُحددة</item>
-    <item quantity="few"> %1$d  مُحددة</item>
-    <item quantity="many"> %1$d  مُحدد</item>
+    <item quantity="two">%1$d  مُحددة</item>
+    <item quantity="few">%1$d  مُحددة</item>
+    <item quantity="many">%1$d  مُحدد</item>
   </plurals>
   <plurals name="items_file">
     <item quantity="other">(%1$d عنصر)</item>
