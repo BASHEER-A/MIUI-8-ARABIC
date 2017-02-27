@@ -43,7 +43,7 @@
   <string name="empty_folder_hint">"No folders
 Tap the plus to create a folder"</string>
   <string name="enable_sync">مزامنة</string>
-  <string name="enable_sync_desc">قم بمزامنة ملاحظاتك مع حساب Mi (<xliff:g id="accountName" example="100000">%1$s</xliff:g>)؟</string>
+  <string name="enable_sync_desc">قم بمزامنة ملاحظاتك مع حساب Mi (%1$s)؟</string>
   <string name="error_contact_not_exist">"جهة اتصال غير موجودة"</string>
   <string name="error_hide_empty_note">"لا يمكن إخفاء ملاحظة فارغة"</string>
   <string name="error_note_empty_for_clock">"لا يمكن تعيين وقت تذكير لملاحظة فارغة"</string>
