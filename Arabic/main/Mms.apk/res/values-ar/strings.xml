@@ -558,7 +558,7 @@
   <string name="sim_manage_messages_title">الرسائل النصية على بطاقة SIM</string>
   <string name="sim_view">عرض</string>
   <string name="slide_number">Slide %d</string>
-  <string name="slide_show_part">Part %1$d %2 $d</string>
+  <string name="slide_show_part">Part %1$d/%2$d</string>
   <string name="slide_up_to_cancel">اسحب للأعلى للإلغاء</string>
   <string name="slideshow_activity">عرض الشرائح</string>
   <string name="sms_card_partner_label">"شريك بطاقة الرسائل القصيرة:\u0020"</string>
