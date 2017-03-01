@@ -2885,7 +2885,7 @@ There are other users present on this device.
   <string name="ringtone_mute">None</string>
   <string name="ringtone_slot_setting_title">إعدادات SIM الفردية</string>
   <string name="ringtone_summary"/>
-  <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_title">نغمة الرنين</string>
   <string name="ringtone_uniform_setting_title">ضبط SIM المزدوجة</string>
   <string name="roaming">Data roaming</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
