@@ -6,12 +6,10 @@
 
 Based on a work at & http://xiaomi.eu
 
-Official Website . http://www.f2va.com
+Official Website . http://www.mi2ar.com
 
 
 ###Credits:
-
-@BASHEER
 
 @PRInCEI7
 
@@ -21,6 +19,7 @@ Official Website . http://www.f2va.com
 
 
 For Any problems
+http://www.mi2ar.com
 
 WhatsApp
 009647709900643
