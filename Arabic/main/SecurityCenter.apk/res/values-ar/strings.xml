@@ -840,8 +840,6 @@
   <string name="power_consume_rank_hardware">معدات الجهاز</string>
   <string name="power_consume_rank_software">التطبيقات</string>
   <string name="power_consume_rank_title">استخدام البطارية</string>
-  <string name="power_consume_total_hardware">معدات الجهاز: %1$d%%</string>
-  <string name="power_consume_total_software">التطبيقات: %1$d%%</string>
   <string name="power_customize_giveup_change">التخلي عن التغييرات؟</string>
   <string name="power_dialog_cancel">إلغاء</string>
   <string name="power_dialog_ok">موافق</string>
