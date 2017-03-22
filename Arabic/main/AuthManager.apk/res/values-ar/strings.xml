@@ -295,5 +295,4 @@
   <string name="screen_overlay_button">فتح الإعدادات</string>
   <string name="screen_overlay_message">لتغيير إعدادات الأذونات, يجب ان تقوم بايقاف تشغيل تراكب الشاشة من إعدادات\u003eالتطبيق</string>
   <string name="screen_overlay_title">تم الكشف عن تراكب الشاشة</string>
-  <string name="static_cache_db_md5">9a743c3c8b7c89c1884ead2789bf6c3c</string>
 </resources>
