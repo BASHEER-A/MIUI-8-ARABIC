@@ -7,12 +7,10 @@
     <item>Debug</item>
     <item>Cust</item>
   </string-array>
-  <string-array name="act_set_pref_test_situation_entries_values">
     <item>0</item>
     <item>1</item>
     <item>2</item>
     <item>3</item>
-  </string-array>
   <string-array name="act_set_pref_test_situation_entries_summaries">
     <item>minimal log output</item>
     <item>more log but keep up the good performance</item>
