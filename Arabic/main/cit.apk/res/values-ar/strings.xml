@@ -248,7 +248,6 @@ only in frame mode"</string>
   <string name="build_time">Build Time:</string>
   <string name="burntest">Burn Test</string>
   <string name="button_ok">OK</string>
-  <string name="cali_value_tip">calibration impedance值需要介于6到8之间</string>
   <string name="call_test">Call test</string>
   <string name="call_test_hint">Talk to the main mic, see if you can hear your voice.</string>
   <string name="camera_main2">CameraMain2</string>
@@ -453,7 +452,6 @@ the selected?"</string>
   <string name="keyboard_test">KEY/OFN</string>
   <string name="keyboardlight">Key Light</string>
   <string name="keyboardlight_info">Please note if the keyboard light blink or not</string>
-  <string name="keyboardvalue">Key value</string>
   <string name="keyled_off">Key led off</string>
   <string name="keyled_on">Key led</string>
   <string name="keyled_on_open">Key led on</string>
