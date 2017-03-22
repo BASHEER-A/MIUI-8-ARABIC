@@ -316,7 +316,6 @@
   <string name="color_picker_dialog_title">Select color</string>
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturation</string>
-  <string name="color_picker_value">Value</string>
   <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
   <string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
   <string name="com_taobao_tae_sdk_back_message">返回</string>
@@ -695,10 +694,6 @@ Leave this page?"</string>
   <string name="pref_content_night_read_mode">الوضع الليلي</string>
   <string name="pref_content_search_engine">محرك البحث في شريط العنوان</string>
   <string name="pref_content_search_engine_summary">اختيار محرك البحث</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_enable_adblock_notification">عرض إشعارات مانع الإعلانات</string>
   <string name="pref_enable_news">الأخبار</string>
   <string name="pref_enable_novels">الكتب</string>
@@ -721,15 +716,7 @@ Leave this page?"</string>
   <string name="pref_force_userscalable">تكبير اجباري</string>
   <string name="pref_force_userscalable_summary">"تجاوز طلب موقع الويب للتحكم في سلوك التكبير"</string>
   <string name="pref_general_title">عام</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
-  <string name="pref_images_preload_value_always">2</string>
-  <string name="pref_images_preload_value_never">0</string>
-  <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_key_gesture_title">أزرار وإيماءات</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">الهاتف</string>
   <string name="pref_nav_mode_title">وضع المتصفح</string>
@@ -776,10 +763,6 @@ Leave this page?"</string>
   <string name="pref_setting_title">إعدادات الصفحة</string>
   <string name="pref_ua_string">سلسلة وكيل المستخدم</string>
   <string name="pref_version_info">معلومات الإصدار</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
-  <string name="pref_video_preload_value_always">ALWAYS</string>
-  <string name="pref_video_preload_value_never">NEVER</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">مرّر باستخدام أزرار الصوت</string>
   <string name="pref_weather_location_summary">"إستُخدِم من طرف مساعد طقس المتصفح"</string>
   <string name="pref_weather_location_title">موقع الطقس</string>
