@@ -25,7 +25,6 @@
   <string name="convertion_unit_weight">Mass converter</string>
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
@@ -48,7 +47,6 @@
   <string name="dotDesc">point</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler's number"</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">equals</string>
@@ -82,10 +80,8 @@
   <string name="leftParenDesc">left parenthesis</string>
   <string name="lg">lg</string>
   <string name="lgDesc">logarithm</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">natural logarithm</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Enter amount</string>
   <string name="loan_edittext_hint_commercial_combined">Commercial</string>
   <string name="loan_edittext_hint_fund">Enter amount</string>
@@ -146,14 +142,12 @@
   <string name="rightParenDesc">right parenthesis</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sine</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="social_security"/>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">square root</string>
   <string name="start_calculate"/>
   <string name="tan">tan</string>
   <string name="tanDesc">tangent</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Accumulation fund</string>
   <string name="tax_annual_bonus_hint">Enter your bonus before tax</string>
   <string name="tax_birth">Birth</string>
