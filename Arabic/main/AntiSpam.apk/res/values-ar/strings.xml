@@ -246,7 +246,6 @@
   <string name="st_antispam_des_uesless">إيقاف</string>
   <string name="st_antispam_mode_add_new">إضافة قواعد</string>
   <string name="st_antispam_mode_blacklist">الأرقام المحظورة</string>
-  <string name="st_antispam_mode_blacklist_state">11112121</string>
   <string name="st_antispam_mode_blacklist_sum">"حظر المكالمات و الرسائل القصيرة التي أضفتها يدوياً إلى قائمة الحظر"</string>
   <string name="st_antispam_mode_customize_sum">إنشاء قواعد قائمة الحظر</string>
   <string name="st_antispam_mode_denyownself_sum">قواعد مخصصة</string>
