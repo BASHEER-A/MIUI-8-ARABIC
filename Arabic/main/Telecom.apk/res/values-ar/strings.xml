@@ -91,7 +91,6 @@
   <string name="description_voicemail_button">voicemail</string>
   <string name="dial_conference_fail_prompt">"لا يمكن طلب مكالمة جماعية وذلك لأن الشبكة الحالية لا تدعم VoLTE."</string>
   <string name="dial_vt_fail_prompt">"الشبكة الحالية لا تدعم VoLTE. التبديل إلى مكالمة صوتية عادية؟"</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_1_labels"/>
@@ -124,7 +123,6 @@
   <string name="error_sdcard_access">Unable to access SD card</string>
   <string name="ext_media_badremoval_notification_title">SD card unexpectedly removed</string>
   <string name="handle_restricted">RESTRICTED</string>
-  <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
   <string name="incall_error_call_failed">"تعذر إجراء المكالمة."</string>
   <string name="incall_error_missing_voicemail_number">Voicemail number unknown.</string>
   <string name="incall_error_supp_service_conference">Unable to conference calls.</string>
@@ -202,8 +200,6 @@ unconditional activated"</string>
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">دردشة مع مستخدمي شبكة الدردشة</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="ui_default_package">com.android.incallui</string>
-  <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unknown">غير معروف</string>
   <string name="userCallActivityLabel">الهاتف</string>
   <string name="video_call_not_allowed_if_tty_enabled">إلغاء تفعيل وضع TTY لإجراء مكالمات فيديو.</string>
