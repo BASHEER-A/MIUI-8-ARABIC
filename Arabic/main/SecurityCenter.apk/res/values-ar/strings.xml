@@ -230,7 +230,6 @@
   <string name="button_text_view">تحسين</string>
   <string name="button_text_view_power">عرض</string>
   <string name="byteShort">بايت</string>
-  <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">مسح %1$d من ملفات التخزين المؤقت لتوفير %2$s من المساحة</string>
   <string name="call_and_contact">المكالمات وجهات الاتصال</string>
   <string name="cancal_to_setting_fingerprint">إلغاء</string>
@@ -258,14 +257,11 @@
   <string name="card_main_private_space_summary">استخدام الفضاء الثاني هو بمثابة امتلاكك لجهازين</string>
   <string name="card_main_private_space_title">الفضاء الثاني</string>
   <string name="card_main_sectool_title">الأدوات</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">سرعة الاتصال</string>
   <string name="card_main_speeddetailt_summary">عرض سرعة الاتصال لتطبيقات الفردية</string>
   <string name="card_main_xspace_action">إنشاء</string>
   <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
   <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"آخر شحن\u0020"</string>
   <string name="charging_text_battery_nearly_full">تقريباً مشحونة بالكامل</string>
