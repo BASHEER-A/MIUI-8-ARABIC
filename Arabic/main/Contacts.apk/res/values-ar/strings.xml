@@ -190,7 +190,6 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">مسح سجل المكالمات؟</string>
   <string name="confirm_delete_selected_all_call_logs">مسح سجل المكالمات؟</string>
@@ -666,7 +665,6 @@
   <string name="miprofile_contact_header">جهات الاتصال مع بطاقات جهة اتصال</string>
   <string name="miprofile_contact_meaasge">جهات الاتصال المحلية</string>
   <string name="miprofile_contact_verifying">تحقق</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
   <string name="miprofile_error_accept_self">"لا يمكن تبادل بطاقة جهة الاتصال الخاصة بك"</string>
   <string name="miprofile_error_no_miaccount">تسجيل الدخول إلى حساب Mi</string>
