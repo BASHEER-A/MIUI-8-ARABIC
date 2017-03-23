@@ -35,9 +35,6 @@
   <string name="day">١ يوم</string>
   <string name="day_concat">", "</string>
   <string name="days">%s يوم</string>
-  <string name="default_alarm_alert">صوت المنبه الإفتراضي</string>
-  <string name="default_alarm_title">نغمة الرنين الافتراضية</string>
-  <string name="default_label">منبه</string>
   <string name="delete">حذف</string>
   <string name="delete_alarm">حذف منبه</string>
   <string name="delete_alarm_confirm">حذف المنبه/التنبيهات المحددة؟</string>
