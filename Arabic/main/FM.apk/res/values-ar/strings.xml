@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="alert_frequency_duplicate">هذا التردد موجود مسبقاً</string>
   <string name="alert_invalid_frequency">تردد غير صالح</string>
@@ -8,7 +8,6 @@
   <string name="context_menu_item_edit">تعديل</string>
   <string name="context_menu_item_favorite">إضافة إلى المفضلة</string>
   <string name="context_menu_item_unfavorite">إزالة من المفضلة</string>
-  <string name="context_menu_title">%MHZs</string>
   <string name="dialog_sleep_title">تعيين توقيت السكون</string>
   <string name="exit_fm">خروج</string>
   <string name="fm_has_turned_off">تم إيقاف راديو FM</string>
@@ -43,7 +42,6 @@
   <string name="search_dialog_title">بحث محطات</string>
   <string name="set">تعيين</string>
   <string name="station_check_favorite">إضافة إلى المفضلة</string>
-  <string name="station_freq_format">%Mhzs</string>
   <string name="stations_list">قائمة المحطات</string>
   <string name="stations_list_empty">لا يوجد مفضلة</string>
   <string name="toast_added_to_list">تم الإضافة للقائمة</string>
