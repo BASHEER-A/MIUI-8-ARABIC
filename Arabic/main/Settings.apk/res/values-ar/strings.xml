@@ -426,7 +426,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_stats_duration">%1$s since unplugged</string>
   <string name="battery_stats_flashlight_on_label">Flashlight on</string>
   <string name="battery_stats_gps_on_label">GPS on</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s on battery</string>
   <string name="battery_stats_phone_signal_label">Cellular network signal</string>
   <string name="battery_stats_screen_on_label">Screen on</string>
@@ -1600,12 +1599,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="input_method">لوحة المفاتيح</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Always show</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatic</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Settings</string>
   <string name="input_method_settings_button">Settings</string>
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
@@ -4447,11 +4442,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
