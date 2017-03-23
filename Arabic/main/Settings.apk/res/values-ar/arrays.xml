@@ -33,10 +33,6 @@
     <item>Combined</item>
     <item>Separate</item>
   </string-array>
-  <string-array name="status_bar_style_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="timezone_filters">
     <item>America</item>
     <item>Europe</item>
@@ -55,15 +51,6 @@
     <item>١٠ دقائق</item>
     <item>أبدا</item>
   </string-array>
-  <string-array name="screen_timeout_values">
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>2147483647</item>
-  </string-array>
   <string-array name="dream_timeout_entries">
     <item>Never</item>
     <item>15 seconds</item>
@@ -73,16 +60,6 @@
     <item>5 minutes</item>
     <item>10 minutes</item>
     <item>30 minutes</item>
-  </string-array>
-  <string-array name="dream_timeout_values">
-    <item>0</item>
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>1800000</item>
   </string-array>
   <string-array name="lock_after_timeout_entries">
     <item>Immediately</item>
@@ -95,30 +72,12 @@
     <item>10 minutes</item>
     <item>30 minutes</item>
   </string-array>
-  <string-array name="lock_after_timeout_values">
-    <item>0</item>
-    <item>5000</item>
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>1800000</item>
-  </string-array>
   <string-array name="tts_pitch_entries">
     <item>Very low</item>
     <item>Low</item>
     <item>Normal</item>
     <item>High</item>
     <item>Very high</item>
-  </string-array>
-  <string-array name="tts_pitch_values">
-    <item>50</item>
-    <item>80</item>
-    <item>100</item>
-    <item>120</item>
-    <item>150</item>
   </string-array>
   <string-array name="tts_demo_strings">
     <item>This is an example of speech synthesis in English.</item>
@@ -170,11 +129,6 @@
     <item>Only when plugged in</item>
     <item>Never</item>
   </string-array>
-  <string-array name="wifi_sleep_policy_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="data_usage_data_range">
     <item>Last 30 days</item>
     <item>Set usage cycle...</item>
@@ -183,11 +137,6 @@
     <item>Automatic</item>
     <item>5 GHz only</item>
     <item>2.4 GHz only</item>
-  </string-array>
-  <string-array name="wifi_frequency_band_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
     <item>Usage time</item>
@@ -349,13 +298,6 @@
     <item>Large</item>
     <item>Very large</item>
   </string-array>
-  <string-array name="captioning_font_size_selector_values">
-    <item>0.25</item>
-    <item>0.5</item>
-    <item>1.0</item>
-    <item>1.5</item>
-    <item>2.0</item>
-  </string-array>
   <string-array name="captioning_edge_type_selector_titles">
     <item>Default</item>
     <item>None</item>
@@ -398,15 +340,6 @@
     <item>Animation scale 5x</item>
     <item>Animation scale 10x</item>
   </string-array>
-  <string-array name="window_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Animation off</item>
     <item>Animation scale .5x</item>
@@ -415,15 +348,6 @@
     <item>Animation scale 2x</item>
     <item>Animation scale 5x</item>
     <item>Animation scale 10x</item>
-  </string-array>
-  <string-array name="transition_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Animation off</item>
@@ -434,46 +358,21 @@
     <item>Animation scale 5x</item>
     <item>Animation scale 10x</item>
   </string-array>
-  <string-array name="animator_duration_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>None</item>
     <item>Logcat</item>
     <item>Systrace (Graphics)</item>
     <item>Call stack on glGetError</item>
   </string-array>
-  <string-array name="enable_opengl_traces_values">
-    <item>0</item>
-    <item>1</item>
-    <item>systrace</item>
-    <item>error</item>
-  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Off</item>
     <item>Draw non-rectangular clip region in blue</item>
     <item>Highlight tested drawing commands in green</item>
   </string-array>
-  <string-array name="show_non_rect_clip_values">
-    <item>hide</item>
-    <item>region</item>
-    <item>highlight</item>
-  </string-array>
   <string-array name="track_frame_time_entries">
     <item>Off</item>
     <item>On screen as bars</item>
     <item>In adb shell dumpsys gfxinfo</item>
-  </string-array>
-  <string-array name="track_frame_time_values">
-    <item>false</item>
-    <item>visual_bars</item>
-    <item>true</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Off</item>
@@ -487,14 +386,6 @@
     <item>At most 2 processes</item>
     <item>At most 3 processes</item>
     <item>At most 4 processes</item>
-  </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
   </string-array>
   <string-array name="vpn_states">
     <item>Disconnected</item>
@@ -510,13 +401,6 @@
     <item>Neanderthal</item>
     <item>Chimp</item>
     <item>Monkey</item>
-  </string-array>
-  <string-array name="user_content_ratings_values">
-    <item>5</item>
-    <item>4</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
   </string-array>
   <string-array name="security_settings_premium_sms_values">
     <item>Ask</item>
@@ -547,21 +431,9 @@
     <item>Pink</item>
     <item>Red</item>
   </string-array>
-  <string-array name="usb_configuration_titles">
-    <item>@string/usb_use_charging_only</item>
-    <item>MTP (Media Transfer Protocol)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
-    <item>RNDIS (USB Ethernet)</item>
-    <item>Audio Source</item>
-    <item>MIDI</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>WLAN preferred</item>
     <item>Cellular preferred</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_values">
-    <item>2</item>
-    <item>1</item>
   </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>متوقّف</item>
@@ -569,41 +441,20 @@
     <item>متوسط</item>
     <item>قوي</item>
   </string-array>
-  <string-array name="haptic_feedback_level_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="media_feedback_level_entries">
     <item>قوي</item>
     <item>متوسط</item>
     <item>خفيف</item>
-  </string-array>
-  <string-array name="media_feedback_level_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>رسم بياني</item>
     <item>نسبة مئوية</item>
     <item>شريط علوي</item>
   </string-array>
-  <string-array name="battery_indicator_style_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="usb_connection_mode_entries">
     <item>السؤال عند الاتصال</item>
     <item>الشحن فقط</item>
     <item>  تحميل بطاقة SD </item>
-  </string-array>
-  <string-array name="usb_connection_mode_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="led_freq_entries">
     <item>٢ ثواني</item>
@@ -614,33 +465,6 @@
     <item>7 ثواني</item>
     <item>8 ثواني</item>
     <item>9 ثواني</item>
-  </string-array>
-  <string-array name="led_freq_values">
-    <item>2000</item>
-    <item>3000</item>
-    <item>4000</item>
-    <item>5000</item>
-    <item>6000</item>
-    <item>7000</item>
-    <item>8000</item>
-    <item>9000</item>
-  </string-array>
-  <string-array name="led_color_values">
-    <item>blue</item>
-    <item>red</item>
-    <item>yellow</item>
-    <item>green</item>
-    <item>cyan</item>
-    <item>white</item>
-    <item>\#FFAA00AA</item>
-  </string-array>
-  <string-array name="mi1_led_color_values">
-    <item>blue</item>
-    <item>red</item>
-    <item>green</item>
-    <item>\#FFFF0033</item>
-    <item>\#FF5500FF</item>
-    <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
     <item>أزرق</item>
@@ -663,10 +487,6 @@
     <item>زر الخيارات على جهة اليسار، وزر الرجوع على جهة اليمين</item>
     <item>زر الرجوع على جهة اليسار، وزر الخيارات على جهة اليمين</item>
   </string-array>
-  <string-array name="screen_key_position_action_value">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="screen_key_press_action">
     <item>عرض التطبيقات الأخيرة </item>
     <item>عرض القائمة</item>
@@ -686,21 +506,10 @@
     <item>١.٥ ثانية</item>
     <item>٢ ثواني</item>
   </string-array>
-  <string-array name="screen_key_long_press_timeout_value">
-    <item>500</item>
-    <item>1000</item>
-    <item>1500</item>
-    <item>2000</item>
-  </string-array>
   <string-array name="long_press_volume_down_action">
     <item>لا شيء</item>
     <item>وضع الالتقاط السريع (صورة)</item>
     <item>وضع الالتقاط السريع (فيديو)</item>
-  </string-array>
-  <string-array name="long_press_volume_down_action_value">
-    <item>one</item>
-    <item>Street-snap</item>
-    <item>public_transportation_shortcuts</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>١ ثانية</item>
@@ -709,14 +518,6 @@
     <item>١٠ ثواني</item>
     <item>٢٠ ثانية</item>
     <item>دائما</item>
-  </string-array>
-  <string-array name="button_light_timeout_value">
-    <item>1000</item>
-    <item>2000</item>
-    <item>5000</item>
-    <item>10000</item>
-    <item>20000</item>
-    <item>-1</item>
   </string-array>
   <string-array name="wfd_status">
     <item>بدء جلسة\u2026</item>
@@ -779,19 +580,10 @@
     <item>"زيادة تباين الشاشة"</item>
     <item>التباين سيظل ثابت</item>
   </string-array>
-  <string-array name="perms_hips_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="perm_hips_action">
     <item>السماح</item>
     <item>اسأل</item>
     <item>رفض</item>
-  </string-array>
-  <string-array name="startup_hips_values">
-    <item>2</item>
-    <item>0</item>
   </string-array>
   <string-array name="startup_hips_action">
     <item>السماح</item>
@@ -801,23 +593,9 @@
     <item>sRGB</item>
     <item>Native</item>
   </string-array>
-  <string-array name="values_color_calibration">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="phone_call_noise_suppression_title">
     <item>تقليل ضوضاء الميكرفون الواحد</item>
     <item>تقليل ضوضاء الميكرفون المزدوج</item>
-  </string-array>
-  <string-array name="phone_call_noise_suppression_values">
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="change_security_lock_picker_key">
-    <item>facial</item>
-    <item>pattern</item>
-    <item>numerical</item>
-    <item>mixed</item>
   </string-array>
   <string-array name="change_security_lock_picker">
     <item>إلغاء قفل الوجه</item>
@@ -833,19 +611,6 @@
   <string-array name="wifi_ssid_type_entries">
     <item>الاتصال تلقائياً</item>
     <item>الاتصال يدوياً</item>
-  </string-array>
-  <string-array name="wifi_connect_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="wifi_ssid_type_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="nfc_se_route_values">
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="preferred_app_entries">
     <item>المُشغل</item>
@@ -867,25 +632,11 @@
     <item>التخزين الداخلي</item>
     <item>وحدة التخزين الخارجية</item>
   </string-array>
-  <string-array name="priority_storage_value">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="whetstone_level_entries">
     <item>إيقاف</item>
     <item>منخفض</item>
     <item>متوسط</item>
     <item>عالي</item>
-  </string-array>
-  <string-array name="whetstone_level_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="agps_network_values">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="agps_network_entries">
     <item>الشبكة المحلية</item>
@@ -900,18 +651,6 @@
     <item>4.5 بوصة</item>
     <item>4.0 بوصة</item>
     <item>3.5 بوصة</item>
-  </string-array>
-  <string-array name="handy_mode_size_value_entries">
-    <item>4.5</item>
-    <item>4.0</item>
-    <item>3.5</item>
-  </string-array>
-  <string-array name="lock_screen_secure_after_timeout_values">
-    <item>0</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
   </string-array>
   <string-array name="lock_screen_secure_after_timeout_entries">
     <item>فوراً</item>
@@ -957,12 +696,6 @@
     <item>٢٠ ثانية</item>
     <item>٣٠ ثانية</item>
     <item>١دقيقة</item>
-  </string-array>
-  <string-array name="anr_record_interval_values">
-    <item>10</item>
-    <item>20</item>
-    <item>30</item>
-    <item>60</item>
   </string-array>
   <string-array name="screen_button_style">
     <item>نمط اليد اليسرى</item>
