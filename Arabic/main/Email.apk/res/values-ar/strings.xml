@@ -802,8 +802,6 @@
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Include quoted text</string>
-  <string name="quoted_text_background_color_string">\@android:color/white</string>
-  <string name="quoted_text_font_color_string">\@color/gray_text_color</string>
   <string name="quoted_text_label">Quote text</string>
   <string name="re_download_message_button">Tap to download again</string>
   <string name="re_download_message_info">"Couldn't download email"</string>
