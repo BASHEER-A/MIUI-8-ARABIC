@@ -341,7 +341,6 @@
   <string name="quick_yellow_page_tab_phones">الهاتف</string>
   <string name="recharge_actual_price">السعر:</string>
   <string name="recharge_charge_range">السعر: %1$s-%2$s يوان</string>
-  <string name="recharge_charge_value">السعر: %s يوان</string>
   <string name="recharge_follow_name">تعبئة</string>
   <string name="recharge_history">سجل شحن الرصيد</string>
   <string name="recharge_history_empty">فارغ</string>
