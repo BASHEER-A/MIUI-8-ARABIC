@@ -33,12 +33,6 @@
   </string-array>
   <array name="boot_msg_text"></array>
   <array name="config_virtualKeyUpPattern"></array>
-  <string-array name="screen_key_long_press_default_action">
-    <item>voice_assistant</item>
-    <item>none</item>
-    <item>none</item>
-    <item>show_menu</item>
-  </string-array>
   <string-array name="font_size_scale">
     <item>0.86</item>
     <item>1.0</item>
@@ -98,12 +92,6 @@
     <item>ko_KR</item>
     <item>zh_CN</item>
     <item>zh_TW</item>
-  </string-array>
-  <string-array name="organized_languages_default">
-    <item>zh_CN</item>
-    <item>zh_TW</item>
-    <item>en_US</item>
-    <item>bo_CN</item>
   </string-array>
   <string-array name="airtel_mcc_mnc">
     <item>40552</item>
