@@ -296,7 +296,6 @@
   <string name="online_reminder_header_text">提醒</string>
   <string name="path_calendar">System apps/Calendar/Settings</string>
   <string name="pengzu">彭祖</string>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="pref_error_no_ringtone_select">النغمة الأساسية</string>
   <string name="pref_title_alarm_remind">تذكيرات المنبه</string>
