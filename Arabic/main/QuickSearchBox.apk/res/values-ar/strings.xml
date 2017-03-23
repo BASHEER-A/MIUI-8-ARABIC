@@ -70,7 +70,6 @@ To clear your Browser history, use the Browser\'s settings."</string>
   <string name="search_sources">عناصر قابلة للبحث</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>
   <string name="search_suggestion">نصائح</string>
-  <string name="search_title_quicksearchbox">@string/app_name</string>
   <string name="search_videos">بحث عن فيديوهات</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Search</string>
