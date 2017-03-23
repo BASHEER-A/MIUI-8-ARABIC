@@ -4207,8 +4207,6 @@ Any user can update apps for all other users."</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
   <string name="wakeup_for_keyguard_notification_title">إيقاظ شاشة القفل للإشعارات</string>
   <string name="wallpaper_attributions">Wallpapers</string>
-  <string name="wallpaper_attributions_values">"Satellite imagery providers:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">الشاشة الرئيسية</string>
   <string name="wallpaper_live">خلفية متحركة</string>
   <string name="wallpaper_lockscreen">شاشة القفل</string>
