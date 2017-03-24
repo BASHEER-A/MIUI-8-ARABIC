@@ -24,7 +24,6 @@
   <string name="Audio_DebugInfo_Button">Set</string>
   <string name="Audio_DebugInfo_EditText">0</string>
   <string name="Audio_DebugInfo_ParameterText">Please choose the parameter:</string>
-  <string name="Audio_DebugInfo_ValueText">Please input the value:</string>
   <string name="Audio_DebugSession">Audio_DebugSession</string>
   <string name="Audio_Dump_SpeechDbgInfo">Dump Speech Debug Info</string>
   <string name="Audio_EPLDebug_Enable">Enable AP Speech log</string>
@@ -276,7 +275,6 @@
   <string name="GPIO_Direction_In">Input</string>
   <string name="GPIO_Direction_Out">Output</string>
   <string name="GPIO_Direction_Text">Set Direction</string>
-  <string name="GPIO_Edit_Value">0</string>
   <string name="GPIO_Setno_Text">GPIO No#</string>
   <string name="GPIO_Setnomax_Text">MaxNumber:</string>
   <string name="GPIO_init_error">IO Driver Init error!</string>
@@ -594,8 +592,6 @@
   <string name="TouchScreen_Settings_TextSet">Set</string>
   <string name="TouchScreen_Settings_TextSpinner">Category</string>
   <string name="TouchScreen_Settings_TextUart">Enable Uart Log</string>
-  <string name="TouchScreen_Settings_TextValue">The value</string>
-  <string name="TouchScreen_Settings_Value">0</string>
   <string name="TouchScreen_Settings_sdcard">OFF</string>
   <string name="TouchScreen_Settings_uart">OFF</string>
   <string name="TouchScreen_Verification">Verification</string>
@@ -1028,7 +1024,6 @@ z: 0"</string>
   <string name="ctia_rate">Rate Selection</string>
   <string name="ctia_roaming">Disable Roaming</string>
   <string name="ctia_title">WLAN Test Mode</string>
-  <string name="ctia_value"/>
   <string name="current_force_tx_ant">Current Force TX ANT:</string>
   <string name="current_tx_ant">Current TX ANT:</string>
   <string name="cw_test">CW Test</string>
@@ -1321,7 +1316,6 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="hqa_cpustress_apmcu_imdct">Enable IMDCT test</string>
   <string name="hqa_cpustress_apmcu_l2c">Enable L2C test</string>
   <string name="hqa_cpustress_apmcu_loopcount">Loop Count</string>
-  <string name="hqa_cpustress_apmcu_loopcount_value">1000</string>
   <string name="hqa_cpustress_apmcu_max_power">Enable Max Power test</string>
   <string name="hqa_cpustress_apmcu_max_power_64">Enable Max Power test(64bit)</string>
   <string name="hqa_cpustress_apmcu_memcpy">Enable L2 MEMCPY test</string>
@@ -1360,7 +1354,6 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="hqa_cpustress_dvfs">DVFS</string>
   <string name="hqa_cpustress_dvfs_idx">cpufreq_oppidx =</string>
   <string name="hqa_cpustress_dvfs_interval">Interval(ms):</string>
-  <string name="hqa_cpustress_dvfs_interval_value">5000</string>
   <string name="hqa_cpustress_dvfs_op_0">OPP0</string>
   <string name="hqa_cpustress_dvfs_op_1">OPP1</string>
   <string name="hqa_cpustress_dvfs_op_2">OPP2</string>
@@ -1421,9 +1414,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="hqa_cpustress_result_no_test">---</string>
   <string name="hqa_cpustress_result_pass">PASS</string>
   <string name="hqa_cpustress_swvideo_iteration">Iteration</string>
-  <string name="hqa_cpustress_swvideo_iteration_value">1000</string>
   <string name="hqa_cpustress_swvideo_loopcount">Loop Count</string>
-  <string name="hqa_cpustress_swvideo_loopcount_value">1000</string>
   <string name="hqa_cpustress_swvideo_name">SW Video Codec</string>
   <string name="hqa_cpustress_swvideo_start">Start</string>
   <string name="hqa_cpustress_swvideo_stop">Stop</string>
@@ -1576,11 +1567,9 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="lte_config">LTE Config</string>
   <string name="lte_enable">Enable</string>
   <string name="lte_enable_psdm">Enable Background search triggered by PSDM:</string>
-  <string name="lte_error_get_invalid_value">Error: Get invalid data</string>
   <string name="lte_error_rsrp_rsrq">Error: RSRP and RSRQ cannot both be 0</string>
   <string name="lte_error_set_invalid_search_timer">Error: value cannot be 0</string>
   <string name="lte_error_set_invalid_timer">Error: value must &gt;= 100</string>
-  <string name="lte_error_set_invalid_value">Error: Invalid value</string>
   <string name="lte_get">Get</string>
   <string name="lte_history">History:</string>
   <string name="lte_instant_search">Instantaneously LTE search:</string>
@@ -1602,7 +1591,6 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="lte_wait_set">Send AT Command</string>
   <string name="main_flash_lev">Main-Flash Level</string>
   <string name="matv">MATV</string>
-  <string name="max_value_check">Max Length is 1024</string>
   <string name="mbim_title">MBIM</string>
   <string name="mcdi_disable">Disable MCDI</string>
   <string name="mcdi_entry_title">MCDI</string>
@@ -1618,11 +1606,9 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="mcdi_wake_timer_tip">ms (15 - 1,000,000)</string>
   <string name="md_ca_detected_string">Carrier Aggregation Detected</string>
   <string name="md_ca_to_ca_string">CA to CA Handover</string>
-  <string name="md_checkedshare_value">md_checkedshare_value</string>
   <string name="md_em_filter">MD EM Filter</string>
   <string name="md_filter_string">Enable All MD EM</string>
   <string name="md_notification">MD Notification</string>
-  <string name="md_notification_value">md_notification_value</string>
   <string name="mdml_sample">MDML Sample</string>
   <string name="memory">Memory</string>
   <string name="memory_comm_info">Common Info</string>
@@ -1665,7 +1651,6 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="modem_reset_msg">(Suggested delay time: 5s, Max delay time: 9s)</string>
   <string name="modem_reset_time">Delay Time</string>
   <string name="modem_switch_auto">Auto Switch</string>
-  <string name="modem_switch_current_value">Current Modem Type:</string>
   <string name="modem_switch_fdd_csfb">FDD CSFB Modem</string>
   <string name="modem_switch_hint">Select Modem Type:</string>
   <string name="modem_switch_is_fdd_csfb">Current Modem Type: FDD CSFB</string>
@@ -1991,10 +1976,8 @@ Threshold Low: %3$d"</string>
   <string name="sensor_ps_calibration_get_max">Calculate max value</string>
   <string name="sensor_ps_calibration_get_min">Calculate min value</string>
   <string name="sensor_ps_calibration_max_hint">Cover P-Sensor then click the button.</string>
-  <string name="sensor_ps_calibration_max_value">Max value:</string>
   <string name="sensor_ps_calibration_min_hint">"Put phone on a horizontal plane and click the button.
 NOTE: Donnot cover P-Sensor after button clicked."</string>
-  <string name="sensor_ps_calibration_min_value">Min value:</string>
   <string name="sensor_ps_calibration_result">Result:</string>
   <string name="sensor_ps_change_threshold_set">Set</string>
   <string name="sensor_ps_threshold_high">Threshold High (0~65535):</string>
@@ -2138,9 +2121,6 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="usbacm_open_succeed">Open port succeed</string>
   <string name="user2root">User2Root</string>
   <string name="user2root_hello">User2Root, Write By MTK, Only use for TEST</string>
-  <string name="value6575_text">Value[Hex 00-FF]</string>
-  <string name="value6589_text">Value[Hex 0000-FFFF]</string>
-  <string name="value_text">Value</string>
   <string name="vhdr_ratio_range_tip">VHDR Ratio Range is 1000~9999!</string>
   <string name="vhdr_set_mode">Mode</string>
   <string name="vhdr_set_ratio">Ratio</string>
@@ -2322,7 +2302,6 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wifi_mcr_addr_text">Addr(h):</string>
   <string name="wifi_mcr_readbtn">Read</string>
   <string name="wifi_mcr_text">MCR:</string>
-  <string name="wifi_mcr_value_text">Value(h):</string>
   <string name="wifi_mcr_writebtn">Write</string>
   <string name="wifi_misc_clearbtn">Clear</string>
   <string name="wifi_misc_gobtn">Go</string>
@@ -2354,10 +2333,6 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wifi_tx_gain_edit">22</string>
   <string name="wifi_tx_gain_format">%.1f</string>
   <string name="wifi_tx_text">Tx power (dBm):</string>
-  <string name="wifi_value_content"/>
-  <string name="wifi_value_content_string"/>
-  <string name="wifi_value_text">value(h):</string>
-  <string name="wifi_value_text_string">value(h):</string>
   <string name="wifi_wfa_enabler">Enable WFA test UI</string>
   <string name="wifi_wordaccess_text">WORD Access:</string>
   <string name="wifi_wps_test_mode">Enable WPS test mode</string>
@@ -2370,7 +2345,6 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="world_mode">World Mode</string>
   <string name="world_mode_auto">Auto mode</string>
   <string name="world_mode_auto_switch">Auto Switch</string>
-  <string name="world_mode_current_value">Current World Mode:</string>
   <string name="world_mode_enter_hint">World Mode:</string>
   <string name="world_mode_hint">Select World Mode:</string>
   <string name="world_mode_lfwg">LfWG mode</string>
