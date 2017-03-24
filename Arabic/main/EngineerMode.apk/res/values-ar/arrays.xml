@@ -179,26 +179,13 @@
     <item>TD only</item>
     <item>GSM only</item>
   </string-array>
-  <string-array name="gsm_umts_network_preferences_values">
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-  </string-array>
   <string-array name="device_mgr_entries">
     <item>Disable</item>
     <item>Enable</item>
   </string-array>
-  <string-array name="device_mgr_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="device_mgr_dm_conf_switch_entries">
     <item>Test Environment</item>
     <item>Productive Environment</item>
-  </string-array>
-  <string-array name="device_mgr_dm_conf_switch_values">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="tvout_system_list">
     <item>PAL</item>
@@ -259,38 +246,6 @@
     <item>Sid</item>
     <item>Media</item>
     <item>Matv</item>
-  </string-array>
-  <string-array name="mode_type0_enh">
-    <item>@string/audio_val_type_sip</item>
-    <item>@string/audio_val_type_mic</item>
-    <item>@string/audio_val_type_sph</item>
-    <item>@string/audio_val_type_sph2</item>
-    <item>@string/audio_val_type_sid</item>
-    <item>@string/audio_val_type_media</item>
-  </string-array>
-  <string-array name="mode_type1_enh">
-    <item>@string/audio_val_type_sip</item>
-    <item>@string/audio_val_type_mic</item>
-    <item>@string/audio_val_type_fmr</item>
-    <item>@string/audio_val_type_sph</item>
-    <item>@string/audio_val_type_sph2</item>
-    <item>@string/audio_val_type_sid</item>
-    <item>@string/audio_val_type_media</item>
-    <item>@string/audio_val_type_matv</item>
-  </string-array>
-  <string-array name="mode_type2_enh">
-    <item>@string/audio_val_type_ring</item>
-    <item>@string/audio_val_type_sip</item>
-    <item>@string/audio_val_type_mic</item>
-    <item>@string/audio_val_type_fmr</item>
-    <item>@string/audio_val_type_sph</item>
-    <item>@string/audio_val_type_sph2</item>
-    <item>@string/audio_val_type_sid</item>
-    <item>@string/audio_val_type_media</item>
-    <item>@string/audio_val_type_matv</item>
-  </string-array>
-  <string-array name="mode_type3_enh">
-    <item>@string/audio_val_type_ring</item>
   </string-array>
   <string-array name="mode_level">
     <item>Level 0</item>
@@ -361,9 +316,6 @@
     <item>ISO800</item>
     <item>ISO1600</item>
   </string-array>
-  <string-array name="camera_common_option_entries">
-    <item>@string/camera_ev_calibration</item>
-  </string-array>
   <string-array name="normal_captrue_size">
     <item>Preview size</item>
     <item>Capture size</item>
@@ -405,9 +357,6 @@
     <item>Fireworks</item>
     <item>Sports</item>
     <item>Candle light</item>
-  </string-array>
-  <string-array name="common_calibration_entries">
-    <item>@string/camera_gis_calibration</item>
   </string-array>
   <string-array name="mPreferredNetworkLabels">
     <item>GSM/WCDMA (auto)</item>
@@ -769,33 +718,6 @@
   <string-array name="auto_calib_capture">
     <item>Start Preview</item>
   </string-array>
-  <string-array name="auto_calib_on_off_value">
-    <item>OFF</item>
-    <item>ON</item>
-  </string-array>
-  <string-array name="multi_pass_nr_value">
-    <item>Auto</item>
-    <item>Disable</item>
-    <item>HWNR</item>
-    <item>SWNR</item>
-  </string-array>
-  <string-array name="pref_camera_picturesize_entryvalues">
-    <item>320x240</item>
-    <item>640x480</item>
-    <item>1024x768</item>
-    <item>1280x960</item>
-    <item>1600x1200</item>
-    <item>2048x1536</item>
-    <item>2560x1920</item>
-    <item>2592x1936</item>
-    <item>2592x1944</item>
-    <item>3264x2448</item>
-    <item>4096x3072</item>
-  </string-array>
-  <string-array name="pref_camera_focusmode_default_array">
-    <item>continuous-picture</item>
-    <item>auto</item>
-  </string-array>
   <string-array name="desense_camera_items">
     <item>2 mA</item>
     <item>4 mA</item>
@@ -824,24 +746,12 @@
     <item>Frame Rate 20</item>
     <item>Frame Rate 15</item>
   </string-array>
-  <string-array name="matv_frame_rate_values">
-    <item>30</item>
-    <item>20</item>
-    <item>15</item>
-  </string-array>
   <string-array name="matv_nr_level_entries">
     <item>NR Level 0x31</item>
     <item>NR Level 0x32</item>
     <item>NR Level 0x33</item>
     <item>NR Level 0x34</item>
     <item>NR Level 0x35</item>
-  </string-array>
-  <string-array name="matv_nr_level_values">
-    <item>31</item>
-    <item>32</item>
-    <item>33</item>
-    <item>34</item>
-    <item>35</item>
   </string-array>
   <string-array name="always_on_module">
     <item>Type A</item>
@@ -882,14 +792,6 @@
     <item>DCS 1800</item>
     <item>PCS 1900</item>
   </string-array>
-  <string-array name="rf_desense_tx_test_gsm_band_values">
-    <item>128</item>
-    <item>1</item>
-    <item>2</item>
-    <item>4</item>
-    <item>8</item>
-    <item>16</item>
-  </string-array>
   <string-array name="rf_desense_tx_test_gsm_gmsk_limits">
     <item>128,128,251,128,251,33,7,33</item>
     <item>1,1,124,1,124,33,7,33</item>
@@ -910,11 +812,6 @@
     <item>Band A</item>
     <item>Band E</item>
     <item>Band F</item>
-  </string-array>
-  <string-array name="rf_desense_tx_test_td_band_values">
-    <item>1</item>
-    <item>5</item>
-    <item>6</item>
   </string-array>
   <string-array name="rf_desense_tx_test_td_limits">
     <item>10087,10054,10121,10054,10121,34,-50,34</item>
@@ -940,26 +837,6 @@
     <item>Band 20</item>
     <item>Band 21</item>
     <item>Band 22</item>
-  </string-array>
-  <string-array name="rf_desense_tx_test_fd_band_values">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
-    <item>13</item>
-    <item>14</item>
-    <item>19</item>
-    <item>20</item>
-    <item>21</item>
-    <item>22</item>
   </string-array>
   <string-array name="rf_desense_tx_test_fd_limits">
     <item>9612,9612,9888,9612,9888,24,-55,24</item>
@@ -989,15 +866,6 @@
     <item>RFTOOL_CONT_TX_ALL_ONES</item>
     <item>RFTOOL_CONT_TX_ALTERNATE_BITS</item>
     <item>RFTOOL_CONT_TX_PSEUDO_RANDOM</item>
-  </string-array>
-  <string-array name="rf_desense_tx_test_gsm_pattern_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
   </string-array>
   <string-array name="rf_desense_tx_test_lte_bandwidth">
     <item>1.4M</item>
@@ -1080,24 +948,6 @@
     <item>Band 14(US PCS 1.9GHz Band)</item>
     <item>Band 15(AWS Band)</item>
   </string-array>
-  <string-array name="rf_desense_tx_test_cdma_band_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
-    <item>13</item>
-    <item>14</item>
-    <item>15</item>
-  </string-array>
   <string-array name="hspa_info_mode_array_td">
     <item>HSDPA off</item>
     <item>"HSDPA on
@@ -1144,17 +994,9 @@ HSPA+ on"</item>
     <item>Turn On</item>
     <item>Turn Off</item>
   </string-array>
-  <string-array name="device_register_values">
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="esn_track_entries">
     <item>Turn On</item>
     <item>Turn Off</item>
-  </string-array>
-  <string-array name="esn_track_values">
-    <item>1</item>
-    <item>0</item>
   </string-array>
   <string-array name="lte_threshold_operation_on_off">
     <item>Not use (0)</item>
@@ -1464,20 +1306,6 @@ HSPA+ on"</item>
   <string-array name="usb_phy_tuning_val_0_1d">
     <item>0</item>
     <item>1</item>
-  </string-array>
-  <string-array name="vilte_video_fps_values">
-    <item>15</item>
-    <item>20</item>
-    <item>30</item>
-  </string-array>
-  <string-array name="vilte_video_profile_values">
-    <item>1</item>
-    <item>4</item>
-    <item>16</item>
-  </string-array>
-  <string-array name="bypass_names">
-    <item>@string/usb_mode_bypass_ets</item>
-    <item>@string/usb_mode_bypass_modem</item>
   </string-array>
   <string-array name="c2k_ir_integrity_off">
     <item>disable integrity check OFF</item>
