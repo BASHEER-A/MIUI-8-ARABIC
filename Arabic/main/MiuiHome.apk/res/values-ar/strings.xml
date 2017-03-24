@@ -58,12 +58,8 @@
   <string name="current_wallpaper">الحالي</string>
   <string name="custom_wallpaper_picker">تصفح</string>
   <string name="default_folder_title_claro">Claro</string>
-  <string name="default_folder_title_game">ألعاب</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
-  <string name="default_folder_title_recommend">اخرى</string>
-  <string name="default_folder_title_security">النظام</string>
   <string name="default_folder_title_telcel">Telcel</string>
-  <string name="default_folder_title_tools">الأدوات</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">حذف</string>
   <string name="delete_screen">حذف شاشة</string>
@@ -145,7 +141,6 @@
   <string name="guide_install_app_msg">"لم يتم تثبيت التطبيق على جهازك.هل تريد إيجاد وتثبيت التطبيق الآن؟"</string>
   <string name="guide_install_app_title">هل تريد إيجاد وتثبيت التطبيق؟</string>
   <string name="guide_tips_editing_mode">المسو استمر لاختار عنصر الواجهة</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="home_screen">الشاشة الرئيسية</string>
   <string name="image_too_small_message">"الصورة الأصلية ليست كبيرة بما فيه الكفاية"</string>
   <string name="install">تثبيت</string>
@@ -276,7 +271,6 @@
   <string name="wallpaper_failed_message">"لا يمكن تعيين الخلفية"</string>
   <string name="wallpaper_scaling_message">تدرج لحجم ثابت</string>
   <string name="wallpaper_scroll_type_tips">لفيفة خلفية الشاشة </string>
-  <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">خلفية الشاشة</string>
   <string name="wallpaper_success_message">تم تطبيق خلفية الشاشة </string>
   <string name="widget_favorite_contacts_edit">المحرر</string>
