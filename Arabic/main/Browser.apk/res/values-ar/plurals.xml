@@ -18,67 +18,67 @@
     <item quantity="many">%1$d of %2$d</item>
   </plurals>
   <plurals name="v5_edit_mode_title">
-    <item quantity="zero">%1$d selected</item>
-    <item quantity="other">%1$d selected</item>
-    <item quantity="one">%1$d selected</item>
-    <item quantity="two">%1$d selected</item>
-    <item quantity="few">%1$d selected</item>
-    <item quantity="many">%1$d selected</item>
+    <item quantity="zero">%1$d مختارة</item>
+    <item quantity="other">%1$d مختارة</item>
+    <item quantity="one">%1$d مختارة</item>
+    <item quantity="two">%1$d مختارة</item>
+    <item quantity="few">%1$d مختارة</item>
+    <item quantity="many">%1$d مختارة</item>
   </plurals>
   <plurals name="video_download_clear_prompt">
-    <item quantity="zero">Clear %1$d videos?</item>
-    <item quantity="other">Clear %1$d videos?</item>
-    <item quantity="one">Clear %1$d video?</item>
-    <item quantity="two">Clear %1$d videos?</item>
-    <item quantity="few">Clear %1$d videos?</item>
-    <item quantity="many">Clear %1$d videos?</item>
+    <item quantity="zero">فيديو %1$d هل تريد مسح؟</item>
+    <item quantity="other">فيديو %1$d هل تريد مسح؟</item>
+    <item quantity="one">فيديو %1$d هل تريد مسح؟</item>
+    <item quantity="two">فيديو %1$d هل تريد مسح؟</item>
+    <item quantity="few">فيديو %1$d هل تريد مسح؟</item>
+    <item quantity="many">فيديو %1$d هل تريد مسح؟</item>
   </plurals>
   <plurals name="video_download_clear_info">
-    <item quantity="zero">Removed %1$d videos successfully.</item>
-    <item quantity="other">Removed %1$d videos successfully.</item>
-    <item quantity="one">Removed %1$d video successfully.</item>
-    <item quantity="two">Removed %1$d videos successfully.</item>
-    <item quantity="few">Removed %1$d videos successfully.</item>
-    <item quantity="many">Removed %1$d videos successfully.</item>
+    <item quantity="zero">حذف الفيديو %1$d بنجاح.</item>
+    <item quantity="other">حذف الفيديو %1$d بنجاح.</item>
+    <item quantity="one">حذف الفيديو %1$d بنجاح.</item>
+    <item quantity="two">حذف الفيديو %1$d بنجاح.</item>
+    <item quantity="few">حذف الفيديو %1$d بنجاح.</item>
+    <item quantity="many">حذف الفيديو %1$d بنجاح.</item>
   </plurals>
   <plurals name="video_subtitle_last_message">
-    <item quantity="zero">%d minutes remaining</item>
-    <item quantity="other">%d minutes remaining</item>
-    <item quantity="one">1 minute remaining</item>
-    <item quantity="two">%d minutes remaining</item>
-    <item quantity="few">%d minutes remaining</item>
-    <item quantity="many">%d minutes remaining</item>
+    <item quantity="zero">%d الدقائق المتبقية</item>
+    <item quantity="other">%d الدقائق المتبقية</item>
+    <item quantity="one">%d الدقائق المتبقية</item>
+    <item quantity="two">%d الدقائق المتبقية</item>
+    <item quantity="few">%d الدقائق المتبقية</item>
+    <item quantity="many">%d الدقائق المتبقية</item>
   </plurals>
   <plurals name="video_history_clear_prompt">
-    <item quantity="zero">Delete %1$d items from history?</item>
-    <item quantity="other">Delete %1$d items from history?</item>
-    <item quantity="one">Delete %1$d item from history?</item>
-    <item quantity="two">Delete %1$d items from history?</item>
-    <item quantity="few">Delete %1$d items from history?</item>
-    <item quantity="many">Delete %1$d items from history?</item>
+    <item quantity="zero">حذف العناصر %1$d من السجل؟</item>
+    <item quantity="other">حذف العناصر %1$d من السجل؟</item>
+    <item quantity="one">حذف العناصر %1$d من السجل؟</item>
+    <item quantity="two">حذف العناصر %1$d من السجل؟</item>
+    <item quantity="few">حذف العناصر %1$d من السجل؟</item>
+    <item quantity="many">حذف العناصر %1$d من السجل؟</item>
   </plurals>
   <plurals name="video_history_clear_info">
-    <item quantity="zero">%1$d items deleted from history.</item>
-    <item quantity="other">%1$d items deleted from history.</item>
-    <item quantity="one">%1$d item deleted from history.</item>
-    <item quantity="two">%1$d items deleted from history.</item>
-    <item quantity="few">%1$d items deleted from history.</item>
-    <item quantity="many">%1$d items deleted from history.</item>
+    <item quantity="zero">%1$d العناصر المحذوفة من السجل.</item>
+    <item quantity="other">%1$d العناصر المحذوفة من السجل.</item>
+    <item quantity="one">%1$d العناصر المحذوفة من السجل.</item>
+    <item quantity="two">%1$d العناصر المحذوفة من السجل.</item>
+    <item quantity="few">%1$d العناصر المحذوفة من السجل.</item>
+    <item quantity="many">%1$d العناصر المحذوفة من السجل.</item>
   </plurals>
   <plurals name="find_on_page_matches">
-    <item quantity="zero">%d matches</item>
-    <item quantity="other">%d matches</item>
-    <item quantity="one">%d match</item>
-    <item quantity="two">%d matches</item>
-    <item quantity="few">%d matches</item>
-    <item quantity="many">%d matches</item>
+    <item quantity="zero">مطابقة %d</item>
+    <item quantity="other">مطابقة %d</item>
+    <item quantity="one">مطابقة %d</item>
+    <item quantity="two">مطابقة %d</item>
+    <item quantity="few">مطابقة %d</item>
+    <item quantity="many">مطابقة %d</item>
   </plurals>
   <plurals name="adblock_rules_number_text">
-    <item quantity="zero">%d items blocked</item>
-    <item quantity="other">%d items blocked</item>
-    <item quantity="one">%d item blocked</item>
-    <item quantity="two">%d items blocked</item>
-    <item quantity="few">%d items blocked</item>
-    <item quantity="many">%d items blocked</item>
+    <item quantity="zero">٪d تم حظر من العناصر</item>
+    <item quantity="other">٪dتم حظر من العناصر</item>
+    <item quantity="one">٪dتم حظر من العناصر</item>
+    <item quantity="two">٪dتم حظر من العناصر</item>
+    <item quantity="few">٪dتم حظر من العناصر</item>
+    <item quantity="many">٪dتم حظر من العناصر</item>
   </plurals>
 </resources>
