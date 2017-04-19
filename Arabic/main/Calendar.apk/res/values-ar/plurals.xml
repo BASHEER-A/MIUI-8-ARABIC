@@ -10,36 +10,36 @@
     <item quantity="many">%d دقائق</item>
   </plurals>
   <plurals name="Nmins">
-    <item quantity="zero">%d mins</item>
-    <item quantity="other">%d mins</item>
-    <item quantity="one">1 min</item>
-    <item quantity="two">%d mins</item>
-    <item quantity="few">%d mins</item>
-    <item quantity="many">%d mins</item>
+    <item quantity="zero">%d دقيقة</item>
+    <item quantity="other">%d دقيقة</item>
+    <item quantity="one">%d دقيقة</item>
+    <item quantity="two">%d دقيقة</item>
+    <item quantity="few">%d دقيقة</item>
+    <item quantity="many">%d دقيقة</item>
   </plurals>
   <plurals name="Nhours">
-    <item quantity="zero">%d hours</item>
-    <item quantity="other">%d hours</item>
-    <item quantity="one">1 hour</item>
-    <item quantity="two">%d hours</item>
-    <item quantity="few">%d hours</item>
-    <item quantity="many">%d hours</item>
+    <item quantity="zero">ساعة %d</item>
+    <item quantity="other">ساعة %d</item>
+    <item quantity="one">ساعة %d</item>
+    <item quantity="two">ساعة %d</item>
+    <item quantity="few">ساعة %d</item>
+    <item quantity="many">ساعة %d</item>
   </plurals>
   <plurals name="Ndays">
-    <item quantity="zero">%d days</item>
-    <item quantity="other">%d days</item>
-    <item quantity="one">1 day</item>
-    <item quantity="two">%d days</item>
-    <item quantity="few">%d days</item>
-    <item quantity="many">%d days</item>
+    <item quantity="zero">يوم %d</item>
+    <item quantity="other">يوم %d</item>
+    <item quantity="one">يوم %d</item>
+    <item quantity="two">يوم %d</item>
+    <item quantity="few">يوم %d</item>
+    <item quantity="many">يوم %d</item>
   </plurals>
   <plurals name="weekN">
-    <item quantity="zero">WEEK %d</item>
-    <item quantity="one">WEEK %d</item>
-    <item quantity="two">WEEK %d</item>
-    <item quantity="few">WEEK %d</item>
-    <item quantity="many">WEEK %d</item>
-    <item quantity="other">WEEK %d</item>
+    <item quantity="zero">%d اسبوع</item>
+    <item quantity="one">%d اسبوع</item>
+    <item quantity="two">%d اسبوع</item>
+    <item quantity="few">%d اسبوع</item>
+    <item quantity="many">%d اسبوع</item>
+    <item quantity="other">%d اسبوع</item>
   </plurals>
   <plurals name="month_more_events">
     <item quantity="zero">+%d</item>
@@ -50,19 +50,19 @@
     <item quantity="many">+%d</item>
   </plurals>
   <plurals name="Nevents">
-    <item quantity="zero">%d events</item>
-    <item quantity="other">%d events</item>
-    <item quantity="one">1 event</item>
-    <item quantity="two">%d events</item>
-    <item quantity="few">%d events</item>
-    <item quantity="many">%d events</item>
+    <item quantity="zero">أحداث %d</item>
+    <item quantity="other">أحداث %d</item>
+    <item quantity="one">أحداث %d</item>
+    <item quantity="two">أحداث %d</item>
+    <item quantity="few">أحداث %d</item>
+    <item quantity="many">أحداث %d</item>
   </plurals>
   <plurals name="N_remaining_events">
-    <item quantity="zero">+%d events</item>
-    <item quantity="other">+%d events</item>
-    <item quantity="one">+1 event</item>
-    <item quantity="two">+%d events</item>
-    <item quantity="few">+%d events</item>
-    <item quantity="many">+%d events</item>
+    <item quantity="zero">أحداث %d</item>
+    <item quantity="other">أحداث %d</item>
+    <item quantity="one">أحداث %d</item>
+    <item quantity="two">أحداث %d</item>
+    <item quantity="few">أحداث %d</item>
+    <item quantity="many">أحداث %d</item>
   </plurals>
 </resources>
