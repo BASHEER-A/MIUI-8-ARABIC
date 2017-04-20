@@ -10,12 +10,12 @@
     <item quantity="many">No data connection for %s minutes</item>
   </plurals>
   <plurals name="alert_dialog_exit_ecm">
-    <item quantity="zero">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
-    <item quantity="other">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
-    <item quantity="one">The phone will be in Emergency Callback mode for %s minute. While in this mode no apps using a data connection can be used. Do you want to exit now?</item>
-    <item quantity="two">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
-    <item quantity="few">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
-    <item quantity="many">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
+    <item quantity="zero">الهاتف سيكون في وضع \"رد الاتصال في حالة الطوارئ\" لمدة دقيقة %s. وفي حين يمكن استخدام أية تطبيقات تستخدم اتصال بيانات في هذا الوضع. هل تريد الخروج الآن؟</item>
+    <item quantity="other">الهاتف سيكون في وضع \"رد الاتصال في حالة الطوارئ\" لمدة دقيقة %s. وفي حين يمكن استخدام أية تطبيقات تستخدم اتصال بيانات في هذا الوضع. هل تريد الخروج الآن؟</item>
+    <item quantity="one">الهاتف سيكون في وضع \"رد الاتصال في حالة الطوارئ\" لمدة دقيقة %s. وفي حين يمكن استخدام أية تطبيقات تستخدم اتصال بيانات في هذا الوضع. هل تريد الخروج الآن؟</item>
+    <item quantity="two">الهاتف سيكون في وضع \"رد الاتصال في حالة الطوارئ\" لمدة دقيقة %s. وفي حين يمكن استخدام أية تطبيقات تستخدم اتصال بيانات في هذا الوضع. هل تريد الخروج الآن؟</item>
+    <item quantity="few">الهاتف سيكون في وضع \"رد الاتصال في حالة الطوارئ\" لمدة دقيقة %s. وفي حين يمكن استخدام أية تطبيقات تستخدم اتصال بيانات في هذا الوضع. هل تريد الخروج الآن؟</item>
+    <item quantity="many">الهاتف سيكون في وضع \"رد الاتصال في حالة الطوارئ\" لمدة دقيقة %s. وفي حين يمكن استخدام أية تطبيقات تستخدم اتصال بيانات في هذا الوضع. هل تريد الخروج الآن؟</item>
   </plurals>
   <plurals name="alert_dialog_not_avaialble_in_ecm">
     <item quantity="zero">"The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minutes. Do you want to exit now?"</item>
