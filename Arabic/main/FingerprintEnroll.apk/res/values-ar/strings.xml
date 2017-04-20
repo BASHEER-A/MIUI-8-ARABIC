@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">FingerprintEnroll</string>
+  <string name="app_name">تسجيل بصمة الإصبع</string>
   <string name="checkerboard_test">CHECKERBOARD TEST</string>
-  <string name="error">Error</string>
-  <string name="fingerprint_authen">Authenticate</string>
-  <string name="fingerprint_enroll">Enroll</string>
-  <string name="fingerprint_no">no fingerprint</string>
-  <string name="fingerprint_remove">Remove fingerprint</string>
-  <string name="fingerprint_tips">Click Enroll or Authenticate, then put your finger on the sensor</string>
-  <string name="image_quality_test">IMAGE QUALITY TEST</string>
-  <string name="ok">Ok</string>
-  <string name="selftest">SELF-TEST</string>
+  <string name="error">خطأ</string>
+  <string name="fingerprint_authen">المصادقة</string>
+  <string name="fingerprint_enroll">التسجيل</string>
+  <string name="fingerprint_no">لا بصمات الأصابع</string>
+  <string name="fingerprint_remove">إزالة بصمات الأصابع</string>
+  <string name="fingerprint_tips">انقر فوق لتسجيل أو المصادقة، ثم ضع أصبعك على المستشعر</string>
+  <string name="image_quality_test">اختبار جودة الصورة</string>
+  <string name="ok">موافق</string>
+  <string name="selftest">اختبار ذاتي</string>
 </resources>
