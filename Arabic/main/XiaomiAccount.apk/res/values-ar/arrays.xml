@@ -31,17 +31,17 @@
     <item>Z</item>
   </string-array>
   <string-array name="account_user_gender_name">
-    <item>Male</item>
-    <item>Female</item>
+    <item>رجل</item>
+    <item>أنثى</item>
   </string-array>
   <string-array name="education">
-    <item>Middle school</item>
-    <item>Prep school</item>
-    <item>High school</item>
-    <item>Vocational school</item>
-    <item>College</item>
-    <item>"Master's degree"</item>
-    <item>"Doctor's degree"</item>
+    <item>المدارس الإعدادية</item>
+    <item>المدرسة الإعدادية</item>
+    <item>المدارس الثانوية</item>
+    <item>مدرسة التدريب المهني</item>
+    <item>كلية</item>
+    <item>"درجة الماجستير"</item>
+    <item>"الدكتوراه"</item>
   </string-array>
   <string-array name="income">
     <item>&lt; 2000</item>
@@ -52,14 +52,14 @@
     <item>&gt; 12000</item>
   </string-array>
   <string-array name="question_no1">
-    <item>Family</item>
-    <item>"Maternal grandmother's name"</item>
-    <item>"Maternal grandfather's name"</item>
-    <item>"Paternal grandfather's name"</item>
-    <item>"Paternal grandmother's name"</item>
-    <item>"Father's birthday"</item>
-    <item>"Mother's birthday"</item>
-    <item>"What is your parents' age difference (years and months)?"</item>
+    <item>الأسرة</item>
+    <item>"اسم الأم الجدة"</item>
+    <item>"اسم الجد الأمهات"</item>
+    <item>"اسم الجد الأمهات"</item>
+    <item>"اسم الأب الجدة"</item>
+    <item>"عيد ميلاد الأب"</item>
+    <item>"عيد ميلاد الأم"</item>
+    <item>"ما هو فارق السن الديك (سنوات وأشهر)؟"</item>
   </string-array>
   <string-array name="question_no2">
     <item>Alma mater</item>
