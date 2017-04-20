@@ -3,31 +3,31 @@
 <resources>
   <string-array name="wifi_status">
     <item></item>
-    <item>Scanning&#8230;</item>
-    <item>Connecting&#8230;</item>
-    <item>Authenticating&#8230;</item>
-    <item>Obtaining IP address&#8230;</item>
-    <item>Connected</item>
-    <item>Suspended</item>
-    <item>Disconnecting&#8230;</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>مسح &#8230;</item>
+    <item>توصيل &#8230;</item>
+    <item>مصادقة &#8230;</item>
+    <item>الحصول على عنوان IP &#8230;</item>
+    <item>متصل</item>
+    <item>تعليق</item>
+    <item>قطع &#8230;</item>
+    <item>قطع الاتصال</item>
+    <item>غير ناجح</item>
+    <item>حظر</item>
+    <item>تجنب سوء الاتصال مؤقتاً</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
-    <item>Scanning&#8230;</item>
-    <item>Connecting to %1$s&#8230;</item>
-    <item>Authenticating with %1$s&#8230;</item>
-    <item>Obtaining IP address from %1$s&#8230;</item>
-    <item>Connected to %1$s</item>
-    <item>Suspended</item>
-    <item>Disconnecting from %1$s&#8230;</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>مسح &#8230;</item>
+    <item>الاتصال %1$s &#8230;</item>
+    <item>مصادقة مع %1$s &#8230;</item>
+    <item>الحصول على عنوان IP من %1$s &#8230;</item>
+    <item>تتصل %1$s</item>
+    <item>تعليق</item>
+    <item>قطع الاتصال من %1$s &#8230;</item>
+    <item>قطع الاتصال</item>
+    <item>غير ناجح</item>
+    <item>حظر</item>
+    <item>تجنب سوء الاتصال مؤقتاً</item>
   </string-array>
   <string-array name="duration_entries">
     <item>0</item>
