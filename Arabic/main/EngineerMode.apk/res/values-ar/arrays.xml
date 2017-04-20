@@ -11,7 +11,7 @@
     <item>MT6628</item>
   </string-array>
   <string-array name="bt_chip_eco">
-    <item>UNKNOWN</item>
+    <item>المجهول</item>
     <item>E1</item>
     <item>E2</item>
     <item>E3</item>
@@ -180,12 +180,12 @@
     <item>GSM only</item>
   </string-array>
   <string-array name="device_mgr_entries">
-    <item>Disable</item>
-    <item>Enable</item>
+    <item>تعطيل</item>
+    <item>تمكين</item>
   </string-array>
   <string-array name="device_mgr_dm_conf_switch_entries">
-    <item>Test Environment</item>
-    <item>Productive Environment</item>
+    <item>بيئة اختبار</item>
+    <item>البيئة الإنتاجية</item>
   </string-array>
   <string-array name="tvout_system_list">
     <item>PAL</item>
@@ -277,29 +277,29 @@
   </string-array>
   <string-array name="camera_items">
     <item>AF EM</item>
-    <item>Raw Capture Mode</item>
-    <item>Raw Type</item>
-    <item>Flicker</item>
+    <item>وضع التقاط الخام</item>
+    <item>نوع الخام</item>
+    <item>وميض</item>
     <item>ISO</item>
-    <item>Start Preview</item>
-    <item>Help</item>
+    <item>بدء المعاينة</item>
+    <item>تعليمات</item>
   </string-array>
   <string-array name="af_mode_dialog">
     <item>Normal AF</item>
     <item>AF Bracket</item>
-    <item>Full Scan</item>
-    <item>Full Scan Repeat</item>
-    <item>AF Repeat</item>
-    <item>AF and Full Repeat</item>
+    <item>مسح كامل</item>
+    <item>تكرار مسح كامل</item>
+    <item>كرر AF</item>
+    <item>AF وتكرار كامل</item>
   </string-array>
   <string-array name="capture_mode_dialog">
-    <item>Preview Mode</item>
-    <item>Capture Mode</item>
-    <item>JPEG Only</item>
+    <item>وضع المعاينة</item>
+    <item>وضع الالتقاط</item>
+    <item>JPEG فقط</item>
   </string-array>
   <string-array name="raw_type_dialog">
-    <item>Processed Raw</item>
-    <item>Pure Raw</item>
+    <item>معالجة الخام</item>
+    <item>نقية خام</item>
   </string-array>
   <string-array name="anti_flicker_dialog">
     <item>50HZ</item>
@@ -317,12 +317,12 @@
     <item>ISO1600</item>
   </string-array>
   <string-array name="normal_captrue_size">
-    <item>Preview size</item>
-    <item>Capture size</item>
+    <item>حجم المعاينة</item>
+    <item>التقاط الحجم</item>
     <item>Capture size(ZSD)</item>
-    <item>Video size</item>
-    <item>Slim Video1</item>
-    <item>Slim Video2</item>
+    <item>حجم الفيديو</item>
+    <item>سليم Video1</item>
+    <item>Video2 سليم</item>
     <item>Custom1</item>
     <item>Custom2</item>
     <item>Custom3</item>
@@ -330,10 +330,10 @@
     <item>Custom5</item>
   </string-array>
   <string-array name="normal_captrue_name_prefix">
-    <item>Preview</item>
-    <item>Capture</item>
-    <item>Capture</item>
-    <item>Video</item>
+    <item>معاينة</item>
+    <item>التقاط</item>
+    <item>التقاط</item>
+    <item>فيديو</item>
     <item>SlimVideo1</item>
     <item>SlimVideo2</item>
     <item>Custom1</item>
@@ -1075,9 +1075,9 @@ HSPA+ on"</item>
     <item>LTE TAS</item>
   </string-array>
   <string-array name="ct_network_selection">
-    <item>Global mode</item>
+    <item>الوضع العالمي</item>
     <item>CDMA only</item>
-    <item>WCDMA(GSM) only</item>
+    <item>WCDMA(GSM) فقط</item>
   </string-array>
   <string-array name="antenna_modes_4g">
     <item>RX1 &amp; RX2</item>
@@ -1085,7 +1085,7 @@ HSPA+ on"</item>
     <item>RX2</item>
   </string-array>
   <string-array name="antenna_modes_3g">
-    <item>Please select a mode:</item>
+    <item>الرجاء تحديد وضع:</item>
     <item>RX1</item>
     <item>RX2</item>
     <item>RX1 &amp; RX2</item>
