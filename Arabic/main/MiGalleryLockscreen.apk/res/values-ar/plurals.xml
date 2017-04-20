@@ -10,11 +10,11 @@
     <item quantity="many">%1$s followers</item>
   </plurals>
   <plurals name="lockscreen_magazine_system_subscribe">
-    <item quantity="zero">%1$s wallpapers</item>
-    <item quantity="other">%1$s wallpapers</item>
-    <item quantity="one">%1$s wallpaper</item>
-    <item quantity="two">%1$s wallpapers</item>
-    <item quantity="few">%1$s wallpapers</item>
-    <item quantity="many">%1$s wallpapers</item>
+    <item quantity="zero">الخلفيات %1$s</item>
+    <item quantity="other">الخلفيات %1$s</item>
+    <item quantity="one">الخلفيات %1$s</item>
+    <item quantity="two">الخلفيات %1$s</item>
+    <item quantity="few">الخلفيات %1$s</item>
+    <item quantity="many">الخلفيات %1$s</item>
   </plurals>
 </resources>
