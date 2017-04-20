@@ -13,34 +13,34 @@
     <item>قطع الاتصال</item>
     <item>غير ناجح</item>
     <item>محظور</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>تجنب سوء الاتصال مؤقتاً</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
-    <item>Scanning&#8230;</item>
-    <item>Connecting to %1$s&#8230;</item>
-    <item>Authenticating with %1$s&#8230;</item>
-    <item>Obtaining IP address from %1$s&#8230;</item>
-    <item>Connected to %1$s</item>
-    <item>Suspended</item>
-    <item>Disconnecting from %1$s&#8230;</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>جاري البحث &#8230;</item>
+    <item>الاتصال %1$s &#8230;</item>
+    <item>مصادقة مع %1$s &#8230;</item>
+    <item>الحصول على عنوان IP من %1$s &#8230;</item>
+    <item>متصل %1$s</item>
+    <item>تعليق</item>
+    <item>قطع الاتصال من %1$s &#8230;</item>
+    <item>قطع الاتصال</item>
+    <item>غير ناجح</item>
+    <item>حظر</item>
+    <item>تجنب سوء الاتصال مؤقتاً</item>
   </string-array>
   <string-array name="status_bar_style_entries">
-    <item>Combined</item>
-    <item>Separate</item>
+    <item>مشترك</item>
+    <item>منفصلة</item>
   </string-array>
   <string-array name="timezone_filters">
-    <item>America</item>
-    <item>Europe</item>
-    <item>Africa</item>
-    <item>Asia</item>
-    <item>Australia</item>
-    <item>Pacific</item>
-    <item>All</item>
+    <item>أمريكا</item>
+    <item>أوروبا</item>
+    <item>أفريقيا</item>
+    <item>آسيا</item>
+    <item>أستراليا</item>
+    <item>المحيط الهادئ</item>
+    <item>الجميع</item>
   </string-array>
   <string-array name="screen_timeout_entries">
     <item>١٥ ثانية</item>
@@ -52,20 +52,20 @@
     <item>أبدا</item>
   </string-array>
   <string-array name="dream_timeout_entries">
-    <item>Never</item>
-    <item>15 seconds</item>
-    <item>30 seconds</item>
-    <item>1 minute</item>
-    <item>2 minutes</item>
-    <item>5 minutes</item>
-    <item>10 minutes</item>
-    <item>30 minutes</item>
+    <item>ابدأ</item>
+    <item>15 ثانية</item>
+    <item>30 ثانية</item>
+    <item>1 دقيقة</item>
+    <item>2 دقيقة</item>
+    <item>بعد 5 دقائق</item>
+    <item>10 دقائق</item>
+    <item>30 دقيقة</item>
   </string-array>
   <string-array name="lock_after_timeout_entries">
-    <item>Immediately</item>
-    <item>5 seconds</item>
-    <item>15 seconds</item>
-    <item>30 seconds</item>
+    <item>فورا</item>
+    <item>5 ثوان</item>
+    <item>15 ثانية</item>
+    <item>30 ثانية</item>
     <item>1 minute</item>
     <item>2 minutes</item>
     <item>5 minutes</item>
@@ -111,37 +111,37 @@
     <item>2 minutes</item>
     <item>5 minutes</item>
     <item>1 hour</item>
-    <item>Never time out</item>
+    <item>مهلة ابدأ</item>
   </string-array>
   <string-array name="wifi_signal">
-    <item>Poor</item>
-    <item>Fair</item>
-    <item>Good</item>
-    <item>Excellent</item>
+    <item>ضعيف</item>
+    <item>وسط</item>
+    <item>جيدة</item>
+    <item>ممتازة</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
-    <item>Always</item>
-    <item>Only when plugged in</item>
-    <item>Never</item>
+    <item>دائماً</item>
+    <item>فقط عند التوصيل</item>
+    <item>ابدأ</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
-    <item>Always</item>
-    <item>Only when plugged in</item>
-    <item>Never</item>
+    <item>دائماً</item>
+    <item>فقط عند التوصيل</item>
+    <item>ابدأ</item>
   </string-array>
   <string-array name="data_usage_data_range">
-    <item>Last 30 days</item>
-    <item>Set usage cycle...</item>
+    <item>آخر 30 يوما</item>
+    <item>تعيين دورة الاستخدام...</item>
   </string-array>
   <string-array name="wifi_frequency_band_entries">
-    <item>Automatic</item>
-    <item>5 GHz only</item>
-    <item>2.4 GHz only</item>
+    <item>تلقائي</item>
+    <item>5 غيغاهرتز فقط</item>
+    <item>2.4 GHz فقط</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
-    <item>Usage time</item>
-    <item>Last time used</item>
-    <item>App name</item>
+    <item>استخدام الوقت</item>
+    <item>آخر مرة استخدمت</item>
+    <item>اسم التطبيق</item>
   </string-array>
   <string-array name="wifi_eap_entries">
     <item>PEAP</item>
@@ -150,12 +150,12 @@
     <item>PWD</item>
   </string-array>
   <string-array name="wifi_peap_phase2_entries">
-    <item>None</item>
+    <item>لا شيء</item>
     <item>MSCHAPV2</item>
     <item>GTC</item>
   </string-array>
   <string-array name="wifi_phase2_entries">
-    <item>None</item>
+    <item>لا شيء</item>
     <item>PAP</item>
     <item>MSCHAP</item>
     <item>MSCHAPV2</item>
@@ -163,32 +163,32 @@
   </string-array>
   <string-array name="wifi_ip_settings">
     <item>DHCP</item>
-    <item>Static</item>
+    <item>ثابت</item>
   </string-array>
   <string-array name="wifi_proxy_settings">
-    <item>None</item>
-    <item>Manual</item>
+    <item>لا شيء</item>
+    <item>دليل</item>
     <item>Proxy Auto-Config</item>
   </string-array>
   <string-array name="app_install_location_entries">
-    <item>Internal device storage</item>
-    <item>Removable SD card</item>
-    <item>Let the system decide</item>
+    <item>تخزين الجهاز الداخلي</item>
+    <item>بطاقة SD قابلة للإزالة</item>
+    <item>السماح للنظام باتخاذ قرار</item>
   </string-array>
   <string-array name="app_ops_categories">
-    <item>Location</item>
-    <item>Personal</item>
-    <item>Messaging</item>
-    <item>Media</item>
-    <item>Device</item>
+    <item>الموقع</item>
+    <item>شخصية</item>
+    <item>المراسلة</item>
+    <item>الوسائط</item>
+    <item>الجهاز</item>
   </string-array>
   <string-array name="app_ops_summaries">
-    <item>coarse location</item>
-    <item>fine location</item>
-    <item>GPS</item>
-    <item>vibrate</item>
-    <item>read contacts</item>
-    <item>modify contacts</item>
+    <item>موقع الخشنة</item>
+    <item>موقع جيد</item>
+    <item>تحديد المواقع</item>
+    <item>يهتز</item>
+    <item>قراءة جهات الاتصال</item>
+    <item>تعديل جهات الاتصال</item>
     <item>read call log</item>
     <item>modify call log</item>
     <item>read calendar</item>
@@ -227,58 +227,58 @@
     <item>monitor location</item>
     <item>monitor high power location</item>
     <item>get usage stats</item>
-    <item>mute/unmute microphone</item>
-    <item>project media</item>
-    <item>activate VPN</item>
-    <item>write wallpaper</item>
+    <item>كتم/إلغاء كتم الميكروفون</item>
+    <item>مشروع الوسائط</item>
+    <item>تفعيل VPN</item>
+    <item>كتابة خلفية</item>
     <item>assist structure</item>
-    <item>assist screenshot</item>
+    <item>مساعدة لقطة للشاشة</item>
   </string-array>
   <string-array name="app_ops_labels">
-    <item>Location</item>
-    <item>Location</item>
-    <item>Location</item>
-    <item>Vibrate</item>
-    <item>Read contacts</item>
-    <item>Modify contacts</item>
-    <item>Read call log</item>
-    <item>Modify call log</item>
-    <item>Read calendar</item>
-    <item>Modify calendar</item>
-    <item>Location</item>
-    <item>Post notification</item>
-    <item>Location</item>
-    <item>Call phone</item>
-    <item>Read SMS/MMS</item>
-    <item>Write SMS/MMS</item>
-    <item>Receive SMS/MMS</item>
-    <item>Receive SMS/MMS</item>
-    <item>Receive SMS/MMS</item>
-    <item>Receive SMS/MMS</item>
-    <item>Send SMS/MMS</item>
-    <item>Read SMS/MMS</item>
-    <item>Write SMS/MMS</item>
-    <item>Modify settings</item>
-    <item>Draw on top</item>
-    <item>Access notifications</item>
-    <item>Camera</item>
-    <item>Record audio</item>
-    <item>Play audio</item>
-    <item>Read clipboard</item>
-    <item>Modify clipboard</item>
-    <item>Media buttons</item>
-    <item>Audio focus</item>
-    <item>Master volume</item>
-    <item>Voice volume</item>
-    <item>Ring volume</item>
-    <item>Media volume</item>
-    <item>Alarm volume</item>
-    <item>Notification volume</item>
-    <item>Bluetooth volume</item>
-    <item>Keep awake</item>
-    <item>Location</item>
-    <item>Location</item>
-    <item>Get usage stats</item>
+    <item>الموقع</item>
+    <item>الموقع</item>
+    <item>الموقع</item>
+    <item>يهتز</item>
+    <item>قراءة جهات الاتصال</item>
+    <item>تعديل جهات الاتصال</item>
+    <item>قراءة سجل المكالمات</item>
+    <item>تعديل سجل المكالمات</item>
+    <item>قراءة التقويم</item>
+    <item>تعديل التقويم</item>
+    <item>الموقع</item>
+    <item>وظيفة الإعلام</item>
+    <item>الموقع</item>
+    <item>الهاتف</item>
+    <item>قراءة الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>كتابة الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>تلقي الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>تلقي الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>تلقي الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>تلقي الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>إرسال الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>قراءة الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>كتابة الرسائل القصيرة ورسائل الوسائط المتعددة</item>
+    <item>تعديل الإعدادات</item>
+    <item>رسم في الأعلى</item>
+    <item>إعلامات الوصول</item>
+    <item>الكاميرا</item>
+    <item>تسجيل الصوت</item>
+    <item>تشغيل الصوت</item>
+    <item>قراءة الحافظة</item>
+    <item>تعديل الحافظة</item>
+    <item>أزرار الوسائط</item>
+    <item>تركيز الصوت</item>
+    <item>الصوت الرئيسي</item>
+    <item>حجم صوت</item>
+    <item>مستوى صوت الرنين</item>
+    <item>وسائط التخزين</item>
+    <item>حجم التنبيه</item>
+    <item>حجم الاشعارات</item>
+    <item>حجم بلوتوث</item>
+    <item>تبقى مستيقظا</item>
+    <item>الموقع</item>
+    <item>الموقع</item>
+    <item>الحصول على إحصائيات الاستخدام</item>
     <item>Mute/unmute microphone</item>
     <item>Project media</item>
     <item>Activate VPN</item>
@@ -346,76 +346,76 @@
     <item>Animation scale 1x</item>
     <item>Animation scale 1.5x</item>
     <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>مقياس الحركة 5 x</item>
+    <item>مقياس الحركة 10 x</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>الرسوم المتحركة قبالة</item>
+    <item>مقياس الحركة 5 x</item>
+    <item>مقياس الحركة 10 x</item>
+    <item>مقياس الحركة 5 x</item>
+    <item>مقياس الحركة 10 x</item>
+    <item>مقياس الحركة 5 x</item>
+    <item>مقياس الحركة 10 x</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
-    <item>None</item>
-    <item>Logcat</item>
+    <item>لا شيء</item>
+    <item>لوجكات</item>
     <item>Systrace (Graphics)</item>
     <item>Call stack on glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
-    <item>Off</item>
-    <item>Draw non-rectangular clip region in blue</item>
-    <item>Highlight tested drawing commands in green</item>
+    <item>إيقاف تشغيل</item>
+    <item>رسم منطقة كليب غير مستطيل باللون الأزرق</item>
+    <item>اختبار تمييز أوامر الرسم باللون الأخضر</item>
   </string-array>
   <string-array name="track_frame_time_entries">
-    <item>Off</item>
-    <item>On screen as bars</item>
+    <item>إيقاف</item>
+    <item>على الشاشة كأشرطة</item>
     <item>In adb shell dumpsys gfxinfo</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
-    <item>Off</item>
-    <item>Show overdraw areas</item>
-    <item>Show areas for Deuteranomaly</item>
+    <item>إيقاف</item>
+    <item>إظهار المكشوف المناطق</item>
+    <item>إظهار المناطق Deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
-    <item>Standard limit</item>
-    <item>No background processes</item>
-    <item>At most 1 process</item>
-    <item>At most 2 processes</item>
-    <item>At most 3 processes</item>
-    <item>At most 4 processes</item>
+    <item>الحد القياسي</item>
+    <item>لا توجد خلفية العمليات</item>
+    <item>1 عملية في معظم</item>
+    <item>في معظم العمليات 2</item>
+    <item>في معظم العمليات 3</item>
+    <item>في معظم العمليات 3</item>
   </string-array>
   <string-array name="vpn_states">
-    <item>Disconnected</item>
-    <item>Initializing&#8230;</item>
-    <item>Connecting&#8230;</item>
-    <item>Connected</item>
-    <item>Timeout</item>
-    <item>Unsuccessful</item>
+    <item>قطع الاتصال</item>
+    <item>تهيئة &#8230;</item>
+    <item>توصيل &#8230;</item>
+    <item>متصل</item>
+    <item>مهلة</item>
+    <item>غير ناجح</item>
   </string-array>
   <string-array name="user_content_ratings_entries">
-    <item>Ascended being</item>
-    <item>Human</item>
-    <item>Neanderthal</item>
-    <item>Chimp</item>
-    <item>Monkey</item>
+    <item>صعد يجري</item>
+    <item>البشرية</item>
+    <item>الإنسان البدائي</item>
+    <item>الشمبانزي</item>
+    <item>القرد</item>
   </string-array>
   <string-array name="security_settings_premium_sms_values">
-    <item>Ask</item>
-    <item>Never allow</item>
-    <item>Always allow</item>
+    <item>اسأل</item>
+    <item>عدم السماح</item>
+    <item>السماح دوماً</item>
   </string-array>
   <string-array name="proc_stats_process_states">
-    <item>Persistent</item>
-    <item>Top activity</item>
-    <item>Important (foreground)</item>
-    <item>Important (background)</item>
-    <item>Backup</item>
-    <item>Heavy weight</item>
-    <item>Service (running)</item>
-    <item>Service (restarting)</item>
+    <item>المستمرة</item>
+    <item>النشاط الأعلى</item>
+    <item>هام (المقدمة)</item>
+    <item>هام (خلفية)</item>
+    <item>النسخ الاحتياطي</item>
+    <item>الوزن الثقيل</item>
+    <item>خدمة (على التوالي)</item>
+    <item>خدمة (إعادة تشغيل)</item>
     <item>Receiver</item>
     <item>Home</item>
     <item>Last activity</item>
@@ -534,8 +534,8 @@
   <string-array name="msd_pc_system">
     <item>Windows XP وإصدارات سابقة</item>
     <item>Windows Vista وإصدارات أحدث</item>
-    <item>OSX</item>
-    <item>Linux</item>
+    <item>ماك</item>
+    <item>لينكس</item>
   </string-array>
   <string-array name="msd_pc_system_install_summary">
     <item>2. اتبع الإرشادات على الشاشة</item>
@@ -558,8 +558,8 @@
     <item>إنشاء دليل: mkdir /media/mtp</item>
     <item>تأكيد تصريحات مستخدم المجموعة في مجموعة مستخدم fuse الحاليه</item>
     <item>تسجيل الدخول مرة أخرى</item>
-    <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
-    <item>Uninstall device: fusermount -u /media/mtp\nNote: Only for Ubuntu 8.04!</item>
+    <item>الوصول إلى الجهاز المحمل: متبفس/وسائل الإعلام/الخطة المتوسطة الأجل عن طريق مستكشف الملفات؛ نفس الدليل المحلي</item>
+    <item>إلغاء تثبيت الجهاز: فوسيرمونت-يو/وسائل الإعلام/mtp\nNote: أوبونتو 8.04 فقط!</item>
   </string-array>
   <string-array name="screen_color_title">
     <item>دافئة</item>
@@ -712,4 +712,3 @@
     <item>Custom</item>
   </string-array>
 </resources>
-
