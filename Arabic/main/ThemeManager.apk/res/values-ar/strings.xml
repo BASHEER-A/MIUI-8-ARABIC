@@ -99,8 +99,8 @@
   <string name="my_gifts">الهدايا</string>
   <string name="my_gifts_purchased">تم شراؤها</string>
   <string name="my_gifts_received">المستلمة</string>
-  <string name="no_data">"لا يمكن الاتصال بالشبكة"</string>
-  <string name="online_no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="no_data">"تعذر الاتصال بالشبكة"</string>
+  <string name="online_no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="online_search_hint">البحث عن موارد على الانترنت</string>
   <string name="present_local_themes">الثيمات التي تم تنزيلها</string>
   <string name="present_online_themes">احصل على المزيد من الثيمات مجانا</string>
@@ -227,7 +227,7 @@
   <string name="resource_my">المتواجدة</string>
   <string name="resource_network_diagnostics">&lt;u&gt;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577;&lt;/u&gt;</string>
   <string name="resource_no_match_app">لم يتم العثور على اي تطبيق للتعامل مع هذا الإجراء.</string>
-  <string name="resource_no_network_text">"لا يمكن الاتصال بالشبكة."</string>
+  <string name="resource_no_network_text">"تعذر الاتصال بالشبكة."</string>
   <string name="resource_no_result">"لم يتم العثور على أي شيء"</string>
   <string name="resource_notification_default">الإشعارات</string>
   <string name="resource_on_trial">جارٍ المحاولة: %1$s</string>

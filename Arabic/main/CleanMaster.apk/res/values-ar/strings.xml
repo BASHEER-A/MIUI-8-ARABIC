@@ -278,7 +278,7 @@
   <string name="msg_cleanup_db_update_checking">جارٍ التحقق من وجود تحديثات\u2026</string>
   <string name="msg_cleanup_db_update_time_unknown">آخر تحديث: غير معروف</string>
   <string name="msg_update_error_code_already_running">جارٍ التحديث\u2026</string>
-  <string name="msg_update_error_code_network_error">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="msg_update_error_code_network_error">"تعذر الاتصال بالشبكة"</string>
   <string name="msg_update_error_code_no_newer_db">أداة التنظيف محدثة</string>
   <string name="msg_update_error_code_success">تم</string>
   <string name="msg_update_error_code_unknown_error">خطأ غير معروف</string>
@@ -287,7 +287,7 @@
   <string name="nb_clear_set">مسح ذاكرة التخزين المؤقت، عرض معلومات البطارية وقائمة الحظر في مركزالاشعارات</string>
   <string name="net_assistant_detail">تم استخدام %1$s, تم حفظ %2$s</string>
   <string name="net_assistant_title">تم استعمال %s من بيانات الهاتف هذا الشهر</string>
-  <string name="network_not_available">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_not_available">"تعذر الاتصال بالشبكة"</string>
   <string name="news_change">تغيير</string>
   <string name="no_network">"تعذر الاتصال بالشبكة، حاول مرة أخرى لاحقا"</string>
   <string name="no_network_btn">حاول مجدداً</string>
@@ -440,7 +440,7 @@
   <string name="toast_garbage_cleanup_success">انتهى التنظيف</string>
   <string name="toast_garbage_list_empty">كل شي يبدو جيداً!</string>
   <string name="toast_must_select_before_restore">اختر صور للإستعادة</string>
-  <string name="toast_network_eror">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="toast_network_eror">"تعذر الاتصال بالشبكة"</string>
   <string name="toast_network_switch">يستطيع هذا التطبيق الاتصال بالإنترنت</string>
   <string name="toast_removed_from_white_list">"تم الحذف من الإستثناءات بنجاح"</string>
   <string name="toast_resolve_apk_error">حل خطأ apk</string>

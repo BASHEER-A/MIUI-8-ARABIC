@@ -144,7 +144,7 @@
   <string name="never">أبداً</string>
   <string name="new_backup">نسخ احتياطي</string>
   <string name="no_encrypt_password">لا توجد كلمة مرور</string>
-  <string name="no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="note_title">ملاحظات</string>
   <string name="nothing_searched">لا توجد نتائج.</string>
   <string name="notif_backup_complete_title">تم الاحتفاظ بنسخة احتياطية بنجاح</string>

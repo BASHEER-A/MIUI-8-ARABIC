@@ -285,7 +285,7 @@
   <string name="namecard_title">ضع البطاقة داخل الإطار</string>
   <string name="namecard_vendor_info">مدعوم من CamCard</string>
   <string name="nickname">الاسم المستعار:</string>
-  <string name="no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="no_storage">لا يوجد تخزين داخلي</string>
   <string name="not_insert_contact">"لا يمكن إضافة جهة اتصال"</string>
   <string name="not_recommend_access_web_url">الذهاب على أية حال</string>

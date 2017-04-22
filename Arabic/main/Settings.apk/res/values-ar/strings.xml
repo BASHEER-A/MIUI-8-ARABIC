@@ -1405,7 +1405,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="free_wifi_connect">اتصال</string>
   <string name="free_wifi_connect_dialog_summary">%1$s مقدم من %2$s.</string>
   <string name="free_wifi_connect_dialog_title">شبكة Wi-Fi متوفرة</string>
-  <string name="free_wifi_connect_fail">"لا يمكن الاتصال بالشبكة. تحقق من بيانات الاتصال ثم حاول مرة أخرى."</string>
+  <string name="free_wifi_connect_fail">"تعذر الاتصال بالشبكة. تحقق من بيانات الاتصال ثم حاول مرة أخرى."</string>
   <string name="free_wifi_connect_fail2">"لا يمكن تسجيل الدخول. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى."</string>
   <string name="free_wifi_connect_summary">انقر للاتصال بـ %1$s.</string>
   <string name="free_wifi_connect_title">شبكة Wi-Fi متوفرة</string>
@@ -3293,7 +3293,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="show_user_info_on_lockscreen_label">إظهار معلومات المستخدم على شاشة القفل</string>
   <string name="shut_down_find_device_failure_confirm">موافق</string>
   <string name="shut_down_find_device_network_failure_content">"تعذر إيقاف تشغيل العثور على الجهاز. تأكد من أن جهازك متصل بشبكة الإنترنت."</string>
-  <string name="shut_down_find_device_network_failure_title">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="shut_down_find_device_network_failure_title">"تعذر الاتصال بالشبكة"</string>
   <string name="shuting_down_find_device">جارٍ إيقاف العثور على الجهاز\u2026</string>
   <string name="silent_mode_title">الوضع الصامت</string>
   <string name="sim_bad_pin">رمز PIN يجب ان يكون بين ٤-٨ ارقام طويلة</string>

@@ -227,7 +227,7 @@
   <string name="contact_detail_miprofile_save_success_toast">بطاقة جهة الاتصال المستلمة</string>
   <string name="contact_detail_miprofile_settings_header">إعدادات إضافية</string>
   <string name="contact_detail_miprofile_subtitle">بطاقات متبادلة مسبقا</string>
-  <string name="contact_detail_profile_switch_fail_network_toast">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="contact_detail_profile_switch_fail_network_toast">"تعذر الاتصال بالشبكة"</string>
   <string name="contact_detail_profile_switch_fail_toast">حدث خطأ ما في خادمنا</string>
   <string name="contact_detail_profile_switch_off">إيقاف تشغيل بطاقات جهات الاتصال</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"تعذر إيقاف تشغيل بطاقات جهات الاتصال"</string>
@@ -500,7 +500,7 @@
   <string name="hybrid_check_network">إعدادات الشبكة</string>
   <string name="hybrid_data_error">حدث خطأ ما</string>
   <string name="hybrid_locating_fail">"تعذر العثور على موقعك"</string>
-  <string name="hybrid_network_unavaliable">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="hybrid_network_unavaliable">"تعذر الاتصال بالشبكة"</string>
   <string name="hybrid_service_unavailiable">الخدمة غير متاحة</string>
   <string name="hybrid_try_again">حاول مجدداً</string>
   <string name="ic_menu_back">رجوع</string>
@@ -1235,7 +1235,7 @@
   <string name="yellowpage_navigation_search_result_unknown_error">خطأ غير معروف</string>
   <string name="yellowpage_navigation_search_select_city">اختيار مدينة</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">جارٍ التنزيل\u2026</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">"\"لا يمكن الاتصال بالشبكة\"
+  <string name="yellowpage_navigation_send_to_desktop_failed">"\"تعذر الاتصال بالشبكة\"
     "</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">تمت الإضافة إلى الشاشة الرئيسية</string>
   <string name="yellowpage_search_the_yellowpage">البحث عن الصفحات الصفراء</string>

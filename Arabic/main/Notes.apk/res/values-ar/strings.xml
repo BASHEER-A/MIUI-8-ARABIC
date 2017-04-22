@@ -135,7 +135,7 @@
   <string name="sns_footer_text">تم الإنشاء مع ملاحظات Mi</string>
   <string name="sns_hint_content">أدخل رسالة</string>
   <string name="sns_hint_title">الموضوع (اختياري)</string>
-  <string name="sns_message_disconnect">"لا يمكن الاتصال بالشبكة. تحقق من اتصالك ثم حاول مرة أخرى."</string>
+  <string name="sns_message_disconnect">"تعذر الاتصال بالشبكة. تحقق من اتصالك ثم حاول مرة أخرى."</string>
   <string name="sns_title_edit">تعديل عنوان</string>
   <string name="sns_title_send">ارسال رسالة</string>
   <string name="sns_toast_empty">"لا يمكن ارسال رسالة فارغة"</string>

@@ -26,7 +26,7 @@
   <string name="month_report_warning_dialog_description">"لعرض التقرير الشهري، قم بتشغيل هذه الميزة من إعدادات تطبيق الحماية."</string>
   <string name="month_report_warning_dialog_positive">تشغيل</string>
   <string name="month_report_warning_dialog_title">تقرير الحماية الشهري</string>
-  <string name="network_not_available">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_not_available">"تعذر الاتصال بالشبكة"</string>
   <string name="no_network_btn">حاول مرة أخرى</string>
   <string name="ok_button">موافق</string>
   <string name="open_browser">فتح في المتصفح</string>

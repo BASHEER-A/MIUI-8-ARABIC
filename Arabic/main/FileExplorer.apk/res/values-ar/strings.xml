@@ -287,7 +287,7 @@
   <string name="name_empty">يجب إدخال اسم.</string>
   <string name="need_read_storage_permission">"مدير التطبيقات يحتاج إلى الوصول إلى التخزين الداخلي لجهازك للعمل كما تم تصميمه."</string>
   <string name="network_dialog_checkbox_tip">"عدم الإظهار مرة أخرى"</string>
-  <string name="network_not_available">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_not_available">"تعذر الاتصال بالشبكة"</string>
   <string name="network_spent_reminding">"هل تريد استخدم اتصال بيانات الجوال لعرض هذه الصفحة؟ سوف تتلقى رسوم بيانات الجوال العادية من شركة الاتصالات الخاصة بك."</string>
   <string name="network_spent_reminding_title">إشعارات استخدام البيانات</string>
   <string name="new_comments">تعليقات جديدة</string>

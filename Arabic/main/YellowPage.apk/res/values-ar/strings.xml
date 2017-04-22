@@ -62,11 +62,11 @@
   <string name="dont_enable">إيقاف التشغيل</string>
   <string name="download_completed">تم حفظ التنزيل في %s</string>
   <string name="download_failed">فشل التنزيل</string>
-  <string name="download_failed_blocked">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="download_failed_blocked">"تعذر الاتصال بالشبكة"</string>
   <string name="download_failed_cannot_resume">"لا يمكن التنزيل"</string>
   <string name="download_failed_file_exists">الملف موجود مسبقا</string>
   <string name="download_failed_gone">"الملف غير موجود"</string>
-  <string name="download_failed_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="download_failed_network">"تعذر الاتصال بالشبكة"</string>
   <string name="download_failed_server">فشل التنزيل</string>
   <string name="download_failed_space">لا توجد مساحة كافية</string>
   <string name="download_failed_storage">فشل التنزيل. تحقق من بطاقة SD الخاصة بك.</string>
@@ -295,7 +295,7 @@
   <string name="nearby_yellow_page_title">قريب</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">تم رفض الوصول إلى الشبكة</string>
-  <string name="network_unavaliable">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_unavaliable">"تعذر الاتصال بالشبكة"</string>
   <string name="no_brief">لا يوجد ملخص</string>
   <string name="no_evaluation">لم يتم تقديم تعليقات</string>
   <string name="no_more_result">لا توجد المزيد من النتائج</string>

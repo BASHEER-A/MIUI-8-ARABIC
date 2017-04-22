@@ -70,7 +70,7 @@
   <string name="error_data_in_transfer">ستنتهي المزامنة في %s ساعة.</string>
   <string name="error_data_in_transfer_title">Mi Cloud غير متوفر</string>
   <string name="error_forbidden">تم تعطيل المزامنة بسبب مشاكل مع حساب Mi.</string>
-  <string name="error_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="error_network">"تعذر الاتصال بالشبكة"</string>
   <string name="error_not_acceptable">تم تعطيل المزامنة.</string>
   <string name="error_server">خطأ في الخادم</string>
   <string name="error_title">"تعذر المزامنة"</string>

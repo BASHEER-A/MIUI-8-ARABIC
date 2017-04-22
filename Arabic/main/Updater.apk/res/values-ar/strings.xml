@@ -111,7 +111,7 @@
   "</string>
   <string name="miui_summary_has_new_version">"  تحديث متاح  "</string>
   <string name="miui_summary_no_new_version">لا توجد تحديثات متاحة</string>
-  <string name="miui_summary_now_version">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="miui_summary_now_version">"تعذر الاتصال بالشبكة"</string>
   <string name="miui_summary_slogan">"  قم بتبسيط حياتك  "</string>
   <string name="miui_summary_updating">"  جارٍ التحديث\u2026  "</string>
   <string name="monthly_build">شهري</string>
@@ -247,8 +247,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_success_reboot_immediately">تم تنزيل التحديث</string>
   <string name="update_success_title">تم تحديث الجهاز</string>
   <string name="updater_nolog">لا يوجد ملخص للتحديث.</string>
-  <string name="updater_nonetwork">"لا يمكن الاتصال بالشبكة"</string>
-  <string name="updater_nonetwork_clause">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="updater_nonetwork">"تعذر الاتصال بالشبكة"</string>
+  <string name="updater_nonetwork_clause">"تعذر الاتصال بالشبكة"</string>
   <string name="updater_service_busy_msg">يستخدم هذا التطبيق خدمة التحديث للحصول على مدخل للجذر إلى الملفات المصدر المطلوبة.</string>
   <string name="updater_service_busy_title">خدمة التحديث مشغولة</string>
   <string name="updater_wait_for_unzip">فك حزمة التحديث\u2026</string>
@@ -267,7 +267,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="vote_error3">تعذر تسجيل الدخول. n\حاول تسجيل دخول لحسابك Mi الخاص بك مرة أخرى.</string>
   <string name="vote_error4">لقد قمت بارسال الملاحظات مسبقا</string>
   <string name="vote_error5">حدث خطأ ماn\تعذر إرسال الملاحظات</string>
-  <string name="vote_error_nonetwork">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="vote_error_nonetwork">"تعذر الاتصال بالشبكة"</string>
   <string name="vote_experience">خبرة المنتدى</string>
   <string name="vote_hint">احصل على ٢٠ نقطة خبرة لمنتدى MIUI عند قيامك بالتصويت</string>
   <string name="vote_join">تم التصويت</string>

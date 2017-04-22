@@ -29,7 +29,7 @@
   <string name="cloud_app_current_device">الجهاز الحالي</string>
   <string name="cloud_app_dont_restore">الإعداد كجهاز جديد</string>
   <string name="cloud_app_no_data">لا توجد نسخ احتياطية</string>
-  <string name="cloud_app_no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="cloud_app_no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="cloud_app_other_devices">أجهزة أخرى</string>
   <string name="cloud_app_restore_app_and_data">إعداد جهازك</string>
   <string name="cloud_app_restore_data">ستظهر البيانات الشخصية والتطبيقات المثبتة مسبقا على جهازك تلقائيا</string>
