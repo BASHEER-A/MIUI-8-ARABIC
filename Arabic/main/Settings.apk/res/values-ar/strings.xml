@@ -423,7 +423,6 @@
   <string name="battery_sugg_display">تقليل سطوع الشاشة و/أو مهلة الشاشة</string>
   <string name="battery_sugg_radio">قم بالتبديل إلى وضع الطائرة لحفظ الطاقة في المناطق التي لا توجد تغطية الخلية</string>
   <string name="battery_sugg_wifi">"إيقاف تشغيل Wi-Fi عند عدم استخدامه أو عندما يكون غير متوفر"</string>
-  <string name="battery_summary">%1$d% استخدام % منذ آخر شحن كامل</string>
   <string name="bearer">حامل</string>
   <string name="bind_xiaomi_account_cancel">إلغاء الأمر</string>
   <string name="bind_xiaomi_account_confirm">إضافة</string>
