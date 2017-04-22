@@ -11,7 +11,7 @@
   <string name="app_label">البوصلة</string>
   <string name="calibrate_failed">فشل معايرة الارتفاع</string>
   <string name="calibrate_failed_no_location">"لا يمكن المعايرة"</string>
-  <string name="calibrate_failed_timeout">"لا يمكن الاتصال بالخادم"</string>
+  <string name="calibrate_failed_timeout">"تعذر الاتصال بالخادم"</string>
   <string name="calibrate_rotate_again">حاول مرة أخرى</string>
   <string name="calibrate_success">تمت المعايرة</string>
   <string name="calibrate_tip">قم بإمالة جهازك للف الكرة حول الدائرة</string>
