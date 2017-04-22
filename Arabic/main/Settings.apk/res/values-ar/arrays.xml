@@ -66,18 +66,18 @@
     <item>5 ثوان</item>
     <item>15 ثانية</item>
     <item>30 ثانية</item>
-    <item>1 minute</item>
-    <item>2 minutes</item>
-    <item>5 minutes</item>
-    <item>10 minutes</item>
-    <item>30 minutes</item>
+    <item>1 دقيقة</item>
+    <item>2 دقيقتين</item>
+    <item>5 دقائق</item>
+    <item>10 دقائق</item>
+    <item>30 دقائق</item>
   </string-array>
   <string-array name="tts_pitch_entries">
-    <item>Very low</item>
-    <item>Low</item>
-    <item>Normal</item>
-    <item>High</item>
-    <item>Very high</item>
+    <item>منخفظ جدا</item>
+    <item>منخفظ</item>
+    <item>عادي</item>
+    <item>عالي</item>
+    <item>عالي جداً</item>
   </string-array>
   <string-array name="tts_demo_strings">
     <item>This is an example of speech synthesis in English.</item>
@@ -108,9 +108,9 @@
     <item>Out-of-range</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
-    <item>2 minutes</item>
-    <item>5 minutes</item>
-    <item>1 hour</item>
+    <item>2 دقيقة</item>
+    <item>5 دقائق</item>
+    <item>1 ساعة</item>
     <item>مهلة ابدأ</item>
   </string-array>
   <string-array name="wifi_signal">
