@@ -273,7 +273,7 @@
   <string name="charge_current">Charge Current：</string>
   <string name="charge_test">Charge</string>
   <string name="charge_voltage">فولت الشحن:</string>
-  <string name="charger_in_test">قم بتوصيل الشاحن</string>
+  <string name="charger_in_test">قم بتوصيل ألشاحن</string>
   <string name="charger_out_test">شاحن لم يعد متصل</string>
   <string name="checkerboard_test">CHECKERBOARD TEST</string>
   <string name="choose_channel">حدد القناة</string>
