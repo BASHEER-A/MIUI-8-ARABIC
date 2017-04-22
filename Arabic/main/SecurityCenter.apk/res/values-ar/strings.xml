@@ -420,7 +420,7 @@
   <string name="free_time_traffic_title">إدخال حد البيانات خارج أوقات الذروة</string>
   <string name="free_traffic_settings">إعدادات استخدام البيانات خارج أوقات الذروة</string>
   <string name="gateway_exception_summary">تحقق من جهاز التوجيه ثم أعد المحاولة.</string>
-  <string name="gateway_exception_summary2">"لا يمكن الاتصال بالخادم"</string>
+  <string name="gateway_exception_summary2">"تعذر الاتصال بالخادم"</string>
   <string name="gateway_exception_title">اختبار جهاز التوجيه</string>
   <string name="gigabyteShort">غيغابايت</string>
   <string name="go_to_setting_fingerprint">الإعدادات</string>
