@@ -6,11 +6,11 @@
   <string name="altitude_uncalibrate_cancel">إلغاء</string>
   <string name="altitude_uncalibrate_msg">"لا يمكن معايرة الارتفاع بدقة بدون GPS أو اتصال بيانات الجوال."</string>
   <string name="altitude_uncalibrate_refresh">حاول مرة أخرى</string>
-  <string name="altitude_uncalibrate_tip">"لا يمكن معايرة الارتفاع"</string>
+  <string name="altitude_uncalibrate_tip">"تعذرت معايرة الارتفاع"</string>
   <string name="altitude_unit">متر</string>
   <string name="app_label">البوصلة</string>
-  <string name="calibrate_failed">فشل معايرة الارتفاع</string>
-  <string name="calibrate_failed_no_location">"لا يمكن المعايرة"</string>
+  <string name="calibrate_failed">تعذرت معايرة الارتفاع</string>
+  <string name="calibrate_failed_no_location">"تعذرت المعايرة"</string>
   <string name="calibrate_failed_timeout">"تعذر الاتصال بالخادم"</string>
   <string name="calibrate_rotate_again">حاول مرة أخرى</string>
   <string name="calibrate_success">تمت المعايرة</string>

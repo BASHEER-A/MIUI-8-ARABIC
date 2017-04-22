@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="ble_profile_mi_band">
-    <item>يهتز عند رنين</item>
-    <item>يهتز عند تلقي رسالة</item>
-    <item>يهتز عند التنبيه</item>
+    <item>اهتزاز عند رنين</item>
+    <item>اهتزاز عند تلقي رسالة</item>
+    <item>اهتزاز عند التنبيه</item>
   </string-array>
   <string-array name="ble_profile_mi_key">
-    <item>التقاط الصورة</item>
+    <item>التقاط صورة</item>
     <item>العثور على الهاتف</item>
     <item>العثور على مفتاح Mi</item>
   </string-array>
