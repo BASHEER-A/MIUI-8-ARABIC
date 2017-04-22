@@ -6,7 +6,7 @@
   <string name="act_set_city_find_side_error">"لا يمكن تحديد موقع الجهاز"</string>
   <string name="act_weather_find_city_added">تمت الإضافة</string>
   <string name="act_weather_find_city_click_retry">حاول مجدداً</string>
-  <string name="act_weather_find_city_net_no_good">"لا يمكن الاتصال بالشبكة."</string>
+  <string name="act_weather_find_city_net_no_good">"تعذر الاتصال بالشبكة."</string>
   <string name="act_weather_find_city_no_result">لا توجد نتائج</string>
   <string name="act_weather_find_city_searching">جارٍ البحث\u2026</string>
   <string name="activity_alert_detail_title"/>
@@ -122,7 +122,7 @@
   <string name="mi_pad2">latte</string>
   <string name="more_details">المزيد من التفاصيل</string>
   <string name="network_not_available">"تعذر الاتصال بالشبكة"</string>
-  <string name="network_unavailable">"لا يمكن الاتصال بالشبكة."</string>
+  <string name="network_unavailable">"تعذر الاتصال بالشبكة."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">حاول مرة أخرى</string>
   <string name="open">إفتح</string>

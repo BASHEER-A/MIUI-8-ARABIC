@@ -14,7 +14,7 @@
   <string name="debug_tool_email_subject">التقويم أداة التصحيح المرفقة</string>
   <string name="debug_tool_message">"أنت على وشك نسخ قاعدة بيانات التقويم الخاص بك لتخزين الناقل التسلسلي العام/بطاقة SD التي يمكن قراءتها بواسطة أي التطبيق، وإرسال قاعدة البيانات عن طريق البريد الإلكتروني. تذكر أن تقوم بحذف النسخة بمجرد نجاح احتياطياً فإنه، أو عند تلقي البريد الإلكتروني كنت على وشك إرسال."</string>
   <string name="debug_tool_start_button">بدء تشغيل</string>
-  <string name="holiday_data_no_network">"لا يمكن الاتصال بشبكة الاتصال. تحقق من اتصال البيانات الخاص بك ثم حاول مرة أخرى."</string>
+  <string name="holiday_data_no_network">"تعذر الاتصال بشبكة الاتصال. تحقق من اتصال البيانات الخاص بك ثم حاول مرة أخرى."</string>
   <string name="holiday_data_update_failed">"لا يمكن تحديث. تحقق من اتصال البيانات الخاص بك ثم حاول مرة أخرى."</string>
   <string name="holiday_data_update_succeed">التحديث النهائي</string>
   <string name="holiday_data_updating">تحديث…</string>

@@ -35,7 +35,7 @@
   <string name="platform_unavailable_wechatmoment">الرجاء تثبيت wechat</string>
   <string name="platform_unavailable_weibo">الرجاء تثبيت weibo</string>
   <string name="resource_apply">تطبيق</string>
-  <string name="resource_no_network_text">"لا يمكن الاتصال بشبكة الاتصال."</string>
+  <string name="resource_no_network_text">"تعذر الاتصال بشبكة الاتصال."</string>
   <string name="setting_head">إعدادات</string>
   <string name="settings">إعدادات</string>
   <string name="share">المشاركة</string>

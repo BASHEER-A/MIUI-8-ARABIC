@@ -188,8 +188,8 @@
   <string name="mi_money">Mi Credits</string>
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
-  <string name="net_error">"لا يمكن الاتصال بشبكة الاتصال، حاول مرة أخرى"</string>
-  <string name="network_error">"لا يمكن الاتصال بشبكة الاتصال"</string>
+  <string name="net_error">"تعذر الاتصال بشبكة الاتصال، حاول مرة أخرى"</string>
+  <string name="network_error">"تعذر الاتصال بشبكة الاتصال"</string>
   <string name="new_add">تحميل جديد</string>
   <string name="new_add_bt">إضافة تورنت</string>
   <string name="no_downloads">لا التنزيلات</string>

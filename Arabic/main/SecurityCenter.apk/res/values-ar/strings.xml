@@ -1354,7 +1354,7 @@
   <string name="toast_flow_notification">تم إيقاف تشغيل إخطارات استخدام البيانات</string>
   <string name="toast_garbage_lib">تم تشغيل التحديثات التلقائية لأداة التنظيف</string>
   <string name="toast_lockscreen_glogin_empty_password">يتطلب إدخال كلمة المرور</string>
-  <string name="toast_network_eror">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="toast_network_eror">"تعذر الاتصال بالشبكة"</string>
   <string name="toast_network_switch">يستطيع هذا التطبيق الاتصال بالإنترنت</string>
   <string name="toast_reject_sms_read_permission_success">تم التعيين بنجاح</string>
   <string name="toast_root_apply_accept">تم منح الوصول إلى الجذر إلى %s</string>
@@ -1406,7 +1406,7 @@
   <string name="traffic_setting_fragment_get_template_falure">"يتعذر الاتصال بالشبكة. تحقق من اتصال بياناتك ثم حاول مرة أخرى."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"عدم الإظهار مرة أخرى"</string>
   <string name="traffic_setting_fragment_loading_text">الحصول على معلومات الشبكة\u2026</string>
-  <string name="traffic_setting_fragment_no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="traffic_setting_fragment_no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="traffic_setting_fragment_null">فارغ</string>
   <string name="traffic_setting_fragment_operator">شركة الاتصالات</string>
   <string name="traffic_setting_fragment_send_num">رقم هاتف شركة الاتصالات</string>

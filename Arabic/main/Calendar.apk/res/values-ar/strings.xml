@@ -276,7 +276,7 @@
   <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">简介</string>
   <string name="my_subscribe_events">我的订阅</string>
-  <string name="network_not_available">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_not_available">"تعذر الاتصال بالشبكة"</string>
   <string name="new_event_dialog_label">حدث جديد</string>
   <string name="new_event_dialog_option">حدث جديد</string>
   <string name="no_local_calendar">没有订阅日历 :)</string>

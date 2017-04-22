@@ -809,7 +809,7 @@
   <string name="replace">استبدل</string>
   <string name="reply_comment_title">رد: %s</string>
   <string name="resume_download">بدء</string>
-  <string name="retry_after_network_available">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="retry_after_network_available">"تعذر الاتصال بالشبكة"</string>
   <string name="retry_download">إعادة المحاولة</string>
   <string name="return_to_homepage">العودة الى صفحة البداية</string>
   <string name="rlz_access_point">Y1</string>
@@ -930,7 +930,7 @@
   <string name="unknown_title">غير معروف</string>
   <string name="unsecurity_url_toast">"هذا الموقع ليس آمنا"</string>
   <string name="up_to_loading_tips">الإصدار لتحديث</string>
-  <string name="update_no_network_toast">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="update_no_network_toast">"تعذر الاتصال بالشبكة"</string>
   <string name="uploads_disabled">تحميلات الملف معطلة</string>
   <string name="url_copy_done">تم نسخ URL إلى الحافظة</string>
   <string name="url_find_on_page_result">عرض في المتصفح</string>
@@ -955,7 +955,7 @@
   <string name="version_check_button_downloading">جارِ التنزيل\u2026</string>
   <string name="version_check_button_install">تثبيت</string>
   <string name="version_check_button_newest">لا توجد تحديثات متاحة</string>
-  <string name="version_check_button_no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="version_check_button_no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="version_check_button_resume_download">استئناف التنزيل</string>
   <string name="version_check_button_update">تحديث</string>
   <string name="version_check_failed">فشل في التحقق من التحديثات</string>

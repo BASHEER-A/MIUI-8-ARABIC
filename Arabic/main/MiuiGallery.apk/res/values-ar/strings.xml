@@ -670,7 +670,7 @@
   <string name="error_socket_timeout">انتهت مهلة الاتصال بالشبكة</string>
   <string name="error_title">"لا يمكن المزامنة"</string>
   <string name="error_unauthorized">تم تعطيل المزامنة بسبب العديد من محاولات تسجيل الدخول.</string>
-  <string name="error_unknown_host">"لا يمكن الاتصال بالشبكة. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى."</string>
+  <string name="error_unknown_host">"تعذر الاتصال بالشبكة. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى."</string>
   <string name="exit">خروج</string>
   <string name="exit_share">الخروج من الألبوم</string>
   <string name="exit_share_failed">"تعذر الخروج %1$s"</string>
@@ -738,7 +738,7 @@
   <string name="hybrid_data_error">حدث خطأ ما !</string>
   <string name="hybrid_locating_fail">"تعذر العثور على موقعك"</string>
   <string name="hybrid_network_access_denied">تم رفض الوصول إلى الشبكة</string>
-  <string name="hybrid_network_unavaliable">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="hybrid_network_unavaliable">"تعذر الاتصال بالشبكة"</string>
   <string name="hybrid_pull_to_refresh_pull_label">اسحب للتحديث\u2026</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">لحظة من فضلك\u2026</string>
   <string name="hybrid_pull_to_refresh_release_label">حرر للتحديث\u2026</string>

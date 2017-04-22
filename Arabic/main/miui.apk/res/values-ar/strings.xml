@@ -14,7 +14,7 @@
   <string name="am">ص</string>
   <string name="birthday">تاريخ الميلاد</string>
   <string name="check_phone_error_title">المزامنة متوقفة</string>
-  <string name="check_phone_io_error">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="check_phone_io_error">"تعذر الاتصال بالشبكة"</string>
   <string name="chinese_day_1">初一</string>
   <string name="chinese_day_10">初十</string>
   <string name="chinese_day_11">十一</string>
@@ -460,7 +460,7 @@
   <string name="name">الاسم</string>
   <string name="nickname">الاسم المستعار</string>
   <string name="night">م</string>
-  <string name="no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="no_sim">لم يتم الكشف عن بطاقة SIM.</string>
   <string name="noon">م</string>
   <string name="note">ملاحظة</string>

@@ -117,7 +117,7 @@
   <string name="michat_cant_join_artificial">"تعذر الاتصال بسبب خطأ في شبكة الاتصال"</string>
   <string name="michat_check_network">تحقق من إعدادات شبكة الاتصال</string>
   <string name="michat_close_text">انتهت المحادثة</string>
-  <string name="michat_comment_net_error">"لا يمكن الاتصال بشبكة الاتصال، حاول مرة أخرى لاحقاً"</string>
+  <string name="michat_comment_net_error">"تعذر الاتصال بشبكة الاتصال، حاول مرة أخرى لاحقاً"</string>
   <string name="michat_comment_submit">معدل والعودة</string>
   <string name="michat_comment_thx">شكرا لك على الملاحظات الخاصة بك!</string>
   <string name="michat_customer_join">الانضمام إلى المحادثة</string>
@@ -175,7 +175,7 @@
   <string name="modem_tool_log_stop">إيقاف</string>
   <string name="modem_tool_log_stop_toast">"إيقاف تفريغ سجل المودم من %s"</string>
   <string name="multi_graph_more">Total items: %d</string>
-  <string name="network_err">"لا يمكن الاتصال بالشبكة."</string>
+  <string name="network_err">"تعذر الاتصال بالشبكة."</string>
   <string name="network_errorbtntip_custom">Try again</string>
   <string name="network_errorbtntip_login">Sign in</string>
   <string name="network_errorbtntip_noconnection">Check network settings</string>
@@ -192,7 +192,7 @@
   <string name="network_errortip_unknow">"We're trying to fix it…"</string>
   <string name="network_unavailable_dialog_button_ok">موافق</string>
   <string name="network_unavailable_dialog_content">سيتم أرسال التقريرعندما يكون لديك اتصال بيانات.</string>
-  <string name="network_unavailable_dialog_title">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_unavailable_dialog_title">"تعذر الاتصال بالشبكة"</string>
   <string name="non_system_app_select">التطبيقات التي تم تنزيلها</string>
   <string name="nothing">--</string>
   <string name="packaging_dialog_content">جارٍ إنشاء تقرير\u2026</string>
@@ -232,13 +232,13 @@
   <string name="title_system_app">تطبيقات MIUI</string>
   <string name="toast_description_required">تحتاج إلى كتابة وصف</string>
   <string name="toast_feedback_collect_store">جارٍ تجميع السجلات\u2026</string>
-  <string name="toast_feedback_network_unavailable">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="toast_feedback_network_unavailable">"تعذر الاتصال بالشبكة"</string>
   <string name="toast_feedback_pending_wlan">"سيتم أرسال التقرير عند اتصالك بشبكة Wi-Fi"</string>
   <string name="toast_feedback_submitted">تم إرسال التقرير</string>
   <string name="toast_feedback_submitting">جار الإرسال\u2026</string>
   <string name="toast_feedbackservice_in_submit">معالجة الملاحظات السابقة\u2026</string>
   <string name="toast_fill_brackets">يفتقد تقريرك بعض المعلومات</string>
-  <string name="toast_network_unavailable">"تعذر الإرسال. لا يمكن الاتصال بالشبكة."</string>
+  <string name="toast_network_unavailable">"تعذر الإرسال. تعذر الاتصال بالشبكة."</string>
   <string name="toast_pending_log_collection">لايزال يتم تجميع السجلات\u2026</string>
   <string name="toast_report_copied_to_clipboard">تم نسخ التقرير إلى الحافظة</string>
   <string name="toast_report_sent_failed">"تعذر إرسال التقرير"</string>

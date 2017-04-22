@@ -406,7 +406,7 @@
   <string name="video_plugin_prepare">ثانية…</string>
   <string name="vip_package">vip package</string>
   <string name="vp_VideoView_error_button">موافق</string>
-  <string name="vp_VideoView_error_network_not_available">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="vp_VideoView_error_network_not_available">"تعذر الاتصال بالشبكة"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"هذا النوع من الملفات غير مدعوم."</string>
   <string name="vp_VideoView_error_text_unknown">حدث خطأ غير معروف.</string>
   <string name="vp_VideoView_error_title">خطأ غير معروف</string>

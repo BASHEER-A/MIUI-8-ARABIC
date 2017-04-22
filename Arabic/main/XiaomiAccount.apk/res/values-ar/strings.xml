@@ -125,7 +125,7 @@
   <string name="find_device_error_password_not_confirmed">"لا يمكن إيقاف التشغيل العثور على الجهاز. ادخل كلمة مرور حساب Mi الخاص بك مرة اخرى."</string>
   <string name="find_device_error_password_recently_changed">"لقد قمت بتغيير كلمة المرور الخاصة بك في غضون ٣ أيام الماضية. لا يمكن إيقاف العثور على الجهاز الآن لأسباب أمنية."</string>
   <string name="find_device_interrupted">انقطعت العملية، أعد المحاولة لاحقا</string>
-  <string name="find_device_io_error">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="find_device_io_error">"تعذر الاتصال بالشبكة"</string>
   <string name="find_device_null_credential_error">"لا يمكن الحصول على على معلومات الجهاز، قم بالتصال بخدمة الزبائن الخاصة بـMi"</string>
   <string name="find_device_operation_failed_error">حدث خطأ بسبب خطأ خادم، حاول مرة أخرى في وقت لاحقاً</string>
   <string name="find_device_operation_failed_error_unknown">حدث خطأ ما، أعد المحاولة لاحقا</string>
@@ -161,7 +161,7 @@
   <string name="multi_user_not_show_sync_activity_title">"لا تقم بتشغيل المزامنة مع Mi Cloud"</string>
   <string name="my_device_title">الجهاز الحالي</string>
   <string name="no_network_btn">تحديث</string>
-  <string name="no_network_title">"لا يمكن الاتصال بالشبكة."</string>
+  <string name="no_network_title">"تعذر الاتصال بالشبكة."</string>
   <string name="no_response_retry">لا استجابة، من فضلك أعد المحاولة. </string>
   <string name="no_sim_card_or_unactivated">"لم يتم تثبيت بطاقة SIM أو تفعيلها"</string>
   <string name="nobind">غير متصل</string>

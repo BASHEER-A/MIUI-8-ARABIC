@@ -413,7 +413,7 @@
   <string name="miuishare_account_need_activate">"قم بإضف حساب Weibo الخاص بك إلى حساب Mi الحالي للمشاركة. يبدو أن حساب Mi غير مفعل. تفعيل الآن؟"</string>
   <string name="miuishare_account_need_login">قم بإضف حساب Weibo الخاص بك إلى حساب Mi الحالي للمشاركة. تسجيل الدخول للمشاركة الآن؟</string>
   <string name="miuishare_app_name">مشاركة MIUI</string>
-  <string name="miuishare_no_network">"لا يمكن الاتصال بالشبكة."</string>
+  <string name="miuishare_no_network">"تعذر الاتصال بالشبكة."</string>
   <string name="miuishare_publish">ارسال</string>
   <string name="miuishare_share_done">تمت المشاركة بنجاح</string>
   <string name="miuishare_share_editor_title">مشاركة</string>
@@ -460,8 +460,8 @@
   <string name="nav_online_playlist">قوائم التشغيل</string>
   <string name="network_error_and_retry">"تعذر الاتصال، انقر للمحاولة مجدداً"</string>
   <string name="network_failure">تأكد من اتصالك، ثم أعد المحاولة.</string>
-  <string name="network_request_error">"لا يمكن الاتصال بالشبكة"</string>
-  <string name="network_settings_error">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="network_request_error">"تعذر الاتصال بالشبكة"</string>
+  <string name="network_settings_error">"تعذر الاتصال بالشبكة"</string>
   <string name="network_traffic">استخدام البيانات</string>
   <string name="next_time">ليس الآن</string>
   <string name="no_album_info">لا يوجد معلومات الالبوم</string>
@@ -605,7 +605,7 @@
   <string name="restart_immediate">إعادة تشغيل</string>
   <string name="resume_download">Resume</string>
   <string name="retry">إعادة المحاولة</string>
-  <string name="retry_after_network_available">"لا يمكن الاتصال بشبكة الاتصال. تحقق من الاتصال وحاول مرة أخرى."</string>
+  <string name="retry_after_network_available">"تعذر الاتصال بشبكة الاتصال. تحقق من الاتصال وحاول مرة أخرى."</string>
   <string name="retry_download">حاول مرة أخرى</string>
   <string name="ringtone_not_support">"صيغة هذه الاغنية غير مدعومة"</string>
   <string name="root_downloads">التنزيلات</string>

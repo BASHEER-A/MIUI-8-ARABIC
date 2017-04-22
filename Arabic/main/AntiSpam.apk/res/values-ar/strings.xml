@@ -218,7 +218,7 @@
   <string name="repeated_marked_number_title">"عدم حظر المكالمات المكررة من الأرقام المبلغ عنها"</string>
   <string name="report">الإبلاغ</string>
   <string name="report_error">"تعذر الإبلاغ عن الرسالة"</string>
-  <string name="report_error_not_net">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="report_error_not_net">"تعذر الاتصال بالشبكة"</string>
   <string name="report_only">اختر رسالة للإبلاغ عنها</string>
   <string name="report_sms">الإبلاغ عن الرسائل</string>
   <string name="report_success">تم الإبلاغ عن الرسالة</string>
