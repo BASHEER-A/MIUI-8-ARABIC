@@ -236,7 +236,7 @@
   <string name="done">تم</string>
   <string name="email">البريد الإلكتروني:</string>
   <string name="error_camera_disabled">تم رفض الوصول إلى الكاميرا وذلك لأسباب حماية</string>
-  <string name="error_cannot_connect_camera">"تعذر الاتصال بالكاميرا"</string>
+  <string name="error_cannot_connect_camera">"لا يمكن الاتصال بالكاميرا"</string>
   <string name="error_day_limit">محاولات كثيرة خلال ١ يوم</string>
   <string name="error_empty_result">"تعذر إيجاد نتائج"</string>
   <string name="error_hour_limit">محاولات كثيرة خلال ١ ساعة</string>
