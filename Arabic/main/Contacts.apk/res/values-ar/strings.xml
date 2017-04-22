@@ -14,7 +14,7 @@
   <string name="activity_title_contacts_filter">جهات الاتصال المراد عرضها</string>
   <string name="activity_title_settings">الاعدادت</string>
   <string name="addPeopleToGroup">لإضافة بعض الأشخاص، قم بتعديل المجموعة.</string>
-  <string name="add_2sec_pause">إضافة 2-ثواتي إيقاف مؤقت</string>
+  <string name="add_2sec_pause">إضافة ثانيتين إيقاف مؤقت</string>
   <string name="add_account">إضافة حساب</string>
   <string name="add_blacklist">حظر</string>
   <string name="add_blacklist_dialog_message">حظر المكالمات والرسائل من هذا الرقم؟</string>
