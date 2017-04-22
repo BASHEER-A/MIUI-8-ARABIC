@@ -4,7 +4,7 @@
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">تبديل الكاميرا الأمامية والخلفية</string>
-  <string name="accessibility_effect_mode_button">Effect button</string>
+  <string name="accessibility_effect_mode_button">زر التأثير</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR switch button</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
