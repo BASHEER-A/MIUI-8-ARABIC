@@ -109,7 +109,7 @@
   <string name="callrecordview_item_op_time_only_seconds">%d ثانية</string>
   <string name="callrecordview_item_op_time_rejected">مرفوض</string>
   <string name="callrecordview_item_op_time_short_incoming">"مكالمة واردة:\u0020"</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"المكالمة الصادرة:\u0020"</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"مكالمة صادرة:\u0020"</string>
   <string name="callrecordview_item_op_video">فيديو</string>
   <string name="callrecordview_menu_add_call_note">إضافة ملاحظة مكالمة</string>
   <string name="callrecordview_menu_batch_delete">مسح سجل المكالمات</string>
