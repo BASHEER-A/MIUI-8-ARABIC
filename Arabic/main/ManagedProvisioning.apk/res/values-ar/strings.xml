@@ -12,10 +12,10 @@
   <string name="continue_provisioning_notify_text">اللمس لمتابعة إعداد ملف التعريف الخاص بك في العمل</string>
   <string name="continue_provisioning_notify_title">تشفير كامل</string>
   <string name="copying_certs">إعداد شهادات المرجع المصدق</string>
-  <string name="default_managed_profile_name">عمل بروفايل</string>
+  <string name="default_managed_profile_name">عمل ملف شخصي</string>
   <string name="default_owned_device_username">المستخدم لعمل الجهاز</string>
   <string name="delete_profile">حذف</string>
-  <string name="delete_profile_title">إزالة تعريف البرفايل؟</string>
+  <string name="delete_profile_title">إزالة تعريف الملف الشخصي؟</string>
   <string name="device_owner_cancel_cancel">إلغاء الأمر</string>
   <string name="device_owner_cancel_message">"التوقف عن إعداد ومحو بيانات الجهاز الخاص بك؟"</string>
   <string name="device_owner_error_already_provisioned">تم إعداد هذا الجهاز مسبقاً.</string>
@@ -51,9 +51,9 @@
   <string name="pick_launcher">موافق</string>
   <string name="profile_owner_cancel_cancel">لا</string>
   <string name="profile_owner_cancel_message">إيقاف الإعداد؟</string>
-  <string name="profile_owner_cancel_ok">YES</string>
-  <string name="profile_owner_cancelling">Canceling…</string>
-  <string name="progress_connect_to_wifi">Connecting to WLAN…</string>
+  <string name="profile_owner_cancel_ok">موافق</string>
+  <string name="profile_owner_cancelling">جار الإلغاء...</string>
+  <string name="progress_connect_to_wifi">جار الاتصال بالـwi-fi...</string>
   <string name="progress_data_process">Processing setup data…</string>
   <string name="progress_download">Downloading the admin app…</string>
   <string name="progress_install">Installing the admin app…</string>
@@ -72,15 +72,15 @@
   <string name="setup_work_device">Set up your device</string>
   <string name="setup_work_profile">Set up your profile</string>
   <string name="sure_you_want_to_delete_profile">All apps and data in this profile will be deleted if you continue.</string>
-  <string name="suw_back_button_label">Back</string>
-  <string name="suw_more_button_label">More</string>
-  <string name="suw_next_button_label">Next</string>
+  <string name="suw_back_button_label">السابق</string>
+  <string name="suw_more_button_label">المزيد</string>
+  <string name="suw_next_button_label">التالي</string>
   <string name="the_following_is_your_mdm">The following app will need to access this profile:</string>
   <string name="the_following_is_your_mdm_for_device">The following app will manage your device:</string>
   <string name="theft_protection_disabled_warning">If you continue, theft protection features will not be enabled. To turn on theft protection, cancel now and set this up as a personal device.</string>
   <string name="user_is_not_owner">Work profiles need to be set up by the primary user of the device</string>
-  <string name="work_profile_setup_continue">CONTINUE</string>
+  <string name="work_profile_setup_continue">استمرار</string>
   <string name="work_profile_setup_later_message">You can set up your work profile later from the device management app used by your organization.</string>
-  <string name="work_profile_setup_later_title">Stop profile setup?</string>
-  <string name="work_profile_setup_stop">STOP</string>
+  <string name="work_profile_setup_later_title">هل تريد إيقاف إعداد الملف الشخصي؟</string>
+  <string name="work_profile_setup_stop">إيقاف</string>
 </resources>

@@ -478,7 +478,7 @@
   <string name="bluetooth_device_searchable">قابل للاكتشاف</string>
   <string name="bluetooth_devices">أجهزة Bluetooth</string>
   <string name="bluetooth_disable_profile_message">سيؤدي ذلك إلى تعطيل:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; من:%2$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
-  <string name="bluetooth_disable_profile_title">تعطيل البروفايل؟</string>
+  <string name="bluetooth_disable_profile_title">تعطيل الملف شخصي؟</string>
   <string name="bluetooth_disconnect_a2dp_profile">سيتم قطع اتصال %1$s من وسائل السمعية.</string>
   <string name="bluetooth_disconnect_all_profiles">سيؤدي هذا إلى إنهاء الاتصال مع:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
   <string name="bluetooth_disconnect_headset_profile">سيتم قطع اتصال %1$s من الصوت يدوي.</string>
@@ -765,7 +765,7 @@
   <string name="children_mode_tips_on">بعد إيقاف تشغيل وضع الطفل، اضغط على زر الرئيسية للعودة إلى الشاشة الرئيسية.</string>
   <string name="children_mode_title">وضع الطفل</string>
   <string name="choose_assist_title">اختر التطبيق المساعدة</string>
-  <string name="choose_profile">اختر البروفايل</string>
+  <string name="choose_profile">اختر الملف شخصي</string>
   <string name="choose_timezone">اختر المنطقة الزمنية</string>
   <string name="choose_voice_input_title">اختر الإدخال الصوتي</string>
   <string name="cleaner">أداة التنظيف</string>
@@ -1539,7 +1539,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="home_app_uninstall_button">إلغاء تثبيت هذا التطبيق</string>
   <string name="home_key">الشاشة الرئيسية</string>
   <string name="home_settings">الصفحة الرئيسية</string>
-  <string name="home_work_profile_not_supported">لا يدعم ملفات البرفايل</string>
+  <string name="home_work_profile_not_supported">لا يدعم ملفات الملف الشخصي</string>
   <string name="ignore_optimizations_off">تحسين</string>
   <string name="ignore_optimizations_off_desc">وأوصت لأفضل عمر البطارية</string>
   <string name="ignore_optimizations_on">لا تحسن</string>
@@ -1909,7 +1909,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="managed_profile_location_switch_lockdown">تم إيقافه من قبل مسؤول الشركة.</string>
   <string name="managed_profile_location_switch_title">موقع ملف العمل الشخصي</string>
   <string name="managed_profile_not_available_label">Work profile isn’t available yet</string>
-  <string name="managed_user_title">عمل بروفايل</string>
+  <string name="managed_user_title">عمل ملف شخصي</string>
   <string name="managing_admin">يديرها %s</string>
   <string name="manually_add_network">إضافة شبكة</string>
   <string name="master_clear_accounts">"تم تسجيل دخولك حاليا في الحسابات التالية:"</string>
@@ -2785,7 +2785,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="remove_account_label">إزالة الحساب</string>
   <string name="remove_device_admin">إلغاء تنشيط</string>
   <string name="remove_from_frequently_fragment">إزالة %s من الإعدادات السريعة؟</string>
-  <string name="remove_managed_profile_label">إزالة تعريف البرفايل</string>
+  <string name="remove_managed_profile_label">إزالة تعريف الملف الشخصي</string>
   <string name="repeat">تكرار</string>
   <string name="repeat_title">تكرار</string>
   <string name="reset_aaid">إعادة تعيين معرف الإعلان</string>
@@ -4089,10 +4089,10 @@ Any user can update apps for all other users."</string>
   <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
   <string name="vpn_lockdown_none">لا شيء</string>
   <string name="vpn_lockdown_summary">حدد ملف تعريف VPN لتبقى دائماً على اتصال. وسوف يسمح حركة مرور شبكة الاتصال فقط عند اتصال VPN هذا.</string>
-  <string name="vpn_menu_delete">حذف البروفايل</string>
+  <string name="vpn_menu_delete">حذف الملف شخصي</string>
   <string name="vpn_menu_edit">تحرير ملف التعريف</string>
   <string name="vpn_menu_lockdown">دائماً على VPN</string>
-  <string name="vpn_missing_cert">شهادة مفقودة. الرجاء تحريرالبروفايل.</string>
+  <string name="vpn_missing_cert">شهادة مفقودة. الرجاء تحريرالملف شخصي.</string>
   <string name="vpn_mppe">PPP encryption (MPPE)</string>
   <string name="vpn_name">الاسم</string>
   <string name="vpn_no_ca_cert">(don’t verify server)</string>
