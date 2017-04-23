@@ -55,7 +55,7 @@
   <string name="call_title_redialing_with_times">إعادة الاتصال %d مرات</string>
   <string name="caller_manage_header">مكالمة جماعية %s</string>
   <string name="calling_via_template">الاتصال بإستخدام %s</string>
-  <string name="can_not_call_oneself">"لا يمكن الاتصال بهذا الرقم"</string>
+  <string name="can_not_call_oneself">"تعذر الاتصال بهذا الرقم"</string>
   <string name="can_not_use">"لا يمكن الاستخدام"</string>
   <string name="cancel">إلغاء</string>
   <string name="card_title_call_ended">"تم إنهاء المكالمة\u0020"</string>
@@ -166,7 +166,7 @@
   <string name="not_activate_sim_card_content">قم بتأكيد رقم هاتفك لبدء استخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_activate_sim_card_content_title">لم يتم التحقق من رقم الهاتف</string>
   <string name="not_activate_sim_card_content_with_operator">قم بالتحقق من بطاقة SIM%1$s (%2$s) للقيام بمكالمة باستخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
-  <string name="not_support_message">لا يمكن الاتصال بهذا الرقم. التبديل إلى مكالمه عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
+  <string name="not_support_message">تعذر الاتصال بهذا الرقم. التبديل إلى مكالمه عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_support_title">هذا الرقم غير مدعوم</string>
   <string name="notification_action_accept">قبول</string>
   <string name="notification_action_answer_video">فيديو</string>

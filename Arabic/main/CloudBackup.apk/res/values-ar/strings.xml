@@ -48,7 +48,7 @@
   <string name="cloud_back_up_frequence_short">كل يوم</string>
   <string name="cloud_back_up_interval_long">٧ أيام</string>
   <string name="cloud_back_up_interval_short">يوم</string>
-  <string name="cloud_back_up_no_network_warn">"لا يمكن الاتصال بشبكة Wi-Fi"</string>
+  <string name="cloud_back_up_no_network_warn">"تعذر الاتصال بشبكة Wi-Fi"</string>
   <string name="cloud_back_up_ok_btn">موافق</string>
   <string name="cloud_back_up_opening">لحظة من فضلك\u2026</string>
   <string name="cloud_back_up_share_activity_confirm">ترقية</string>

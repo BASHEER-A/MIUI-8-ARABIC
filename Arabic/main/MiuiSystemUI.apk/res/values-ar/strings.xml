@@ -92,7 +92,7 @@
   <string name="bluetooth_pairing_accept">اقتران</string>
   <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
   <string name="bluetooth_pairing_decline">إلغاء الأمر</string>
-  <string name="bluetooth_pairing_device_down_error_message">"لا يمكن الاتصال مع %1$s."</string>
+  <string name="bluetooth_pairing_device_down_error_message">"تعذر الاتصال مع %1$s."</string>
   <string name="bluetooth_pairing_error_message">"لم أستطع الاقتران مع %1$s."</string>
   <string name="bluetooth_pairing_pin_error_message">"لم أستطع أن الاقتران مع %1$s بسبب PIN أو مفتاح مرور غير صحيحة."</string>
   <string name="bluetooth_pairing_rejected_error_message">الاقتران المرفوضة التي %1$s.</string>

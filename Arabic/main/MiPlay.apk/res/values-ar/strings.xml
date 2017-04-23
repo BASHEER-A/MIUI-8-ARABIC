@@ -16,7 +16,7 @@
   <string name="noti_projection_status_title">شاشة عرض MiPlay اللاسلكية</string>
   <string name="prjection_title">العرض اللاسلكي</string>
   <string name="search_for_devices">تحديث</string>
-  <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+  <string name="wifi_display_autonomous_go">تمكين الانطلاق المستقل</string>
   <string name="wifi_display_certification_heading">إصدار الشهادات</string>
   <string name="wifi_display_details">إعدادات العرض</string>
   <string name="wifi_display_enable_menu_item">تشغيل العرض اللاسلكي</string>
@@ -25,7 +25,7 @@
   <string name="wifi_display_no_devices_found">"تعذر العثور على الأجهزة القريبة."</string>
   <string name="wifi_display_operating_channel">قناة التشغيل</string>
   <string name="wifi_display_options_done">تم</string>
-  <string name="wifi_display_options_forget">نسيت</string>
+  <string name="wifi_display_options_forget">نسيان</string>
   <string name="wifi_display_options_name">الإسم</string>
   <string name="wifi_display_options_title">إعدادات العرض اللاسلكي</string>
   <string name="wifi_display_pause">إيقاف مؤقت</string>

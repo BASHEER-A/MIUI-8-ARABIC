@@ -8,9 +8,9 @@
   <string name="cancel">إلغاء الأمر</string>
   <string name="cancel_international">إلغاء الأمر</string>
   <string name="cancel_lockscreen">إلغاء الأمر</string>
-  <string name="change_time">التبديل الخلفيات</string>
+  <string name="change_time">تبديل الخلفيات</string>
   <string name="day">مرة واحدة في اليوم</string>
-  <string name="declaration">الحصول على خلفيات جديدة تسليمها مباشرة إلى الشاشة قفل كل يوم مجاناً.</string>
+  <string name="declaration">الحصول على خلفيات جديدة وإظهارها مباشرة إلى شاشة القفل كل يوم مجاناً.</string>
   <string name="declaration_lockscreen_title">خلفية كاروسيل</string>
   <string name="declaration_title">الشروط والأحكام</string>
   <string name="dislike">حذف</string>
@@ -54,9 +54,9 @@
   <string name="sst_wifi_only_title">تحديث الخلفيات باستخدام البيانات المتنقلة</string>
   <string name="summary">"By using this feature, you're agreeing to our &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally."</string>
   <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;User Agreement&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
-  <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
-  <string name="theme_apply_success">Lock screen applied</string>
-  <string name="theme_applying">Applying…</string>
-  <string name="wlan_download">Update over Wi-Fi</string>
-  <string name="wlan_download_cn">Update over WLAN</string>
+  <string name="theme_apply_failured">"تعذر التطبيق، أعد المحاولة لاحقا"</string>
+  <string name="theme_apply_success">تم تطبيق قفل الشاشة</string>
+  <string name="theme_applying">جار التطبيق ...</string>
+  <string name="wlan_download">تحديث عبر الـ Wi-Fi</string>
+  <string name="wlan_download_cn">تحديث عبر الـ Wi-Fi</string>
 </resources>

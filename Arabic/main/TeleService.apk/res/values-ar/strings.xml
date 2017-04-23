@@ -327,7 +327,7 @@
   <string name="connect_disconnect_vibrate_summary">"اهتزاز عندما يرد الشخص المُتصل به على مكالمتك"</string>
   <string name="connect_disconnect_vibrate_title">اهتزاز عند الرد على مكالمتك</string>
   <string name="connect_disconnect_vibrate_weak">خفيف </string>
-  <string name="connect_later">"لا يمكن الاتصال بهذه الشبكة في الوقت الحالي. حاول مرة أخرى لاحقاً."</string>
+  <string name="connect_later">"تعذر الاتصال بهذه الشبكة في الوقت الحالي. حاول مرة أخرى لاحقاً."</string>
   <string name="connection_service_default_label">خدمة الاتصال الافتراضية</string>
   <string name="contactAddFailed">"لا يمكن إضافة جهة الاتصال إلى SIM."</string>
   <string name="contactAddSuccess">تم إضافة جهة الاتصال إلى SIM.</string>

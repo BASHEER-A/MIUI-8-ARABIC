@@ -79,13 +79,13 @@
   <string name="account_setup_failed_check_credentials_message">استجاب الملقم مع خطأ. تحقق من اسم المستخدم وكلمة المرور الخاصة بك، ثم حاول مرة أخرى.</string>
   <string name="account_setup_failed_dlg_auth_message">اسم المستخدم أو كلمة المرور غير صحيحة.</string>
   <string name="account_setup_failed_dlg_bar_title">طرق لتسجيل الدخول إلى %s</string>
-  <string name="account_setup_failed_dlg_certificate_message">"لا يمكن الاتصال بأمان الخادم."</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">"بأمان لا يمكن الاتصال بالخادم. (%s) "</string>
+  <string name="account_setup_failed_dlg_certificate_message">"تعذر الاتصال بأمان الخادم."</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"بأمان تعذر الاتصال بالخادم. (%s) "</string>
   <string name="account_setup_failed_dlg_device_locked">"\"لا يمكن تسجيل الدخول. هذا وقد تم تأمين الحساب. \""</string>
   <string name="account_setup_failed_dlg_edit_details_action">تحرير تفاصيل</string>
   <string name="account_setup_failed_dlg_error_code">رمز الخطأ: %s</string>
-  <string name="account_setup_failed_dlg_server_message">"لا يمكن الاتصال بالخادم."</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">"لا يمكن الاتصال بالخادم. (%s) "</string>
+  <string name="account_setup_failed_dlg_server_message">"تعذر الاتصال بالخادم."</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"تعذر الاتصال بالخادم. (%s) "</string>
   <string name="account_setup_failed_dlg_title">"لا يمكن إعداد حساب"</string>
   <string name="account_setup_failed_dlg_todo1">تعيين الحساب كما هو موضح أدناه، أو محاولة تسجيل الدخول باستخدام EXCHANGE.</string>
   <string name="account_setup_failed_dlg_todo2">تعيين الحساب كما هو موضح أدناه</string>

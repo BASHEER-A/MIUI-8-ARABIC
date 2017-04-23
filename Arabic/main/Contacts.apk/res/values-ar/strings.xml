@@ -1160,7 +1160,7 @@
   <string name="type_outgoing">مكالمة صادرة</string>
   <string name="type_voicemail">البريد الصوتي</string>
   <string name="unable_get_device_id">غير قادر على الحصول على IMEI</string>
-  <string name="unknow_phone_number_call_failed">"لا يمكن الاتصال برقم غير معروف"</string>
+  <string name="unknow_phone_number_call_failed">"تعذر الاتصال برقم غير معروف"</string>
   <string name="unknow_phone_number_mms_failed">"لا يمكن إرسال رسالة إلى رقم غير معروف"</string>
   <string name="unknown">غير معروف</string>
   <string name="unknown_contact_name">جهة اتصال غير معروفة</string>
@@ -1202,7 +1202,7 @@
   <string name="voicemail_status_audio_not_available">الصوت غير متاح.</string>
   <string name="voicemail_status_configure_voicemail">قم بإعداد بريدك الصوتي.</string>
   <string name="voicemail_status_messages_waiting">"يتعذر الاتصال بخادم البريد الصوتي. هناك رسائل صوتية جديدة قيد الانتظار."</string>
-  <string name="voicemail_status_voicemail_not_available">"لا يمكن الاتصال بخادم البريد الصوتي."</string>
+  <string name="voicemail_status_voicemail_not_available">"تعذر الاتصال بخادم البريد الصوتي."</string>
   <string name="voip_audio_description">مكالمة VoIP</string>
   <string name="voip_contact_label">صوت Mi</string>
   <string name="voip_contacts_entry">صوت Mi</string>
@@ -1227,7 +1227,7 @@
   <string name="yellowpage_navigation_search_history">السجل</string>
   <string name="yellowpage_navigation_search_offline_hint">"أنت غير متصل بالإنترنت"</string>
   <string name="yellowpage_navigation_search_result_average_price">معدل اليوان الصيني %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">\"لا يمكن الاتصال
+  <string name="yellowpage_navigation_search_result_network_error">\"تعذر الاتصال
         بالشبكة\"
     </string>
   <string name="yellowpage_navigation_search_result_no_more">لا توجد المزيد من النتائج</string>

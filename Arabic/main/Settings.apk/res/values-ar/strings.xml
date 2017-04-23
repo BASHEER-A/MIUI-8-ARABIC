@@ -535,7 +535,7 @@
   <string name="bluetooth_pairing_accept">اقتران</string>
   <string name="bluetooth_pairing_accept_all_caps">اقتران</string>
   <string name="bluetooth_pairing_decline">إلغاء الأمر</string>
-  <string name="bluetooth_pairing_device_down_error_message">"لا يمكن الاتصال مع %1$s."</string>
+  <string name="bluetooth_pairing_device_down_error_message">"تعذر الاتصال مع %1$s."</string>
   <string name="bluetooth_pairing_dialog_contants_request">%1$s يريد الوصول إلى جهات الاتصال الخاصة بك ودعوة التاريخ.</string>
   <string name="bluetooth_pairing_dialog_paring_request">%1$s يريد أن يقترن مع بلوتوث. عند الاتصال، وسوف يكون الوصول إلى جهات الاتصال الخاصة بك واستدعاء التاريخ.</string>
   <string name="bluetooth_pairing_dialog_sharing_phonebook_title">مشاركة دفتر الهاتف؟</string>
@@ -2049,7 +2049,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="msd_driver_download_mac_url">احصل على المشغل عبر http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Windows: تنزيل MiPhone Manager لإستخدام هاتفك كجهاز وحدة تخزين USB.</string>
   <string name="msd_driver_download_xp_url">احصل على المشغل من الرابط http://zhushou.mi.com/</string>
-  <string name="msd_help_summary">لا يمكن الاتصال بجهاز؟\nحدد نظام التشغيل:</string>
+  <string name="msd_help_summary">تعذر الاتصال بجهاز؟\nحدد نظام التشغيل:</string>
   <string name="msd_help_title">المساعدة</string>
   <string name="msd_install">إعادة تثبيت المشغل؟</string>
   <string name="msd_install_download_zhushou">"لقد قمت بتنزيل MiPhone Manager"</string>

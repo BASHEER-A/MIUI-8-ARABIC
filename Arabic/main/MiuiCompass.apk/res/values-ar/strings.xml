@@ -17,7 +17,7 @@
   <string name="calibrate_tip">قم بإمالة جهازك للف الكرة حول الدائرة</string>
   <string name="calibrate_title">معايرة البوصلة</string>
   <string name="cannot_get_location">--</string>
-  <string name="dialog_body_no_network">"لا يمكن الاتصال بالشبكة"</string>
+  <string name="dialog_body_no_network">"تعذر الاتصال بالشبكة"</string>
   <string name="dialog_calibrat_altitude">جارٍ المعايرة\u2026</string>
   <string name="dialog_title_no_network">قم بتشغيل الشبكة</string>
   <string name="direction_east">الشرق</string>
