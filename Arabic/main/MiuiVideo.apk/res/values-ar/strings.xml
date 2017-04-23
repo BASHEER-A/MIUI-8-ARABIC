@@ -5,7 +5,7 @@
   <string name="about_title">معلومات عن</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"الإصدار "</string>
-  <string name="account_auth_fail">فشل المصادقة على الحساب</string>
+  <string name="account_auth_fail">فشلت المصادقة على الحساب</string>
   <string name="actor">الممثل</string>
   <string name="actor_intro">حول</string>
   <string name="ad_moredetail">عرض التفاصيل</string>
@@ -170,7 +170,7 @@
   <string name="gong_count_ge">%d total</string>
   <string name="gong_count_ji">%d Ep. total</string>
   <string name="gong_count_xiang">%d items</string>
-  <string name="good">OK</string>
+  <string name="good">موافق</string>
   <string name="hint_apk_download">Install this application</string>
   <string name="hint_apk_download_format">Install \"%1$s\" application</string>
   <string name="hint_apk_install">Install this app</string>

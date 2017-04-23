@@ -21,7 +21,7 @@
   <string name="search_the_yellowpage">البحث عن الصفحات الصفراء</string>
   <string name="send_sms">إرسال رسالة</string>
   <string name="sharedUserLabel">تطبيقات اندرويد الأساسية</string>
-  <string name="third_party_delete_contact_info">"يحاول \"%s\" حذف جهات اتصالك. لا يمكن أن يتم هذا الإجراء من قبل تطبيقات أطراف خارجية. لحذف جهات الاتصال، استخدم تطبيق جهات اتصال MIUI الافتراضية."</string>
+  <string name="third_party_delete_contact_info">"يحاول \"%s\" حذف جهات اتصالك. لا يمكن إتمام هذا الإجراء من قبل تطبيقات خارجية. لحذف جهات الاتصال، استخدم تطبيق جهات اتصال MIUI الافتراضية."</string>
   <string name="upgrade_msg">تحديث قاعدة بيانات جهات الاتصال.</string>
   <string name="upgrade_out_of_memory_notification_text">انقر لإكمال التحديث.</string>
   <string name="upgrade_out_of_memory_notification_ticker">التحديث يتطلب المزيد من الذاكرة.</string>

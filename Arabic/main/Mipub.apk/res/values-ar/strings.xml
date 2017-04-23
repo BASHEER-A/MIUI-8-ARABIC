@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found_uri">لم يتم العثور على تطبيق لمعالجة هذا الإجراء</string>
+  <string name="activity_not_found_uri">تعذر العثور على تطبيق لمعالجة هذا الإجراء</string>
   <string name="add_attachment">إضافة مرفقات</string>
   <string name="add_contact">جهات الاتصال</string>
   <string name="add_festival">الترحيبات</string>
@@ -151,7 +151,7 @@
   <string name="pref_mms_settings_title">رسائل الوسائط (MMS)</string>
   <string name="pref_notification_settings_title">الإشعارات</string>
   <string name="pref_other_title">الإعدادات الإضافية</string>
-  <string name="pref_show_sms_template_summary">الكشف عن كلمات السر تلقائياُ لمرة واحدة في الرسائل النصية القصيرة</string>
+  <string name="pref_show_sms_template_summary">الكشف عن كلمات السر تلقائياً لمرة واحدة في الرسائل النصية القصيرة</string>
   <string name="pref_sms_theme_title">عرض</string>
   <string name="pref_summary_allow_si_sl_push">السماح للرسائل بتحميل محتوى من مواقع ويب</string>
   <string name="pref_summary_delivery_reports">عرض تقارير التسليم لجميع الرسائل المرسلة</string>

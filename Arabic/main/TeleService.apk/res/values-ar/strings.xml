@@ -879,7 +879,7 @@ Top up and start talking"</string>
   <string name="onscreenManageConferenceText">إدارة المكالمة الجماعية</string>
   <string name="onscreenMergeCallsText">دمج المكالمات</string>
   <string name="onscreenMuteText">كتم</string>
-  <string name="onscreenShowDialpadText">لوحة المفاتيح</string>
+  <string name="onscreenShowDialpadText">لوحة الاتصال</string>
   <string name="onscreenSwapCallsText">تبديل</string>
   <string name="onscreenVideoCallText">مكالمة فيديو</string>
   <string name="open_miui">فتح</string>
@@ -962,7 +962,7 @@ Top up and start talking"</string>
   <string name="path_telocation_enable_title">تطبيقات النظام/الهاتف/الموقع/عرض الموقع</string>
   <string name="path_turnover_mute_title">تطبيقات النظام/الهاتف/إعدادات المكالمة الواردة/تبديل إلى صوت رنين صامت</string>
   <string name="path_voicemail_settings">تطبيقات النظام/الهاتف/الإعدادات المتقدمة/إعدادات البريد الصوتي</string>
-  <string name="path_voip_setting">System apps/Phone/Mi Voice</string>
+  <string name="path_voip_setting">تطبيقات النظام/الهاتف/البريد الصوتي</string>
   <string name="pause_prompt_no">لا</string>
   <string name="pause_prompt_str">إرسال النغمات\n</string>
   <string name="pause_prompt_yes">نعم</string>
@@ -1001,9 +1001,9 @@ Top up and start talking"</string>
   <string name="pin_progress_set_fdn_lock">إعداد حالة قفل FDN\u2026</string>
   <string name="pin_progress_set_icc_lock">إعداد حالة قفل ICC\u2026</string>
   <string name="pin_progress_unlock_icc">جارٍ إلغاء قفل بطاقة SIM\u2026</string>
-  <string name="please_enter_phone_number">Please enter phone number</string>
+  <string name="please_enter_phone_number">أدخل رقم الهاتف</string>
   <string name="plmn_list_setting_add_plmn">New PLMN</string>
-  <string name="plmn_list_setting_title">Preferred networks</string>
+  <string name="plmn_list_setting_title">الشبكات المفضلة</string>
   <string name="port_title">رقم المنفذ</string>
   <string name="preference_auto_ip_summary_disable">متوقّف</string>
   <string name="preference_category_ringtone">نغمة الرنين والاهتزاز</string>
@@ -1052,7 +1052,7 @@ Top up and start talking"</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">نوع الشبكة المفضل</string>
   <string name="private_num">رقم خاص</string>
-  <string name="product_reflash_button">Refresh…</string>
+  <string name="product_reflash_button">تحديث…</string>
   <string name="progress_dialog_exiting_ecm">الخروج من وضع معاودة الاتصال بالطوارئ</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">عنوان وكيل المكالمات الصادرة</string>

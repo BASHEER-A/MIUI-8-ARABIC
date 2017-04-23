@@ -33,7 +33,7 @@
   <string name="callFailed_unobtainable_number">رقم غير صالح</string>
   <string name="callFailed_userBusy">الخط مشغول</string>
   <string name="callUnanswered_forwarded">إعادة توجية مكالمة لم يتم الرد عليها</string>
-  <string name="call_button_dialer_text">لوحة المفاتيح</string>
+  <string name="call_button_dialer_text">لوحة الاتصال</string>
   <string name="call_button_tools_text">مزايا</string>
   <string name="call_contacts_deny_permission_msg">"تم رفض الأذن بقراءة جهات الاتصال، لا يمكن عرض معلومات جهات الاتصال."</string>
   <string name="call_description_recording">يتم التسجيل\u2026</string>

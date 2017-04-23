@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_login_title">Account</string>
+  <string name="account_login_title">الحساب</string>
   <string name="action_mode_deselect_all">إلغاء تحديد الكل</string>
   <string name="action_mode_select_all">تحديد الكل</string>
   <string name="activity_parse_video_title">لصق رابط فيديو</string>
@@ -37,7 +37,7 @@
   <string name="big5_summary">نظام الترميز الافتراضي باللغة الصينية التقليدية في نظام تشغيل Windows</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">إضافة</string>
-  <string name="bind_failed_tip">"تعذر الإضافة"</string>
+  <string name="bind_failed_tip">"تعذرت الإضافة"</string>
   <string name="bind_need_to_login">تسجيل الدخول</string>
   <string name="bind_phone_dialog_bind">إضافة جديد</string>
   <string name="bind_phone_dialog_cancle">"لا تضيف"</string>
@@ -46,33 +46,33 @@
   <string name="bind_phone_success_tip">تمت إضافة رقم الهاتف بنجاح</string>
   <string name="bind_success_tip">تمت الاضافة بنجاح</string>
   <string name="byteShort">بايت</string>
-  <string name="can_not_send_with_too_many">"لا يمكن إرسال العديد من العناصر في نفس الوقت"</string>
+  <string name="can_not_send_with_too_many">"تعذر إرسال العديد من العناصر في نفس الوقت"</string>
   <string name="cancel">إلغاء</string>
-  <string name="cancel_error">"تعذر الإزالة، حاول مرة أخرى"</string>
+  <string name="cancel_error">"تعذرت الإزالة، حاول مرة أخرى"</string>
   <string name="cancel_operation">الغاء العملية</string>
   <string name="cancel_success">تم الازالة بنجاح. تم نقل جميع الملفات الى %s</string>
   <string name="cancelled_by_user">تم إلغاء العملية</string>
   <string name="category">الفئات</string>
   <string name="category_all">الكل</string>
-  <string name="category_apk">APKs</string>
+  <string name="category_apk">تطبيقات</string>
   <string name="category_bluetooth">بلوتوث</string>
   <string name="category_default_number_text">(0)</string>
-  <string name="category_document">المستندات</string>
-  <string name="category_download">التنزيلات</string>
+  <string name="category_document">مستندات</string>
+  <string name="category_download">تنزيلات</string>
   <string name="category_favorite">المفضلة</string>
   <string name="category_file">الملفات</string>
   <string name="category_files">ملفات</string>
   <string name="category_midrive">Mi Drive</string>
-  <string name="category_music">الموسيقى</string>
+  <string name="category_music">موسيقى</string>
   <string name="category_other">أخرى</string>
-  <string name="category_photo">الصور</string>
-  <string name="category_picture">الصور</string>
+  <string name="category_photo">صور</string>
+  <string name="category_picture">صور</string>
   <string name="category_recent">الحديثة</string>
-  <string name="category_theme">الثيمات</string>
+  <string name="category_theme">ثيمات</string>
   <string name="category_type_document">المستندات</string>
-  <string name="category_type_meida">الوسائط</string>
+  <string name="category_type_meida">وسائط</string>
   <string name="category_type_other">أخرى</string>
-  <string name="category_video">الفيديو</string>
+  <string name="category_video">فيديو</string>
   <string name="category_zip">الأرشيف</string>
   <string name="change_sticker">اختيار ملصق آخر</string>
   <string name="choose_report_comment_reason">لماذا تقوم بالإبلاغ عن هذا التعليق؟</string>
@@ -120,7 +120,7 @@
   <string name="decrypting">فك التشفير\u2026</string>
   <string name="delete_dialog_button">حذف</string>
   <string name="delete_error">"تعذر حذف الملفات، حاول مرة أخرى"</string>
-  <string name="delete_file">Delete this file?</string>
+  <string name="delete_file">حذف هذا الملف?</string>
   <string name="delete_file_error">"تعذر حذف الملف"</string>
   <string name="delete_files">Delete %1$d files?</string>
   <string name="delete_folder">Delete this folder?</string>
@@ -132,10 +132,10 @@
   <string name="dialog_logout_message">تسجيل الخروج الآن؟</string>
   <string name="dialog_logout_title">تسجيل خروج</string>
   <string name="dialog_select_type">اختر النوع</string>
-  <string name="dialog_type_audio">صوتي</string>
+  <string name="dialog_type_audio">صوت</string>
   <string name="dialog_type_image">صور</string>
-  <string name="dialog_type_text">المستندات</string>
-  <string name="dialog_type_video">مقاطع الفيديو</string>
+  <string name="dialog_type_text">مستند</string>
+  <string name="dialog_type_video">فيديو</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">المتاح:</string>
   <string name="disk_total">المجموع:</string>
@@ -181,7 +181,7 @@
   <string name="flow_setting">Settings</string>
   <string name="folder_name_empty">اسم المجلد لا يمكن ان يكون فارغ</string>
   <string name="folder_name_illegal">اسم مجلد غير صالح</string>
-  <string name="folder_name_invalid">"Folder names can't contain the following characters: /\\:*?&lt;&gt;"</string>
+  <string name="folder_name_invalid">"لا يمكن أن تحتوي أسماء المجلدات على الأحرف التالية: /\\:*?&lt;&gt;"</string>
   <string name="found_router">جهاز التوجيه متصل</string>
   <string name="found_usb">وحدة تخزين USB متصلة</string>
   <string name="ftp_account_req_notice"> ٤-١٦ حرف، رمز و رقم، حساس لحالة الأحرف</string>
@@ -206,7 +206,7 @@
   <string name="homepage_tab_category">الفئات</string>
   <string name="homepage_tab_file_view">التخزين</string>
   <string name="homepage_tab_recent">الحديثة</string>
-  <string name="hot_app">Popular apps</string>
+  <string name="hot_app">التطبيقات الشائعة</string>
   <string name="hot_comments">تعليقات مشهورة</string>
   <string name="hot_sticker">ملصقات</string>
   <string name="hot_video">فيديوهات</string>
@@ -257,7 +257,7 @@
   <string name="menu_item_sort_by_added_time">تمت الإضافة</string>
   <string name="menu_item_sort_date">تاريخ التعديل</string>
   <string name="menu_item_sort_name">الإسم</string>
-  <string name="menu_item_sort_size">Size</string>
+  <string name="menu_item_sort_size">الحجم</string>
   <string name="menu_item_sort_type">النوع</string>
   <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"تعليق: "</string>
@@ -275,7 +275,7 @@
   <string name="mobile_network_dialog_cancle">إلغاء</string>
   <string name="mobile_network_dialog_confirm">موافق</string>
   <string name="mobile_network_dialog_tip">"هل تريد استخدم اتصال بيانات الهاتف لعرض هذه الصفحة؟ سوف تتلقى رسوم بيانات الهاتف العادية من شركة الاتصالات الخاصة بك."</string>
-  <string name="mobile_network_dialog_tip2">"You'll receive regular mobile data charges from your carrier while streaming videos using your mobile data connection."</string>
+  <string name="mobile_network_dialog_tip2">"ستتلقى رسوم إضافية من مشغل شبكة الاتصال أثناء بث مقاطع الفيديو باستخدام اتصال بيانات الهاتف."</string>
   <string name="mobile_network_dialog_title">تحذير بيانات الهاتف</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"لا يمكن القطع"</string>
@@ -326,7 +326,7 @@
   <string name="oauth_failed_tip">"تعذر اكمال الترخيص"</string>
   <string name="one_account_bind_needed">إضافة حساب واحد على الأقل</string>
   <string name="online_not_support">"لا يمكن عرض هذا الملف في الوقت الحالي."</string>
-  <string name="only_wifi">Download when connected to WLAN</string>
+  <string name="only_wifi">التنزيل عندما يكون الهاتف متصل بالـWI-FI</string>
   <string name="open_app">إفتح</string>
   <string name="open_private_folder">تحرير لعرض المجلدات المخفية</string>
   <string name="operation_add_fav">تتم الإضافة إلى المفضلة\u2026</string>
@@ -370,7 +370,7 @@
   <string name="partial_cancel_successful">"تعذر إزالة بعض الملفات. تم نقل باقي الملفات الى %s."</string>
   <string name="partial_delete_failure">"تعذر حذف بعض الملفات، حاول مرة اخرى"</string>
   <string name="partial_encrypt_success">"تعذر إخفاء بعض الملفات, حاول مرة اخرى"</string>
-  <string name="partial_repair_done">Restored some files successfully</string>
+  <string name="partial_repair_done">تمت استعادة بعض الملفات بنجاح</string>
   <string name="petabyteShort">بنتابايت</string>
   <string name="phone">وحدة التخزين الداخلية</string>
   <string name="phone_bind_skip">تخطي</string>
@@ -398,7 +398,7 @@
   <string name="phone_storage_image_title">الصور:</string>
   <string name="phone_storage_info_str">%1$s من %2$s متاح</string>
   <string name="phone_storage_other_title">أخرى:</string>
-  <string name="phone_storage_size_tip">"قد تختلف محاسبة تخزين مدير التطبيقات عن التطبيقات الأخرى"</string>
+  <string name="phone_storage_size_tip">"قد يختلف حساب تخزين مدير التطبيقات عن التطبيقات الأخرى"</string>
   <string name="phone_storage_video_title">فيديوهات:</string>
   <string name="phone_storage_zip_title">الأرشيف:</string>
   <string name="phone_valid_code_tip">تم إدخال الرمز مرات كثيرة ، حاول للحصول على واحد جديد</string>
@@ -409,7 +409,7 @@
   <string name="private_folder">مجلدات مخفية</string>
   <string name="private_folder_no_file_hints">لا توجد ملفات مخفية.</string>
   <string name="private_folder_update">تحديث الملفات المخفية\u2026</string>
-  <string name="private_toast_hint1">Tap to add files to hidden folders</string>
+  <string name="private_toast_hint1">انقر لإضافة ملفات إلى المجلدات المخفية</string>
   <string name="private_toast_hint2">لأخفاء ملف, أضغط واستمر بالضغط عليه, ثم اضفه الى مجلد مخفي.</string>
   <string name="private_toast_hint3">اسحب لأسفل لعرض المجلدات المخفية</string>
   <string name="promot_enctypt_password">أدخل كلمة المرور المستخدمة لإلغاء قفل جهازك</string>
@@ -450,9 +450,9 @@
   <string name="search_description">البحث عن كل الملفات في الجهاز</string>
   <string name="search_empty_view_hint">"تعذر العثور على أي شيء"</string>
   <string name="search_error_hint">بحث</string>
-  <string name="search_file_type_apk">Apk</string>
+  <string name="search_file_type_apk">تطبيقات</string>
   <string name="search_file_type_doc">ملف</string>
-  <string name="search_file_type_music">الموسيقى</string>
+  <string name="search_file_type_music">موسيقى</string>
   <string name="search_file_type_picture">صور</string>
   <string name="search_file_type_video">فيديو</string>
   <string name="search_hint">بحث</string>
@@ -509,7 +509,7 @@
   <string name="tab_local">محلي</string>
   <string name="tab_more">المزيد</string>
   <string name="tab_newest_video">جديد</string>
-  <string name="tab_profile">Profile</string>
+  <string name="tab_profile">الملف الشخصي</string>
   <string name="tab_ranking_list">قائمة الترتيب</string>
   <string name="tab_source">التطبيقات</string>
   <string name="terabyteShort">تيرابايت</string>
@@ -644,9 +644,9 @@
   <string name="weixin_not_installed">"WeChat غير مثبت"</string>
   <string name="weixin_sticker_tag_str">ملصقات</string>
   <string name="wifi_state">شبكة Wi-Fi</string>
-  <string name="wx_title1">"Here's a cool video!"</string>
-  <string name="wx_title2">I shared a video, take a look!</string>
-  <string name="wx_title3">Watch viral videos from around the world!</string>
+  <string name="wx_title1">"إليك فيديو رائع!"</string>
+  <string name="wx_title2">لقد شاركت بفيديو، ألق نظرة!</string>
+  <string name="wx_title3">مشاهدة مقاطع الفيديو المبثة من جميع أنحاء العالم!</string>
   <string name="wxcircle_platform">اللحظات</string>
   <string name="xiaomi_btn_bind">حساب Mi</string>
   <string name="xiaomi_btn_str">Mi</string>
@@ -654,5 +654,5 @@
   <string name="yes">نعم</string>
   <string name="yesterday">أمس</string>
   <string name="zero">٠</string>
-  <string name="zero_comment">No comments</string>
+  <string name="zero_comment">بدون تعليقات</string>
 </resources>
