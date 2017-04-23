@@ -126,8 +126,8 @@
   <string name="resource_buy">شراء</string>
   <string name="resource_can_not_selected">"%1$s لا يمكن تحديده"</string>
   <string name="resource_category">الفئة</string>
-  <string name="resource_clear_search_history">مسح سجل البحث</string>
-  <string name="resource_clear_search_history_dialog">مسح سجل البحث بالكامل؟</string>
+  <string name="resource_clear_search_history">حذف سجل البحث</string>
+  <string name="resource_clear_search_history_dialog">حذف سجل البحث بالكامل؟</string>
   <string name="resource_comment_1_star">١ نجمة</string>
   <string name="resource_comment_2_star">٢ نجوم</string>
   <string name="resource_comment_3_star">٣ نجوم</string>
