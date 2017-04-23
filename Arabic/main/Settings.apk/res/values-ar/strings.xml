@@ -4290,8 +4290,8 @@ Any user can update apps for all other users."</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_notify_cmcc_connected_summary">إظهار إشعار عند الاتصال بشبكة CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">إشعار شبكة CMCC</string>
-  <string name="wifi_notify_open_networks">Network notification</string>
-  <string name="wifi_notify_open_networks_summary">Notify whenever a public network is available</string>
+  <string name="wifi_notify_open_networks">أشعارات الشبكة</string>
+  <string name="wifi_notify_open_networks_summary">إعلامي عندما تتوفر شبكة عامة</string>
   <string name="wifi_off_airplane_on_cancel">إلغاء</string>
   <string name="wifi_off_airplane_on_confirm">موافق</string>
   <string name="wifi_off_airplane_on_content">يمكنك تشغيل الـWi-Fi يدويا في وضع الطائرة.</string>
@@ -4367,7 +4367,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
   <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">نطاق تردد شبكة Wi-Fi</string>
-  <string name="wifi_setting_on_during_sleep_title">Wi‑Fi on during sleep</string>
+  <string name="wifi_setting_on_during_sleep_title">شبكة Wi-Fiتبقى مفعلة اثنأ الخمول</string>
   <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
   <string name="wifi_setting_sleep_policy_title">الإبقاء على اتصال Wi-Fi أثناء السكون</string>
   <string name="wifi_settings">Wi-Fi</string>
@@ -4511,7 +4511,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_wps_onstart_pbc">إضغط على زر التثبيت المحمي لشبكة Wi-Fi في جهاز التوجيه. قد يسمى \"WPS\" أو قد يحمل هذا الرمز:</string>
   <string name="wifi_wps_onstart_pin">أدخل رمز Pin%1$s بجهاز توجيه الـ Wi-Fi. قد يستغرق التثبيت دقيقتين لاكماله.</string>
   <string name="wifi_wps_overlap_error">تم اكتشاف دورة شبكة Wi-Fi أخرى. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
-  <string name="wifi_wps_setup_msg">Starting WPS…</string>
+  <string name="wifi_wps_setup_msg">بداء WPS…</string>
   <string name="wifi_wps_setup_title">إعداد Wi-Fi المحمي</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Window animation scale</string>
@@ -4559,7 +4559,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="zen_mode_calls">Calls</string>
   <string name="zen_mode_configure_rule">Configure rule</string>
   <string name="zen_mode_delete_rule">Delete rule</string>
-  <string name="zen_mode_delete_rule_button">Delete</string>
+  <string name="zen_mode_delete_rule_button">حذف</string>
   <string name="zen_mode_delete_rule_confirmation">Delete “%1$s” rule?</string>
   <string name="zen_mode_end_time">End time</string>
   <string name="zen_mode_end_time_next_day_summary_format">%s في اليوم التالي</string>
