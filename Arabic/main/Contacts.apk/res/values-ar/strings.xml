@@ -950,9 +950,9 @@
   <string name="rcs_group_chat_name">دردشة المجموعة</string>
   <string name="rcs_profile_name">بطاقة Fetion الخاصة بي</string>
   <string name="rcs_profile_name_photo">انا</string>
-  <string name="rcs_recipient_type_contact">ارسال إلى جهة اتصال</string>
-  <string name="rcs_recipient_type_group">ارسال إلى مجموعة</string>
-  <string name="rcs_send_vcard">ارسال vCard</string>
+  <string name="rcs_recipient_type_contact">إرسال إلى جهة اتصال</string>
+  <string name="rcs_recipient_type_group">إرسال إلى مجموعة</string>
+  <string name="rcs_send_vcard">إرسال vCard</string>
   <string name="readOnlyContactDeleteConfirmation">تحتوي جهة الاتصال هذه على معلومات من حسابات متعددة. سيتم إخفاء المعلومات الواردة من حسابات القراءة فقط في قوائم جهات الاتصال، وليس حذفها.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" يحتوي على معلومات من حسابات متعددة. أي معلومة لا يمكن حذفها سيتم اخفاءها من قائمة جهات الاتصال الخاصة بك."</string>
   <string name="readOnlyContactWarning">"لا يمكنك حذف جهات الاتصال من حسابات القراءة فقط، ولكن يمكنك إخفاءها في قوائم جهات الاتصال."</string>
@@ -1099,7 +1099,7 @@
   <string name="sms_disambig_title">اختيار الرقم</string>
   <string name="sms_fax_home">إرسال رسالة لرقم فاكس المنزل</string>
   <string name="sms_fax_work">إرسالة رسالة لرقم فاكس العمل</string>
-  <string name="sms_home">ارسال رسالة لهاتف المنزل</string>
+  <string name="sms_home">إرسال رسالة لهاتف المنزل</string>
   <string name="sms_isdn">إرسال رسالة لهاتف ISDN</string>
   <string name="sms_main">إرسال رسالة إلى الهاتف الرئيسي</string>
   <string name="sms_mms">إرسال رسالة وسائط متعددة MMS</string>
@@ -1180,7 +1180,7 @@
   <string name="vcard_import_request_rejected_message">تم رفض طلب استيراد vCard. حاول مرة أخرى لاحقا.</string>
   <string name="vcard_import_will_start_message">سيتم استيراد %s بعد قليل.</string>
   <string name="vcard_import_will_start_message_with_default_name">سيتم استيراد الملف قريباً.</string>
-  <string name="vcard_info_send_error">"لا يمكن الارسال وذلك لخطأ vCard"</string>
+  <string name="vcard_info_send_error">"لا يمكن الإرسال وذلك لخطأ vCard"</string>
   <string name="vcard_unknown_filename">جهة اتصال</string>
   <string name="video_call">مكالمة فيديو</string>
   <string name="video_chat">دردشة فيديو</string>
@@ -1217,8 +1217,8 @@
   <string name="yellowPageNavigationIconLabel">الصفحات الصفراء</string>
   <string name="yellowPageNavigationLabel">الصفحات الصفراء</string>
   <string name="yellowpage_navigation_ad_hint">اعلان</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"تعذر التحقق من التوازن و بيانات الجوال. أعد المحاولة لاحقاً."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">تم التحقق من التوازن و بيانات الجوال</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"تعذر التحقق من التوازن و بيانات الهاتف. أعد المحاولة لاحقاً."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">تم التحقق من التوازن و بيانات الهاتف</string>
   <string name="yellowpage_navigation_clear_search_history">حذف السجل</string>
   <string name="yellowpage_navigation_more_items">المزيد</string>
   <string name="yellowpage_navigation_more_items_title">خدمات إضافية</string>

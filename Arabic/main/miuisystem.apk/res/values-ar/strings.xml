@@ -134,7 +134,7 @@
   <string name="white_dews">白露</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
-  <string name="yellow_page_module_sms_sent">تم ارسال الرسالة النصية</string>
+  <string name="yellow_page_module_sms_sent">تم إرسال الرسالة النصية</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"لا يمكن إرسال الرسائل في وضع الضيف"</string>
   <string name="yellow_page_sms_send_failed">"لا يمكن إرسال الرسائل القصيرة"</string>
   <string name="yellow_page_sms_sending">جارٍ الإرسال\u2026</string>

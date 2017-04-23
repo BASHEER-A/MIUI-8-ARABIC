@@ -61,7 +61,7 @@
   <string name="gift_present_dlg_share">إنشاء رمز و مشاركة الهدية</string>
   <string name="gift_present_fail_dlg_content">"تعذر إرسال هذه الهدية. "</string>
   <string name="gift_present_fail_dlg_title">"تعذر إرسال الهدية"</string>
-  <string name="gift_present_success_dlg_content">سيتم ارسال رسالة SMS إلى هذا الشخص عند تسليم الثيم.</string>
+  <string name="gift_present_success_dlg_content">سيتم إرسال رسالة SMS إلى هذا الشخص عند تسليم الثيم.</string>
   <string name="gift_present_success_dlg_title">تم إرسال الهدية</string>
   <string name="gift_present_success_no_sms_dlg_content">سجل الهدايا مدرج في صفحة الحساب.</string>
   <string name="gift_presented">أرسل</string>

@@ -12,7 +12,7 @@
   <string name="cancel">إلغاء</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">عرض النقل</string>
-  <string name="change_mobile_network_message">التبديل إلى بيانات الجوال. قد يؤدي استخدام بيانات الجوال إلى نقل الملفات إلى فرض رسوم إضافية عليك من شركة الاتصالات. هل تريد النقل على أية حال؟</string>
+  <string name="change_mobile_network_message">التبديل إلى بيانات الهاتف. قد يؤدي استخدام بيانات الهاتف إلى نقل الملفات وفرض رسوم إضافية عليك من شركة الاتصالات. هل تريد النقل على أية حال؟</string>
   <string name="confirm">موافق</string>
   <string name="consumption_alert">اتصال الإنترنت</string>
   <string name="consumption_message">يحتاج Mi Drive للاتصال بالإنترنت للعمل بشكل طبيعي.</string>
@@ -96,7 +96,7 @@
   <string name="operation_renaming">جار إعادة التسمية\u2026</string>
   <string name="operation_resume">بدء</string>
   <string name="operation_resume_all">استئناف الكل</string>
-  <string name="operation_save">ارسال</string>
+  <string name="operation_save">إرسال</string>
   <string name="operation_send">حفظ</string>
   <string name="operation_task_manage">عرض النقل</string>
   <string name="operation_upload">تحميل</string>
@@ -115,7 +115,7 @@
   <string name="system_alert">الإتصال بالإنترنت</string>
   <string name="terabyteShort">ت.ب</string>
   <string name="tools">الأدوات</string>
-  <string name="trans_mobile_network_message">قد يؤدي استخدام بيانات الجوال لنقل الملفات إلى فرض رسوم إضافية عليك من شركة الاتصالات. هل تريد النقل على أية حال؟</string>
+  <string name="trans_mobile_network_message">قد يؤدي استخدام بيانات الهاتف لنقل الملفات إلى فرض رسوم إضافية عليك من شركة الاتصالات. هل تريد النقل على أية حال؟</string>
   <string name="trans_task">نقل المهام</string>
   <string name="transing">إرسال</string>
   <string name="upload_failed">"تعذر التحميل"</string>

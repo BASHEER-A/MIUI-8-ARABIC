@@ -6,7 +6,7 @@
   <string name="debug_dump_database_message">انت على وشك ١) عمل نسخة من قاعدة البيانات الخاصة بك تشمل كافة المعلومات المتعلقة بجهات الاتصال و كافة سجلات المكالمات إلى التخزين الداخلي، و ٢) إرسالها بالبريد الإلكتروني. تذكر أن تحذف النسخة في أقرب وقت تتمكن من نسخها بنجاح من الجهاز أو استلام بريد إلكتروني.</string>
   <string name="debug_dump_delete_button">حذف الآن</string>
   <string name="debug_dump_email_body">المرفق هو  قاعدة بيانات جهات الاتصال الخاصة بي مع جميع معلومات جهات الاتصال. التعامل معها بحذر.</string>
-  <string name="debug_dump_email_sender_picker">اختر برنامج لارسال ملفك</string>
+  <string name="debug_dump_email_sender_picker">اختر برنامج لإرسال ملفك</string>
   <string name="debug_dump_email_subject">قاعدة بيانات جهات الاتصال المرفقة</string>
   <string name="debug_dump_start_button">ابدأ</string>
   <string name="debug_dump_title">نسخ قاعدة بيانات جهات الاتصال</string>

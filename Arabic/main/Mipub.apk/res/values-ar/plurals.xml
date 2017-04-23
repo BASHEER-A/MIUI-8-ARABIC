@@ -4,7 +4,7 @@
   <plurals name="confirm_delete_conversation">
     <item quantity="zero">حذف %1$s محادثة محددة؟</item>
     <item quantity="other">حذف %1$s محادثة محددة؟</item>
-    <item quantity="one">حذف هذه المحادثة ؟</item>
+    <item quantity="one">حذف هذه المحادثة؟</item>
     <item quantity="two">حذف %1$s محادثة محددة؟</item>
     <item quantity="few">حذف %1$s محادثة محددة؟</item>
     <item quantity="many">حذف %1$s محادثة محددة؟</item>

@@ -73,7 +73,7 @@
   <string name="feedback_select_upload_log">إضافة سجلات</string>
   <string name="feedback_status_answered">تم الإجابة</string>
   <string name="feedback_status_change_notification_title">"تم تحديث حالة تقدم التقرير الخاص بك"</string>
-  <string name="feedback_status_commit_failed_title">"تعذر ارسال التقرير"</string>
+  <string name="feedback_status_commit_failed_title">"تعذر إرسال التقرير"</string>
   <string name="feedback_status_commit_succ_title">أُرسل</string>
   <string name="feedback_status_commit_uploading_title">جار الإرسال\u2026</string>
   <string name="feedback_status_more">التفاصيل</string>
@@ -83,11 +83,11 @@
   <string name="feedback_status_reresolved">تم حلها</string>
   <string name="feedback_status_supplement">قم بوصف مشكلتك باختصار</string>
   <string name="feedback_submit_failed_notification_desc">عرض التفاصيل</string>
-  <string name="feedback_submit_failed_notification_retry">ارسال مرة أخرى</string>
-  <string name="feedback_submit_failed_notification_title">"تعذر ارسال التقرير"</string>
+  <string name="feedback_submit_failed_notification_retry">إرسال مرة أخرى</string>
+  <string name="feedback_submit_failed_notification_title">"تعذر إرسال التقرير"</string>
   <string name="feedback_submit_hint1">"سنقوم بإعلامك عن حاله تقدم التقرير"</string>
   <string name="feedback_submit_hint2">اذهب إلى \"تقاريري\" لعرض التفاصيل</string>
-  <string name="feedback_submit_succ">تم الارسال بنجاح</string>
+  <string name="feedback_submit_succ">تم الإرسال بنجاح</string>
   <string name="feedback_submit_succ_button">تم</string>
   <string name="feedback_submitting">يتم الإرسال</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s اقتراحات \"%2$s\"</string>
@@ -198,7 +198,7 @@
   <string name="packaging_dialog_content">جارٍ إنشاء تقرير\u2026</string>
   <string name="pic_not_exist">"This image doesn't exist"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
-  <string name="plus_one_submit_dialog_content">"سيتم ارسال ملاحظتك مع سجلات الخطأ إلى خوادم Mi."</string>
+  <string name="plus_one_submit_dialog_content">"سيتم إرسال ملاحظتك مع سجلات الخطأ إلى خوادم Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">تذكر التفضيل</string>
   <string name="post_miui_bbs_failed">"تعذر النشر في المنتدى"</string>
   <string name="pull_to_refresh_pull_label">Pull down to refresh</string>
@@ -218,10 +218,10 @@
   <string name="section_err_type">نوع الخلل</string>
   <string name="section_screenshot">لقطة الشاشة</string>
   <string name="submit_dialog_cancel">إلغاء</string>
-  <string name="submit_dialog_confirm">ارسال</string>
+  <string name="submit_dialog_confirm">إرسال</string>
   <string name="submit_dialog_content">سيتم إرسال الملاحظات مع المرفقات و التسجيلات الخاصة بك إلى خوادم MIUI. قد تحتوي على معلومات شخصية.</string>
-  <string name="submit_dialog_title">ارسال تقرير</string>
-  <string name="submit_feedback_info_failed">"تعذر ارسال التقرير"</string>
+  <string name="submit_dialog_title">إرسال تقرير</string>
+  <string name="submit_feedback_info_failed">"تعذر إرسال التقرير"</string>
   <string name="suggestion_description">أضف الوصف هنا</string>
   <string name="system_app_select">التطبيقات الافتراضية</string>
   <string name="systemui">شريط الإشعارات</string>
@@ -246,7 +246,7 @@
   <string name="toast_title_required">قم بوصف المشكلة الخاصة بك</string>
   <string name="topic_author">١#</string>
   <string name="try_again">حاول مرة أخرى</string>
-  <string name="upload_log_failed">"تعذر ارسال سجلات"</string>
+  <string name="upload_log_failed">"تعذر إرسال سجلات"</string>
   <string name="warning_field_empty">أدخل %1$s</string>
   <string name="warning_field_invalid">تحديد %1$s صالح</string>
 </resources>

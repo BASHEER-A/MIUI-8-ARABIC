@@ -332,8 +332,8 @@
   <string name="replace_binded_phone">إستبدال الهاتف</string>
   <string name="resend_active_email">إعادة إرسال</string>
   <string name="resend_email_reach_limit_message">"لقد قمت بطلب الكثير من رسائل التحقق إلى البريد الإلكتروني. تأكد من أن رسالة التحقق ليست في مجلد البريد المزعج."</string>
-  <string name="resend_email_reach_limit_title">"لا يمكن ارسال البريد الإلكتروني"</string>
-  <string name="resend_email_success">تم إعادة ارسال البريد الإلكتروني</string>
+  <string name="resend_email_reach_limit_title">"لا يمكن إرسال البريد الإلكتروني"</string>
+  <string name="resend_email_success">تم إعادة إرسال البريد الإلكتروني</string>
   <string name="reset_security_question_message">تحتاج إلى التحقق من هويتك قبل تغيير اسئلة الأمان</string>
   <string name="reset_security_question_title">إعادة تعيين اسئلة الأمان</string>
   <string name="restart_action">البدء من جديد</string>
@@ -350,7 +350,7 @@
   <string name="service_error">خطأ في الخدمة</string>
   <string name="set_security_question_title">تعيين اسئلة الأمان</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="sms_send_success">تم الارسال</string>
+  <string name="sms_send_success">تم الإرسال</string>
   <string name="sns_access_token_expired_warning">انتهت صلاحية تسجيل الدخول في الحساب.أعد تسجيل الدخول للاتصال بالحساب.</string>
   <string name="submit_answers">إرسال</string>
   <string name="success">تم</string>

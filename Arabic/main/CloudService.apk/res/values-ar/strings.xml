@@ -129,10 +129,10 @@
   <string name="member_due_date">صالح لغاية %s</string>
   <string name="micloud_all_sub_1_intl_sms">سيتم أرسال رسالة نصية دولية قصيرة لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
   <string name="micloud_all_sub_1_sms">سيتم أرسال رسالة نصية قصيرة عادية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">سيتم ارسال ٢ رسالة نصية (عادية و دولية) لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_2_intl_sms">سيتم ارسال ٢ رسالة نصية دولية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_2_sms">سيتم ارسال ٢ رسالة نصية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_resend_sms">"عند تشغيل \"العثور على الجهاز\"، قد يتم ارسال رسالة نصية قصيرة للتفعيل بعد قيامك بتبديل بطاقات SIM."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">سيتم إرسال ٢ رسالة نصية (عادية و دولية) لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_2_intl_sms">سيتم إرسال ٢ رسالة نصية دولية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_2_sms">سيتم إرسال ٢ رسالة نصية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_resend_sms">"عند تشغيل \"العثور على الجهاز\"، قد يتم إرسال رسالة نصية قصيرة للتفعيل بعد قيامك بتبديل بطاقات SIM."</string>
   <string name="micloud_battery_low_notification_message">قم بتوصيل الشاحن للمزامنة</string>
   <string name="micloud_battery_low_notification_title">البطارية منخفضة</string>
   <string name="micloud_buy_member">شراء عضوية Mi Cloud</string>
@@ -356,9 +356,9 @@
   <string name="more_activity_in_upgrade_space">تعرف المزيد على &lt;a href=\"http://i.mi.com\"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">رسالة Mi</string>
   <string name="mx_dspt_provision">رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.\n\nيمكنك تشغيل هذه الميزة او ايقافها في اي وقت من الإعدادات.</string>
-  <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وارسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
-  <string name="mx_dspt_provision_privacy_2_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن بطاقة SIM. قد تكون هناك حاجة لـ٢ رسائل قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.\n\nهذه الميزة تقوم بتشفير وارسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
-  <string name="mx_dspt_provision_privacy_no_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن بطاقة SIM، قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وارسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy_2_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن بطاقة SIM. قد تكون هناك حاجة لـ٢ رسائل قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy_no_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن بطاقة SIM، قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
   <string name="mx_dspt_provision_with_voip">"اتصل بمستخدمي MIUI الآخرين مجانًا باستخدام اتصال الإنترنت. يمكنك تشغيل أو إيقاف هذه الميزة في أي وقت من الإعدادات. VoIP مدعوم من Weihui. راجع سياسة خصوصية Weihui"</string>
   <string name="mx_dspt_provision_with_voip2">سياسة الخصوصية</string>
   <string name="mx_sub_dspt_provision">رسالة Mi</string>
@@ -413,7 +413,7 @@
   <string name="sms">الرسائل</string>
   <string name="some_sync_item_close">%d يتم إيقاف</string>
   <string name="soundrecorder_sync_only_in_wifi">استخدام شبكة Wi-Fi فقط للمزامنة</string>
-  <string name="soundrecorder_sync_only_in_wifi_summary">لن يستخدم المسجّل بيانات الجوال لتنزيل أو تحميل التسجيلات</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">لن يستخدم المسجّل بيانات الهاتف لتنزيل أو تحميل التسجيلات</string>
   <string name="soundrecorder_sync_records">مزامنة مع Mi Cloud</string>
   <string name="start_micloud">بدء</string>
   <string name="storage">التخزين</string>

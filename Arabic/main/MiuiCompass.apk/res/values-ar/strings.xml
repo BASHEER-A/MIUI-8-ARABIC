@@ -4,7 +4,7 @@
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">الارتفاع</string>
   <string name="altitude_uncalibrate_cancel">إلغاء</string>
-  <string name="altitude_uncalibrate_msg">"لا يمكن معايرة الارتفاع بدقة بدون GPS أو اتصال بيانات الجوال."</string>
+  <string name="altitude_uncalibrate_msg">"لا يمكن معايرة الارتفاع بدقة بدون GPS أو اتصال بيانات الهاتف."</string>
   <string name="altitude_uncalibrate_refresh">حاول مرة أخرى</string>
   <string name="altitude_uncalibrate_tip">"تعذرت معايرة الارتفاع"</string>
   <string name="altitude_unit">متر</string>

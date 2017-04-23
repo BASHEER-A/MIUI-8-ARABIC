@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="ble_profile_mi_band">
-    <item>اهتزاز عند رنين</item>
+    <item>اهتزاز عند الرنين</item>
     <item>اهتزاز عند تلقي رسالة</item>
     <item>اهتزاز عند التنبيه</item>
   </string-array>

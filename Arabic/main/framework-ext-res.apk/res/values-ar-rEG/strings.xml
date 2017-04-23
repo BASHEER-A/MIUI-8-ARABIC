@@ -27,7 +27,7 @@
   <string name="default_name">الافتراضي</string>
   <string name="enable_livetalk_summary">قم بتوفير٧٠% من رسوم مكالماتك</string>
   <string name="enable_livetalk_title">تفعيل حزمة شحن الرصيد</string>
-  <string name="fc_dialog_body">هل تريد ارسال تقرير عن خلل إلى Mi للتحليل؟ يتضمن هذا التقرير معلومات تعريف شخصية. سيستخدم تقريرك لمساعدة إصلاح هذا الخطأ ولن يشارك ابدا في أي سياق تجاري.</string>
+  <string name="fc_dialog_body">هل تريد إرسال تقرير عن خلل إلى Mi للتحليل؟ يتضمن هذا التقرير معلومات تعريف شخصية. سيستخدم تقريرك لمساعدة إصلاح هذا الخطأ ولن يشارك ابدا في أي سياق تجاري.</string>
   <string name="fc_dialog_jump_to_preview">عرض الملخص</string>
   <string name="first_back_long_press_message">لتعيين إعدادات مخصصة إضغط لمدة طويلة على حركات أزرار التنقل، اذهب إلى الإعدادات ثم الإعدادات الإضافية ثم الأزرار</string>
   <string name="fm_record_smaple_prefix_miui">تسجيل FM</string>
@@ -92,7 +92,7 @@
   <string name="security_permission_denied_text">تم رفض الدخول</string>
   <string name="security_permission_failed_text">حدث خطأ ما، أعد المحاولة لاحقا</string>
   <string name="security_permission_validate_warning">شكرا للمساعدة في جعل MIUI افضل!</string>
-  <string name="security_permission_wifi_and_data_opened_text">تم تشغيل شبكة Wi-Fi وبيانات الجوال</string>
+  <string name="security_permission_wifi_and_data_opened_text">تم تشغيل شبكة Wi-Fi وبيانات الهاتف</string>
   <string name="security_permission_xiaomi_account_missed_text">أدخل هوية حساب Mi الخاص بك</string>
   <string name="select">تحديد</string>
   <string name="select_all">تحديد الكل</string>
@@ -109,7 +109,7 @@
   <string name="status_bar_toggle_auto_brightness">السطوع</string>
   <string name="status_bar_toggle_bluetooth">بلوتوث</string>
   <string name="status_bar_toggle_cast">Cast</string>
-  <string name="status_bar_toggle_data">بيانات الجوال</string>
+  <string name="status_bar_toggle_data">بيانات الهاتف</string>
   <string name="status_bar_toggle_edit">ترتيب</string>
   <string name="status_bar_toggle_flight_mode">وضع الطائرة</string>
   <string name="status_bar_toggle_gps">GPS</string>

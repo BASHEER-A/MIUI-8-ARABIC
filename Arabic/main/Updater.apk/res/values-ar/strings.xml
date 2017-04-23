@@ -124,7 +124,7 @@
   <string name="new_updates_found_notification_title">تحديث متاح</string>
   <string name="next">التالي</string>
   <string name="no_log">لا يوجد ملخص متاح</string>
-  <string name="no_wifi_msg">"قد يولد استخدام بيانات الجوال رسوم إضافية. قم بالاتصال بشبكة Wi-Fi لتحميل التحديثات."</string>
+  <string name="no_wifi_msg">"قد يولد استخدام بيانات الهاتف رسوم إضافية. قم بالاتصال بشبكة Wi-Fi لتحميل التحديثات."</string>
   <string name="no_wifi_title">الإتصال بشبكة Wi-Fi</string>
   <string name="not_open">لا</string>
   <string name="notification_auto_reboot_seccess_title">تم تحديث الجهاز تلقائيا</string>
@@ -188,7 +188,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto_msg">تحميل التحديثات عند الاتصال بشبكة Wi-Fi وتثبيتها في الليل؟</string>
   <string name="set_auto_update_title">هل تريد التحديث تلقائياً ؟</string>
   <string name="set_installfail_full_msg">حدث خطأ ما. انقر على موافق للإبلاغ عن هذا الخطأ.</string>
-  <string name="set_installfail_msg">"أنت غير متصل بشبكة Wi-Fi. استخدام اتصال بيانات الجوال لتنزيل التحديث سيزيد من استخدامك للبيانات. اذا تم تجاوز القيد المفروض على استخدام البيانات في الخطة، فقد يفرض عليك مشغِّل شبكة الجوّال رسومًا."</string>
+  <string name="set_installfail_msg">"أنت غير متصل بشبكة Wi-Fi. استخدام اتصال بيانات الهاتف لتنزيل التحديث سيزيد من استخدامك للبيانات. اذا تم تجاوز القيد المفروض على استخدام البيانات في الخطة، فقد يفرض عليك مشغِّل شبكة الجوّال رسومًا."</string>
   <string name="set_installfail_title">حاول تنزيل التحديث مرة أخرى؟</string>
   <string name="set_installfail_title_full">"لا يمكن التحديث"</string>
   <string name="set_network_msg">لتنزيل هذا التحديث، اتصل بشبكة Wi-Fi.</string>
@@ -215,7 +215,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="space_not_enough_title">لا توجد مساحة تخزين كافية</string>
   <string name="stable_build">مستقر</string>
   <string name="submit">إرسال</string>
-  <string name="submit_fail">"لا يمكن الارسال"</string>
+  <string name="submit_fail">"لا يمكن الإرسال"</string>
   <string name="submit_progress">جارٍ الإرسال\u2026</string>
   <string name="submit_success">تم الإرسال</string>
   <string name="test">اختبار</string>
@@ -265,7 +265,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="vote_error1">يبدو أنك لست عضواn\في برنامج ملاحظات بيتا</string>
   <string name="vote_error2">تعذر إرسال الملاحظات. n\قم بتحديث الجهاز ثم حاول مرة أخرى</string>
   <string name="vote_error3">تعذر تسجيل الدخول. n\حاول تسجيل دخول لحسابك Mi الخاص بك مرة أخرى.</string>
-  <string name="vote_error4">لقد قمت بارسال الملاحظات مسبقا</string>
+  <string name="vote_error4">لقد قمت بإرسال الملاحظات مسبقا</string>
   <string name="vote_error5">حدث خطأ ماn\تعذر إرسال الملاحظات</string>
   <string name="vote_error_nonetwork">"تعذر الاتصال بالشبكة"</string>
   <string name="vote_experience">خبرة المنتدى</string>

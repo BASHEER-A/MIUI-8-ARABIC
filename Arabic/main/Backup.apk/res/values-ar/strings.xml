@@ -154,7 +154,7 @@
   <string name="notif_restore_content">إستعادة بيانات المستخدم</string>
   <string name="notif_restore_title">إستعادة البيانات</string>
   <string name="notif_trans_receiving_completed">تم استلام البيانات بنجاح</string>
-  <string name="notif_trans_sending_completed">تم ارسال البيانات بنجاح</string>
+  <string name="notif_trans_sending_completed">تم إرسال البيانات بنجاح</string>
   <string name="page_loading">لحظة من فضلك\u2026</string>
   <string name="progress_backup_hint">جارٍ النسخ الاحتياطي\u2026</string>
   <string name="progress_restore_hint">جارٍ الاستعادة\u2026</string>
@@ -275,7 +275,7 @@
   <string name="trans_please_waiting">لحظة من فضلك\u2026</string>
   <string name="trans_progress_subdescript_br_receiver">إستعادة %1$s، %2$s اكتمل</string>
   <string name="trans_progress_subdescript_br_sender">نسخ احتياطي %1$s، %2$s اكتمل</string>
-  <string name="trans_progress_subdescript_br_sender_finish">نسخ احتياطي %s، في انتظار الارسال\u2026</string>
+  <string name="trans_progress_subdescript_br_sender_finish">نسخ احتياطي %s، في انتظار الإرسال\u2026</string>
   <string name="trans_progress_subdescript_transing_receiver">استلام %1$s، %2$s اكتمل</string>
   <string name="trans_progress_subdescript_transing_receiver_finish">تم استلام %s، في انتظار الإستعادة\u2026</string>
   <string name="trans_progress_subdescript_transing_sender">إرسال %1$s، %2$s اكتمل</string>
@@ -292,7 +292,7 @@
   <string name="trans_retry">إعادة المحاولة</string>
   <string name="trans_scan_invalid_qrcode">رمز QR غير صالح</string>
   <string name="trans_scan_qr_code_tips">امسح رمز QR على الجهاز الجديد</string>
-  <string name="trans_select_data">قم بتحديد عناصر للارسال</string>
+  <string name="trans_select_data">قم بتحديد عناصر للإرسال</string>
   <string name="trans_select_data_no_space">لا توجد مساحة كافية على الجهاز الجديد\nقم بتحديد الملفات مرة اخرى او تنظيف %s من مساحة التخزين على الجهاز الجديد</string>
   <string name="trans_select_data_tips">حدد العناصر المراد نقلها\nالملفات المماثلة في الجهاز الجديد سيتم استبدالها</string>
   <string name="trans_select_device_receive">حدد جهاز واحد لأستلام البيانات.</string>
@@ -302,7 +302,7 @@
   <string name="trans_sender_searching">البحث عن اجهزة جديدة</string>
   <string name="trans_sender_searching_ensurance">تأكد جيداً ان الجهاز القديم مشغل\n جارٍ انتظار الجهاز القديم ليتصل\u2026</string>
   <string name="trans_sender_time_remained">%s متبقي.\nلا تقم بإيقاف شبكة الـWi-Fi.\nحافظ على الاجهزة قريبة من بعضها البعض.</string>
-  <string name="trans_sending_completed">تم الارسال بنجاح</string>
+  <string name="trans_sending_completed">تم الإرسال بنجاح</string>
   <string name="trans_show_qr_code_label">وصل جهاز قديم</string>
   <string name="trans_show_qr_code_tips">امسح رمز QR بإستخدام جهاز قديم</string>
   <string name="trans_start_failed_message">"تعذر بدء النقل، قم بالمحاولة مجدداً أو إعادة تشغيل الجهاز."</string>

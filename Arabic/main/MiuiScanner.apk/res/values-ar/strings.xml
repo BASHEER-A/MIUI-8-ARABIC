@@ -304,7 +304,7 @@
   <string name="previous">رجوع</string>
   <string name="qr_code_details">تفاصيل رمز QR:</string>
   <string name="recognition_error_download_cancel">لاحقا</string>
-  <string name="recognition_error_download_data_msg">قم بتنزيل محرك التعرف لمسح البطاقات. حجمها حوالي ١٥ ميغا بايت. هل تريد استخدام بيانات الجوال للتنزيل؟</string>
+  <string name="recognition_error_download_data_msg">قم بتنزيل محرك التعرف لمسح البطاقات. حجمها حوالي ١٥ ميغا بايت. هل تريد استخدام بيانات الهاتف للتنزيل؟</string>
   <string name="recognition_error_download_fail">"تعذر تنزيل محرك التعرف"</string>
   <string name="recognition_error_download_msg">قم بتنزيل محرك التعرف لمسح البطاقات. حجمها حوالي ١٥ ميغا بايت.</string>
   <string name="recognition_error_download_no_network">"تعذر التنزيل. كن متاكدا من انك متصل بالشبكة."</string>

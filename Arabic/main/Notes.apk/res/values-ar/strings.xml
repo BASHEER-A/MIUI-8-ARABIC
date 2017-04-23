@@ -73,7 +73,7 @@
   <string name="menu_new_folder">مجلد جديد</string>
   <string name="menu_restore">إستعادة</string>
   <string name="menu_send_as_image">إرسال كصورة</string>
-  <string name="menu_send_as_text">ارسال كنص</string>
+  <string name="menu_send_as_text">إرسال كنص</string>
   <string name="menu_send_to_desktop">وضع على الشاشة الرئيسية</string>
   <string name="menu_send_wechat">Send to WeChat</string>
   <string name="menu_send_weibo">الإرسال إلى Weibo</string>
@@ -124,7 +124,7 @@
   <string name="sina_token_invalid_warning">حساب حسبما غير صحيحة: الرجاء إعادة ربط</string>
   <string name="snippet_image_stub">[صورة]</string>
   <string name="snippet_image_template">[صورة %1$s]</string>
-  <string name="sns_action_send">ارسال</string>
+  <string name="sns_action_send">إرسال</string>
   <string name="sns_choose_quality_high">عالي (%1$s)</string>
   <string name="sns_choose_quality_low">منخفض</string>
   <string name="sns_choose_quality_title">اختر جودة الصورة</string>
@@ -137,8 +137,8 @@
   <string name="sns_hint_title">الموضوع (اختياري)</string>
   <string name="sns_message_disconnect">"تعذر الاتصال بالشبكة. تحقق من اتصالك ثم حاول مرة أخرى."</string>
   <string name="sns_title_edit">تعديل عنوان</string>
-  <string name="sns_title_send">ارسال رسالة</string>
-  <string name="sns_toast_empty">"لا يمكن ارسال رسالة فارغة"</string>
+  <string name="sns_title_send">إرسال رسالة</string>
+  <string name="sns_toast_empty">"لا يمكن إرسال رسالة فارغة"</string>
   <string name="sns_toast_over_limit">إرسال صورة</string>
   <string name="sync_tips">انقر لمزامنة الملاحظات مع Mi Cloud.</string>
   <string name="theme_title_antique">خريفي</string>

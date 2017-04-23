@@ -867,7 +867,7 @@
   <string name="security_warnings_confirm_message">إيقاف تشغيل هذه الميزة قد ينشأ مخاطر أمان.</string>
   <string name="select_dot">تحديد النص</string>
   <string name="select_download_device">اختيار جهاز</string>
-  <string name="send_comment_button">ارسال</string>
+  <string name="send_comment_button">إرسال</string>
   <string name="send_comment_title">تعليق</string>
   <string name="senddesktop">الشاشة الرئيسية</string>
   <string name="sendstartpage">صفحة البداية</string>

@@ -3,8 +3,8 @@
 <resources>
   <string name="accept">موافق</string>
   <string name="activate">تفعيل</string>
-  <string name="activate_auto_sms_notification_desc_1_card">تم ارسال رسالة SMS لتفعيل\"العثور على الجهاز\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">تم ارسال رسالة SMS من بطاقة SIM %s لتفعيل \"العثور على الجهاز\"</string>
+  <string name="activate_auto_sms_notification_desc_1_card">تم إرسال رسالة SMS لتفعيل\"العثور على الجهاز\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">تم إرسال رسالة SMS من بطاقة SIM %s لتفعيل \"العثور على الجهاز\"</string>
   <string name="activate_auto_sms_notification_title">تفعيل بطاقة SIM</string>
   <string name="activate_feature_call_log_sync">مزامنة سجل المكالمات</string>
   <string name="activate_feature_default_name">خدمات Mi</string>
@@ -19,7 +19,7 @@
   <string name="activate_history_cancelled">تم إلغاء</string>
   <string name="activate_history_multisim_overview">تفعيل بطاقة سيم %3$d %1$s. فإنه يتم تشغيلها بواسطة \"%2$s\".</string>
   <string name="activate_history_overview">التنشيط ل %1$s بطاقة SIM. فإنه يتم تشغيلها بواسطة \"%2$s\".</string>
-  <string name="activate_history_sms">لقد تم ارسال رسالة SMS خلال التفعيل.</string>
+  <string name="activate_history_sms">لقد تم إرسال رسالة SMS خلال التفعيل.</string>
   <string name="activate_history_success">ناجح</string>
   <string name="activate_history_title">تفعيل بطاقة SIM</string>
   <string name="activate_phone_cancel_notif_title">تم إلغاء تفعيل بطاقة SIM</string>
@@ -78,7 +78,7 @@
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"تعذر التحقق من رقم الهاتف"</string>
   <string name="activate_status_desc_checking_xiaomi_account">جار التحقق من حساب Mi\u2026</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">حدث خطأ في الخادم أثناء التحقق من حساب Mi</string>
-  <string name="activate_status_desc_completed_with_sms_sent">تم ارسال رسالة SMS لتفعيل بطاقة SIM</string>
+  <string name="activate_status_desc_completed_with_sms_sent">تم إرسال رسالة SMS لتفعيل بطاقة SIM</string>
   <string name="activate_status_desc_device_id_error">IMEI غير صالح</string>
   <string name="activate_status_desc_failed_getting_gateway">"تعذر الحصول على بوابة SMS"</string>
   <string name="activate_status_desc_getting_gateway">الحصول على بوابةSMS\u2026</string>

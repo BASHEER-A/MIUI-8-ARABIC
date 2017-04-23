@@ -429,7 +429,7 @@
   <string name="vp_content_description">الوصف</string>
   <string name="vp_datastream_alert_hint">يمكنك إيقاف إشعارات استخدام البيانات في أي وقت من الإعدادات.</string>
   <string name="vp_datastream_alert_negative_button">إلغاء</string>
-  <string name="vp_datastream_alert_play">يؤدي استخدام اتصال بيانات الجوال لمشاهدة مقاطع الفيديو إلى زيادة استخدام البيانات. إذا تجاوزت حد البيانات المسموح، فقد تفرض عليك شركة الاتصالات رسومًا إضافية.</string>
+  <string name="vp_datastream_alert_play">يؤدي استخدام اتصال بيانات الهاتف لمشاهدة مقاطع الفيديو إلى زيادة استخدام البيانات. إذا تجاوزت حد البيانات المسموح، فقد تفرض عليك شركة الاتصالات رسومًا إضافية.</string>
   <string name="vp_datastream_alert_positive_button">مشاهدة</string>
   <string name="vp_datastream_alert_title">تحذير استخدام البيانات</string>
   <string name="vp_device_list">الأجهزة</string>

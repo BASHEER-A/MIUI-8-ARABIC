@@ -19,7 +19,7 @@
   <string name="action_item_play_all">تشغيل كل</string>
   <string name="action_item_remove">إزالة</string>
   <string name="action_item_remove_from_favorite">غير مفضلة</string>
-  <string name="action_item_send">ارسال</string>
+  <string name="action_item_send">إرسال</string>
   <string name="action_item_share">مشاركة</string>
   <string name="action_settings">Settings</string>
   <string name="ad_close">إغلاق</string>
@@ -28,8 +28,8 @@
   <string name="add_music">إضافة اغاني</string>
   <string name="add_to_last_of_playlist">إضافة الى اخر قائمة التشغيل</string>
   <string name="alaka_required">"يجب عليك الدفع للاستماع لهذه الأغنية"</string>
-  <string name="album_name">البوم</string>
-  <string name="album_search_title">البوم</string>
+  <string name="album_name">ألبوم</string>
+  <string name="album_search_title">ألبوم</string>
   <string name="alert_msg_vip_song_for_download">الحصول على \"قسط أغنية حزمة\" لتحميل هذه الأغنية.</string>
   <string name="alert_msg_vip_song_for_download_upgrade">كنت قد استخدمت تصل حصة التحميل الخاص بك لهذا الشهر. الترقية الخاص بك \"قسط أغنية حزمة\" لتحميل المزيد.</string>
   <string name="alert_msg_vip_song_for_stream">الحصول على \"قسط حزمة الأغنية\" تيار هذه الأغنية.</string>
@@ -70,7 +70,7 @@
   <string name="avail_services">متوفرة</string>
   <string name="available_playlist_name_format">قائمة تشغيل جديدة %d</string>
   <string name="avoid_to_use_traffic_summary">"لا تستخدم شبكة الجوال لتشغيل الموسيقى"</string>
-  <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الجوال لتشغيل الأغاني</string>
+  <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الهاتف لتشغيل الأغاني</string>
   <string name="back_confirm">انقر مرة اخرى للخروج من التطبيق</string>
   <string name="baidu_music">موسيقى Baidu</string>
   <string name="being_disable_auto_payment">جار إيقاف التفعيل\u2026</string>
@@ -397,10 +397,10 @@
   <string name="menu_title_settings">إعدادات</string>
   <string name="message_delete_playlist">حذف قائمة تشغيل %s؟</string>
   <string name="metered_alert">تحذير الاستخدام البيانات</string>
-  <string name="metered_alert_msg">انت تستخدم بيانات الجوال لتشغيل الأغاني. التشغيل على أي حال؟</string>
+  <string name="metered_alert_msg">انت تستخدم بيانات الهاتف لتشغيل الأغاني. التشغيل على أي حال؟</string>
   <string name="metered_allow">تشغيل</string>
   <string name="metered_disallow">ليس الآن</string>
-  <string name="metered_play_toast">استخدام بيانات الجوال لتشغيل الأغاني</string>
+  <string name="metered_play_toast">استخدام بيانات الهاتف لتشغيل الأغاني</string>
   <string name="milink_unavaliable_please_update">"رابط Mi غير متاح. قم بتحديث MIUI."</string>
   <string name="min_sleep_time">1</string>
   <string name="missing_title">&lt; المجهول &gt;</string>
@@ -414,7 +414,7 @@
   <string name="miuishare_account_need_login">قم بإضف حساب Weibo الخاص بك إلى حساب Mi الحالي للمشاركة. تسجيل الدخول للمشاركة الآن؟</string>
   <string name="miuishare_app_name">مشاركة MIUI</string>
   <string name="miuishare_no_network">"تعذر الاتصال بالشبكة."</string>
-  <string name="miuishare_publish">ارسال</string>
+  <string name="miuishare_publish">إرسال</string>
   <string name="miuishare_share_done">تمت المشاركة بنجاح</string>
   <string name="miuishare_share_editor_title">مشاركة</string>
   <string name="miuishare_title_more">المزيد</string>
@@ -437,7 +437,7 @@
   <string name="more_online_song">المزيد</string>
   <string name="more_online_suggest">المزيد</string>
   <string name="more_settings">الإعدادات المتقدمة</string>
-  <string name="more_settings_summary">تنزيل الإعدادات، مؤقت النوم، إدارة بيانات الجوال، مرشحات للملفات، الخ.</string>
+  <string name="more_settings_summary">تنزيل الإعدادات، مؤقت النوم، إدارة بيانات الهاتف، مرشحات للملفات، الخ.</string>
   <string name="multichoice">تحديد</string>
   <string name="music_browser_label">الموسيقى</string>
   <string name="music_filter">تصفية ملفات الصوت</string>
@@ -464,7 +464,7 @@
   <string name="network_settings_error">"تعذر الاتصال بالشبكة"</string>
   <string name="network_traffic">استخدام البيانات</string>
   <string name="next_time">ليس الآن</string>
-  <string name="no_album_info">لا يوجد معلومات الالبوم</string>
+  <string name="no_album_info">لا يوجد معلومات الألبوم</string>
   <string name="no_artist_info">لا يوجد معلومات الفنان</string>
   <string name="no_downloads">لا التنزيلات</string>
   <string name="no_enough_info">لا يوجد معلومات كافية للاغنية</string>
@@ -611,7 +611,7 @@
   <string name="root_downloads">التنزيلات</string>
   <string name="save_to_playlist">حفظ كقائمة تشغيل</string>
   <string name="search_album">بحت عن ألبومات</string>
-  <string name="search_for_album">البوم</string>
+  <string name="search_for_album">ألبوم</string>
   <string name="search_for_artist">فنان</string>
   <string name="search_hint">بحث فنان، اغنية، ألبوم، موصى به</string>
   <string name="search_lyric">بحث عن كلمات</string>
@@ -621,11 +621,11 @@
   <string name="search_title_song">الاغاني</string>
   <string name="second_symbol">s</string>
   <string name="sel_svc">تحديد خدمة</string>
-  <string name="select_album">اختيار البوم</string>
+  <string name="select_album">اختيار ألبوم</string>
   <string name="select_all">تحديد الكل</string>
   <string name="select_device">تحديد جهاز</string>
   <string name="select_displayed_folders">اختر مجلدات للعرض</string>
-  <string name="select_local_album">اختيار البوم</string>
+  <string name="select_local_album">اختيار ألبوم</string>
   <string name="select_local_lyric">اختيار كلمات</string>
   <string name="select_lyric">اختيار كلمات</string>
   <string name="select_none">إلغاء تحديد الكل</string>
@@ -636,7 +636,7 @@
   <string name="server_error">خطأ في الخادم. يرجى المحاولة لاحقاٌ</string>
   <string name="service_and_settings">الخدمة و الإعدادات</string>
   <string name="service_stop">تم ايقاف الخدمة</string>
-  <string name="set_album_successful">تم حفظ الالبوم</string>
+  <string name="set_album_successful">تم حفظ الألبوم</string>
   <string name="set_as_ring">تعيين كـنغمة رنين</string>
   <string name="set_id3_failed">"لا يمكن حفظ المعلومات"</string>
   <string name="set_id3_not_have_read_or_write_permission">"ليس لديك التصريح لتعديل هذا الملف"</string>
@@ -702,7 +702,7 @@
   <string name="stream_quality">جودة التشغيل</string>
   <string name="streamloadingtext">الاتصال بـ %s</string>
   <string name="sub_explanation">خطة بيانات موسيقى Mi</string>
-  <string name="sub_explanation_message">"خطة بيانات الموسيقى مدعومة حالياً بواسطة China Unicom. مزود الشبكة الخاص بك لايدعم هذه الميزة. يمكنك شراء بيانات الجوال العادية."</string>
+  <string name="sub_explanation_message">"خطة بيانات الموسيقى مدعومة حالياً بواسطة China Unicom. مزود الشبكة الخاص بك لايدعم هذه الميزة. يمكنك شراء بيانات الهاتف العادية."</string>
   <string name="subed">تشغيل</string>
   <string name="suggest_text">الأشخاص المعجبون بهذا أعجبهم</string>
   <string name="sync_only_in_wifi">المزامنة فقط باستخدام Wi-Fi</string>
@@ -773,13 +773,13 @@
   <string name="track_view">اغنية</string>
   <string name="traffic_free_to_play">استخدام خطة بيانات الموسيقى</string>
   <string name="traffic_network_alert">خطة بيانات موسيقى Mi</string>
-  <string name="traffic_network_alert_message">"تستخدم خطة بيانات موسيقى Mi التي تقدمها شركة China Unicom. يجب عليك الاتصال بشبكة 3G لتشغيل الأغاني دون الحاجة إلى انفاق بيانات الجوال. تأكد من التحقق من إعدادات الشبكة قبل تشغيل الموسيقى."</string>
+  <string name="traffic_network_alert_message">"تستخدم خطة بيانات موسيقى Mi التي تقدمها شركة China Unicom. يجب عليك الاتصال بشبكة 3G لتشغيل الأغاني دون الحاجة إلى انفاق بيانات الهاتف. تأكد من التحقق من إعدادات الشبكة قبل تشغيل الموسيقى."</string>
   <string name="trigger_to_scan_media_library_finish">تم التحديث</string>
   <string name="trigger_to_scan_media_library_processing">جارٍ التحديث\u2026</string>
   <string name="trigger_to_scan_media_library_start">تحديث\u2026</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
   <string name="ultra_high_quality">الأعلى</string>
-  <string name="unknown_album_name">البوم غير معروف</string>
+  <string name="unknown_album_name">ألبوم غير معروف</string>
   <string name="unknown_artist_name">فنان غير معروف</string>
   <string name="update_now">تحديث الآن</string>
   <string name="upgrade">ترقية:</string>

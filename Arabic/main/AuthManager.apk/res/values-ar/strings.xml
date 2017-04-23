@@ -126,17 +126,17 @@
   <string name="HIPS_Perm_MMS_Access">قراءة رسائل الوسائط المتعددة MMS</string>
   <string name="HIPS_Perm_MMS_Desc">كتابة وحذف رسائل الوسائط المتعددة</string>
   <string name="HIPS_Perm_MMS_Hint">تستطيع %1$s من التطبيقات كتابة وحذف رسائل الوسائط المتعددة</string>
-  <string name="HIPS_Perm_MobileNetwork">استخدام بيانات الجوال</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">استخدام اتصال بيانات الجوال</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">تستطيع %1$s من التطبيقات استخدام اتصال بيانات الجوال</string>
-  <string name="HIPS_Perm_Mobile_Connectivity">تغيير اتصال بيانات الجوال</string>
-  <string name="HIPS_Perm_Mobile_Connectivity_Desc">تشغيل بيانات الجوال أو إيقافها</string>
-  <string name="HIPS_Perm_Mobile_Connectivity_Hint">تستطيع %1$s من التطبيقات تشغيل بيانات الجوال أو إيقافها</string>
+  <string name="HIPS_Perm_MobileNetwork">استخدام بيانات الهاتف</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">استخدام اتصال بيانات الهاتف</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">تستطيع %1$s من التطبيقات استخدام اتصال بيانات الهاتف</string>
+  <string name="HIPS_Perm_Mobile_Connectivity">تغيير اتصال بيانات الهاتف</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Desc">تشغيل بيانات الهاتف أو إيقافها</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Hint">تستطيع %1$s من التطبيقات تشغيل بيانات الهاتف أو إيقافها</string>
   <string name="HIPS_Perm_Network_Accept">قبول الرابط من %1$s؟</string>
   <string name="HIPS_Perm_Network_Connect">موقع الرابط: %1$s</string>
   <string name="HIPS_Perm_Network_Listen">
 الاستماع من المنفذ %1$s</string>
-  <string name="HIPS_Perm_Network_MobileEvent">استخدام بيانات الجوال</string>
+  <string name="HIPS_Perm_Network_MobileEvent">استخدام بيانات الهاتف</string>
   <string name="HIPS_Perm_Network_Recv">استقبال البيانات</string>
   <string name="HIPS_Perm_Network_Send">إرسال البيانات</string>
   <string name="HIPS_Perm_Network_UnknownAddr">عنوان غير معروف</string>

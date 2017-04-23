@@ -279,7 +279,7 @@
   <string name="confirm_bind_xiaomi_account_dialog_title">إضافة حساب Mi</string>
   <string name="confirm_fingerprint_msg">ضع إصبعك على المستشعر</string>
   <string name="confirm_reject_all_permission">تقييد كل التطبيقات من استخدام هذه الميزة؟</string>
-  <string name="connect_internet_by_mobiledata">اتصال بيانات الجوال</string>
+  <string name="connect_internet_by_mobiledata">اتصال بيانات الهاتف</string>
   <string name="connect_internet_by_usbshare">إنترنت مشترك عبر USB</string>
   <string name="connect_internet_by_wifi">شبكة Wi-Fi</string>
   <string name="connecting">جارٍ الاتصال\u2026</string>
@@ -302,13 +302,13 @@
   <string name="data_usage_correction_timeout_body">انقر للتحديث يدويًا.</string>
   <string name="data_usage_correction_timeout_title">انتهت مهلة مزامنة استخدام البيانات</string>
   <string name="data_usage_disabled_dialog">"لقد وصلت الى حد استخدام بيانات خطة جوالك. إذا تجاوزت حد استخدام بيانات خطتك، يمكن أن تفرض عليك شركة الاتصالات مصاريفًا إضافية."</string>
-  <string name="data_usage_disabled_dialog_enable">تشغيل بيانات الجوال</string>
+  <string name="data_usage_disabled_dialog_enable">تشغيل بيانات الهاتف</string>
   <string name="data_usage_leisure_warning_body">انقر لعرض تفاصيل استخدام البيانات.</string>
   <string name="data_usage_leisure_warning_title">حد استخدام البيانات في أوقات الذروة</string>
-  <string name="data_usage_limit_body">انقر لتشغيل بيانات الجوال.</string>
+  <string name="data_usage_limit_body">انقر لتشغيل بيانات الهاتف.</string>
   <string name="data_usage_limit_snoozed_body">تم تجاوز حد استخدام البيانات لهذا الشهر.</string>
   <string name="data_usage_mobile_limit_snoozed_title">تم تجاوز حد استخدام البيانات</string>
-  <string name="data_usage_mobile_limit_title">تم الوصول إلى حد استخدام بيانات الجوال</string>
+  <string name="data_usage_mobile_limit_title">تم الوصول إلى حد استخدام بيانات الهاتف</string>
   <string name="data_usage_no_total_package_body">انقر لتعيين حد بيانات</string>
   <string name="data_usage_no_total_package_body_dual">لم يتم تحديد حد بيانات %s</string>
   <string name="data_usage_no_total_package_title">تعيين حد استخدام البيانات</string>
@@ -318,7 +318,7 @@
   <string name="data_usage_warning_title">تحذير استخدام البيانات</string>
   <string name="datausage_ignore_app_list_count">"تجاهل استخدام %d تطبيق"</string>
   <string name="declaration_dialog_msg">يمكن أن تساعدك هذه الميزة في تتبع استخدامك، ولكنها لا تضمن لك عدم تحمل رسوم إضافية. للحصول على أفضل النتائج، قم بتعيين حد معتدل.</string>
-  <string name="deep_clean_disconnect_data_title">إيقاف تشغيل بيانات الجوال عندما يكون الجهاز مقفل</string>
+  <string name="deep_clean_disconnect_data_title">إيقاف تشغيل بيانات الهاتف عندما يكون الجهاز مقفل</string>
   <string name="deep_clean_memory_clean_title">تنظيف ذاكرة التخزين المؤقت عندما تكون شاشة الجهاز مقفلة</string>
   <string name="deep_clean_never_memory_clean">ابداً</string>
   <string name="deep_save_memory_clean_summary">مسح ذاكرة التخزين المؤقت عند قفل الجهاز لمنع التطبيقات من استخدام البطارية</string>
@@ -346,7 +346,7 @@
   <string name="detail_app_button">معلومات التطبيق</string>
   <string name="details_subtitle">استخدام التفاصيل</string>
   <string name="diagnostic_attention_dialog_message">"تشخيص %1$s قيد التقدم. انتظر حتى ينتهي ثم حاول مرة اخرى."</string>
-  <string name="dialog_app_roaming_message">"%1$s لا يمكنها استخدام بيانات الجوال أثناء التجوال. عندما تتجول, فقط التطبيقات التي قمت باضافتها الى قائمة الاستثناءات تستطيع استخدام بيانات الجوال."</string>
+  <string name="dialog_app_roaming_message">"%1$s لا يمكنها استخدام بيانات الهاتف أثناء التجوال. عندما تتجول, فقط التطبيقات التي قمت باضافتها الى قائمة الاستثناءات تستطيع استخدام بيانات الهاتف."</string>
   <string name="dialog_app_roaming_title">"%1$s لا يمكنها استعمال بيانات التجوال"</string>
   <string name="dialog_msg_auto_start_declare">قد تشير بعض التطبيقات بصورة غير صحيحة إلى قيام MIUI بمنعها من البدء. تحقق من الأذونات التي تم منحها إلى تطبيقات فردية في الإعدادات والتطبيقات.</string>
   <string name="dialog_msg_stop_paysafety_scan">إيقاف التحقق من أمن الدفع؟</string>
@@ -404,7 +404,7 @@
   <string name="firewall_network_restrict_notify_message">انقر لتغيير الإعدادات.</string>
   <string name="firewall_network_restrict_notify_mobile">بيانات الهاتف الجوال</string>
   <string name="firewall_network_restrict_notify_title">"%1$s لا يمكنه استخدام %2$s"</string>
-  <string name="firewall_restrict_android_dialog_content">للتأكد من ان جهازك يعمل بشكل طبيعي، عدد قليل من تطبيقات نظام الأندرويد ستظل على اتصال بالإنترنت. هذه التطبيقات ستستخدم اتصال بيانات الجوال ويمكن أن تولد رسوم بسيطة من شركة الاتصالات الخاصة بك.</string>
+  <string name="firewall_restrict_android_dialog_content">للتأكد من ان جهازك يعمل بشكل طبيعي، عدد قليل من تطبيقات نظام الأندرويد ستظل على اتصال بالإنترنت. هذه التطبيقات ستستخدم اتصال بيانات الهاتف ويمكن أن تولد رسوم بسيطة من شركة الاتصالات الخاصة بك.</string>
   <string name="firewall_restrict_android_dialog_title">تنبيه</string>
   <string name="firewall_rule_group_title_mobile">الهاتف الجوال</string>
   <string name="firewall_rule_group_title_roaming">بيانات التجوال</string>
@@ -490,7 +490,7 @@
   <string name="installed">تم التثبيت</string>
   <string name="installing">جارٍ التثبيت</string>
   <string name="international_roaming_setting">بيانات التجوال</string>
-  <string name="international_roaming_whitelist_count">%d تطبيقات تستخدم بيانات الجوال اثناء التجوال</string>
+  <string name="international_roaming_whitelist_count">%d تطبيقات تستخدم بيانات الهاتف اثناء التجوال</string>
   <string name="ip_address_exception_summary">"تعذر الحصول على عنوان IP. إذا واجهتك هذه المشكلة مرة أخرى، جرب استخدام عنوان IP ثابت."</string>
   <string name="item_app_permission">أذونات التطبيقات</string>
   <string name="item_dev_mode">خيارات المطور</string>
@@ -509,12 +509,12 @@
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">حفظ البطارية؛الحرارة الزائدة؛تشغيل؛إيقاف التشغيل؛البطارية؛استنزاف؛البطارية؛مشاكل البطارية؛الطاقة؛استنزاف؛توفير البطارية؛توفير الطاقة؛توفير الطاقة؛توفير الطاقة؛توفير البطارية</string>
   <string name="keywords_securitycenter">الحماية;تحقق;فحص</string>
-  <string name="keywords_securitycenter_settings">استخدام البطارية؛إدارة التشغيل التلقائي؛تثبيت عبر USB؛أذونات التطبيق؛شراء بيانات الجوال؛قائمة الحظر؛استخدام البيانات؛خطة معايرة البيانات؛اختبار شبكة؛
+  <string name="keywords_securitycenter_settings">استخدام البطارية؛إدارة التشغيل التلقائي؛تثبيت عبر USB؛أذونات التطبيق؛شراء بيانات الهاتف؛قائمة الحظر؛استخدام البيانات؛خطة معايرة البيانات؛اختبار شبكة؛
 حفظ البطارية؛حرارة زائدة؛تشغيل؛إيقاف التشغيل؛البطارية؛استنزاف؛مشاكل البطارية؛الطاقة؛توفير شحن البطارية؛توفير الطاقة؛توفير الطاقة؛توفير البطارية؛
 تشغيل تلقائي؛الأذونات؛تشغيل تلقائي؛تشغيل MIUI التلقائي؛تشغيل تلقائي للتطبيق؛ تشغيل تلقائي للتطبيقات؛بدء سلسلة؛بدء سلاسل؛بدء المشغل؛
 تثبيت USB؛تثبيت من كمبيوتر؛تثبيت ADB:
 الموقع؛وصول جهات الاتصال؛
-البيانات؛بيانات الجوال؛شراء ييانات؛رفع البيانات؛خطة البيانات؛
+البيانات؛بيانات الهاتف؛شراء ييانات؛رفع البيانات؛خطة البيانات؛
 حظر؛القائمة السوداء؛قائمة الحظر الذكية؛احتيال؛مبيعات؛عملاء؛قائمة حظر المكالمات؛قائمة حظر الرسائل؛قائمة حظر الرسائل؛قائمة حظر SMS؛القائمة السوداء؛القائمة السوداء؛قائمة الحظر؛احتيال؛حظر جهة اتصال؛حظر جهات اتصال؛
 الحركة؛
 معايرة؛
@@ -541,7 +541,7 @@
   <string name="lock_screen_traffic_guide_notification_summary">%s مستخدم في شاشة قفل</string>
   <string name="lock_screen_traffic_guide_notification_title">انقر لإدارة استخدام البيانات.</string>
   <string name="lock_screen_traffic_notify_body">تم القفل لـ %2$s في %1$s، البيانات المستخدمة %3$s</string>
-  <string name="lock_screen_traffic_purchase_textview">شراء بيانات الجوال</string>
+  <string name="lock_screen_traffic_purchase_textview">شراء بيانات الهاتف</string>
   <string name="lock_screen_traffic_warn_title">إشعارات شاشة القفل</string>
   <string name="lock_screen_warning_category">إشعارات شاشة القفل</string>
   <string name="lock_screen_warning_switch_summary">إظهار تحذير على شاشة القفل عند تجاوز استخدام البيانات لقدر معين</string>
@@ -581,7 +581,7 @@
   <string name="main_alert_message_no_mobile_package">تعيين حد البيانات</string>
   <string name="main_button_idel_traffic">خارج أوقات الذروة</string>
   <string name="main_button_normal_traffic">أوقات الذروة</string>
-  <string name="main_button_usage_adjust">مزامنة استخدام بيانات الجوال</string>
+  <string name="main_button_usage_adjust">مزامنة استخدام بيانات الهاتف</string>
   <string name="main_button_usage_adjust_manual">تعيين حد استخدام البيانات</string>
   <string name="main_button_usage_adjusting">جارٍ التغيير\u2026</string>
   <string name="main_button_usage_package_setting">تعيين حد استخدام البيانات</string>
@@ -603,7 +603,7 @@
   <string name="main_secondary_message_traffic_used_noleisure">%s بيانات ذروة مستخدمة‏|لم تبقى اي بيانات خارجها</string>
   <string name="main_secondary_message_traffic_used_normal">%s بيانات أوقات الذروة مستخدمة</string>
   <string name="main_toolbar_firewall">تقييد استخدام البيانات</string>
-  <string name="main_toolbar_internet_by_mobiledata">بيانات الجوال</string>
+  <string name="main_toolbar_internet_by_mobiledata">بيانات الهاتف</string>
   <string name="main_toolbar_internet_by_pc_brige">إنترنت USB</string>
   <string name="main_toolbar_internet_by_wifi">شبكة Wi-Fi</string>
   <string name="main_toolbar_purchase">إعادة الشحن</string>
@@ -672,12 +672,12 @@
   <string name="network_control">عرض إعدادات التطبيق</string>
   <string name="network_diagnostics">اختبار الشبكة</string>
   <string name="network_mobile_exception_detail">تعذر على جهازك الاتصال بالإنترنت:\n\n
-         ١. تأكد من عدم تجاوز حد استخدام بيانات الجوال الموضح بخطة شركة الاتصالات.\n\n
+         ١. تأكد من عدم تجاوز حد استخدام بيانات الهاتف الموضح بخطة شركة الاتصالات.\n\n
          ٢. إذا قمت بإعادة شحن رصيد جهازك فقط، أعد تشغيل جهازك، ثم أعد المحاولة.\n\n
          ٣. يمكن أن تكون إشارة شبكة الجوال ضعيفة في موقعك الحالي.</string>
   <string name="network_operator_exception_summary">"تعذر تفعيل بطاقة SIM، يرجى التأكد من تركيب بطاقة SIM الخاصة بك بشكل سليم ومن أن شركة الاتصالات الخاصة بك قد قامت بتفعيل خطة هاتفك الجوال."</string>
-  <string name="network_permission_exception_tips">"يتعذر استخدام بيانات الجوال للاتصال بالشبكة"</string>
-  <string name="network_roaming_exception_tips">"يتعذر استخدام بيانات الجوال أثناء التجوال للاتصال بالشبكة."</string>
+  <string name="network_permission_exception_tips">"يتعذر استخدام بيانات الهاتف للاتصال بالشبكة"</string>
+  <string name="network_roaming_exception_tips">"يتعذر استخدام بيانات الهاتف أثناء التجوال للاتصال بالشبكة."</string>
   <string name="network_route_exception_detail">قد تكون هناك مشكلة في جهاز التوجيه الذي تتصل به:\n\n‏&lt;b&gt;&amp;#8207;&amp;#1633;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1601;&amp;#1610; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1600;Wi-Fi &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1575;&amp;#1605;&amp;#1577;&lt;/b&gt;&amp;#8207;\n&amp;#1573;&amp;#1584;&amp;#1575; &amp;#1603;&amp;#1606;&amp;#1578; &amp;#1605;&amp;#1578;&amp;#1589;&amp;#1604; &amp;#1576;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; Wi-Fi &amp;#1593;&amp;#1575;&amp;#1605;&amp;#1577;&amp;#1548; &amp;#1601;&amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1605;&amp;#1603;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1610;&amp;#1572;&amp;#1583;&amp;#1610; &amp;#1593;&amp;#1583;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1605;&amp;#1610;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1578;&amp;#1589;&amp;#1604;&amp;#1610;&amp;#1606; &amp;#1576;&amp;#1607;&amp;#1584;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1573;&amp;#1576;&amp;#1591;&amp;#1575;&amp;#1569; &amp;#1593;&amp;#1605;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1571;&amp;#1608; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1581;&amp;#1583;&amp;#1608;&amp;#1579; &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604;. &amp;#1575;&amp;#1606;&amp;#1578;&amp;#1602;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1609; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1571;&amp;#1582;&amp;#1585;&amp;#1609; &amp;#1608;&amp;#1581;&amp;#1575;&amp;#1608;&amp;#1604; &amp;#1605;&amp;#1585;&amp;#1577; &amp;#1571;&amp;#1582;&amp;#1585;&amp;#1609;.\n\n&amp;#8207; &lt;b&gt;&amp;#8207;&amp;#1634;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1605;&amp;#1606; &amp;#1605;&amp;#1586;&amp;#1608;&amp;#1583; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1606;&amp;#1578;&amp;#1585;&amp;#1606;&amp;#1578;&lt;/b&gt;\n &amp;#1578;&amp;#1571;&amp;#1603;&amp;#1583; &amp;#1605;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576;&amp;#1603; &amp;#1601;&amp;#1610; &amp;#1608;&amp;#1590;&amp;#1593; &amp;#1580;&amp;#1610;&amp;#1583; &amp;#1605;&amp;#1593; &amp;#1605;&amp;#1586;&amp;#1608;&amp;#1583; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1606;&amp;#1578;&amp;#1585;&amp;#1606;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1589; &amp;#1576;&amp;#1603;.\n\n &lt;b&gt;&amp;#1635;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1576;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;&lt;/b&gt;\n&amp;#1580;&amp;#1585;&amp;#1576; &amp;#1573;&amp;#1593;&amp;#1575;&amp;#1583;&amp;#1577; &amp;#1578;&amp;#1588;&amp;#1594;&amp;#1610;&amp;#1604; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1589; &amp;#1576;&amp;#1603; &amp;#1571;&amp;#1608; &amp;#1605;&amp;#1585;&amp;#1575;&amp;#1580;&amp;#1593;&amp;#1577; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1588;&amp;#1585;&amp;#1601; &amp;#1576;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;.\n\n &lt;b&gt;&amp;#1636;. &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1575;&amp;#1578; &amp;#1571;&amp;#1582;&amp;#1585;&amp;#1609; &amp;#1601;&amp;#1610; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;&lt;/b&gt;\n&amp;#1602;&amp;#1605; &amp;#1576;&amp;#1602;&amp;#1585;&amp;#1575;&amp;#1569;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1593;&amp;#1604;&amp;#1610;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1601;&amp;#1602;&amp;#1577; &amp;#1576;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1608;&amp;#1602;&amp;#1605; &amp;#1576;&amp;#1573;&amp;#1587;&amp;#1578;&amp;#1593;&amp;#1575;&amp;#1583;&amp;#1577; &amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1589;&amp;#1606;&amp;#1593; &amp;#1604;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1589; &amp;#1576;&amp;#1603;.\n\n &lt;b&gt;&amp;#1637;. &amp;#1578;&amp;#1571;&amp;#1603;&amp;#1583; &amp;#1605;&amp;#1606; &amp;#1571;&amp;#1606; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607; &amp;#1605;&amp;#1578;&amp;#1589;&amp;#1604; &amp;#1576;&amp;#1588;&amp;#1603;&amp;#1604; &amp;#1587;&amp;#1604;&amp;#1610;&amp;#1605;&lt;/b&gt;\n&amp;#1580;&amp;#1585;&amp;#1576; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1575;&amp;#1605; &amp;#1603;&amp;#1575;&amp;#1576;&amp;#1604; \"Ethernet cable\" &amp;#1604;&amp;#1578;&amp;#1608;&amp;#1589;&amp;#1610;&amp;#1604; &amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1608;&amp;#1580;&amp;#1610;&amp;#1607;. &amp;#1573;&amp;#1584;&amp;#1575; &amp;#1603;&amp;#1575;&amp;#1606; &amp;#1604;&amp;#1583;&amp;#1610;&amp;#1603; &amp;#1588;&amp;#1603; &amp;#1601;&amp;#1610; &amp;#1608;&amp;#1580;&amp;#1608;&amp;#1583; &amp;#1605;&amp;#1588;&amp;#1603;&amp;#1604;&amp;#1577; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1583;&amp;#1575;&amp;#1582;&amp;#1604; &amp;#1605;&amp;#1606;&amp;#1586;&amp;#1604;&amp;#1603;&amp;#1548; &amp;#1602;&amp;#1605; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1605;&amp;#1586;&amp;#1608;&amp;#1583; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1606;&amp;#1578;&amp;#1585;&amp;#1606;&amp;#1578;.</string>
   <string name="network_sim_exception_detail">قد تكون هناك مشكلة في بطاقة SIM الخاصة بك:\n\n
          ١. تأكد من أن حسابك في وضع جيدة مع شركة الاتصالات الخاصة بك. جرب استخدام بطاقة SIM خاصة بصديق لك وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n
@@ -721,7 +721,7 @@
   <string name="ok">موافق</string>
   <string name="ok_button">موافق</string>
   <string name="open">فتح</string>
-  <string name="open_now">السماح للتطبيق باستخدام بيانات الجوال</string>
+  <string name="open_now">السماح للتطبيق باستخدام بيانات الهاتف</string>
   <string name="operator_diagnostic">خادم التشخيص</string>
   <string name="operator_mi_sim">بطاقة Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
@@ -881,7 +881,7 @@
   <string name="pref_adjust_data_usage">قالب رسالة شركة الاتصالات</string>
   <string name="pref_adjust_traffic_data">تعيين استخدام البيانات</string>
   <string name="pref_allow_connect_network_title">بيانات التجوال</string>
-  <string name="pref_allow_connect_network_whitelist_title"> السماح باستثناءات لأستعمال بيانات الجوال أثناء التجوال</string>
+  <string name="pref_allow_connect_network_whitelist_title"> السماح باستثناءات لأستعمال بيانات الهاتف أثناء التجوال</string>
   <string name="pref_app_traffic_managent">تقييد استخدام البيانات بالتطبيق</string>
   <string name="pref_auto_adjust_settings">ضبط تلقائي لإعدادات إحصائيات استخدام البيانات</string>
   <string name="pref_auto_adjust_traffic">ضبط تلقائي لإحصائيات استخدام البيانات</string>
@@ -895,7 +895,7 @@
   <string name="pref_category_title_virus_lib_auto_update">تحديث التعريفات تلقائيا</string>
   <string name="pref_check_network_diagnostics">"اختبار اتصال الإنترنت في الجهاز"</string>
   <string name="pref_connect_settings_enable_background">سماح ببيانات الخلفية</string>
-  <string name="pref_connect_settings_enable_background_hint">"السماح للتطبيقات باستخدام بيانات الجوال عندما لا تقوم باستخدامها"</string>
+  <string name="pref_connect_settings_enable_background_hint">"السماح للتطبيقات باستخدام بيانات الهاتف عندما لا تقوم باستخدامها"</string>
   <string name="pref_connect_settings_exceed_limit">تقييد استخدام بيانات الذروة</string>
   <string name="pref_connect_settings_exceed_limit_hint">إيقاف اتصال البيانات عند وصول استخدام بيانات وقت الذروة للحد</string>
   <string name="pref_daily_adjust">تعيين حد استخدام بيانات أوقات الذروة</string>
@@ -921,7 +921,7 @@
   <string name="pref_package_traffic_leisure">%1$s | خارج وقت الذروة: %2$s</string>
   <string name="pref_package_traffic_normal">الذروة: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | إضافي: %2$s</string>
-  <string name="pref_package_traffic_settings">حد بيانات الجوال</string>
+  <string name="pref_package_traffic_settings">حد بيانات الهاتف</string>
   <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الاستخدام</string>
   <string name="pref_roaming_daily_limit_setting">تعيين حد البيانات اليومية عند التجوال</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">حد البيانات اليومية</string>
@@ -1180,7 +1180,7 @@
   <string name="summary_cloud_space_full">احصل على المزيد من المساحة و الوصول الى المزيد من الميزات</string>
   <string name="summary_cmcc_app_check">"تعذر التحقق من بعض التطبيقات"</string>
   <string name="summary_consume_power">العثور على مشاكل حرارة زائدة، يمكن أن تؤثر على عمر البطارية</string>
-  <string name="summary_data_flow">التحكم في استخدمات بيانات الجوال لتجنب رسوم إضافية</string>
+  <string name="summary_data_flow">التحكم في استخدمات بيانات الهاتف لتجنب رسوم إضافية</string>
   <string name="summary_default_app">"%s غير معين كتطبيق نظام افتراضي"</string>
   <string name="summary_dev">تجنب البرمجيات الخبيثة و قم بحماية البيانات الشخصية</string>
   <string name="summary_find_device">تحديد وقفل جهازك من أي مكان</string>
@@ -1207,7 +1207,7 @@
   <string name="summary_virus">قم بإزالة الفيروسات للحفاظ على جهازك أمنا</string>
   <string name="summary_virus_cloudscan">تحميل أسماء التطبيقات وتفاصيلها و فحصها باستخدام تعريفات الفيروسات عبر الإنترنت</string>
   <string name="summary_virus_update">احصل على اخر تعريفات الفيروسات تلقائيا</string>
-  <string name="summary_xiaomi_roaming">٠.٠١ يوان صيني/ميغابايت لبيانات الجوال للتجوال.</string>
+  <string name="summary_xiaomi_roaming">٠.٠١ يوان صيني/ميغابايت لبيانات الهاتف للتجوال.</string>
   <string name="sys_app_prot_cracked_confirm">فهمت</string>
   <string name="sys_app_prot_cracked_login">تسجيل الدخول مع حساب Mi</string>
   <string name="sys_app_prot_cracked_text_login">تم تعديل النسخة الحالية من MIUI التي تضع أمن جهازك في خطر.\n\nتأكد من أنك تعرف من أين يأتي هذا الجهاز وقم بالاتصال بمركز خدمة Mi المرخص له في منطقتك للحصول على المساعدة.</string>
@@ -1224,7 +1224,7 @@
   <string name="tc_diagnostic_brand_error_notification_title">نوع شبكة خاطئ</string>
   <string name="tc_diagnostic_brand_result">" النتيجة: اسم مشغل شبكة الجوال غير صحيحقم بتعيين اسم مشغل شبكة الجوال: %1$s2$s"</string>
   <string name="tc_diagnostic_complete">تم</string>
-  <string name="tc_diagnostic_fragment_default">حول التشخيص\n١. سيقوم الجهاز بالاتصال بشبكة الخادم، ارسال رسالة مجانية، و انتظار استجابة الخادم. قد يستغرق ذلك ٥ دقائق.\n٢. يمكنك الخروج من هذه الصفحة خلال التشخيص، سيتم ذلك في الخلفية.</string>
+  <string name="tc_diagnostic_fragment_default">حول التشخيص\n١. سيقوم الجهاز بالاتصال بشبكة الخادم، إرسال رسالة مجانية، و انتظار استجابة الخادم. قد يستغرق ذلك ٥ دقائق.\n٢. يمكنك الخروج من هذه الصفحة خلال التشخيص، سيتم ذلك في الخلفية.</string>
   <string name="tc_diagnostic_location_error_notification_summary">انقر لتعديل الموقع</string>
   <string name="tc_diagnostic_location_error_notification_title">موقع خاطئ</string>
   <string name="tc_diagnostic_notification_sumarry">انقر لعرض النتائج</string>
@@ -1313,14 +1313,14 @@
   <string name="title_cmcc_app_check">"لم تكتمل عملية التحقق"</string>
   <string name="title_consume_power">تم إلعثور على مشاكل بطارية</string>
   <string name="title_consume_power_rank">استخدام البطارية</string>
-  <string name="title_data_flow">التحكم في بيانات الجوال</string>
+  <string name="title_data_flow">التحكم في بيانات الهاتف</string>
   <string name="title_default_app">"MIUI %s ليس هو التعيين الافتراضي"</string>
   <string name="title_dev_no">تشغيل خيارات المطور</string>
   <string name="title_dev_yes">إيقاف خيارات المطور</string>
   <string name="title_find_device">العثور على الجهاز</string>
   <string name="title_flow_notification">إشعار بيانات الهاتف الجوال</string>
-  <string name="title_flow_purchase">شراء بيانات الجوال</string>
-  <string name="title_flow_rank">استخدام بيانات الجوال</string>
+  <string name="title_flow_purchase">شراء بيانات الهاتف</string>
+  <string name="title_flow_rank">استخدام بيانات الهاتف</string>
   <string name="title_flow_verify">قارن الحسابات</string>
   <string name="title_flow_verify_failed">"تعذر الضبط لمدة ٥ أيام على التوالي"</string>
   <string name="title_garbage_clean">وصلت ذاكرة التخزين المؤقت للتطبيقات %s</string>
@@ -1427,8 +1427,8 @@
   <string name="usage_type_audio">صوت</string>
   <string name="usage_type_cpu">إجمالي المعالج</string>
   <string name="usage_type_cpu_foreground">معالج المقدمة</string>
-  <string name="usage_type_data_recv">بيانات الجوال المستلمة</string>
-  <string name="usage_type_data_send">بيانات الجوال المرسلة</string>
+  <string name="usage_type_data_recv">بيانات الهاتف المستلمة</string>
+  <string name="usage_type_data_send">بيانات الهاتف المرسلة</string>
   <string name="usage_type_data_wifi_recv">تم استلام بيانات شبكة Wi-Fi</string>
   <string name="usage_type_data_wifi_send">تم إرسال بيانات شبكة Wi-Fi</string>
   <string name="usage_type_gps">GPS</string>

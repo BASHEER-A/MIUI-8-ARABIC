@@ -18,7 +18,7 @@
   <string name="cloud_status_full_dialog_msg">"مساحة تخزين icloud ممتلئة، لا يمكن مزامنة التسجيلات. ترقية الحساب الخاص بك للحصول على مساحة التخزين أكبر."</string>
   <string name="cloud_status_full_dialog_ok">ترقية</string>
   <string name="cloud_status_full_dialog_title">مساحة تخزين Mi Cloud ممتلئة</string>
-  <string name="data_connection_body">يؤدي استخدامك لإتصال بيانات الجوال في تنزيل هذا الملف إلى زيادة استخدام بياناتك. إذا تم تجاوز حد استخدام البيانات، قد تفرض عليك شركة الاتصالات رسوماً إضافية.</string>
+  <string name="data_connection_body">يؤدي استخدامك لإتصال بيانات الهاتف في تنزيل هذا الملف إلى زيادة استخدام بياناتك. إذا تم تجاوز حد استخدام البيانات، قد تفرض عليك شركة الاتصالات رسوماً إضافية.</string>
   <string name="data_connection_button_text">موافق</string>
   <string name="data_connection_title">تحذير استخدام البيانات</string>
   <string name="delete">حذف</string>

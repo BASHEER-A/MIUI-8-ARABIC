@@ -971,8 +971,8 @@
   <string name="data_usage_metered_wifi_disabled">لتحديد نقاط وصول، قم بتشغيل Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Day of month to reset data usage cycle:</string>
   <string name="data_usage_received_sent">%1$s received, %2$s sent</string>
-  <string name="data_usage_restrict_background">"إذا قمت بتقييد بيانات الجوال في الخلفية، قد لا تعمل بعض التطبيقات والخدمات ما لم تتصل بشبكة Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">إذا قمت بتقييد بيانات الجوال في الخلفية، قد لا تعمل بعض التطبيقات والخدمات على النحو الملائم ما لم تتصل بشبكة Wi-Fi.</string>
+  <string name="data_usage_restrict_background">"إذا قمت بتقييد بيانات الهاتف في الخلفية، قد لا تعمل بعض التطبيقات والخدمات ما لم تتصل بشبكة Wi-Fi."</string>
+  <string name="data_usage_restrict_background_multiuser">إذا قمت بتقييد بيانات الهاتف في الخلفية، قد لا تعمل بعض التطبيقات والخدمات على النحو الملائم ما لم تتصل بشبكة Wi-Fi.</string>
   <string name="data_usage_restrict_background_title">تقييد بيانات في الخلفية؟</string>
   <string name="data_usage_restrict_denied_dialog">تقييد البيانات الخلفية ممكن فقط عندما قمت بتعيين حد بيانات خلوية.</string>
   <string name="data_usage_summary_title">استخدام البيانات</string>
@@ -2589,7 +2589,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="preferred_network_type_title">نوع الشبكة المفضل</string>
   <string name="preferred_sms_settings">سيتم تعيين هذا التطبيق كـ تطبيق افتراضي لقراءة وكتابة رسائل نصية.</string>
   <string name="preferred_sms_title">تطبيق الرسائل الافتراضي</string>
-  <string name="preferred_sms_warning_message">قد يؤدي إستخدامك \"%1$s\" كتطبيق افتراضي للرسائل إلى زيادة استخدام بيانات الجوال أو يعرض بياناتك الشخصية إلى خطر و لايمكنك استخدام RCS.</string>
+  <string name="preferred_sms_warning_message">قد يؤدي إستخدامك \"%1$s\" كتطبيق افتراضي للرسائل إلى زيادة استخدام بيانات الهاتف أو يعرض بياناتك الشخصية إلى خطر و لايمكنك استخدام RCS.</string>
   <string name="preferred_sms_warning_use_system">"عدم الاستخدام"</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">إلغاء الأمر</string>
@@ -3121,7 +3121,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="search_vibrate_in_silent_title">اهتزاز عندما يكون صامتا;اهتز;اهتزاز</string>
   <string name="search_vibrate_on_touch_title">تشغيل اهتزاز عند اللمس؛اهتزاز عند اللمس؛اهتزاز؛الإهتزاز</string>
   <string name="search_vibrate_when_ringing_title">الاهتزاز عند المكالمات ايضا;اهتز;اهتزاز</string>
-  <string name="search_virtual_sim">بيانات الجوال الدولية؛بيانات التجوال؛بيانات الجوال للتجوال</string>
+  <string name="search_virtual_sim">بيانات الهاتف الدولية؛بيانات التجوال؛بيانات الهاتف للتجوال</string>
   <string name="search_vpn">VPN؛ إضافة VPN؛ قم بتشغيل VPN</string>
   <string name="search_vpn_enable">تشغيل VPN;VPN</string>
   <string name="search_vpn_settings_password">كلمة المرور VPN;حماية VPN</string>
@@ -4005,7 +4005,7 @@ Any user can update apps for all other users."</string>
   <string name="virtual_sim_description">خدمة تجوال دولي موثوقة</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">الاتصال ببيانات الشبكة بدون بطاقة SIM</string>
-  <string name="virtual_sim_global_title">خدمة بيانات الجوال</string>
+  <string name="virtual_sim_global_title">خدمة بيانات الهاتف</string>
   <string name="virtual_sim_title">شبكة بيانات التجوال</string>
   <string name="virus_scan">فحص الفيروس</string>
   <string name="virus_scan_app_continue">متابعة الفحص</string>
@@ -4183,7 +4183,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_connect">Connect</string>
   <string name="wifi_connect_cmcc_dialog_cancel">إلغاء</string>
   <string name="wifi_connect_cmcc_dialog_confirm">موافق</string>
-  <string name="wifi_connect_cmcc_dialog_content">"تم الاتصال بشبكة بيانات الجوال. اذا قمت بتجاوز القيد المفروض على خطة استخدام البيانات، فستفرض عليك شركة الاتصالات الخاصة بك رسوماً أضافبة."</string>
+  <string name="wifi_connect_cmcc_dialog_content">"تم الاتصال بشبكة بيانات الهاتف. اذا قمت بتجاوز القيد المفروض على خطة استخدام البيانات، فستفرض عليك شركة الاتصالات الخاصة بك رسوماً أضافبة."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"عدم الإظهار مرة أخرى"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC متصل</string>
   <string name="wifi_connect_failed_message">تعذر الاتصال بشبكة Wi-Fi</string>
@@ -4193,7 +4193,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_context_menu_connect">توصيل</string>
   <string name="wifi_context_menu_forget">نسيان</string>
   <string name="wifi_datanetwork_switch_not_remind">"عدم الإظهار مرة أخرى"</string>
-  <string name="wifi_dialog_remind_type_title">شبكة بيانات الجوال</string>
+  <string name="wifi_dialog_remind_type_title">شبكة بيانات الهاتف</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">تم فصل اتصال شبكة Wi-Fi نظراً لضعف الاتصال</string>
   <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
@@ -4241,7 +4241,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_empty_list_wifi_on">جار البحث عن شبكات Wi-Fi\u2026</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">مساعد Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">الحفاظ على البيانات وخدمة الـWi-Fi مشغلة على التبديل إلى بيانات الجوال عندما يكون الاتصال بالـWi-Fi ضعيف.</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">الحفاظ على البيانات وخدمة الـWi-Fi مشغلة على التبديل إلى بيانات الهاتف عندما يكون الاتصال بالـWi-Fi ضعيف.</string>
   <string name="wifi_enable_watchdog_service_summary">تجنب الاتصالات الضعيفة</string>
   <string name="wifi_error">خطأ</string>
   <string name="wifi_fail_to_scan">"يتعذر البحث عن للشبكات"</string>
@@ -4329,7 +4329,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_quick_toggle_summary">تشغيل Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">حفظ</string>
-  <string name="wifi_required_info_text">لاستكمال الإعداد، يحتاج الجهاز إلى الوصول إلى شبكة Wi-Fi. بعد الإعداد، يمكنك التبديل بين شبكة بيانات الجوال وشبكة Wi-Fi.</string>
+  <string name="wifi_required_info_text">لاستكمال الإعداد، يحتاج الجهاز إلى الوصول إلى شبكة Wi-Fi. بعد الإعداد، يمكنك التبديل بين شبكة بيانات الهاتف وشبكة Wi-Fi.</string>
   <string name="wifi_sap_no_channel_error">5 GHz غير متوفرة في هذا البلد</string>
   <string name="wifi_save">حفظ</string>
   <string name="wifi_saved_access_points_label">الشبكات المحفوظة</string>
@@ -4457,7 +4457,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_suspend_optimizations">تحسين Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">تقليل استخدام البطارية عند تشغيل شبكة Wi-Fi</string>
   <string name="wifi_switch_away_when_unvalidated">قم بالتبديل إلى البيانات الخلوية وإذا فقدت Wi‑Fi الوصول إلى شبكة الإنترنت.</string>
-  <string name="wifi_switch_to_gsm_message">فقدت الاتصال بالـWi-Fi. هل تريد استخدام اتصال بيانات الجوال بدلاً من ذلك؟</string>
+  <string name="wifi_switch_to_gsm_message">فقدت الاتصال بالـWi-Fi. هل تريد استخدام اتصال بيانات الهاتف بدلاً من ذلك؟</string>
   <string name="wifi_switch_to_gsm_title">استخدام GSM؟</string>
   <string name="wifi_tether_checkbox_text">نقطة اتصال محمولة</string>
   <string name="wifi_tether_configure_ap_text">إعداد نقطة اتصال محمولة</string>

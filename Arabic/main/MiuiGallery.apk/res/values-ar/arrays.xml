@@ -8,9 +8,9 @@
   <string-array name="owner_relation">
     <item>الأب</item>
     <item>الأم</item>
-    <item>الجد الأب</item>
+    <item>الجد لأب</item>
     <item>الجدة الأبوية</item>
-    <item>جدة لامة</item>
+    <item>الجدة لأم</item>
     <item>الجدة الأبوية</item>
   </string-array>
   <string-array name="relation_with_me">

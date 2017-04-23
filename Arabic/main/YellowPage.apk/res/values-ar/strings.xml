@@ -49,7 +49,7 @@
   <string name="confirm_to_send_to_desktop">هل تريد وضع %s على الشاشة الرئيسية؟</string>
   <string name="contact_detail_calllog_call_note_tips">ملاحظات المكالمات</string>
   <string name="contact_detail_calllog_call_record_tips">المكالمات المسجلة</string>
-  <string name="content_desc_send_sms">ارسال SMS</string>
+  <string name="content_desc_send_sms">إرسال SMS</string>
   <string name="coupon_bought_count">تم شراء %d</string>
   <string name="currency_character">يوان</string>
   <string name="custom_mark_category">تخصيص</string>
@@ -245,7 +245,7 @@
   <string name="mark_number_feedback_invalid_hint">أدخل ملاحظاتك</string>
   <string name="mark_number_feedback_not_number">"ليس رقم %s"</string>
   <string name="mark_number_feedback_personal_number">"رقم شخصي"</string>
-  <string name="mark_number_feedback_success">تم ارسال معلومات الابلاغ بنجاح</string>
+  <string name="mark_number_feedback_success">تم إرسال معلومات الابلاغ بنجاح</string>
   <string name="mark_number_marked_maintitle">تغيير معلومات الابلاغ</string>
   <string name="mark_number_marked_subtitle">%s (تم الابلاغ عنه حاليا)</string>
   <string name="mark_number_remove">إزالة معلومات الابلاغ</string>
@@ -318,8 +318,8 @@
   <string name="packages_no_package">لا توجد حزم موصى بها</string>
   <string name="packages_pay">اشتري الآن</string>
   <string name="packages_pay_confirm">ادفع الآن</string>
-  <string name="packages_pay_hint">ارسال SMS (مجانا)</string>
-  <string name="packages_pay_success">تم ارسال الرسالة</string>
+  <string name="packages_pay_hint">إرسال SMS (مجانا)</string>
+  <string name="packages_pay_success">تم إرسال الرسالة</string>
   <string name="packages_select_sim_cards_summmary">تصفح حزم البيانات الموصى بها</string>
   <string name="packages_select_sim_cards_title">اختر بطاقة SIM</string>
   <string name="packages_select_to_buy_title">اختر الحزمة</string>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"تعذر الوصول إلى بطاقة الذاكرة SD."</string>
-  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="accessibility_audio_shutter_bg">صوت التقاط الكاميرا</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">تبديل الكاميرا الأمامية والخلفية</string>
   <string name="accessibility_effect_mode_button">زر التأثير</string>
   <string name="accessibility_flash_mode_button">زر الفلاش</string>
   <string name="accessibility_hdr">تبديل وضعية HDR</string>
-  <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
-  <string name="accessibility_peak">Focus Peak button</string>
+  <string name="accessibility_mode_dismiss_button">زر إغلاق وضع الاختيار</string>
+  <string name="accessibility_peak">زر التركيز</string>
   <string name="accessibility_review_thumbnail">آخر صورة</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">زر الإعدادات الإضافي</string>
@@ -293,7 +293,7 @@
   <string name="pref_camera_square_mode_title">مربع</string>
   <string name="pref_camera_stereo_default">5</string>
   <string name="pref_camera_stereo_mode_title">ستيريو</string>
-  <string name="pref_camera_tilt_shift_default">circle</string>
+  <string name="pref_camera_tilt_shift_default">دائرة</string>
   <string name="pref_camera_tilt_shift_entry_circle">دائرة</string>
   <string name="pref_camera_tilt_shift_entry_parallel">متوازي</string>
   <string name="pref_camera_tilt_shift_title">تغيير الإمالة</string>
@@ -335,7 +335,7 @@
   <string name="pref_priority_storage_title">حفظ إلى بطاقة SD</string>
   <string name="pref_qc_focus_position_title">تركيز</string>
   <string name="pref_scan_qrcode_title">مسح رمز QR</string>
-  <string name="pref_setting_title">Settings</string>
+  <string name="pref_setting_title">إعدادات</string>
   <string name="pref_simple_hdr_entry_off">إيقاف</string>
   <string name="pref_simple_hdr_entry_on">تشغيل</string>
   <string name="pref_skin_beautify_color_default">4</string>

@@ -258,7 +258,7 @@
   <string name="cb_menu_language">اللغة</string>
   <string name="cb_sms_settings">إعدادات رسائل البث الخلوي</string>
   <string name="cdma_activate_device">تفعيل الجهاز</string>
-  <string name="cdma_alert_message">"إذا اخترت بطاقة أخرى كإفتراضية لبيانات الجوال، فلن تتمكن من استخدام بطاقة China Telecom UIM (باستثناء في التجوال)."</string>
+  <string name="cdma_alert_message">"إذا اخترت بطاقة أخرى كإفتراضية لبيانات الهاتف، فلن تتمكن من استخدام بطاقة China Telecom UIM (باستثناء في التجوال)."</string>
   <string name="cdma_alert_title">بطاقة UIM يجب أن تكون الافتراضية</string>
   <string name="cdma_cnir_title">CNIR</string>
   <string name="cdma_cnir_turnoff">Disable caller number identification restriction</string>
@@ -294,9 +294,9 @@
   <string name="cfnry_title">إعادة التوجيه عند عدم الرد</string>
   <string name="cfu_title">إعادة توجيه المكالمات دائمًا</string>
   <string name="change_cdma_capability_dialog" formatted="false">%s will not work temporarily, and if any default Call, SMS, Data on %s will be changed into %s accordingly.</string>
-  <string name="change_data_preference_4g_only_prompt">يبدو أن لديك بطاقة SIM 4G فقط. هل تريد تعيينها كبطاقة افتراضية لبيانات الجوال؟</string>
-  <string name="change_default_data_card">بيانات الجوال (SIM) الافتراضية</string>
-  <string name="change_default_data_card_summary">يبدو أنك غيرت بطاقات SIM الخاصة بك. هل تريد تعيين بطاقة SIM هذه كبطاقة افتراضية للاتصال ببيانات الجوال؟</string>
+  <string name="change_data_preference_4g_only_prompt">يبدو أن لديك بطاقة SIM 4G فقط. هل تريد تعيينها كبطاقة افتراضية لبيانات الهاتف؟</string>
+  <string name="change_default_data_card">بيانات الهاتف (SIM) الافتراضية</string>
+  <string name="change_default_data_card_summary">يبدو أنك غيرت بطاقات SIM الخاصة بك. هل تريد تعيين بطاقة SIM هذه كبطاقة افتراضية للاتصال ببيانات الهاتف؟</string>
   <string name="change_num">تحديث</string>
   <string name="change_password">تغيير كلمة مرور الحظر</string>
   <string name="change_pin">تغيير رمز PIN بطاقة SIM</string>
@@ -309,7 +309,7 @@
   <string name="close_dialog">موافق</string>
   <string name="close_profile">إغلاق</string>
   <string name="cloud_antispam_title">التعرف على الأرقام غير المعروفة</string>
-  <string name="cmcc_ut_data_enable_prompt">تتطلب هذه الخدمة اتصال بيانات الجوال. قم بشغيله للمتابعة.</string>
+  <string name="cmcc_ut_data_enable_prompt">تتطلب هذه الخدمة اتصال بيانات الهاتف. قم بشغيله للمتابعة.</string>
   <string name="command_error_fdn_failure">يجب أن توقف تشغيل FDN أولاً</string>
   <string name="common_problem_message">تعرف على المزيد في %1$s، أو اتصل بخدمة العملاء على 400-100-5678</string>
   <string name="common_setting">الإعدادات العامة</string>
@@ -338,8 +338,8 @@
   <string name="contactdeleteSuccess">تم حذف جهة الاتصال من SIM.</string>
   <string name="creat_account_error">"Could't إنشاء حساب. حاول مرة أخرى؟"</string>
   <string name="creating_account">إنشاء الحساب…</string>
-  <string name="data_enable_summary">السماح لهذا الجهاز باستخدام بيانات الجوال</string>
-  <string name="data_enabled">بيانات الجوال</string>
+  <string name="data_enable_summary">السماح لهذا الجهاز باستخدام بيانات الهاتف</string>
+  <string name="data_enabled">بيانات الهاتف</string>
   <string name="deactivate_all">إلغاء الكل</string>
   <string name="default_area_code_setting">Default area code</string>
   <string name="default_areacode">Default area code</string>
@@ -728,7 +728,7 @@ Top up and start talking"</string>
   <string name="message_decode_error">حدث خطأ أثناء فك شفرة الرسالة.</string>
   <string name="mhh_disable">الطب، الصحة، والمستشفى معطّلة</string>
   <string name="mhh_enable">الطب، الصحة، والمستشفى مفعّلة</string>
-  <string name="mi_sim_settings_summary">استخدام بيانات الجوال بدون بطاقة SIM</string>
+  <string name="mi_sim_settings_summary">استخدام بيانات الهاتف بدون بطاقة SIM</string>
   <string name="mi_sim_settings_title">بطاقة Mi SIM</string>
   <string name="mismatchPin">"رموز PIN التي ادخلتها غير مطابقة. حاول مجدداً."</string>
   <string name="mismatchPin2">"رموز PIN2 غير متطابقة. حاول مرة أخرى."</string>
@@ -750,8 +750,8 @@ Top up and start talking"</string>
   <string name="msim_apn_not_set">غير معين</string>
   <string name="msim_default_setting">الإعدادات الافتراضية</string>
   <string name="msim_disable_sim_card_btn_text">موافق</string>
-  <string name="msim_disable_sim_card_summary_default_card">"تم تعيين هذه البطاقة كSIM الافتراضية حاليا. وإذا أوقفت استخدامها، فلن تتمكن من إجراء المكالمات أو استخدام وصلة بيانات الجوال. ويمكنك إيقاف بطاقة SIM هذه بعد إعداد بطاقة SIM الأخرى كافتراضية."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">قد لا تتمكن من إجراء مكالمات أو استخدام اتصال بيانات الجوال. هل تريد إيقاف استخدام بطاقة SIM%s ؟</string>
+  <string name="msim_disable_sim_card_summary_default_card">"تم تعيين هذه البطاقة كSIM الافتراضية حاليا. وإذا أوقفت استخدامها، فلن تتمكن من إجراء المكالمات أو استخدام وصلة بيانات الهاتف. ويمكنك إيقاف بطاقة SIM هذه بعد إعداد بطاقة SIM الأخرى كافتراضية."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">قد لا تتمكن من إجراء مكالمات أو استخدام اتصال بيانات الهاتف. هل تريد إيقاف استخدام بطاقة SIM%s ؟</string>
   <string name="msim_disable_sim_card_title">إيقاف استخدام بطاقة SIM</string>
   <string name="msim_enable_sim">تشغيل</string>
   <string name="msim_general_setting">الإعدادات</string>
@@ -801,10 +801,10 @@ Top up and start talking"</string>
   <string name="network_settings_auto_select_title">اختيار شبكة يدوياً؟</string>
   <string name="network_settings_automatically_option">اختر الشبكة المفضلة تلقائيًا (%s)</string>
   <string name="network_settings_confirm_message">سيقوم الجهاز بقطع الاتصال من الشبكة عند البحث عن شبكة متاحة.</string>
-  <string name="network_settings_data_connected_change">سيتم إيقاف تشغيل بيانات الجوال تلقائياً عند بحث الجهاز عن شبكات متوفرة.</string>
+  <string name="network_settings_data_connected_change">سيتم إيقاف تشغيل بيانات الهاتف تلقائياً عند بحث الجهاز عن شبكات متوفرة.</string>
   <string name="network_settings_duringcall">"لايمكن تنفيذ العملية أثناء المكالمة"</string>
   <string name="network_settings_forbidden">%s (غير مسموح)</string>
-  <string name="network_settings_information">إيقاف تشغيل بيانات الجوال؟</string>
+  <string name="network_settings_information">إيقاف تشغيل بيانات الهاتف؟</string>
   <string name="network_settings_next">التالي</string>
   <string name="network_settings_query_failed_message">"تعذر البحث عن شبكات جوال."</string>
   <string name="network_settings_select_automatic_hint">لا يمكن التسجيل في الشبكة التي أخترتها.\nاستخدام شبكة مفضلة بدلاً عنها.</string>
@@ -908,7 +908,7 @@ Top up and start talking"</string>
   <string name="ota_listen">اتبع الإرشادات المنطوقة حتى تسمع ما يفيد بانتهاء التفعيل.</string>
   <string name="ota_next">التالي</string>
   <string name="ota_progress">انتظر بينما تتم برمجة هاتفك.</string>
-  <string name="ota_skip_activation_dialog_message">"إذا تخطيت التفعيل، فلن تتمكن من إجراء مكالمات أو الاتصال بشبكات بيانات الجوال (بالرغم من إمكانية اتصالك بشبكات Wi-Fi). حتى تقوم بتفعيل هاتفك، سيتتم مطالبتك بالتفعيل في كل مرة تقوم بتشغيله."</string>
+  <string name="ota_skip_activation_dialog_message">"إذا تخطيت التفعيل، فلن تتمكن من إجراء مكالمات أو الاتصال بشبكات بيانات الهاتف (بالرغم من إمكانية اتصالك بشبكات Wi-Fi). حتى تقوم بتفعيل هاتفك، سيتتم مطالبتك بالتفعيل في كل مرة تقوم بتشغيله."</string>
   <string name="ota_skip_activation_dialog_skip_label">تخطي</string>
   <string name="ota_skip_activation_dialog_title">تخطي التفعيل/؟</string>
   <string name="ota_spc_failure">تجاوز مرات فشل SPC</string>
@@ -1007,7 +1007,7 @@ Top up and start talking"</string>
   <string name="port_title">رقم المنفذ</string>
   <string name="preference_auto_ip_summary_disable">متوقّف</string>
   <string name="preference_category_ringtone">نغمة الرنين والاهتزاز</string>
-  <string name="preference_data_usage_summary">تعيين خطة البيانات للتحكم في إستخدام بيانات الجوال</string>
+  <string name="preference_data_usage_summary">تعيين خطة البيانات للتحكم في إستخدام بيانات الهاتف</string>
   <string name="preference_data_usage_title">تعيين خطة البيانات</string>
   <string name="preference_dial_pad_touch_tone_default">الافتراضي</string>
   <string name="preference_dial_pad_touch_tone_off">متوقّف</string>
@@ -1176,7 +1176,7 @@ Top up and start talking"</string>
   <string name="sim_ndp_unlock_text">إلغاء قفل</string>
   <string name="sim_no_activated">"Couldn't verify SIM card"</string>
   <string name="sim_permanently_locked">Entering incorrect PUK2 code more than 10 times,SIM card has been permanently locked</string>
-  <string name="sim_roaming_settings_summary">الاتصال بشبكات بيانات الجوال أثناء التجوال</string>
+  <string name="sim_roaming_settings_summary">الاتصال بشبكات بيانات الهاتف أثناء التجوال</string>
   <string name="sim_roaming_settings_title">تجوال Mi</string>
   <string name="sim_service_setting">بطاقة Mi SIM وتجوال Mi</string>
   <string name="sim_useless">SIM unavailable</string>
@@ -1185,7 +1185,7 @@ Top up and start talking"</string>
   <string name="sip_accounts_title">حسابات SIP</string>
   <string name="sip_add_account_tip_text">لاستخدام مكالمة الإنترنت، قم بإضافة حساب SIP</string>
   <string name="sip_always_send_keepalive">إرسال دائمًا</string>
-  <string name="sip_call_options_entry_1">لكل المكالمات عندما تكون بيانات الجوال متوفرة</string>
+  <string name="sip_call_options_entry_1">لكل المكالمات عندما تكون بيانات الهاتف متوفرة</string>
   <string name="sip_call_options_entry_2">فقط لمكالمات الإنترنت</string>
   <string name="sip_call_options_entry_3">الطلب عند كل مكالمة</string>
   <string name="sip_call_options_title">استخدام مكالمة الإنترنت</string>

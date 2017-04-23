@@ -143,7 +143,7 @@
   <string name="livetalk_left_minute">%s دقيقة متبقية</string>
   <string name="manageConferenceLabel">إدارة المكالمات الجماعية</string>
   <string name="miprofile_stranger_card">غير معروف</string>
-  <string name="modify_call_failure_str">"Modify Call request failed
+  <string name="modify_call_failure_str">"تعذر تعديل طلب الاتصال
 "</string>
   <string name="modify_call_option_title">أي نوع من الاتصال؟</string>
   <string name="modify_call_option_voice">صوت فقط</string>
