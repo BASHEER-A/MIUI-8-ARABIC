@@ -347,7 +347,7 @@
   <string name="wifi_disabled_generic">تعطيل</string>
   <string name="wifi_disabled_network_failure">فشل تكوين IP</string>
   <string name="wifi_disabled_password_failure">مشكلة المصادقة</string>
-  <string name="wifi_disabled_wifi_failure">فشل الاتصال بالشبكات اللاسلكية</string>
+  <string name="wifi_disabled_wifi_failure">فشل الاتصال بالـ Wi-Fi</string>
   <string name="wifi_fail_to_scan">"يتعذر البحث عن للشبكات"</string>
   <string name="wifi_no_internet">"لا \"لم يتم الوصول إلى الإنترنت\"، لن يعاد الاتصال تلقائياً."</string>
   <string name="wifi_not_in_range">ليس في النطاق</string>

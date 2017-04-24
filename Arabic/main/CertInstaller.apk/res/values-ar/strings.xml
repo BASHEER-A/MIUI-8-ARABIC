@@ -46,16 +46,16 @@ Auth method: EAP-%5$s
   <string name="wifi_detail_title">تفاصيل %s</string>
   <string name="wifi_dismiss_label">تجاهل</string>
   <string name="wifi_install_label">تثبيت</string>
-  <string name="wifi_installer_detail">قم بتثبيت بيانات اعتماد الشبكات اللاسلكية للاتصال بالشبكات المتوفرة عن طريق %1$s.</string>
+  <string name="wifi_installer_detail">قم بتثبيت بيانات اعتماد الـ Wi-Fi للاتصال بالشبكات المتوفرة عن طريق %1$s.</string>
   <string name="wifi_installer_download_error">"لديه مشاكل في الملف الذي تم تنزيله ولا يمكن تثبيتها. تأكد من أن قمت بتحميل الملف من المصدر الصحيح."</string>
   <string name="wifi_installer_fail">"لا يمكن تثبيت بيانات اعتماد الشبكة المحلية اللاسلكية. حاول تحميل الملف مرة أخرى."</string>
-  <string name="wifi_installer_fail_no_wifi">قم بتشغيل الشبكات اللاسلكية وحاول مرة أخرى.</string>
+  <string name="wifi_installer_fail_no_wifi">قم بتشغيل الـ Wi-Fi وحاول مرة أخرى.</string>
   <string name="wifi_installer_fail_no_wifi_title">تم إلغاء التثبيت</string>
   <string name="wifi_installer_fail_title">"لا يمكن تثبيت"</string>
   <string name="wifi_installing_label">جاري التثبيت</string>
   <string name="wifi_no_config">لا شيء</string>
   <string name="wifi_sim_config_text">"سيم: %s"</string>
-  <string name="wifi_title">الشبكات اللاسلكية الشخصية</string>
+  <string name="wifi_title">الـ Wi-Fi الشخصية</string>
   <string name="wifi_tls_config_text">"Client certificate:
 %1$s
 Key: %2$s

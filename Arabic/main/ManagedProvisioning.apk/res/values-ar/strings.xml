@@ -30,7 +30,7 @@
   <string name="device_owner_error_package_name_invalid">"لا يمكن تثبيت التطبيق المشرف. اسم الحزمة غير صالح. الاتصال بقسم تكنولوجيا المعلومات."</string>
   <string name="device_owner_error_package_not_installed">"لم يتم تثبيت التطبيق المشرف على الجهاز الخاص بك"</string>
   <string name="device_owner_error_reset">إعادة تعيين</string>
-  <string name="device_owner_error_wifi">"تعذر الاتصال بالشبكات اللاسلكية"</string>
+  <string name="device_owner_error_wifi">"تعذر الاتصال بالـ Wi-Fi"</string>
   <string name="device_owner_exists">التشكيلات الجانبية للعمل لا يمكن أن يكون الإعداد على جهاز تتم إدارته</string>
   <string name="encrypt_device_cancel">إلغاء الأمر</string>
   <string name="encrypt_device_launch_settings">تشفير</string>

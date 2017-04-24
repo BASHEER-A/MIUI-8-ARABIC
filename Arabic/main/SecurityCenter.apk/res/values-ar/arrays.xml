@@ -45,15 +45,15 @@
   </string-array>
   <string-array name="traffic_type">
     <item>"استخدام الهاتف المحمول "</item>
-    <item>"استخدام الشبكات اللاسلكية "</item>
+    <item>"استخدام الـ Wi-Fi "</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
     <item>"استخدام الهاتف المحمول "</item>
-    <item>"استخدام الشبكات اللاسلكية "</item>
+    <item>"استخدام الـ Wi-Fi "</item>
   </string-array>
   <string-array name="traffic_sort_type">
     <item>"استخدام بيانات الهاتف "</item>
-    <item>"استخدام الشبكات اللاسلكية "</item>
+    <item>"استخدام الـ Wi-Fi "</item>
   </string-array>
   <string-array name="traffic_setting_sms_template">
     <item>الحصول على تلقائياً</item>

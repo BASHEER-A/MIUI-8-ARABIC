@@ -2214,7 +2214,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wfd_sec_tv_shows_0">TV shows black</string>
   <string name="wfd_sec_tv_shows_1">TV shows prohibited image</string>
   <string name="wfd_security">الأمن</string>
-  <string name="wfd_settings">عرض الشبكات اللاسلكية</string>
+  <string name="wfd_settings">عرض الـ Wi-Fi</string>
   <string name="wfd_sqc_tx">Enable sqc info</string>
   <string name="wfd_vdo_1080p">FHD 1080p (لأشرطة الفيديو)</string>
   <string name="wfd_vdo_720p_1">720p عالية الدقة (للألعاب)</string>
@@ -2251,7 +2251,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wifi_dialog_error">خطأ</string>
   <string name="wifi_dialog_error_message">لم تتم تهيئة وأي فأي</string>
   <string name="wifi_dialog_fail">خطأ</string>
-  <string name="wifi_dialog_fail_message">تمكين الشبكات اللاسلكية فشل</string>
+  <string name="wifi_dialog_fail_message">تمكين الـ Wi-Fi فشل</string>
   <string name="wifi_dialog_init">المعالجة</string>
   <string name="wifi_dialog_init_message">الرجاء الانتظار لتهيئة الجهاز...</string>
   <string name="wifi_dialog_input_file_name">الرجاء إدخال اسم ملف</string>

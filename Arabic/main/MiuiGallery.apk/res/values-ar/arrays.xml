@@ -9,9 +9,9 @@
     <item>الأب</item>
     <item>الأم</item>
     <item>الجد لأب</item>
-    <item>الجدة الأبوية</item>
+    <item>الجدة لأب</item>
+    <item>الجد لأم</item>
     <item>الجدة لأم</item>
-    <item>الجدة الأبوية</item>
   </string-array>
   <string-array name="relation_with_me">
     <item>انا</item>

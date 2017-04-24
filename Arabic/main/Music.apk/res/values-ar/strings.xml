@@ -808,10 +808,10 @@
   <string name="vip_required">احصل على حزمة الأغنية الممتازة لتشغيل هذه الاغنية. لقد قمنا بتجاوزها من اجلك.</string>
   <string name="vip_required_with_song"> \"احصل على اغنية ممتازة لتشغيل ”%s“. لقد قمنا بتجاوزها من اجلك.\"</string>
   <string name="warning_tip_cancel">تحميل</string>
-  <string name="warning_tip_content">"كنت لم تعد متصلاً بالشبكات اللاسلكية. باستخدام اتصال البيانات المتنقلة لإكمال هذا التحميل سوف يزيد استخدام البيانات الخاصة بك. إذا كنت تتجاوز الحد بيانات الخطة الخاصة بك، الخاص بك الناقل يمكن أن تهمة لكم رسوم إضافية."</string>
+  <string name="warning_tip_content">"كنت لم تعد متصلاً بالـ Wi-Fi. باستخدام اتصال البيانات المتنقلة لإكمال هذا التحميل سوف يزيد استخدام البيانات الخاصة بك. إذا كنت تتجاوز الحد بيانات الخطة الخاصة بك، الخاص بك الناقل يمكن أن تهمة لكم رسوم إضافية."</string>
   <string name="warning_tip_ok">إيقاف مؤقت</string>
   <string name="warning_tip_title">تحذير استخدام البيانات</string>
   <string name="welcome_to_new_music">مرحباً بك في الإصدار الجديد لموسيقى Mi</string>
-  <string name="wifi_required_body" formatted="false">"ينبغي أن استخدام الشبكات اللاسلكية لإكمال هذا التحميل %s. انقر فوق %s لبدء عملية التحميل في المرة التالية التي كنت متصلاً بشبكة اتصال المحلية اللاسلكية "</string>
-  <string name="wifi_required_title">ينبغي الاتصال بالشبكات اللاسلكية لتحميل هذا الملف</string>
+  <string name="wifi_required_body" formatted="false">"ينبغي أن استخدام الـ Wi-Fi لإكمال هذا التحميل %s. انقر فوق %s لبدء عملية التحميل في المرة التالية التي كنت متصلاً بشبكة اتصال المحلية اللاسلكية "</string>
+  <string name="wifi_required_title">ينبغي الاتصال بالـ Wi-Fi لتحميل هذا الملف</string>
 </resources>

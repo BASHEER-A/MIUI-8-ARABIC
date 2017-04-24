@@ -561,7 +561,7 @@
   <string name="bluetooth_preference_found_devices">الأجهزة المتوفرة</string>
   <string name="bluetooth_preference_no_found_devices">لا توجد أجهزة متوفرة</string>
   <string name="bluetooth_preference_paired_devices">الأجهزة المقترنة</string>
-  <string name="bluetooth_preference_paired_dialog_contacts_option">الاسماء وسجل المكالمة</string>
+  <string name="bluetooth_preference_paired_dialog_contacts_option">الأسماء وسجل المكالمة</string>
   <string name="bluetooth_preference_paired_dialog_internet_option">اتصال إنترنت</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">لوحة المفاتيح</string>
   <string name="bluetooth_preference_paired_dialog_name_label">الاسم</string>
@@ -1424,8 +1424,8 @@ This helps protect data on lost or stolen devices."</string>
   <string name="free_xiaomi_wifi_connect_summary">انقر للاتصال بـ%1$s.</string>
   <string name="frequently_fragment_delete">إزالة</string>
   <string name="frequently_fragment_tempty">سيتم إدراج العناصر المستخدمة بشكل متكرر هنا</string>
-  <string name="fullbackup_data_summary">"تلقائياً احتياطي لبيانات الجهاز (مثل كلمات مرور الشبكات اللاسلكية وتاريخ الدعوة) وبيانات التطبيق (مثل الإعدادات والملفات المخزنة من قبل تطبيقات) عن بعد. عند تشغيل النسخ الاحتياطي التلقائي، يتم دورياً حفظ بيانات الجهاز والتطبيق عن بعد. بيانات التطبيق يمكن أن يكون أي بيانات تطبيق وحفظه (استناداً إلى إعدادات المطور)، بما في ذلك البيانات الحساسة مثل جهات الاتصال والرسائل والصور. "</string>
-  <string name="fullbackup_erase_dialog_message">إيقاف النسخ الاحتياطي لبيانات الجهاز (مثل كلمات مرور الشبكات اللاسلكية وتاريخ الدعوة) وبيانات التطبيق (مثل الإعدادات والملفات المخزنة من قبل تطبيقات)، بالإضافة إلى محو كافة النسخ على محرك جوجل؟</string>
+  <string name="fullbackup_data_summary">"تلقائياً احتياطي لبيانات الجهاز (مثل كلمات مرور الـ Wi-Fi وتاريخ الدعوة) وبيانات التطبيق (مثل الإعدادات والملفات المخزنة من قبل تطبيقات) عن بعد. عند تشغيل النسخ الاحتياطي التلقائي، يتم دورياً حفظ بيانات الجهاز والتطبيق عن بعد. بيانات التطبيق يمكن أن يكون أي بيانات تطبيق وحفظه (استناداً إلى إعدادات المطور)، بما في ذلك البيانات الحساسة مثل جهات الاتصال والرسائل والصور. "</string>
+  <string name="fullbackup_erase_dialog_message">إيقاف النسخ الاحتياطي لبيانات الجهاز (مثل كلمات مرور الـ Wi-Fi وتاريخ الدعوة) وبيانات التطبيق (مثل الإعدادات والملفات المخزنة من قبل تطبيقات)، بالإضافة إلى محو كافة النسخ على محرك جوجل؟</string>
   <string name="gadget_bluetooth">بلوتوث</string>
   <string name="gadget_brightness_state_auto">تلقائي</string>
   <string name="gadget_brightness_state_full">كامل</string>
@@ -2469,14 +2469,14 @@ This helps protect data on lost or stolen devices."</string>
   <string name="path_wifi_advanced_ip_address_title">معالجة إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة إعدادات/الملكية الفكرية</string>
   <string name="path_wifi_advanced_mac_address_title">عنوان MAC إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة/WLAN</string>
   <string name="path_wifi_display_settings">عرض إعدادات/أكثر/لاسلكية</string>
-  <string name="path_wifi_enable">إعدادات/الشبكة المحلية اللاسلكية/دورة في الشبكات اللاسلكية</string>
+  <string name="path_wifi_enable">إعدادات/الشبكة المحلية اللاسلكية/دورة في الـ Wi-Fi</string>
   <string name="path_wifi_install_credentials">شهادات تثبيت/إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة</string>
-  <string name="path_wifi_menu_p2p">إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة/الشبكات اللاسلكية مباشرة</string>
+  <string name="path_wifi_menu_p2p">إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة/الـ Wi-Fi مباشرة</string>
   <string name="path_wifi_menu_wps_pin">إدخال رقم التعريف الشخصي إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة/WPS</string>
   <string name="path_wifi_more_settings">إعدادات/أكثر</string>
   <string name="path_wifi_scan_always_available">إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة/المسح متوفرة دوماً</string>
   <string name="path_wifi_setting_frequency_band_title">Settings/WLAN/Advanced settings/WLAN frequency band</string>
-  <string name="path_wifi_setting_sleep_policy_title">إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة إعدادات/تبقى الشبكات اللاسلكية في أثناء النوم</string>
+  <string name="path_wifi_setting_sleep_policy_title">إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة إعدادات/تبقى الـ Wi-Fi في أثناء النوم</string>
   <string name="path_wifi_settings">إعدادات/WLAN</string>
   <string name="path_wifi_tether_checkbox">Settings/Personal hotspot/Portable hotspot</string>
   <string name="path_wifi_tether_configure_ap_text">Settings/Personal hotspot/Set up portable hotspot</string>
@@ -3127,7 +3127,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="search_vpn_settings_password">كلمة المرور VPN;حماية VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">ايقاظ شاشة القفل للإشعارات؛ايقاظ الشاشة؛ايقاظ الجهاز؛ايقاظ الهاتف</string>
   <string name="search_wallpaper">خلفية؛ الشاشة الرئيسية؛ قفل الشاشة</string>
-  <string name="search_wifi">وأي فأي؛ الشبكة المحلية اللاسلكية؛ إعدادات متقدمة؛ الشبكة المحلية اللاسلكية؛ الشبكات اللاسلكية؛ لاسلكي</string>
+  <string name="search_wifi">وأي فأي؛ الشبكة المحلية اللاسلكية؛ إعدادات متقدمة؛ الشبكة المحلية اللاسلكية؛ الـ Wi-Fi؛ لاسلكي</string>
   <string name="search_wifi_advanced_ip_address_title">عنوان IP;IP</string>
   <string name="search_wifi_advanced_mac_address_title">عنوان Wi-Fi MAC;عنوان Wi-Fi MAC</string>
   <string name="search_wifi_advanced_settings">إعدادات متقدمة؛ وأي فأي؛ وأي فأي إعدادات؛ إعدادات الشبكة المحلية اللاسلكية</string>
@@ -4381,7 +4381,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_description_connected">انقر<b>التالي</b> لمتابعة التثبيت.\n\nانقر<b>رجوع</b> للاتصال بشبكة Wi-Fi مختلفة.</string>
   <string name="wifi_setup_description_connecting">الاتصال يمكن أن يستغرق ذلك بضع دقائق…</string>
   <string name="wifi_setup_detail">تفاصيل الشبكة</string>
-  <string name="wifi_setup_eap_not_supported">"لا يمكنك تهيئة اتصال شبكة EAP Wi-Fi أثناء الإعداد. يمكنك بعد الإعداد الذهاب إلى الإعدادات &gt; الشبكات اللاسلكية."</string>
+  <string name="wifi_setup_eap_not_supported">"لا يمكنك تهيئة اتصال شبكة EAP Wi-Fi أثناء الإعداد. يمكنك بعد الإعداد الذهاب إلى الإعدادات &gt; الـ Wi-Fi."</string>
   <string name="wifi_setup_forget">نسيان</string>
   <string name="wifi_setup_next">التالي</string>
   <string name="wifi_setup_not_connected">غير متصل</string>
@@ -4447,7 +4447,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_state_disabling">جاري التعطيل</string>
   <string name="wifi_state_enabled">تمكين</string>
   <string name="wifi_state_enabling">جاري التمكين</string>
-  <string name="wifi_state_label">حالة الشبكات اللاسلكية:</string>
+  <string name="wifi_state_label">حالة الـ Wi-Fi:</string>
   <string name="wifi_state_unknown">غير معروف</string>
   <string name="wifi_status">الحالات</string>
   <string name="wifi_status_test">WLAN status</string>
