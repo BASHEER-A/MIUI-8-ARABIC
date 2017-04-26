@@ -334,7 +334,7 @@
   <string name="pref_title_garbage_cleanup_size">الحد الأقصى لحجم المهملات</string>
   <string name="pref_title_garbage_process_mode">الإشعارات</string>
   <string name="pref_title_manual_check_cleanup_db_update">التحقق من وجود تحديثات</string>
-  <string name="pref_title_open_optimizer_cloud_scan">تحميل اسماء الملفات</string>
+  <string name="pref_title_open_optimizer_cloud_scan">تحميل أسماء الملفات</string>
   <string name="pref_title_open_optimizer_memory_scan">فحص تطبيقات الذاكرة</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
@@ -413,7 +413,7 @@
   <string name="tips_of_package_set">ضع خطة البيانات الخاصة بك وتحكم في كمية البيانات التي تستخدمها</string>
   <string name="tips_of_traffic_notification">عرض حالة بيانات الهاتف في مركز الإشعارات</string>
   <string name="tips_of_traffic_pack_threshold">"شراء المزيد من البيانات عند اقتراب الوصول من الحد الاقصى لكمية البيانات الخاصة بك"</string>
-  <string name="tips_of_virus_scan">افحص جهازك من الفيروسات بإنتظام لإبقائه آمناً</string>
+  <string name="tips_of_virus_scan">افحص جهازك من الفايروسات بإنتظام لإبقائه آمناً</string>
   <string name="title_auto_cleaner">تنظيف تلقائي؟</string>
   <string name="title_delete_cache">حذف ذاكرة التخزين المؤقت للتطبيق</string>
   <string name="title_delete_clipboard">محتويات الحافظة</string>
@@ -454,7 +454,7 @@
   <string name="traffic_top">اكثر 5 تطبيقات استهلاكاً للبطارية</string>
   <string name="unlike">لا، شكراً</string>
   <string name="update_date_format">dd/MM/yyyy</string>
-  <string name="virus_scan">فحص الفيروسات</string>
+  <string name="virus_scan">فحص الفايروسات</string>
   <string name="white_list_ad_header">ملفات مهملة: %d</string>
   <string name="white_list_apk_header">الحزم المثبتة: %d</string>
   <string name="white_list_cache_header">الملفات المخزنة مؤقتًا: %d</string>

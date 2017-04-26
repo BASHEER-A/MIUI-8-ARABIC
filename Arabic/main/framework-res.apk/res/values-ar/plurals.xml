@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">‏يتبقى لديك %d من المحاولات يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="other">‏تبقى لديك %d من المحاولات يتم بعدها قفل شريحة SIM.</item>
         <item quantity="zero">‏لم يتبق لديك أية محاولات (%d) يتم بعدها قفل شريحة SIM.</item>
-        <item quantity="one">‏يتبقى لديك محاولة واحدة (%d) يتم بعدها قفل شريحة SIM.</item>
-        <item quantity="two">‏يتبقى لديك محاولتان (%d) يتم بعدهما قفل شريحة SIM.</item>
-        <item quantity="few">‏يتبقى لديك %d محاولات يتم بعدها قفل شريحة SIM.</item>
-        <item quantity="many">‏يتبقى لديك %d محاولة يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="one">‏تبقى لديك محاولة واحدة (%d) يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="two">‏تبقى لديك محاولتان (%d) يتم بعدهما قفل شريحة SIM.</item>
+        <item quantity="few">‏تبقى لديك %d محاولات يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="many">‏تبقى لديك %d محاولة يتم بعدها قفل شريحة SIM.</item>
     </plurals>
     <plurals name="ssl_ca_cert_warning">
         <item quantity="other">تم تثبيت شهادات المرجع المصدق</item>

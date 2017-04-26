@@ -2,6 +2,6 @@
 <resources>
   <string-array name="motion_behavior_entries">
     <item>اسحب</item>
-    <item>انقر</item>
+    <item>أنقر</item>
   </string-array>
 </resources>

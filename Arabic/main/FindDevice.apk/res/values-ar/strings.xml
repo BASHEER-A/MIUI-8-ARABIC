@@ -26,7 +26,7 @@
   <string name="find_device_notice_p1">اذهب إلى</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">لتحديد موقع أو قفل أو استعادة هاتفك.\nإذا قمت بتبديل بطاقات SIM، سيتم إرسال رسالة SMS أخرى تلقائيًا لإعادة تفعيل هذه الميزة.</string>
-  <string name="find_device_stop_noise">انقر موافق لكتم الصوت</string>
+  <string name="find_device_stop_noise">أنقر موافق لكتم الصوت</string>
   <string name="find_device_storage_corrupted">تخزين \"العثور على الجهاز\" متلف. جهازك غير آمن الآن. </string>
   <string name="find_device_success_title">العثور على الجهاز</string>
   <string name="find_device_telephony_fault">العثور على الجهاز: خطأ هاتفي (%s). </string>

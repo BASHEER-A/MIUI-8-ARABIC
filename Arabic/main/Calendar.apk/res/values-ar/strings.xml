@@ -283,7 +283,7 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">حاول مرة أخرى</string>
   <string name="no_title_label">(لا يوجد عنوان)</string>
-  <string name="no_visiable_calendar_message">تحتاج إلى تحديد حساب تقويم. انقر على \"اختر حساب\" للمتابعة.</string>
+  <string name="no_visiable_calendar_message">تحتاج إلى تحديد حساب تقويم. أنقر على \"اختر حساب\" للمتابعة.</string>
   <string name="no_visiable_calendar_select_account">تحديد حساب</string>
   <string name="no_visiable_calendar_title">قم بتحديد حساب تقويم</string>
   <string name="not_synced">لم تتم مزامنتها</string>

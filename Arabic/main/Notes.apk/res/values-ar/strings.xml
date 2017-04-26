@@ -140,7 +140,7 @@
   <string name="sns_title_send">إرسال رسالة</string>
   <string name="sns_toast_empty">"لا يمكن إرسال رسالة فارغة"</string>
   <string name="sns_toast_over_limit">إرسال صورة</string>
-  <string name="sync_tips">انقر لمزامنة الملاحظات مع Mi Cloud.</string>
+  <string name="sync_tips">أنقر لمزامنة الملاحظات مع Mi Cloud.</string>
   <string name="theme_title_antique">خريفي</string>
   <string name="theme_title_arty">زهري</string>
   <string name="theme_title_blue">أزرق</string>
@@ -166,5 +166,5 @@
   <string name="unknown_source">مصدر غير معروف</string>
   <string name="welcome_note_for_cm">والمزيد من الميزات الرائعة!\n - مزامنة مع Mi Cloud\n - تعيين تذكيرات</string>
   <string name="widget_content_loading">لحظة من فضلك\u2026</string>
-  <string name="widget_havenot_content">انقر لإنشاء ملاحظة. اضغط مع الاستمرار على الأداة لتغيير الحجم.</string>
+  <string name="widget_havenot_content">أنقر لإنشاء ملاحظة. اضغط مع الاستمرار على الأداة لتغيير الحجم.</string>
 </resources>

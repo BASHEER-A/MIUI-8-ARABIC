@@ -7,14 +7,14 @@
   <string name="apply_password_action">موافق</string>
   <string name="apply_password_confirm_dlg_msg">استخدم كلمة المرور الحالية لشاشة القفل للدخول الى إعدادات %s.</string>
   <string name="apply_password_confirm_dlg_title">%s كلمة المرور</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">تم تعطيل أزرار التنقل، انقر نقرا مزدوجا على إي زر لإعادة تمكينها مرة أخرى</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">تم تعطيل أزرار التنقل، أنقر نقرا مزدوجا على إي زر لإعادة تمكينها مرة أخرى</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">تم تمكين أزرار التنقل</string>
   <string name="auto_disable_screenbuttons_float_text">المس لتعطيل أزرار التنقل</string>
-  <string name="auto_disable_screenbuttons_prompts_message">انقر نقرا مزدوجا على إي زر لإعادة تمكينها في أي وقت.</string>
+  <string name="auto_disable_screenbuttons_prompts_message">أنقر نقرا مزدوجا على إي زر لإعادة تمكينها في أي وقت.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">"عدم الإظهار مرة أخرى"</string>
   <string name="auto_disable_screenbuttons_prompts_ok">موافق</string>
   <string name="auto_disable_screenbuttons_prompts_title">تعطيل أزرار التنقل؟</string>
-  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">انقر مرة اخرى للخروج</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">أنقر مرة اخرى للخروج</string>
   <string name="auto_start_warning_allow">السماح</string>
   <string name="auto_start_warning_deny">رفض</string>
   <string name="auto_start_warning_title">السماح لـ %s بالبدء تلقائياً؟</string>
@@ -56,7 +56,7 @@
   <string name="key_btn_ok">موافق</string>
   <string name="key_btn_space">مسافة</string>
   <string name="livetalk_not_enable">حزمة شحن الرصيد غير مفعلة</string>
-  <string name="location_usage_restricted_body">انقر للسماح.</string>
+  <string name="location_usage_restricted_body">أنقر للسماح.</string>
   <string name="location_usage_restricted_title">تم تقييد موقع الخلفية</string>
   <string name="lockscreen_access_pattern_cell_added">تمت إضافة الخانة</string>
   <string name="lockscreen_access_pattern_cleared">تم مسح النقش</string>

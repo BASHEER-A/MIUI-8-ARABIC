@@ -95,7 +95,7 @@
   <string name="free_style_edit_app">تطبيق</string>
   <string name="free_style_edit_bar_empty">فارغ</string>
   <string name="free_style_edit_bar_select_app">اختر تطبيق</string>
-  <string name="free_style_edit_bottom_empty_tip">انقر على المستطيل لتعديله</string>
+  <string name="free_style_edit_bottom_empty_tip">أنقر على المستطيل لتعديله</string>
   <string name="free_style_edit_drawer">الساحب</string>
   <string name="free_style_edit_move_tip">إضغط لمدة طويلة لنقل عنصر</string>
   <string name="free_style_edit_tab_free_component">أجسام</string>

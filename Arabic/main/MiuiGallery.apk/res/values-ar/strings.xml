@@ -526,8 +526,8 @@
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
   <string name="clear_local_photo_direction">إذا قمت بحذف الصور أو مقاطع الفيديو من جهازك، ستزال متاحة في Mi Cloud</string>
-  <string name="click_download_gif">انقر لتنزيل الصورة</string>
-  <string name="click_top_right">انقر فوق هذه الأيقونة</string>
+  <string name="click_download_gif">أنقر لتنزيل الصورة</string>
+  <string name="click_top_right">أنقر فوق هذه الأيقونة</string>
   <string name="cloud_camera_display_name">صور الكاميرا</string>
   <string name="cloud_guide_auto_backup_title">اختر ألبومات للقيام بنسخة إحتياطية</string>
   <string name="cloud_guide_login_title">النسخ الاحتياطي للصور و الفيديوهات تلقائياً</string>
@@ -916,7 +916,7 @@
   <string name="projection_slide_exit">إيقاف عرض الشرائح</string>
   <string name="projection_slide_fail_cause_loading">إعادة تشغيل عرض الشرائح بعد تحميل الصورة</string>
   <string name="projection_slide_playing">جارٍ تشغيل عرض الصور على %s</string>
-  <string name="projection_video_quit">انقر للخروج</string>
+  <string name="projection_video_quit">أنقر للخروج</string>
   <string name="public_url_descript">يستطيع أي شخص عرض ألبومك باستخدام عنوان URL هذا</string>
   <string name="publish_failed">"تعذر النشر"</string>
   <string name="publish_succeeded">تم نشر الألبوم</string>
@@ -953,7 +953,7 @@
   <string name="reset">إعادة تعيين</string>
   <string name="retry_to_create_album">حاول مجدداً</string>
   <string name="retry_to_request_qr_code">حاول مجدداً</string>
-  <string name="return_from_clear_local_file_fragment_toast">يتم تخزين الصور المحسنة على الجهاز. انقرعلى صورة لتحميل العنصر الأصلي من Mi Cloud.</string>
+  <string name="return_from_clear_local_file_fragment_toast">يتم تخزين الصور المحسنة على الجهاز. أنقرعلى صورة لتحميل العنصر الأصلي من Mi Cloud.</string>
   <string name="revert">عكس</string>
   <string name="runtime_permission_ungranted">تم إغلاق المعرض، الأذونات غير مطلوبة</string>
   <string name="same_name_album_exist_and_toast">"يوجد ألبوم بنفس الاسم مسبقا. تم إنشاء '%s' بدلاً منه."</string>
@@ -963,7 +963,7 @@
   <string name="save_error">"لا يمكن حفظ الصورة"</string>
   <string name="saving_image">حفظ الصور…</string>
   <string name="saving_image_to_album">حفظ الصورة إلى %1$s…</string>
-  <string name="scan_barcode_guide">"للحصول على رمز QR الخاص بالألبوم، انقر على أيقونة مشاركة."</string>
+  <string name="scan_barcode_guide">"للحصول على رمز QR الخاص بالألبوم، أنقر على أيقونة مشاركة."</string>
   <string name="scan_barcode_to_join">امسح رمز QR لإضافة ألبوم</string>
   <string name="scan_qr_code_buttom_text">امسح رمز QR لعرض هذا الألبوم</string>
   <string name="secret_album_display_name">ألبوم مخفي</string>
@@ -1118,7 +1118,7 @@
   <string name="video_editor_text">نص</string>
   <string name="video_editor_text_edit_end">الإمضاء</string>
   <string name="video_editor_text_edit_input_end_hint">أدخل اسم الشخص الذي قام بإلتقاط الفيديو</string>
-  <string name="video_editor_text_edit_input_hint">انقر هنا للتعديل</string>
+  <string name="video_editor_text_edit_input_hint">أنقر هنا للتعديل</string>
   <string name="video_editor_text_edit_input_open_hint">أدخل العنوان</string>
   <string name="video_editor_text_edit_start">العنوان</string>
   <string name="video_editor_text_input_empty_tips">"يبدو أنك لم تدخل النص بعد"</string>

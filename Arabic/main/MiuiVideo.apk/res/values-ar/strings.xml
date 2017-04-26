@@ -40,7 +40,7 @@
   <string name="app_name">فيديو</string>
   <string name="app_plugin_ready">%1$s تثبيت</string>
   <string name="app_update_background">تحديث التطبيق في الخلفية.</string>
-  <string name="app_upgrade_hint">انقر لمشاهدة كامل البلمرة, الفيديو عالية الدقة على الإنترنت.</string>
+  <string name="app_upgrade_hint">أنقر لمشاهدة كامل البلمرة, الفيديو عالية الدقة على الإنترنت.</string>
   <string name="app_upgrade_title">فيديو مي الفعل ترقية إلى الإصدار الأحدث.</string>
   <string name="app_upgrade_version">تحديث متوفر</string>
   <string name="app_version">الإصدار</string>
@@ -182,7 +182,7 @@
   <string name="info_video_loading">جارٍ التحميل\u2026</string>
   <string name="init">Init</string>
   <string name="install_apk">تثبيت</string>
-  <string name="install_comfirm">انقر لتثبيت</string>
+  <string name="install_comfirm">أنقر لتثبيت</string>
   <string name="install_plugin">تثبيت المكونات</string>
   <string name="introduce">ملخص</string>
   <string name="join_alert_title">الانضمام إلى اختبار بيتا</string>

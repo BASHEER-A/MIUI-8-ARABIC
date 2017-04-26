@@ -73,7 +73,7 @@
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">البحث</string>
   <string name="send_secret_code">إرسال رمز</string>
-  <string name="settings_description">اسماء التطبيقات المثبتة</string>
+  <string name="settings_description">أسماء التطبيقات المثبتة</string>
   <string name="show_more">عرض المزيد</string>
   <string name="suggest_open_app_failed">"تعذر فتح هذا التطبيق"</string>
   <string name="system_search_category_title">الهاتف</string>

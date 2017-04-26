@@ -131,7 +131,7 @@
   <string name="incoming_circle_text_reject_p">اسحب للأعلى</string>
   <string name="ivr_menu_dialing_msg">يتم إعادة التوجيه\u2026</string>
   <string name="ivr_menu_dialing_msg_no_mute">انتقل إلى الخدمة المحددة\u2026[تم تمكين التصحيح التلقائي للخطأ]</string>
-  <string name="ivr_menu_list_sub_menu_count_format">انقر %s</string>
+  <string name="ivr_menu_list_sub_menu_count_format">أنقر %s</string>
   <string name="ivr_menu_list_title">قائمة الصوت</string>
   <string name="jeejen_answer_call_text">الرد على المكالمة</string>
   <string name="jeejen_end_call_text">إنهاء المكالمة</string>

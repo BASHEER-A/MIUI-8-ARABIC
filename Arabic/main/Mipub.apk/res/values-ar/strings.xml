@@ -123,7 +123,7 @@
   <string name="mx_msg">رسالة Mi</string>
   <string name="mx_on_sim_1">رسالة Mi SIM ١</string>
   <string name="mx_on_sim_2">رسالة Mi SIM ٢</string>
-  <string name="mx_recommend_msg">انقر لتشغيل رسالة Mi.</string>
+  <string name="mx_recommend_msg">أنقر لتشغيل رسالة Mi.</string>
   <string name="need_download">جارٍ المزامنة\u2026</string>
   <string name="network_error">خطأ بالشبكة</string>
   <string name="new_message">إنشاء</string>

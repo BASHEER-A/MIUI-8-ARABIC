@@ -34,7 +34,7 @@
   <string name="calendar_sync">التقويم</string>
   <string name="click_to_enabled">المس للمزامنة.</string>
   <string name="cloud_back_up_button_ok">فرض إيقاف</string>
-  <string name="cloud_back_up_close_info">انقر للنسخ الاحتياطي.</string>
+  <string name="cloud_back_up_close_info">أنقر للنسخ الاحتياطي.</string>
   <string name="cloud_back_up_dialog_content">"أترغب في إيقاف النسخ الاحتياطي الجاري؟ إذا قمت بإيقافه الآن، لن تتمكن من استخدام هذه النسخة الاحتياطية لاستعادة التطبيقات."</string>
   <string name="cloud_back_up_network_unavailable">"تعذرت الإزالة. اتصل بـشبكة Wi-Fi ثم حاول مرة أخرى."</string>
   <string name="cloud_back_up_open_info">القيام بنسخة احتياطية عند الاتصال بـ Wi-Fi مرة كل %1$s\nآخر نسخ احتياطي في %2$s</string>
@@ -45,7 +45,7 @@
   <string name="cloud_backup_dialog_title">النسخ الاحتياطي باستخدام Mi Cloud</string>
   <string name="cloud_find_device">العثور على الجهاز</string>
   <string name="cloud_restore_title">استعادة من نسخة احتياطية</string>
-  <string name="cloud_space_upgrade_message">انقر لإضافة %s جيجابايت لـ Cloud الخاص بك.</string>
+  <string name="cloud_space_upgrade_message">أنقر لإضافة %s جيجابايت لـ Cloud الخاص بك.</string>
   <string name="cloud_space_upgrade_no_quota_info">"تعذر الحصول على معلومات التخزين"</string>
   <string name="cloud_space_upgrade_title">مساحة أكبر لـMi Cloud</string>
   <string name="cloud_storage_full">مساحة تخزين Cloud ممتلئة</string>
@@ -287,7 +287,7 @@
   <string name="micloud_notif_content_multi_user_error">لقد قمت بتسجيل الدخول بنفس الحساب الذي في الفضاء الأول.</string>
   <string name="micloud_notif_content_sync_finish">الحساب</string>
   <string name="micloud_notif_content_sync_not_finish">التفاصيل</string>
-  <string name="micloud_notif_content_sync_with_off">انقر للمزامنة جهازك الآن.</string>
+  <string name="micloud_notif_content_sync_with_off">أنقر للمزامنة جهازك الآن.</string>
   <string name="micloud_notif_title_battery_low">"لا يمكن المزامنة مع Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">تم نسخ المحتوى إلى الحافظة</string>
   <string name="micloud_notif_title_depend_wifi">الانتظار لمزامنة العناصر: %d</string>

@@ -106,7 +106,7 @@
   <string name="system_time_setting">الإعدادات</string>
   <string name="time">الوقت</string>
   <string name="timer_alarm_alert_pad"> %s</string>
-  <string name="timer_alarm_cancel_pad">انقر على الشاشة لإيقاف الرنين</string>
+  <string name="timer_alarm_cancel_pad">أنقر على الشاشة لإيقاف الرنين</string>
   <string name="timer_alarm_dot_matrix_label">مؤقت</string>
   <string name="timer_alert_alert_silenced">سيتم كتم صوت المؤقت بعد %d دقيقة.</string>
   <string name="timer_clock_alert_text">ضبط مؤقت</string>

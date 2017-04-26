@@ -34,7 +34,7 @@
     <item>关闭</item>
   </string-array>
   <string-array name="alarm_in_furture">
-    <item>التنبيه في أقل من دقيقة </item>
+    <item>التنبيه أقل من دقيقة </item>
     <item>التنبيه في %1$s</item>
     <item>التنبيه في %2$s</item>
     <item>التنبيه في %1$s %2$s</item>
@@ -63,7 +63,7 @@
     <item>تخصيص</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>سيتم التنبيه في أقل من ١ دقيقة.</item>
+    <item>سيتم التنبيه في أقل من دقيقة.</item>
     <item>سيتم التنبيه بعد %1$s.</item>
     <item>سيصدر المنبه صوتاً في %2$s.</item>
     <item>سيتم التنبيه بعد %1$s و %2$s.</item>
@@ -73,7 +73,7 @@
     <item>سيتوقف المنبه بعد %1$s %2$s و %3$s.</item>
   </string-array>
   <string-array name="snooze_duration_entries">
-    <item>١ دقيقة</item>
+    <item>دقيقة</item>
     <item>٥ دقائق</item>
     <item>١٠ دقائق</item>
     <item>١٥ دقيقة</item>
@@ -83,7 +83,7 @@
   </string-array>
   <string-array name="auto_silence_entries">
     <item>ابداً</item>
-    <item>١ دقيقة</item>
+    <item>دقيقة</item>
     <item>٥ دقائق</item>
     <item>١٠ دقائق</item>
     <item>١٥ دقيقة</item>

@@ -66,7 +66,7 @@
   <string name="chenghu_disable_mms">"لا يمكن استخدام أسماء مستعارة في رسالة وسائط متعددة"</string>
   <string name="class_0_message_activity">رسالة من فئة 0</string>
   <string name="close">إغلاق</string>
-  <string name="cloud_recommend_msg">انقر لمزامنة الرسائل مع Mi Cloud.</string>
+  <string name="cloud_recommend_msg">أنقر لمزامنة الرسائل مع Mi Cloud.</string>
   <string name="cloud_state_disabled">المزامنة مع Mi Cloud غير مفعله</string>
   <string name="cloud_state_sync_finished">تمت المزامنة مع Mi Cloud</string>
   <string name="cloud_state_syncing">جارٍ المزامنة مع \u2026Mi Cloud\</string>
@@ -197,9 +197,9 @@
   <string name="group_message">رسالة جماعية</string>
   <string name="group_message_failed_title">"تعذر الإرسال إلى %d من جهات الإتصال"</string>
   <string name="group_resend_message">إعادة إرسال (%d)</string>
-  <string name="guild_add_attachments">انقر لإضافة الرموز والعناصر الأخرى</string>
-  <string name="guild_add_recipients">انقر لإضافة مستلمين من جهات الاتصال</string>
-  <string name="guild_msim_switcher">انقر لتبديل بطاقات SIM</string>
+  <string name="guild_add_attachments">أنقر لإضافة الرموز والعناصر الأخرى</string>
+  <string name="guild_add_recipients">أنقر لإضافة مستلمين من جهات الاتصال</string>
+  <string name="guild_msim_switcher">أنقر لتبديل بطاقات SIM</string>
   <string name="has_invalid_recipient">مستلمين غير صالحين: &lt;%1$s &gt;</string>
   <string name="hidden_sender_address">إخفاء عنوان المرسل</string>
   <string name="hint_search_sms">%d رسالة</string>
@@ -247,7 +247,7 @@
   <string name="message_download_failed_title">لم يتم تنزيل الرسالة</string>
   <string name="message_expired">انتهت صلاحيتها</string>
   <string name="message_failed">فشل</string>
-  <string name="message_failed_body">انقر لمراجعة الرسالة ثم حاول مرة أخرى</string>
+  <string name="message_failed_body">أنقر لمراجعة الرسالة ثم حاول مرة أخرى</string>
   <string name="message_number">رقم الهاتف: </string>
   <string name="message_pending">جارٍ الإرسال</string>
   <string name="message_queued">"لا يمكن إرسال رسالتك في الوقت الحالي. سيتم الإرسال عند توفر الخدمة."</string>
@@ -526,7 +526,7 @@
   <string name="send_message_dlg_check_hint">"عدم الإظهار مرة أخرى"</string>
   <string name="send_message_dlg_mgs">إشعار CMCC: يجب تسجل الجهاز الخاص بك في النظام الأساسي لإدارة الأجهزة لتوفير خدمة ما بعد البيع المجانية (خدمة ما بعد البيع هي نظام خاص بشبكة CMCC يستطيع إدارة الأجهزة الطرفية. ويوفر لك خدمة الإعدادات البعيدة وتحديث التطبيق). سيتم إرسال رسالة مجانية بمعلومات الجهاز للتسجيل. سيتم إرسال الرسالة مرة واحدة فقط ولا تحتاج إلى بياناتك الشخصية (لا ترسل من تجوال هونج كونج، ماكاو، تايوان والتجوال الدولي). حدد \"موافق\" للموافقة على تسجيل الخدمة وإستخدامها. حدد \"إلغاء\" للتوقف ولن يتم توفير أي خدمة لك من شبكة CMCC.</string>
   <string name="send_message_dlg_title">إدارة الجهاز</string>
-  <string name="send_message_notification_msg">انقر لعرض تفاصيل الطلب.</string>
+  <string name="send_message_notification_msg">أنقر لعرض تفاصيل الطلب.</string>
   <string name="send_message_notification_tickerText">الجهاز يطلب الإذن</string>
   <string name="send_message_notification_title">طلب إذن</string>
   <string name="send_signature_confirm_dialog_message">لم يتم العثور على محتوى. هل تريد إرسال توقيعك فقط؟</string>

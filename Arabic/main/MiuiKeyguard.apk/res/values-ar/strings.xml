@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">انقر لفتح خلفية كاروسيل</string>
-  <string name="click_to_enter_text">انقر للعرض</string>
+  <string name="accessibility_enter_lock_wallpaper">أنقر لفتح خلفية كاروسيل</string>
+  <string name="click_to_enter_text">أنقر للعرض</string>
   <string name="confirm_pin_msg">أعد إدخال رمز PIN</string>
   <string name="custom_lock_wallpaper_enter">أدخل</string>
   <string name="default_lockscreen_unlock_hint_text">مرّر لأعلى للفتح</string>

@@ -170,13 +170,13 @@
   <string name="clear_copy_number_description">حذف الرقم المنسوخ</string>
   <string name="clear_default">حذف الافتراضي</string>
   <string name="clear_digits">حذف رقم الهاتف</string>
-  <string name="click_close">انقر للإغلاق</string>
+  <string name="click_close">أنقر للإغلاق</string>
   <string name="clip_dialog_title">هل تريد طلب الرقم المنسوخ؟</string>
   <string name="close_dial_pad_description">إغلاق لوحة الاتصال</string>
   <string name="cloud_antispam_mark">ابلاغ</string>
   <string name="cloud_antispam_marked">تم الإبلاغ</string>
   <string name="cloud_antispam_title">هوية المتصل</string>
-  <string name="cloud_recommend_msg">انقر لمزامنة جهات الاتصال مع Mi Cloud.</string>
+  <string name="cloud_recommend_msg">أنقر لمزامنة جهات الاتصال مع Mi Cloud.</string>
   <string name="cloud_state_disabled">المزامنة مع Mi Cloud غير مفعلة</string>
   <string name="cloud_state_loading">لحظة من فضلك\u2026</string>
   <string name="cloud_state_sync_finished">تمت المزامنة مع Mi Cloud</string>
@@ -222,7 +222,7 @@
   <string name="contact_detail_miprofile_request_fail_toast">"تعذر إرسال الطلب"</string>
   <string name="contact_detail_miprofile_request_subtitle">"تحديث معلومات جهة الاتصال هذه تلقائيا"</string>
   <string name="contact_detail_miprofile_request_success_toast">تم إرسال الطلب</string>
-  <string name="contact_detail_miprofile_save">انقر للحصول على بطاقة جهة الاتصال</string>
+  <string name="contact_detail_miprofile_save">أنقر للحصول على بطاقة جهة الاتصال</string>
   <string name="contact_detail_miprofile_save_fail_toast">"تعذر الحصول على بطاقة جهة الاتصال"</string>
   <string name="contact_detail_miprofile_save_success_toast">بطاقة جهة الاتصال المستلمة</string>
   <string name="contact_detail_miprofile_settings_header">إعدادات إضافية</string>
@@ -234,7 +234,7 @@
   <string name="contact_detail_profile_switch_off_success_toast">تم إيقاف تشغيل بطاقات جهات الاتصال</string>
   <string name="contact_detail_profile_switch_on">"عرض صور الملف الشخصي لجهات الاتصال"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"تعذر تشغيل بطاقات جهات الاتصال"</string>
-  <string name="contact_detail_profile_switch_on_subtitle">انقر لتشغيل بطاقات جهات اتصال</string>
+  <string name="contact_detail_profile_switch_on_subtitle">أنقر لتشغيل بطاقات جهات اتصال</string>
   <string name="contact_detail_profile_switch_on_success_toast">بطاقات جهات الاتصال مشغلة</string>
   <string name="contact_directory_description">الدليل %1$s</string>
   <string name="contact_edit_save_error_empty">جهة الاتصال فارغة</string>
@@ -981,7 +981,7 @@
   <string name="remove_blacklist">إلغاء الحظر</string>
   <string name="remove_blacklist_dialog_message">عرض المكالمات والرسائل من هذا الرقم؟</string>
   <string name="remove_blacklist_dialog_title">إلغاء حظر رقم الهاتف هذا؟</string>
-  <string name="remove_duplicate">سيساعدك MIUI على العثور و دمج جهات الاتصال المكررة. \n\n للبدء، انقر أيقونة الدمج في أسفل الشاشة.</string>
+  <string name="remove_duplicate">سيساعدك MIUI على العثور و دمج جهات الاتصال المكررة. \n\n للبدء، أنقر أيقونة الدمج في أسفل الشاشة.</string>
   <string name="restore_nickname">إستعادة</string>
   <string name="ret_sign">\n</string>
   <string name="returnCall">الاتصال برقم مكالمة فائتة</string>
@@ -1208,7 +1208,7 @@
   <string name="voip_contacts_entry">صوت Mi</string>
   <string name="voip_loading_contact">لحظة من فضلك\u2026</string>
   <string name="voip_name">صوت Mi</string>
-  <string name="voip_recommend_msg">انقر لاستخدام صوت Mi</string>
+  <string name="voip_recommend_msg">أنقر لاستخدام صوت Mi</string>
   <string name="voip_shortcut_name">صوت Mi</string>
   <string name="voip_video_description">مكالمة فيديو VoIP</string>
   <string name="websiteLabelsGroup">موقع ويب</string>

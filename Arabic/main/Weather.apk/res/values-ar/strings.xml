@@ -114,7 +114,7 @@
   <string name="international_details_uv_index_title">مؤشر الأشعة فوق البنفسجية</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">WIND</string>
-  <string name="locate_fail_detail_err">لا يمكن تحديد موقع الجهاز\nانقر على الشاشة يدويا لإضافة أو اعادة تحديد مدينة</string>
+  <string name="locate_fail_detail_err">لا يمكن تحديد موقع الجهاز\nأنقر على الشاشة يدويا لإضافة أو اعادة تحديد مدينة</string>
   <string name="location_management">المواقع</string>
   <string name="location_tag">تحديد الموقع</string>
   <string name="menu_add_city">تعديل المواقع</string>

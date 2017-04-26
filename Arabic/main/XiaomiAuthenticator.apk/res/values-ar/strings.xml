@@ -36,7 +36,7 @@
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">تم بنجاح استيراد البيانات الخاصة بك من التطبيق المصادق Xiaomi مهملة. أنها الآن آمنة لإزالة تثبيت الإصدار السابق من التطبيق بالنقر أدناه.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">استيراد نجحت</string>
   <string name="decoding_exception">فك الاستثناء</string>
-  <string name="details_patternforgotten">"إعادة تنشيط: تسجيل الدخول في account.xiaomi.com وانقر فوق تنشيط."</string>
+  <string name="details_patternforgotten">"إعادة تنشيط: تسجيل الدخول في account.xiaomi.com وأنقر فوق تنشيط."</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">أدخل اسم الحساب</string>
   <string name="enter_key_hint">أدخل المفتاح</string>

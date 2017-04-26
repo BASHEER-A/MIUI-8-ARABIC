@@ -71,7 +71,7 @@
   <string name="available_playlist_name_format">قائمة تشغيل جديدة %d</string>
   <string name="avoid_to_use_traffic_summary">"لا تستخدم شبكة الجوال لتشغيل الموسيقى"</string>
   <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الهاتف لتشغيل الأغاني</string>
-  <string name="back_confirm">انقر مرة اخرى للخروج من التطبيق</string>
+  <string name="back_confirm">أنقر مرة اخرى للخروج من التطبيق</string>
   <string name="baidu_music">موسيقى Baidu</string>
   <string name="being_disable_auto_payment">جار إيقاف التفعيل\u2026</string>
   <string name="being_enable_auto_payment">جارٍ التفعيل\u2026</string>
@@ -98,9 +98,9 @@
   <string name="chinese_male">فنانين (الصين)</string>
   <string name="choose_download_quality">اختيار جودة التحميل</string>
   <string name="choose_stream_quality">اختيار جودة التشغيل</string>
-  <string name="click_modify">انقر لتعديل الكلمات.</string>
-  <string name="click_to_shuffle">انقر لتشغيل العشوائي</string>
-  <string name="click_to_view_new_local_audios">انقر لعرض التفاصيل.</string>
+  <string name="click_modify">أنقر لتعديل الكلمات.</string>
+  <string name="click_to_shuffle">أنقر لتشغيل العشوائي</string>
+  <string name="click_to_view_new_local_audios">أنقر لعرض التفاصيل.</string>
   <string name="close_music_time">"الوقت المتبقي: "</string>
   <string name="cloud_enable">مزامنة الموسيقى مع Mi Cloud</string>
   <string name="cloud_settings">إعدادات المزامنة</string>
@@ -296,7 +296,7 @@
   <string name="favorite_singer">الفنانين المفضلون</string>
   <string name="favorite_succeed">تم الإضافة إلى المفضلة</string>
   <string name="favorite_tracks">المفضلة</string>
-  <string name="favourite_music_left_half">لإضافة اغاني إلى قائمة التشغيل هذه، انقر الـ</string>
+  <string name="favourite_music_left_half">لإضافة اغاني إلى قائمة التشغيل هذه، أنقر الـ</string>
   <string name="favourite_music_right_half">"أيقونة المفضلة على يسار اسم الأغنية"</string>
   <string name="female_artist">فنانات</string>
   <string name="file_not_found">"الملف غير موجود"</string>
@@ -458,7 +458,7 @@
   <string name="nav_online_billboard">قوائم</string>
   <string name="nav_online_fm">راديو</string>
   <string name="nav_online_playlist">قوائم التشغيل</string>
-  <string name="network_error_and_retry">"تعذر الاتصال، انقر للمحاولة مجدداً"</string>
+  <string name="network_error_and_retry">"تعذر الاتصال، أنقر للمحاولة مجدداً"</string>
   <string name="network_failure">تأكد من اتصالك، ثم أعد المحاولة.</string>
   <string name="network_request_error">"تعذر الاتصال بالشبكة"</string>
   <string name="network_settings_error">"تعذر الاتصال بالشبكة"</string>
@@ -496,7 +496,7 @@
   <string name="notification_favorite_summary">الحصول على إشعارات حول الإصدارات الجديدة وأحدث الأغاني</string>
   <string name="notification_favorite_title">إشعار حول الفنانين المفضلين</string>
   <string name="notification_headset_custom">تجاهل</string>
-  <string name="notification_headset_info">انقر لعرض الإعدادات.</string>
+  <string name="notification_headset_info">أنقر لعرض الإعدادات.</string>
   <string name="notification_headset_settings">سماعات الرأس متصلة</string>
   <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
   <string name="notification_play_summary">عرض الأغنية الحالية والتالية، إظهار الكلمات على الشاشة الرئيسية</string>
@@ -512,7 +512,7 @@
   <string name="online_favor">مميزة</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">كل الاغاني التي تم تنزيلها في قائمة التشغيل سيتم حذفها من وحدة التخزين الداخلي. </string>
-  <string name="online_music_enabled_subtitle">انقر لتشغيل أغانيك المفضلة.</string>
+  <string name="online_music_enabled_subtitle">أنقر لتشغيل أغانيك المفضلة.</string>
   <string name="online_music_enabled_summary">قم بالاستماع وتحميل أغانيك المفضلة. اعرض أفضل الأغاني وقوائم التشغيل المنتقاة أينما ذهبت!</string>
   <string name="online_music_enabled_title">التشغيل المجاني هنا</string>
   <string name="online_playlist_is_empty">قائمة التشغيل فارغة</string>
@@ -568,7 +568,7 @@
   <string name="price">"السعر:\u0020"</string>
   <string name="priority_storage">استخدام بطاقة الذاكرة SD الخارجية</string>
   <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
-  <string name="privacy_notif_content">انقر لعرض التفاصيل.</string>
+  <string name="privacy_notif_content">أنقر لعرض التفاصيل.</string>
   <string name="privacy_notif_title">مسرع التحميل Xunlei في</string>
   <string name="privacy_tip_cancel">إلغاء الأمر</string>
   <string name="privacy_tip_content">"استخدام مسرع Xunlei لتسريع الأسبوعية؟ سيتم تحميل عنوان url الخاص بالمضيف للتحميل إلى الملقمات في Xunlei. سيتم أيضا تحميل تفاصيل حسابك مي للتحقق من ما إذا كان لديك أي اشتراكات نشطة لهذه الخدمة."</string>
@@ -580,7 +580,7 @@
   <string name="pulluprefreshrecyclerview_loading_finished">تم التحميل بنجاح</string>
   <string name="pulluprefreshrecyclerview_loading_running">جارٍ التحميل\u2026</string>
   <string name="radar">ACRCloud</string>
-  <string name="radar_click_to_retry">انقر للمحاولة مرة أخرى</string>
+  <string name="radar_click_to_retry">أنقر للمحاولة مرة أخرى</string>
   <string name="radar_fail">لا توجد نتائج</string>
   <string name="radar_fail_by_noise">"يبدو أنها صاخبة جدا هنا"</string>
   <string name="radar_listening_state">جاري التعرف\u2026</string>
@@ -812,6 +812,6 @@
   <string name="warning_tip_ok">إيقاف مؤقت</string>
   <string name="warning_tip_title">تحذير استخدام البيانات</string>
   <string name="welcome_to_new_music">مرحباً بك في الإصدار الجديد لموسيقى Mi</string>
-  <string name="wifi_required_body" formatted="false">"ينبغي أن استخدام الـ Wi-Fi لإكمال هذا التحميل %s. انقر فوق %s لبدء عملية التحميل في المرة التالية التي كنت متصلاً بشبكة اتصال المحلية اللاسلكية "</string>
+  <string name="wifi_required_body" formatted="false">"ينبغي أن استخدام الـ Wi-Fi لإكمال هذا التحميل %s. أنقر فوق %s لبدء عملية التحميل في المرة التالية التي كنت متصلاً بشبكة اتصال المحلية اللاسلكية "</string>
   <string name="wifi_required_title">ينبغي الاتصال بالـ Wi-Fi لتحميل هذا الملف</string>
 </resources>

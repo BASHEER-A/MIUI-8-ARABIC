@@ -198,7 +198,7 @@
   <string name="resource_exchange_has_used">الرمز الذي أدخلته تم استخدامه مسبقا.</string>
   <string name="resource_exchange_hint">أدخل رمز الهدية</string>
   <string name="resource_exchange_purchase_unkown_error">معذرة! حدث خطأ غير معروف. سجل الدخول إلى http://market.xiaomi.com لعرض حالة الدفع الخاصة بك.</string>
-  <string name="resource_exchange_share_code_content">"لقد حصلت على رمز هدية (%2$s) لثيم \"%1$s\" في متجر ثيمات MIUI. انقر فوق %3$s لاستخدامه الآن."</string>
+  <string name="resource_exchange_share_code_content">"لقد حصلت على رمز هدية (%2$s) لثيم \"%1$s\" في متجر ثيمات MIUI. أنقر فوق %3$s لاستخدامه الآن."</string>
   <string name="resource_exchange_share_code_dlg_content">رمز الهدية لـ \"%1$s\": %2$s. عند إرساله إلى مستخدم MIUI آخر، يمكنه استخدام الرمز لتنزيل هذا الثيم.</string>
   <string name="resource_exchange_share_code_dlg_title">جارٍ الإرسال</string>
   <string name="resource_exchange_success">استمتع! :)</string>
@@ -276,7 +276,7 @@
   <string name="resource_share_text">"إليك ثيم أعتقد أنه سيعجبك: %1$s! الرابط: %2$s"</string>
   <string name="resource_share_title">مشاركة</string>
   <string name="resource_system_title">موارد النظام</string>
-  <string name="resource_tab_to_view">انقر للعرض.</string>
+  <string name="resource_tab_to_view">أنقر للعرض.</string>
   <string name="resource_tip_select_none">لم يتم تحديد شيء</string>
   <string name="resource_title">التفاصيل</string>
   <string name="resource_title_category">الفئات</string>
@@ -366,9 +366,9 @@
   <string name="theme_multiple_button_title_customize">تخصيص</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">لا</string>
-  <string name="theme_precast_create_notification_content">انقر لعرض الثيمات الجديدة.</string>
+  <string name="theme_precast_create_notification_content">أنقر لعرض الثيمات الجديدة.</string>
   <string name="theme_precast_create_notification_title">تم التحديث إلى MIUI 7</string>
-  <string name="theme_precast_update_notification_content">انقر لاستكشاف التحديثات.</string>
+  <string name="theme_precast_update_notification_content">أنقر لاستكشاف التحديثات.</string>
   <string name="theme_precast_update_notification_title">تم تحديث ثيمات MIUI 7</string>
   <string name="theme_purchased_list_empty">"لم تقم بشراء أية ثيمات."</string>
   <string name="theme_purchased_non_local">على الانترنت</string>

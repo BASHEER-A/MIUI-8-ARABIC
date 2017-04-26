@@ -18,7 +18,7 @@
   <string name="holiday_data_update_failed">"لا يمكن تحديث. تحقق من اتصال البيانات الخاص بك ثم حاول مرة أخرى."</string>
   <string name="holiday_data_update_succeed">التحديث النهائي</string>
   <string name="holiday_data_updating">تحديث…</string>
-  <string name="holiday_update_summary">انقر لتحديث معلومات التقويم.</string>
+  <string name="holiday_update_summary">أنقر لتحديث معلومات التقويم.</string>
   <string name="holiday_update_title">تحديث متوفر</string>
   <string name="provider_label">التقويم</string>
   <string name="upgrade_msg">"تحديث قاعدة بيانات للتقويم…"</string>

@@ -254,7 +254,7 @@
   <string name="screenshot_edit">تعديل</string>
   <string name="screenshot_failed_text">"لا يمكن اخذ لقطة شاشة بسبب مساحة التخزين المحدودة، أو غير مسموح به من قبل التطبيق أو مؤسستك."</string>
   <string name="screenshot_long_screenshot">التمرير</string>
-  <string name="screenshot_saved_text">انقر لعرض لقطة الشاشة الخاصة بك.</string>
+  <string name="screenshot_saved_text">أنقر لعرض لقطة الشاشة الخاصة بك.</string>
   <string name="screenshot_saved_title">تم قص لقطة الشاشة</string>
   <string name="screenshot_saving_text">تم حفظ لقطة الشاشة</string>
   <string name="screenshot_saving_ticker">جارٍ حفظ لقطة الشاشة\u2026</string>

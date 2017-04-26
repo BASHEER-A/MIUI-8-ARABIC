@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">أداة اختبار أجهزة الاستشعار</string>
   <string name="capacitance_test">اختبار السعة</string>
-  <string name="checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="checkerboard_test">اختبار اللوحة</string>
   <string name="correct">موافق</string>
   <string name="error">خطأ</string>
   <string name="image_quality_test">اختبار جودة الصورة</string>

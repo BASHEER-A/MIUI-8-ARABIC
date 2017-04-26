@@ -28,13 +28,13 @@
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">شارك الملفات مع الأجهزة القريبة</string>
   <string name="intro_page1_text2">"الآن انها أسهل من أي وقت مضى"</string>
-  <string name="intro_page2_choose_files">اختر ملفات و انقر \"ارسل\"</string>
-  <string name="intro_page2_click_to_send">انقر \"ارسل\"</string>
+  <string name="intro_page2_choose_files">اختر ملفات و أنقر \"ارسل\"</string>
+  <string name="intro_page2_click_to_send">أنقر \"ارسل\"</string>
   <string name="intro_page3_choose_midrop">اختر Mi Drop</string>
   <string name="intro_page3_choose_midrop2">الملفات تُرسل على الفور!</string>
   <string name="newText">نص جديد</string>
   <string name="notif_receive_cancel"> %1$s ملف لم يتم نقله</string>
-  <string name="notif_receive_lockscreen">انقر لعرض التفاصيل</string>
+  <string name="notif_receive_lockscreen">أنقر لعرض التفاصيل</string>
   <string name="notif_receive_progress">استلام %1$s ملف\u2026</string>
   <string name="notif_receive_success">تم استلام الملفات من %1$s</string>
   <string name="notif_send_cancel">تقطع النقل الى %1$s</string>

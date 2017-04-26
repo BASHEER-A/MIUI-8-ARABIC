@@ -10,7 +10,7 @@
   <string name="btn_send">إرسال</string>
   <string name="bugreport_dialog_not_show_again">"عدم الإظهار مرة أخرى"</string>
   <string name="bugreport_dialog_submit_content">قد تحتوي ملاحظاتك على معلومات شخصية.</string>
-  <string name="bugreport_dump_complete_notification_summary">انقر للعرض.</string>
+  <string name="bugreport_dump_complete_notification_summary">أنقر للعرض.</string>
   <string name="bugreport_dump_complete_notification_title">تم إنشاء تقرير عن خلل</string>
   <string name="bugreport_dump_start_notification_summary">سيستغرق ذلك عدة دقائق.</string>
   <string name="bugreport_dump_start_notification_title">جارٍ إنشاء تقرير عن خلل\u2026</string>

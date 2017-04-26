@@ -30,7 +30,7 @@
   <string name="camera_setting">الكاميرا</string>
   <string name="camera_settings_label">الكاميرا</string>
   <string name="camera_snap_mode_title">وضع الالتقاط السريع</string>
-  <string name="camera_snap_mode_title_detail">انقر لعرض التفاصيل</string>
+  <string name="camera_snap_mode_title_detail">أنقر لعرض التفاصيل</string>
   <string name="cannot_connect_camera_once">"تعذر الاتصال بالكاميرا"</string>
   <string name="cannot_connect_camera_twice">"لا يزال يتعذر الاتصال بالكاميرا. حاول إعادة تشغيل هاتفك."</string>
   <string name="cannot_connect_camera_volte_call">مكالمة فيديو جارية، يرجى المحاولة لاحقاٌ.</string>

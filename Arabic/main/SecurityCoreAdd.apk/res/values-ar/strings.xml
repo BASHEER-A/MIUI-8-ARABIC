@@ -13,8 +13,8 @@
   <string name="changePassword">تغيير كلمة السر</string>
   <string name="chooseDataTransfer">ماذا يجب أن يتم مع بيانات الفضاء الثاني؟</string>
   <string name="chooseFile">تحديد ملفات أخرى</string>
-  <string name="click_to_back_first_space">انقر للرجوع إلى الفضاء الأول</string>
-  <string name="click_to_switch">انقر للعرض</string>
+  <string name="click_to_back_first_space">أنقر للرجوع إلى الفضاء الأول</string>
+  <string name="click_to_switch">أنقر للعرض</string>
   <string name="closePassword">إيقاف كلمة السر</string>
   <string name="closePasswordGuide">"لن تكون قادراً على الدخول إلى الفضاء الثاني من قفل الشاشة بعد إيقاف تشغيل كلمة المرور"</string>
   <string name="closeSecondSpace">حذف الفضاء الثاني</string>
@@ -172,7 +172,7 @@
   <string name="settings_status_icon_summary">عرض أيقونة الفضاء الثاني في شريط الحالة</string>
   <string name="settings_status_icon_title">أيقونة الفضاء الثاني</string>
   <string name="settings_switch_shortcut_summary">عرض اختصار الشاشة الرئيسية في الفضاء الاول</string>
-  <string name="settings_switch_shortcut_title">انقر اختصار للتبديل</string>
+  <string name="settings_switch_shortcut_title">أنقر اختصار للتبديل</string>
   <string name="show_normal_content">"عدم إظهار العناصر الخاصة"</string>
   <string name="show_private_content">إظهار العناصر الخاصة</string>
   <string name="show_private_msg">عرض الرسائل الخاصة</string>

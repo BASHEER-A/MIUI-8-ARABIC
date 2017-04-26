@@ -43,7 +43,7 @@
   <string name="check_update_when_wifi_available">تحقق باستخدام Wi-Fi فقط</string>
   <string name="check_update_when_wifi_available_sum">"تحقق من وجود تحديثات فقط عندما تكون متصلا بخدمة WiFi"</string>
   <string name="clean_up_button">تنظيف</string>
-  <string name="comment_invalid">قم بتقييم هذا التحديث (انقر على النجوم)</string>
+  <string name="comment_invalid">قم بتقييم هذا التحديث (أنقر على النجوم)</string>
   <string name="comment_publish">إرسال</string>
   <string name="comment_sending">جارٍ الإرسال\u2026</string>
   <string name="comment_upload_failed">"لا يمكن إرسال التعليق"</string>
@@ -141,14 +141,14 @@
   <string name="notification_load_title_alpha">تسجيل الدخول إلى حساب Mi</string>
   <string name="notification_load_title_dev">تسجيل الدخول إلى حساب Mi</string>
   <string name="notification_reboot_btn">إعادة تشغيل</string>
-  <string name="notification_reboot_seccess_des">انقر لعرض معلومات التحديث.</string>
+  <string name="notification_reboot_seccess_des">أنقر لعرض معلومات التحديث.</string>
   <string name="notification_reboot_seccess_title">تم تحديث الجهاز</string>
-  <string name="notification_reboot_summary_hm">انقر لإعادة تشغيل الجهاز.</string>
+  <string name="notification_reboot_summary_hm">أنقر لإعادة تشغيل الجهاز.</string>
   <string name="notification_reboot_title">اعادة التشغيل لتطبيق التحديث</string>
   <string name="notification_reboot_title_hm">قم باعادة التشغيل لتطبيق التحديث</string>
   <string name="notification_restart">تحديث مرة اخرى</string>
   <string name="notification_share">مشاركة</string>
-  <string name="notification_uncrypt_summary_hm">انقر لإعادة تشغيل جهازك</string>
+  <string name="notification_uncrypt_summary_hm">أنقر لإعادة تشغيل جهازك</string>
   <string name="notification_uncrypt_title_hm">اعادة التشغيل لتطبيق التحديث</string>
   <string name="notification_uncrypting">تحديث فك التشفير\u2026</string>
   <string name="notification_update_new_version">تحديث متاح</string>
@@ -187,7 +187,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto">التحقق تلقائيا من وجود تحديثات</string>
   <string name="set_auto_msg">تحميل التحديثات عند الاتصال بشبكة Wi-Fi وتثبيتها في الليل؟</string>
   <string name="set_auto_update_title">هل تريد التحديث تلقائياً ؟</string>
-  <string name="set_installfail_full_msg">حدث خطأ ما. انقر على موافق للإبلاغ عن هذا الخطأ.</string>
+  <string name="set_installfail_full_msg">حدث خطأ ما. أنقر على موافق للإبلاغ عن هذا الخطأ.</string>
   <string name="set_installfail_msg">"أنت غير متصل بشبكة Wi-Fi. استخدام اتصال بيانات الهاتف لتنزيل التحديث سيزيد من استخدامك للبيانات. اذا تم تجاوز القيد المفروض على استخدام البيانات في الخطة، فقد يفرض عليك مشغِّل شبكة الجوّال رسومًا."</string>
   <string name="set_installfail_title">حاول تنزيل التحديث مرة أخرى؟</string>
   <string name="set_installfail_title_full">"لا يمكن التحديث"</string>

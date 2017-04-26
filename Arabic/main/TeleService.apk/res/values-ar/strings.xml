@@ -202,7 +202,7 @@
   <string name="call_record_on_summary">مشغّل</string>
   <string name="call_record_setting">تسجيل المكالمة</string>
   <string name="call_record_whitelist_custom">الأرقام المحددة</string>
-  <string name="call_recording_notification_message">انقر للاستماع.</string>
+  <string name="call_recording_notification_message">أنقر للاستماع.</string>
   <string name="call_recording_notification_message_low_storage">بطاقة SD ممتلئة.</string>
   <string name="call_recording_notification_message_sd_unmounted">تمت إزالة بطاقة SD.</string>
   <string name="call_recording_notification_summary">عرض إشعار بعد اتمام تسجيل المكالمة</string>

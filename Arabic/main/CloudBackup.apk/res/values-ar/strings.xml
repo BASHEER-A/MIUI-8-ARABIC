@@ -23,7 +23,7 @@
   <string name="button_delete">حذف</string>
   <string name="button_next">التالي</string>
   <string name="cancel_recover_settings">&lt;u&gt;&amp;#1573;&amp;#1604;&amp;#1594;&amp;#1575;&amp;#1569;&lt;/u&gt;</string>
-  <string name="click_try_to_restore_again">انقر للمحاولة مرة أخرى</string>
+  <string name="click_try_to_restore_again">أنقر للمحاولة مرة أخرى</string>
   <string name="cloud_app_backup_success">إنتهت عملية النسخ الاحتياطي للتطبيقات</string>
   <string name="cloud_app_check_data">جارٍ التحدث إلى Mi Cloud\u2026</string>
   <string name="cloud_app_current_device">الجهاز الحالي</string>

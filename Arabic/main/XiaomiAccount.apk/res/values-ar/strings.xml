@@ -165,9 +165,9 @@
   <string name="no_response_retry">لا استجابة، من فضلك أعد المحاولة. </string>
   <string name="no_sim_card_or_unactivated">"لم يتم تثبيت بطاقة SIM أو تفعيلها"</string>
   <string name="nobind">غير متصل</string>
-  <string name="notify_network_restricted_content_bg_network">"تم تقييد الدخول للإنترنت لحساب Mi. انقر للسماح."</string>
-  <string name="notify_network_restricted_content_hidden_state">"تم تقييد نشاط خلفية حساب Mi. انقر للسماح."</string>
-  <string name="notify_network_restricted_content_mobile_network">"تم تقييد الدخول للإنترنت لحساب Mi. انقر للسماح."</string>
+  <string name="notify_network_restricted_content_bg_network">"تم تقييد الدخول للإنترنت لحساب Mi. أنقر للسماح."</string>
+  <string name="notify_network_restricted_content_hidden_state">"تم تقييد نشاط خلفية حساب Mi. أنقر للسماح."</string>
+  <string name="notify_network_restricted_content_mobile_network">"تم تقييد الدخول للإنترنت لحساب Mi. أنقر للسماح."</string>
   <string name="notify_network_restricted_title">"تعذّر على حساب Mi الاتصال بالشبكة"</string>
   <string name="other_devices_title">الأجهزة الأخرى</string>
   <string name="passport_access_denied">تم رفض الوصول</string>

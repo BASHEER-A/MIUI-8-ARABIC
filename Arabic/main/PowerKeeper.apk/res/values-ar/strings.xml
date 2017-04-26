@@ -2,7 +2,7 @@
 <resources>
   <string name="action_bar_delete">حذف</string>
   <string name="action_settings">الاعدادت</string>
-  <string name="activity_title_poweranalyze">اختبارالبطارية </string>
+  <string name="activity_title_poweranalyze">اختبار البطارية </string>
   <string name="activity_title_powerconfigure">إعدادات البطارية</string>
   <string name="activity_title_poweroptimize">توفير شحن البطارية</string>
   <string name="add_applications">اختر التطبيقات</string>
@@ -103,7 +103,7 @@
   <string name="power_config_mode_title">أوضاع توفير الطاقة</string>
   <string name="power_config_phone_charging_title">يتم الشحن </string>
   <string name="power_config_phone_idle_title">سكون</string>
-  <string name="power_config_select_apps_empty">انقر لتحديد التطبيقات</string>
+  <string name="power_config_select_apps_empty">أنقر لتحديد التطبيقات</string>
   <string name="power_config_select_apps_title">التطبيقات</string>
   <string name="power_config_title">الإعدادات</string>
   <string name="power_config_ultimate_description">سيقوم MIUI بتجميد كل التطبيقات في الخلفية</string>
