@@ -35,7 +35,7 @@
   <string name="invalid_confirm_pin_hint">"رمز PIN غير متطابق"</string>
   <string name="invalid_sim_pin_hint">رمز PIN يجب ان يحتوي على 4 الى 8 أرقام</string>
   <string name="invalid_sim_puk_hint">يجب ان يتكون رمزPUK من 8 أرقام على الاقل</string>
-  <string name="keyguard_torch_cover_text">لإبقاء ضوء الفلاش مفتوحًا، استمر بالضغط على زر الطاقة</string>
+  <string name="keyguard_torch_cover_text">لإبقاء الكشاف مفتوحاً، استمر بالضغط على زر الطاقة</string>
   <string name="left_action_default_hint_text">ريموت Mi</string>
   <string name="lock_screen_date">EEEE، d MMMM</string>
   <string name="lock_screen_date_12">EEEE، d MMMM</string>
