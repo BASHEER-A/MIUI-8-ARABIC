@@ -242,7 +242,7 @@
   <string name="passport_login_instead_reg_with_email">استخدم هذا البريد الإلكتروني</string>
   <string name="passport_login_prompt">حساب Mi واحد. لكافة الخدمات.</string>
   <string name="passport_login_title">قم بتسجيل الدخول إلى حسابك Mi</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Otherطرق أخرى لتسجيل الدخول&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;طرق أخرى لتسجيل الدخول&lt;/u&gt;</string>
   <string name="passport_message_dialog_title">SMS مع رموز التحقق</string>
   <string name="passport_next">التالي</string>
   <string name="passport_notification_title">خطأ تسجيل ل %1$s</string>
