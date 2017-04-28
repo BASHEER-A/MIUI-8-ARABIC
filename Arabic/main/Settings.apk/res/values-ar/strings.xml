@@ -1180,7 +1180,7 @@
   <string name="dock_settings">Dock</string>
   <string name="dock_settings_summary">Audio settings for the attached dock</string>
   <string name="dock_settings_title">Dock settings</string>
-  <string name="dock_sounds_enable_summary_off">عدم تشغيل الصوت عند إدراج أو إزالة الهاتف من قفص الاتهام</string>
+  <string name="dock_sounds_enable_summary_off">لا تقم بتشغيل الصوت عند إدخال أو إزالة الهاتف من المنفذم</string>
   <string name="dock_sounds_enable_summary_on">تشغيل صوت عند إدراج أو إزالة الهاتف من الحوض</string>
   <string name="dock_sounds_enable_title">Dock insert sound</string>
   <string name="docking_sounds_title">Docking sounds</string>
@@ -2077,9 +2077,9 @@ This helps protect data on lost or stolen devices."</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">نقاط متعددة اللمس</string>
   <string name="multi_touch_points_preference">سيتم تفعيل هذا الإعداد بعد إعادة تشغيل جهازك</string>
-  <string name="music_audio_effect_optimize">Audio settings</string>
-  <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
-  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
+  <string name="music_audio_effect_optimize">إعدادات الصوت</string>
+  <string name="music_audio_effect_optimize_summary">سماعات الرأس وإعدادات الصوت الأخرى</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi، وسماعات الرأس وإعدادات الصوت الأخرى</string>
   <string name="music_audio_effect_settings">إعدادات التأثيرات</string>
   <string name="music_dirac_control">تحسين جودة الصوت</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
@@ -4004,10 +4004,10 @@ Any user can update apps for all other users."</string>
   <string name="vibrate_category_title">الاهتزاز</string>
   <string name="vibrate_in_normal_title">الاهتزاز عند الرنين</string>
   <string name="vibrate_in_silent_title">الاهتزاز عند الصمت</string>
-  <string name="vibrate_input_devices">Use vibrator</string>
+  <string name="vibrate_input_devices">استخدام هزاز</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
-  <string name="vibrate_on_touch_title">Vibrate on touch</string>
-  <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
+  <string name="vibrate_on_touch_title">اهتزاز عند اللمس</string>
+  <string name="vibrate_when_ringing_title">يهتز أيضا للمكالمات</string>
   <string name="virtual_sim_category_title">تجوال Mi</string>
   <string name="virtual_sim_description">خدمة تجوال دولي موثوقة</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
