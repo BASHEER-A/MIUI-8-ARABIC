@@ -220,11 +220,11 @@
   <string name="passport_error_user_name">The username you entered is invalid.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
-  <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
-  <string name="passport_forget_password_no_underline">Forgot password</string>
-  <string name="passport_get_back_pwd">Retrieve account password</string>
-  <string name="passport_get_verify_code">Get code</string>
-  <string name="passport_getting_verify_code">Getting</string>
+  <string name="passport_forget_password">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
+  <string name="passport_forget_password_no_underline">نسيت كلمة المرور</string>
+  <string name="passport_get_back_pwd">استرداد كلمة مرور الحساب</string>
+  <string name="passport_get_verify_code">الحصول على رمز</string>
+  <string name="passport_getting_verify_code">جاري الحصول على رمز</string>
   <string name="passport_i_know">Got it</string>
   <string name="passport_identitfication_expired">Verification code expired, start over</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
