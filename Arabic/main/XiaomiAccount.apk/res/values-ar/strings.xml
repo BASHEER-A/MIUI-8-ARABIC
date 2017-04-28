@@ -268,7 +268,7 @@
   <string name="passport_reg_using_other_phone">&lt; u &gt; استخدام رقم هاتف بديل &lt;/ش &gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"إنشاء حساب جديد باستخدام "</string>
   <string name="passport_reg_using_phone_number_prompt">إنشاء حساب باستخدام رقم الهاتف</string>
-  <string name="passport_reg_via_sms_alert"> قد تفرض شركة الاتصال رسوم على رسالة SMS  لتفعيل هذه الخدمة</string>
+  <string name="passport_reg_via_sms_alert"> قد تفرض شركة الاتصال رسوم  لتفعيل هذه الخدمة (تعريب بشير + عبدالله)</string>
   <string name="passport_reging">إنشاء الحساب…</string>
   <string name="passport_register">إنشاء حساب</string>
   <string name="passport_register_account_goto_email">الانتقال إلى علبة الوارد</string>
