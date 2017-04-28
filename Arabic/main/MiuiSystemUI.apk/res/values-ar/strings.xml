@@ -50,7 +50,7 @@
   <string name="accessibility_wimax_three_bars">ثلاث أشارات WiMAX.</string>
   <string name="accessibility_wimax_two_bars">أشارتين WiMAX.</string>
   <string name="account_info">لم يتم تسجيل الدخول</string>
-  <string name="activate_usb_message">لتفعيل هذه الميزة، أدخل بطاقة SIM.</string>
+  <string name="activate_usb_message">لتفعيل هذه الميزة، أدخل شريحة SIM.</string>
   <string name="activate_usb_title">تفعيل USB</string>
   <string name="always_use_accessory">استخدام افتراضياً لملحق USB هذا</string>
   <string name="always_use_device">استخدام افتراضياً لجهاز USB هذا</string>

@@ -28,7 +28,7 @@
   <string name="callFailed_powerOff">الهوائي مُتوقف</string>
   <string name="callFailed_server_error">خطأ في الخادم. حاول مجددا لاحقا</string>
   <string name="callFailed_server_unreachable">"لا يمكن الوصول إلى الخادم"</string>
-  <string name="callFailed_simError">خطأ في بطاقة SIM</string>
+  <string name="callFailed_simError">خطأ في شريحة SIM</string>
   <string name="callFailed_timedOut">لا يوجد استجابة من الخادم</string>
   <string name="callFailed_unobtainable_number">رقم غير صالح</string>
   <string name="callFailed_userBusy">الخط مشغول</string>
@@ -160,12 +160,12 @@
   <string name="no_call_back_message">يتم أخذ وقت طويل للاتصال. التبديل إلى مكالمه عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="no_call_back_title">تنبيه</string>
   <string name="no_vm_number">رقم البريد الصوتي مفقود</string>
-  <string name="no_vm_number_msg">لا يوجد أرقام بريد صوتي في بطاقة SIM.</string>
+  <string name="no_vm_number_msg">لا يوجد أرقام بريد صوتي في شريحة SIM.</string>
   <string name="non_ivr_menu_collapse_menu">تقليص القائمة</string>
   <string name="non_ivr_menu_view_menu">عرض القائمة</string>
   <string name="not_activate_sim_card_content">قم بتأكيد رقم هاتفك لبدء استخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_activate_sim_card_content_title">لم يتم التحقق من رقم الهاتف</string>
-  <string name="not_activate_sim_card_content_with_operator">قم بالتحقق من بطاقة SIM%1$s (%2$s) للقيام بمكالمة باستخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
+  <string name="not_activate_sim_card_content_with_operator">قم بالتحقق من شريحة SIM%1$s (%2$s) للقيام بمكالمة باستخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_support_message">تعذر الاتصال بهذا الرقم. التبديل إلى مكالمه عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_support_title">هذا الرقم غير مدعوم</string>
   <string name="notification_action_accept">قبول</string>
@@ -211,9 +211,9 @@
   <string name="private_num">رقم خاص</string>
   <string name="respond_via_sms_custom_message">كتابة رسالة مخصصة...</string>
   <string name="select_audio_dialog_title">تحديد وضع الرد</string>
-  <string name="select_one_sim_title">يمكن استخدام بطاقة SIM %1$d فقط</string>
-  <string name="select_sim_hint">"لا يمكن استخدام بطاقة SIM %2$d، عندما تكون بطاقة SIM %1$d e قيد الاستخدام."</string>
-  <string name="select_voice_call_sim">اختر بطاقة SIM</string>
+  <string name="select_one_sim_title">يمكن استخدام شريحة SIM %1$d فقط</string>
+  <string name="select_sim_hint">"لا يمكن استخدام شريحة SIM %2$d، عندما تكون شريحة SIM %1$d e قيد الاستخدام."</string>
+  <string name="select_voice_call_sim">اختر شريحة SIM</string>
   <string name="separate_from_conference">مكالمة منفصلة</string>
   <string name="sip_call_not_support_record">"لا يمكن تسجيل مكالمات SIP"</string>
   <string name="suspect_info">كن حذرا من المعلومات الشخصية الخاصة بك.</string>

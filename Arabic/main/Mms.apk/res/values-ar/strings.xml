@@ -299,7 +299,7 @@
   <string name="mx_activate_status_desc_check_net_connection">"تعذر الاتصال بالشبكة"</string>
   <string name="mx_activate_status_desc_fail">"تعذر تفعيل رسالة Mi"</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">جارٍ إرسال رسالة التفعيل\u2026</string>
-  <string name="mx_activate_status_desc_query_activte_info">جارٍالتحقق من معلومات بطاقة SIM\u2026</string>
+  <string name="mx_activate_status_desc_query_activte_info">جارٍالتحقق من معلومات شريحة SIM\u2026</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">رقم الهاتف الذي أدخلته غير صالح</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"تعذر تفعيل رسالة Mi"</string>
   <string name="mx_and_voip_enable">رسالة Mi و صوت</string>
@@ -415,7 +415,7 @@
   <string name="pref_title_festival_networking">الإتصال بالإنترنت</string>
   <string name="pref_title_fwd_sender_info">إعادة توجيه معلومات المرسل</string>
   <string name="pref_title_hide_festival">إخفاء ميزات اللغة الصينية</string>
-  <string name="pref_title_manage_sim_messages">مساحة التخزين على بطاقة SIM</string>
+  <string name="pref_title_manage_sim_messages">مساحة التخزين على شريحة SIM</string>
   <string name="pref_title_miui_card">إرسال عبر البطاقة</string>
   <string name="pref_title_mms_auto_retrieval">تنزيل محتوى رسائل الوسائط المتعددة (MMS) تلقائيا</string>
   <string name="pref_title_mms_delete">حد رسالة الوسائط المتعددة</string>
@@ -488,7 +488,7 @@
   <string name="retrive_hms_tips">جارٍ الإسترداد\u2026</string>
   <string name="save">حفظ</string>
   <string name="save_ringtone">حفظ كنغمة رنين</string>
-  <string name="save_to_sim">حفظ إلى بطاقة SIM</string>
+  <string name="save_to_sim">حفظ إلى شريحة SIM</string>
   <string name="save_to_sim_failed">"لا يمكن الحفظ"</string>
   <string name="saved_label">"تم الحفظ:\u0020"</string>
   <string name="saved_ringtone">تم حفظ نغمة الرنين</string>
@@ -518,7 +518,7 @@
   <string name="select_link_title">إختيار إجراء</string>
   <string name="select_local_audio">تحديد ملف صوتي</string>
   <string name="select_local_video">تحديد ملف فيديو</string>
-  <string name="select_message_send_sim">اختيار بطاقة SIM</string>
+  <string name="select_message_send_sim">اختيار شريحة SIM</string>
   <string name="select_recipient">اختيار المستلمين</string>
   <string name="select_top_text">النص في الأعلى</string>
   <string name="send">إرسال</string>
@@ -544,15 +544,15 @@
   <string name="show_all_messages">إظهار كل الرسائل</string>
   <string name="show_delivery_status">إظهار حالة التسليم</string>
   <string name="show_sender">عرض معلومات المرسل</string>
-  <string name="sim_card1">بطاقة SIM 1</string>
-  <string name="sim_card2">بطاقة SIM 2</string>
+  <string name="sim_card1">شريحة SIM 1</string>
+  <string name="sim_card2">شريحة SIM 2</string>
   <string name="sim_card_cloud">%s (رسالة Mi)</string>
   <string name="sim_copy_to_phone_memory">نسخ إلى ذاكرة الهاتف</string>
   <string name="sim_delete">حذف</string>
-  <string name="sim_empty">لا توجد رسائل على بطاقة SIM</string>
+  <string name="sim_empty">لا توجد رسائل على شريحة SIM</string>
   <string name="sim_full_body">.احذف بعض الرسائل لتوفيرمزيد من المساحة</string>
-  <string name="sim_full_title">بطاقة SIM ممتلئة</string>
-  <string name="sim_manage_messages_title">الرسائل النصية على بطاقة SIM</string>
+  <string name="sim_full_title">شريحة SIM ممتلئة</string>
+  <string name="sim_manage_messages_title">الرسائل النصية على شريحة SIM</string>
   <string name="sim_view">عرض</string>
   <string name="slide_number">Slide %d</string>
   <string name="slide_show_part">Part %1$d/%2$d</string>

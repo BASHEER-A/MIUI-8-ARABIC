@@ -67,7 +67,7 @@
   <string name="callFailed_server_unreachable">الملقم غير قابلة للوصول</string>
   <string name="callFailed_service_option_not_available"></string>
   <string name="callFailed_service_or_option_not_implemented"></string>
-  <string name="callFailed_simError">لا يوجد SIM أو بطاقة SIM خطأ</string>
+  <string name="callFailed_simError">لا يوجد SIM أو شريحة SIM خطأ</string>
   <string name="callFailed_switching_equipment_congestion"></string>
   <string name="callFailed_tempopary_failure"></string>
   <string name="callFailed_timedOut">No response, timed out</string>
@@ -164,7 +164,7 @@ unconditional activated"</string>
   <string name="mt_code_multi_party_call">Conference call</string>
   <string name="mt_code_on_hold_call_released">Held call released</string>
   <string name="no_vm_number">رقم البريد الصوتي مفقود</string>
-  <string name="no_vm_number_msg">لا يوجد رقم بريد صوتي مخزن على بطاقة SIM.</string>
+  <string name="no_vm_number_msg">لا يوجد رقم بريد صوتي مخزن على شريحة SIM.</string>
   <string name="notification_missedCallTicker">مكالمات فائتة من %s</string>
   <string name="notification_missedCallTitle">مكالمة فائتة</string>
   <string name="notification_missedCall_call_back">إعادة المكالمة</string>

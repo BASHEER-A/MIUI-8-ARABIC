@@ -1235,7 +1235,7 @@
   <string name="stk_cc_ussd_to_dial">‏يتم تعديل طلب USSD لطلب الاتصال.</string>
   <string name="stk_cc_ussd_to_ss">‏يتم تعديل طلب USSD إلى طلب SS.</string>
   <string name="stk_cc_ussd_to_ussd">‏يتم تعديل طلب USSD إلى طلب USSD الجديد.</string>
-  <string name="storage_internal">السعة التخزينية المشتركة الداخلية</string>
+  <string name="storage_internal">السعة التخزينية الداخلية</string>
   <string name="storage_sd_card">‏بطاقة SD</string>
   <string name="storage_sd_card_label">‏بطاقة SD من %s</string>
   <string name="storage_usb">‏وحدة تخزين USB</string>

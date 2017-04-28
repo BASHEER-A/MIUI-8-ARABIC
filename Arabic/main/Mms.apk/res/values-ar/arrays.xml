@@ -37,7 +37,7 @@
   </string-array>
   <string-array name="wild_msg_sync_options">
     <item>مزامنة جميع الرسائل</item>
-    <item>مزامنة الرسائل من بطاقة SIM محددة</item>
+    <item>مزامنة الرسائل من شريحة SIM محددة</item>
   </string-array>
   <string-array name="select_dialog_items">
     <item>1 ثانية</item>

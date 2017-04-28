@@ -459,7 +459,7 @@
   <string name="travel_item_reminder">تذكير</string>
   <string name="travel_item_reminder_overdue">تذكير</string>
   <string name="travel_item_trafic">الحركة</string>
-  <string name="travel_item_virtual_sim">بطاقة SIM الإفتراضية لـMi</string>
+  <string name="travel_item_virtual_sim">شريحة SIM الإفتراضية لـMi</string>
   <string name="travel_item_weather_forecast">توقعات الوجهة</string>
   <string name="travel_item_weather_now">طقس الوجهة</string>
   <string name="travel_load_failed">"تعذر التحميل"</string>

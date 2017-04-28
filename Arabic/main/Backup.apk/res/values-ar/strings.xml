@@ -75,7 +75,7 @@
   <string name="current_account">مرحباً %s</string>
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">الهاتف</string>
-  <string name="current_sim">بطاقة SIM الحالية</string>
+  <string name="current_sim">شريحة SIM الحالية</string>
   <string name="custom_progress">%d عنصر</string>
   <string name="data_item_desc">البيانات</string>
   <string name="data_no_enough_space_message">"لا توجد مساحة كافية على الذاكرة الداخلية للجهاز."</string>

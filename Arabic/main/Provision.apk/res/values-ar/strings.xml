@@ -23,7 +23,7 @@
   <string name="locale_picker_title">اختر المنطقة الخاصة بك</string>
   <string name="miui_privacy_policy_no_network">"ليس لديك اتصال بالإنترنت. راجع سياسة الخصوصية في %s."</string>
   <string name="miui_terms_no_network">"ليس لديك اتصال إنترنت. راجع شروط الخدمة على %s."</string>
-  <string name="multisim_settings_category">إعدادات بطاقة SIM</string>
+  <string name="multisim_settings_category">إعدادات شريحة SIM</string>
   <string name="multisim_settings_title">تم اكتشاف 2 بطاقات SIM</string>
   <string name="next">التالي</string>
   <string name="next_fingerprint">التالي</string>
@@ -38,14 +38,14 @@
   <string name="other_settings_upload_debug_log_title">إرسال البيانات التشخيصية تلقائياً</string>
   <string name="other_settings_user_experience">برنامج تجربة المستخدم</string>
   <string name="other_settings_user_experience_summary">ساعد على تحسين منتجاتنا وخدماتنا عن طريق إرسال بيانات إستخدام مجهولة.</string>
-  <string name="pref_title_data_slot">بطاقة SIM المفضلة للبيانات</string>
-  <string name="pref_title_voice_slot">بطاقة SIM المفضلة للصوت</string>
+  <string name="pref_title_data_slot">شريحة SIM المفضلة للبيانات</string>
+  <string name="pref_title_voice_slot">شريحة SIM المفضلة للصوت</string>
   <string name="privacy_policy">سياسة الخصوصية</string>
   <string name="provision_inputmethod_policy_description">\nعرض سياسة الخصوصية للوحات المفاتيح المحددة.</string>
   <string name="provision_inputmethod_policy_description1">سياسة الخصوصية</string>
   <string name="setting_locale">إعداد المنطقة\u2026</string>
   <string name="shut_down">إيقاف تشغيل</string>
-  <string name="sim_card_detecting">التحقق من وجود بطاقة SIM\u2026</string>
+  <string name="sim_card_detecting">التحقق من وجود شريحة SIM\u2026</string>
   <string name="sim_card_detecting_title">تحقق من شريحة SIM</string>
   <string name="sim_card_detection">قم بتركيب شريحة SIM</string>
   <string name="sim_card_detection_info">لتركيب شريحة SIM ، قم بقراءة الإرشادات المرفقة مع جهازك.</string>

@@ -52,11 +52,11 @@
   <string name="cloud_storage_is_full">ممتلئ</string>
   <string name="cloudservice_new_sync">مزامنة %s بإستخدام Mi Cloud</string>
   <string name="cmcc_micloud_dspt">استخدم Mi Cloud لمزامنة البيانات، تحديد موقع جهازك ومشاركة الأشياء مع الأصدقاء.</string>
-  <string name="connect_network">إتصل بشبكة Wi-Fi او قم بتركيب بطاقة SIM</string>
+  <string name="connect_network">إتصل بشبكة Wi-Fi او قم بتركيب شريحة SIM</string>
   <string name="connect_wlan">الإتصال بشبكة Wi-Fi</string>
   <string name="contact">جهات الاتصال</string>
   <string name="deskclock_backup">النسخ الاحتياطي للساعات</string>
-  <string name="detect_sim_card">البحث عن بطاقة SIM</string>
+  <string name="detect_sim_card">البحث عن شريحة SIM</string>
   <string name="disable_find_device_error">"\"يتعذر إيقاف تشغيل العثور على الجهاز.\"%1$s"</string>
   <string name="disable_find_device_success">\"العثور على الجهاز\" متوقف.</string>
   <string name="due_date_format">dd/MM/yyyy</string>
@@ -127,11 +127,11 @@
   <string name="master_alert_notif_dspt_no">مزامن</string>
   <string name="master_alert_notif_title">تشغيل المزامنة مع Mi Cloud</string>
   <string name="member_due_date">صالح لغاية %s</string>
-  <string name="micloud_all_sub_1_intl_sms">سيتم أرسال رسالة نصية دولية قصيرة لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_1_sms">سيتم أرسال رسالة نصية قصيرة عادية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">سيتم إرسال ٢ رسالة نصية (عادية و دولية) لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_2_intl_sms">سيتم إرسال ٢ رسالة نصية دولية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-  <string name="micloud_all_sub_2_sms">سيتم إرسال ٢ رسالة نصية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_1_intl_sms">سيتم أرسال رسالة نصية دولية قصيرة لتفعيل شريحة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_1_sms">سيتم أرسال رسالة نصية قصيرة عادية لتفعيل شريحة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">سيتم إرسال ٢ رسالة نصية (عادية و دولية) لتفعيل شريحة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_2_intl_sms">سيتم إرسال ٢ رسالة نصية دولية لتفعيل شريحة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
+  <string name="micloud_all_sub_2_sms">سيتم إرسال ٢ رسالة نصية لتفعيل شريحة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
   <string name="micloud_all_sub_resend_sms">"عند تشغيل \"العثور على الجهاز\"، قد يتم إرسال رسالة نصية قصيرة للتفعيل بعد قيامك بتبديل بطاقات SIM."</string>
   <string name="micloud_battery_low_notification_message">قم بتوصيل الشاحن للمزامنة</string>
   <string name="micloud_battery_low_notification_title">البطارية منخفضة</string>
@@ -198,7 +198,7 @@
   <string name="micloud_dspt_provision">استخدم Mi Cloud لمزامنة البيانات، تحديد موقع جهازك ومشاركة الأشياء مع الأصدقاء.</string>
   <string name="micloud_find_device_finish">تم</string>
   <string name="micloud_find_device_guide_button">تشعيل العثور على الجهاز</string>
-  <string name="micloud_find_device_guide_content">عند تبديلك بطاقة SIM الخاصة بك، سيتم أرسال رسالة تلقائية\n لتحديث هذه الميزة.</string>
+  <string name="micloud_find_device_guide_content">عند تبديلك شريحة SIM الخاصة بك، سيتم أرسال رسالة تلقائية\n لتحديث هذه الميزة.</string>
   <string name="micloud_find_device_guide_fail_reopen">تشغيل العثور على الجهاز في Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">تحقق من شبكة الاتصال و حاول مرة أخرى.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">انتهت مهلة الاتصال. حاول مرة أخرى لاحقا.</string>
@@ -301,7 +301,7 @@
   <string name="micloud_other_product_price">مقارنة الأسعار</string>
   <string name="micloud_proceed">متابعة</string>
   <string name="micloud_request_permission_confirm">متابعة</string>
-  <string name="micloud_request_permission_content">Mi Cloud يحتاج الى أذونات لمزامنة البيانات. السماح لـMi Cloud للدخول الى التقويم، جهات الاتصال، حساب Mi، حالة بطاقة SIM، سجل المكالمات والرسائل.</string>
+  <string name="micloud_request_permission_content">Mi Cloud يحتاج الى أذونات لمزامنة البيانات. السماح لـMi Cloud للدخول الى التقويم، جهات الاتصال، حساب Mi، حالة شريحة SIM، سجل المكالمات والرسائل.</string>
   <string name="micloud_request_permission_title">Mi Cloud يحتاج الى أذونات</string>
   <string name="micloud_sec_dspt">ومشاركة الأشياء مع الأصدقاء.</string>
   <string name="micloud_setting_antispam_summary">الاستثناءات وأرقام الهاتف المحظورة</string>
@@ -357,8 +357,8 @@
   <string name="mx_dspt">رسالة Mi</string>
   <string name="mx_dspt_provision">رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.\n\nيمكنك تشغيل هذه الميزة او ايقافها في اي وقت من الإعدادات.</string>
   <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
-  <string name="mx_dspt_provision_privacy_2_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن بطاقة SIM. قد تكون هناك حاجة لـ٢ رسائل قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
-  <string name="mx_dspt_provision_privacy_no_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن بطاقة SIM، قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy_2_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن شريحة SIM. قد تكون هناك حاجة لـ٢ رسائل قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy_no_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن شريحة SIM، قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
   <string name="mx_dspt_provision_with_voip">"اتصل بمستخدمي MIUI الآخرين مجانًا باستخدام اتصال الإنترنت. يمكنك تشغيل أو إيقاف هذه الميزة في أي وقت من الإعدادات. VoIP مدعوم من Weihui. راجع سياسة خصوصية Weihui"</string>
   <string name="mx_dspt_provision_with_voip2">سياسة الخصوصية</string>
   <string name="mx_sub_dspt_provision">رسالة Mi</string>
@@ -367,7 +367,7 @@
   <string name="network_unconnected">تعذر الاتصال بالشبكة</string>
   <string name="next">التالي</string>
   <string name="noRemind">"لا تذكرني"</string>
-  <string name="no_sim">لم يتم الكشف عن بطاقة SIM</string>
+  <string name="no_sim">لم يتم الكشف عن شريحة SIM</string>
   <string name="one_sync_item_close">%d is off</string>
   <string name="open_micloud_sync">تشغيل المزامنة مع Mi Cloud</string>
   <string name="other_settings">إعدادات أخرى</string>
@@ -473,7 +473,7 @@
   <string name="vcode">رمز التحقق</string>
   <string name="verify">تحقق</string>
   <string name="view_storage_title">مساحة التخزين</string>
-  <string name="virtual_sim_desc">قم بتشغيل Mi SIM لتحديد موقع الجهاز بدون بطاقة SIM</string>
+  <string name="virtual_sim_desc">قم بتشغيل Mi SIM لتحديد موقع الجهاز بدون شريحة SIM</string>
   <string name="voip_choose_sim">اختيار رقم الهاتف لتفعيل صوت Mi</string>
   <string name="wipe_data_dialog_msg_separator">،</string>
   <string name="xiaomi_account_type">com.xiaomi</string>

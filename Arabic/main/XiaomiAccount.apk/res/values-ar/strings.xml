@@ -163,7 +163,7 @@
   <string name="no_network_btn">تحديث</string>
   <string name="no_network_title">"تعذر الاتصال بالشبكة."</string>
   <string name="no_response_retry">لا استجابة، من فضلك أعد المحاولة. </string>
-  <string name="no_sim_card_or_unactivated">"لم يتم تثبيت بطاقة SIM أو تفعيلها"</string>
+  <string name="no_sim_card_or_unactivated">"لم يتم تثبيت شريحة SIM أو تفعيلها"</string>
   <string name="nobind">غير متصل</string>
   <string name="notify_network_restricted_content_bg_network">"تم تقييد الدخول للإنترنت لحساب Mi. أنقر للسماح."</string>
   <string name="notify_network_restricted_content_hidden_state">"تم تقييد نشاط خلفية حساب Mi. أنقر للسماح."</string>
@@ -214,7 +214,7 @@
   <string name="passport_error_network">"تعذر الاتصال بالشبكة"</string>
   <string name="passport_error_phone_error">رقم الهاتف غير صحيح</string>
   <string name="passport_error_server">خطأ في الخادم</string>
-  <string name="passport_error_sim_not_ready">"تعذر العثور على بطاقة SIM"</string>
+  <string name="passport_error_sim_not_ready">"تعذر العثور على شريحة SIM"</string>
   <string name="passport_error_ssl_hand_shake">"Couldn't connect to server"</string>
   <string name="passport_error_unknown">"Can't sign in"</string>
   <string name="passport_error_user_name">The username you entered is invalid.</string>

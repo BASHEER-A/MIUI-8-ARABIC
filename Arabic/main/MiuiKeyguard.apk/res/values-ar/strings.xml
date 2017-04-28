@@ -79,7 +79,7 @@
   <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">إلغاء قفل SIM</string>
   <string name="unlock_string">إلغاء قفل</string>
-  <string name="unlocking_sim_card">فتح بطاقة SIM</string>
+  <string name="unlocking_sim_card">فتح شريحة SIM</string>
   <string name="unlockscreen_low_battery">قم بوصل الشاحن الان</string>
   <string name="unlockscreen_recharge_completed">البطارية مشحونة</string>
   <string name="unlockscreen_recharging_message">شحن %d%%</string>

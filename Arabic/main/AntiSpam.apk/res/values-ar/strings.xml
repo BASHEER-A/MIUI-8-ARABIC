@@ -224,8 +224,8 @@
   <string name="report_success">تم الإبلاغ عن الرسالة</string>
   <string name="report_warning">"أترغب في إبلاغ عن %1$s رسالة لـMi؟ سيتم تحميل هذه الرسائل وأرقام الهاتف المُرسلة منها الى خوادم Mi لمراجعتها. أي معلومات شخصية ذات صلة بهذه الرسائل دائما تبقى مجهولة."</string>
   <string name="report_warning_title">الإبلاغ برسالة SMS</string>
-  <string name="sim_not_ready">"بطاقة SIM ليست جاهزة"</string>
-  <string name="sim_not_ready_toast">"بطاقة SIM ليست جاهزة"</string>
+  <string name="sim_not_ready">"شريحة SIM ليست جاهزة"</string>
+  <string name="sim_not_ready_toast">"شريحة SIM ليست جاهزة"</string>
   <string name="sip_phone">هاتف SIP</string>
   <string name="sms_delete_hint">حذف كل الرسائل المحظورة الواردة من هذا الرقم؟</string>
   <string name="sms_delete_title">إزالة الرسالة</string>

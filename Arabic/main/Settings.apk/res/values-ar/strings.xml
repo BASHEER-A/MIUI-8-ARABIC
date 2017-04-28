@@ -587,7 +587,7 @@
   <string name="bluetooth_remember_choice">عدم السؤال مرة أخرى</string>
   <string name="bluetooth_rename_button">إعادة تسمية</string>
   <string name="bluetooth_rename_device">إعادة تسمية هذا الجهاز</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s يريد الوصول إلى بطاقة SIM. منح الوصول إلى بطاقة SIM، سيتم تعطيل اتصال البيانات على الجهاز الخاص بك لمدة الاتصال. منح حق الوصول إلى %2$s؟</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s يريد الوصول إلى شريحة SIM. منح الوصول إلى شريحة SIM، سيتم تعطيل اتصال البيانات على الجهاز الخاص بك لمدة الاتصال. منح حق الوصول إلى %2$s؟</string>
   <string name="bluetooth_sap_profile_summary_connected">الاتصال ب SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">الاستخدام للوصول SIM</string>
   <string name="bluetooth_sap_request">طلب الوصول الى SIM</string>
@@ -900,7 +900,7 @@
   <string name="current_use_ese">يتم استخدام العنصر الآمن المضمن</string>
   <string name="current_use_ese_wallet">"أنت تستخدم محفظة Mi. هذه المحفظة تسمح لك باستخدام دفع Mi و بطاقة نقل NFC."</string>
   <string name="current_use_hce_wallet">"أنت تستخدم محفظة HCE"</string>
-  <string name="current_use_uicc_se">استخدام العنصر الآمن على بطاقة SIM</string>
+  <string name="current_use_uicc_se">استخدام العنصر الآمن على شريحة SIM</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (الأحمر والأخضر)</string>
   <string name="daltonizer_mode_disabled">تعطيل</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -2967,7 +2967,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
   <string name="sdcard_unmount">قم بإلغاء تحميل وحدة تخزين USB</string>
   <string name="se_route_ese">العنصر الآمن المضمن</string>
-  <string name="se_route_uicc">العنصر الآمن على بطاقة SIM</string>
+  <string name="se_route_uicc">العنصر الآمن على شريحة SIM</string>
   <string name="se_wallet_ese">دفع Mi و بطاقة نقل NFC</string>
   <string name="se_wallet_hce">استخدم محفظة HCE</string>
   <string name="search_about">حول الهاتف؛ رقم الموديل؛ إصدار الروبوت؛ الإصدار MIUI؛ وحدة المعالجة المركزية؛ ذاكرة الوصول العشوائي؛ والذاكرة الداخلية؛ الإصدار القاعدي؛ إصدار النواة؛ رقم البنية</string>
@@ -3339,7 +3339,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="sim_lock_settings_category">إعداد قفل SIM</string>
   <string name="sim_lock_settings_title">قفل SIM</string>
   <string name="sim_management_title">شبكات الجوال وبطاقات SIM</string>
-  <string name="sim_multi_sims_summary">اختر بطاقة SIM المفضلة للبيانات الخلوية.</string>
+  <string name="sim_multi_sims_summary">اختر شريحة SIM المفضلة للبيانات الخلوية.</string>
   <string name="sim_multi_sims_title">تم العثور على عدة شرائح SIMs</string>
   <string name="sim_name_hint">قم بإدخال اسم SIM</string>
   <string name="sim_no_inserted_msg">بطاقات SIM لم تدرج</string>
@@ -3352,10 +3352,10 @@ This helps protect data on lost or stolen devices."</string>
   <string name="sim_pins_dont_match">لا تتطابق مع PIN</string>
   <string name="sim_pref_divider">SIM المفضل</string>
   <string name="sim_preferred_message">%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?</string>
-  <string name="sim_preferred_title">تحديث بطاقة SIM المفضل؟</string>
+  <string name="sim_preferred_title">تحديث شريحة SIM المفضل؟</string>
   <string name="sim_radio_off">متوقّف</string>
   <string name="sim_reenter_new">أعد كتابة رقم التعريف الشخصي الجديد</string>
-  <string name="sim_select_card">حدد بطاقة SIM</string>
+  <string name="sim_select_card">حدد شريحة SIM</string>
   <string name="sim_selection_required_pref">اختيار المطلوب</string>
   <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">بطاقات SIM</string>
@@ -3477,7 +3477,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="status_serialno">رقم المسلسل</string>
   <string name="status_service_state">حالة الخدمة</string>
   <string name="status_signal_strength">قوة الإشارة</string>
-  <string name="status_sim">حالة بطاقة SIM</string>
+  <string name="status_sim">حالة شريحة SIM</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">أنقرلعرض التفاصيل.</string>
@@ -4011,7 +4011,7 @@ Any user can update apps for all other users."</string>
   <string name="virtual_sim_category_title">تجوال Mi</string>
   <string name="virtual_sim_description">خدمة تجوال دولي موثوقة</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">الاتصال ببيانات الشبكة بدون بطاقة SIM</string>
+  <string name="virtual_sim_global_description">الاتصال ببيانات الشبكة بدون شريحة SIM</string>
   <string name="virtual_sim_global_title">خدمة بيانات الهاتف</string>
   <string name="virtual_sim_title">شبكة بيانات التجوال</string>
   <string name="virus_scan">فحص الفايروس</string>
@@ -4243,7 +4243,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">الهوية</string>
   <string name="wifi_eap_method">أسلوب EAP</string>
-  <string name="wifi_eap_sim_simcard">اختيار بطاقة SIM</string>
+  <string name="wifi_eap_sim_simcard">اختيار شريحة SIM</string>
   <string name="wifi_eap_user_cert">شهادة المستخدم</string>
   <string name="wifi_empty_list_user_restricted">"لا يوجد لديك إذن لتغيير هذه الشبكة."</string>
   <string name="wifi_empty_list_wifi_off">لمشاهدة الشبكات المتوفرة، قم بتشغيل الـ Wi-Fi</string>

@@ -306,7 +306,7 @@
   <string name="resource_waiting_download">جارٍ الانتظار</string>
   <string name="resource_waiting_pause">إيقاف مؤقت</string>
   <string name="sdcard_not_mounted_dialog_message">أدخل بطاقة SD الآن.\n</string>
-  <string name="sdcard_not_mounted_dialog_title">لم يتم اكتشاف اي بطاقة SIM</string>
+  <string name="sdcard_not_mounted_dialog_title">لم يتم اكتشاف اي شريحة SIM</string>
   <string name="search_hint_header_text">كلمات ساخنة</string>
   <string name="selected_resource_file_invalid">"الملف المحدد غير صالح"</string>
   <string name="settings">الإعدادات</string>

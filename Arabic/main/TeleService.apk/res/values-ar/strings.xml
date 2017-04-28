@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_settings_activity_title">إمكانية الوصول</string>
-  <string name="actionBarCBVideo">المكالمات الفيديو (%s)</string>
-  <string name="actionBarCBVoice">المكالمات الصوتية (%s)</string>
-  <string name="actionBarCFVideo">المكالمات الفيديو (%s)</string>
-  <string name="actionBarCFVoice">المكالمات الصوتية (%s)</string>
-  <string name="active_phone_fail_nochoice">"لا يمكن التحقق من بطاقة SIM"</string>
-  <string name="active_phone_fail_toast">"لا يمكن التحقق من %1$s بطاقة SIM"</string>
-  <string name="active_phone_sim_absent">إدراج بطاقة SIM الآن</string>
-  <string name="active_phone_success_nochoice">التحقق من بطاقة SIM</string>
-  <string name="active_phone_success_toast">%1$s بطاقة SIM التحقق</string>
+  <string name="actionBarCBVideo">مكالمات الفيديو (%s)</string>
+  <string name="actionBarCBVoice">مكالمات الصوت (%s)</string>
+  <string name="actionBarCFVideo">مكالمات الفيديو (%s)</string>
+  <string name="actionBarCFVoice">مكالمات الصوت (%s)</string>
+  <string name="active_phone_fail_nochoice">"لا يمكن التحقق من شريحة SIM"</string>
+  <string name="active_phone_fail_toast">"لا يمكن التحقق من %1$s شريحة SIM"</string>
+  <string name="active_phone_sim_absent">إدراج شريحة SIM الآن</string>
+  <string name="active_phone_success_nochoice">التحقق من شريحة SIM</string>
+  <string name="active_phone_success_toast">%1$s شريحة SIM التحقق</string>
   <string name="activing_simcard">التحقق من %1$d سيم</string>
   <string name="activing_simcard_alone">التحقق من SIM</string>
   <string name="add">إضافة</string>
@@ -114,7 +114,7 @@
   <string name="callFailed_call_rejected"></string>
   <string name="callFailed_cb_enabled">"لا يمكن إجراء المكالمات الصادرة أثناء المكالمات."</string>
   <string name="callFailed_cdma_activation">"
-        قامت بطاقة SIM بتفعيل خدمتك وتحديث قدرات تجوال هاتفك.
+        قامت شريحة SIM بتفعيل خدمتك وتحديث قدرات تجوال هاتفك.
     "</string>
   <string name="callFailed_channel_unacceptable"></string>
   <string name="callFailed_conditional_IE_error"></string>
@@ -171,7 +171,7 @@
   <string name="callFailed_server_unreachable">Server unreachable</string>
   <string name="callFailed_service_option_not_available"></string>
   <string name="callFailed_service_or_option_not_implemented"></string>
-  <string name="callFailed_simError">لا يوجد SIM أو بطاقة SIM خطأ</string>
+  <string name="callFailed_simError">لا يوجد SIM أو شريحة SIM خطأ</string>
   <string name="callFailed_switching_equipment_congestion"></string>
   <string name="callFailed_tempopary_failure"></string>
   <string name="callFailed_timedOut">No response, timed out</string>
@@ -227,7 +227,7 @@
   <string name="callwait_open_hint">تتوفر ميزة \"انتظار المكالمات\" عن طريق مشغل شبكة الجوَّال الخاص بك. فإذا كنت تستلم إشعار خطأ، قم بالاتصال بمشغل شبكة الجوَّال الخاص بك للتأكيد من أن هذه الميزة مدعومة.</string>
   <string name="can_not_call_self">"لا يمكن طلب الرقم الخاص"</string>
   <string name="can_not_switch_enhanced_4g_lte_mode_tips">التبديل غير متوفرة مؤقتاً. الرجاء المحاولة مرة أخرى لاحقاً.</string>
-  <string name="can_not_use_for_not_data_sim">"(لا يمكن الاستخدام: يجب التعيين كبطاقة SIM البيانات الافتراضية)"</string>
+  <string name="can_not_use_for_not_data_sim">"(لا يمكن الاستخدام: يجب التعيين كشريحة SIM البيانات الافتراضية)"</string>
   <string name="cancel">إلغاء</string>
   <string name="card_title_call_ended">انتهت المكالمة</string>
   <string name="card_title_conf_call">مكالمة جماعية</string>
@@ -294,12 +294,12 @@
   <string name="cfnry_title">إعادة التوجيه عند عدم الرد</string>
   <string name="cfu_title">إعادة توجيه المكالمات دائمًا</string>
   <string name="change_cdma_capability_dialog" formatted="false">%s will not work temporarily, and if any default Call, SMS, Data on %s will be changed into %s accordingly.</string>
-  <string name="change_data_preference_4g_only_prompt">يبدو أن لديك بطاقة SIM 4G فقط. هل تريد تعيينها كبطاقة افتراضية لبيانات الهاتف؟</string>
+  <string name="change_data_preference_4g_only_prompt">يبدو أن لديك شريحة SIM 4G فقط. هل تريد تعيينها كبطاقة افتراضية لبيانات الهاتف؟</string>
   <string name="change_default_data_card">بيانات الهاتف (SIM) الافتراضية</string>
-  <string name="change_default_data_card_summary">يبدو أنك غيرت بطاقات SIM الخاصة بك. هل تريد تعيين بطاقة SIM هذه كبطاقة افتراضية للاتصال ببيانات الهاتف؟</string>
+  <string name="change_default_data_card_summary">يبدو أنك غيرت بطاقات SIM الخاصة بك. هل تريد تعيين شريحة SIM هذه كبطاقة افتراضية للاتصال ببيانات الهاتف؟</string>
   <string name="change_num">تحديث</string>
   <string name="change_password">تغيير كلمة مرور الحظر</string>
-  <string name="change_pin">تغيير رمز PIN بطاقة SIM</string>
+  <string name="change_pin">تغيير رمز PIN شريحة SIM</string>
   <string name="change_pin2">تغيير رمز PIN2</string>
   <string name="chose_product_summary">المكالمة أرخص</string>
   <string name="chose_product_title">أعلى حزمة</string>
@@ -411,8 +411,8 @@
   <string name="disable_cfnry_forbidden">"مشغّل شبكة الجوال الخاص بك لا يدعم إيقاف إعادة توجيه المكالمات التي لم يتم الرد عليها."</string>
   <string name="disable_fdn">إيقاف تشغيل FDN</string>
   <string name="disable_fdn_ok">تشغيل FDN</string>
-  <string name="disable_pin_ok">رمز PIN بطاقة SIM غير مفعل.</string>
-  <string name="disable_sim_pin">إيقاف تشغيل رمز PIN بطاقة SIM</string>
+  <string name="disable_pin_ok">رمز PIN شريحة SIM غير مفعل.</string>
+  <string name="disable_sim_pin">إيقاف تشغيل رمز PIN شريحة SIM</string>
   <string name="display_name_summary">&gt;مماثل لاسم المستخدم&lt;</string>
   <string name="display_name_title">عرض الاسم</string>
   <string name="do_not_ask">"عدم السؤال مرة أخرى"</string>
@@ -473,11 +473,11 @@
   <string name="enable_fdn">تشغيل FDN</string>
   <string name="enable_fdn_ok">إيقاف تشغيل FDN</string>
   <string name="enable_in_progress">لحظة من فضلك\u2026</string>
-  <string name="enable_pin">رمز PIN بطاقة SIM</string>
-  <string name="enable_pin_ok">رمز PIN بطاقة SIM مفعل.</string>
+  <string name="enable_pin">رمز PIN شريحة SIM</string>
+  <string name="enable_pin_ok">رمز PIN شريحة SIM مفعل.</string>
   <string name="enable_proximity_summary">"إطفاء الشاشة تلقائيا عندما تحمل الجهاز قرب أذنك أثناء المكالمة"</string>
   <string name="enable_proximity_title">مستشعر التقارب</string>
-  <string name="enable_sim_pin">تشغيل رمز PIN بطاقة SIM</string>
+  <string name="enable_sim_pin">تشغيل رمز PIN شريحة SIM</string>
   <string name="enable_video_calling_dialog_close">إغلاق</string>
   <string name="enable_video_calling_dialog_msg">
         لتشغيل مكالمة فيديو, قم بتمكين 4G LTE المحسَّن من إعدادات الشبكة.
@@ -493,7 +493,7 @@
   <string name="enter_input" formatted="false">رسالة USSD يجب ان تكون بين%d و%d احرف. الرجاء المحاولة مرة اخرى.</string>
   <string name="enter_ip_prefix_number">Enter prefix number</string>
   <string name="enter_pin2_text">رمز PIN2</string>
-  <string name="enter_pin_text">رمز PIN بطاقة SIM:</string>
+  <string name="enter_pin_text">رمز PIN شريحة SIM:</string>
   <string name="entertainment_news_settings">أخبارترفيهية</string>
   <string name="eo_disable">فرص التوظيف معطّلة</string>
   <string name="eo_enable">فرص التوظيف مفعّلة</string>
@@ -505,7 +505,7 @@
   <string name="error_type_network">Network error</string>
   <string name="error_type_unknown">Unknown error</string>
   <string name="error_updating_title">خطأ بإعدادات المكالمة</string>
-  <string name="exception_error">خطأ بالشبكة أو ببطاقة SIM.</string>
+  <string name="exception_error">خطأ بالشبكة أو بشريحة SIM.</string>
   <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
   <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
@@ -654,7 +654,7 @@
   <string name="list_language_summary">اختيار لغة الأخبار</string>
   <string name="list_language_title">اللغة</string>
   <string name="livetalk_activate">Activate top-up package</string>
-  <string name="livetalk_activate_number">تحقق من بطاقة SIM</string>
+  <string name="livetalk_activate_number">تحقق من شريحة SIM</string>
   <string name="livetalk_activate_number_1">تحقق من سيم 1</string>
   <string name="livetalk_activate_number_2">تحقق من سيم 2</string>
   <string name="livetalk_activate_summary">سيتم إرسال رسالة SMS للتحقق من هذه الخدمة.</string>
@@ -728,7 +728,7 @@ Top up and start talking"</string>
   <string name="message_decode_error">حدث خطأ أثناء فك شفرة الرسالة.</string>
   <string name="mhh_disable">الطب، الصحة، والمستشفى معطّلة</string>
   <string name="mhh_enable">الطب، الصحة، والمستشفى مفعّلة</string>
-  <string name="mi_sim_settings_summary">استخدام بيانات الهاتف بدون بطاقة SIM</string>
+  <string name="mi_sim_settings_summary">استخدام بيانات الهاتف بدون شريحة SIM</string>
   <string name="mi_sim_settings_title">بطاقة Mi SIM</string>
   <string name="mismatchPin">"رموز PIN التي ادخلتها غير مطابقة. حاول مجدداً."</string>
   <string name="mismatchPin2">"رموز PIN2 غير متطابقة. حاول مرة أخرى."</string>
@@ -750,14 +750,14 @@ Top up and start talking"</string>
   <string name="msim_apn_not_set">غير معين</string>
   <string name="msim_default_setting">الإعدادات الافتراضية</string>
   <string name="msim_disable_sim_card_btn_text">موافق</string>
-  <string name="msim_disable_sim_card_summary_default_card">"تم تعيين هذه البطاقة كSIM الافتراضية حاليا. وإذا أوقفت استخدامها، فلن تتمكن من إجراء المكالمات أو استخدام وصلة بيانات الهاتف. ويمكنك إيقاف بطاقة SIM هذه بعد إعداد بطاقة SIM الأخرى كافتراضية."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">قد لا تتمكن من إجراء مكالمات أو استخدام اتصال بيانات الهاتف. هل تريد إيقاف استخدام بطاقة SIM%s ؟</string>
-  <string name="msim_disable_sim_card_title">إيقاف استخدام بطاقة SIM</string>
+  <string name="msim_disable_sim_card_summary_default_card">"تم تعيين هذه البطاقة كSIM الافتراضية حاليا. وإذا أوقفت استخدامها، فلن تتمكن من إجراء المكالمات أو استخدام وصلة بيانات الهاتف. ويمكنك إيقاف شريحة SIM هذه بعد إعداد شريحة SIM الأخرى كافتراضية."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">قد لا تتمكن من إجراء مكالمات أو استخدام اتصال بيانات الهاتف. هل تريد إيقاف استخدام شريحة SIM%s ؟</string>
+  <string name="msim_disable_sim_card_title">إيقاف استخدام شريحة SIM</string>
   <string name="msim_enable_sim">تشغيل</string>
   <string name="msim_general_setting">الإعدادات</string>
   <string name="msim_has_been_disabled">(معطل)</string>
-  <string name="msim_info_editor_name">تعديل اسم بطاقة SIM</string>
-  <string name="msim_info_editor_number">تعديل رقم بطاقة SIM</string>
+  <string name="msim_info_editor_name">تعديل اسم شريحة SIM</string>
+  <string name="msim_info_editor_number">تعديل رقم شريحة SIM</string>
   <string name="msim_info_editor_set_name_error">"تعذر حفظ الاسم"</string>
   <string name="msim_mode_progress_activating_message">تشغيل</string>
   <string name="msim_mode_progress_deactivating_message">إيقاف</string>
@@ -767,16 +767,16 @@ Top up and start talking"</string>
   <string name="msim_select_default_time_left">(%d ث)</string>
   <string name="msim_set_icc_card_error">خطأ ببطاقة ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"لا يمكن التعيين أثناء المكالمة"</string>
-  <string name="msim_set_sub_not_supported_slot_id_error">خطأ في بطاقة SIM</string>
-  <string name="msim_setting_categery_title">إعدادات بطاقة SIM</string>
-  <string name="msim_setting_no_sim_indicator">لا توجد بطاقة SIM</string>
+  <string name="msim_set_sub_not_supported_slot_id_error">خطأ في شريحة SIM</string>
+  <string name="msim_setting_categery_title">إعدادات شريحة SIM</string>
+  <string name="msim_setting_no_sim_indicator">لا توجد شريحة SIM</string>
   <string name="msim_setting_operator_network_title">شبكة الجوال</string>
   <string name="msim_setting_screen_title">شبكات الجوال وبطاقات SIM</string>
   <string name="msim_setting_sim_info_editor_title">تعديل معلومات SIM</string>
   <string name="msim_sim_lock">مقفل</string>
   <string name="msim_sim_radio_off">إيقاف</string>
   <string name="msim_switch_data_conn_toast">تمت مبادلة بطاقات SIM. تم تغيير نوع الشبكة. يمكنك عرض معلومات إضافية في بطاقات SIM وشبكات الجوال في قائمة الإعدادات. </string>
-  <string name="msim_switch_data_conn_toast_for_h2xct">المنفذ الثاني لبطاقة SIM يدعم شبكات GSM فقط. تم تغيير نوع الشبكة المفضلة لهذا المنفذ إلى 2G فقط.</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">المنفذ الثاني لشريحة SIM يدعم شبكات GSM فقط. تم تغيير نوع الشبكة المفضلة لهذا المنفذ إلى 2G فقط.</string>
   <string name="multi_category_disable">الفئة-المتعددة معطّلة</string>
   <string name="multi_category_enable">الفئة-المتعددة مفعّلة</string>
   <string name="name">الاسم</string>
@@ -837,14 +837,14 @@ Top up and start talking"</string>
   <string name="no_number">No telephone number</string>
   <string name="no_sim_card">Insert SIM card</string>
   <string name="no_vm_number">رقم البريد الصوتي مفقود</string>
-  <string name="no_vm_number_msg">لا يوجد رقم بريد صوتي مخزن على بطاقة SIM.</string>
+  <string name="no_vm_number_msg">لا يوجد رقم بريد صوتي مخزن على شريحة SIM.</string>
   <string name="no_voip">مكالمة الإنترنت غير مدعومة</string>
   <string name="no_wifi_available">يجب عليك أن تتصل بشبكة Wi-Fi لإجراء مكالمات الإنترنت (استخدم إعدادات الشبكة وإعدادات الشبكة).</string>
   <string name="not_a_valid_port">يجب أن يكون رقم المنفذ ضمن ١٠٠٠ و٦٥٥٣٤.</string>
   <string name="not_activate_sim_card_content">"Top-up package hasn't been verified for the SIM card you selected. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="not_activate_sim_card_content_title">"Phone number hasn't been verified"</string>
   <string name="not_activate_sim_card_content_with_operator">"Top-up package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
-  <string name="not_allowed">"بطاقة SIM الخاصة بك لا تسمح بالاتصال بهذه الشبكة."</string>
+  <string name="not_allowed">"شريحة SIM الخاصة بك لا تسمح بالاتصال بهذه الشبكة."</string>
   <string name="not_sufficient_funds_content">Not enough funds remaining in your account. Try using your SIM to make this call instead. Your carrier will charge you for this call.</string>
   <string name="not_sufficient_funds_content_title">Insufficient funds</string>
   <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
@@ -985,14 +985,14 @@ Top up and start talking"</string>
   <string name="phone_in_ecm_notification_title">وضع معاودة الاتصال بالطوارئ</string>
   <string name="pin2_attempts">\nلديك %d محاولة متبقية.</string>
   <string name="pin2_changed">تم تغيير رمز PIN2 بنجاح.</string>
-  <string name="pin2_error_exception">خطأ في الشبكة او في بطاقة SIM</string>
+  <string name="pin2_error_exception">خطأ في الشبكة او في شريحة SIM</string>
   <string name="pin2_invalid">"لم يتم تحديث FDN لأنك أدخلت رمز PIN غير صحيح."</string>
   <string name="pin2_invalid_or_name_is_too_long">لقد أدخلت رمز PIN غير صحيح أو الاسم الذي أدخلته طويل جدًا.</string>
   <string name="pin2_lock_warning">\nسيتم قفل الوظائف المتعلقة برمز PIN2 بعد محاولة فاشلة أخرى.</string>
   <string name="pin2_or_fdn_invalid">"FDN لم تكن محدثة. رمز PIN2 كان غير صحيح, أو تم رفض رقم الهاتف."</string>
   <string name="pin2_unblocked">رمز PIN2 لم يعد محظورا</string>
   <string name="pin_attempts">\n%d محاولات متبقية.</string>
-  <string name="pin_changed">تم تغيير رمز PIN بطاقة SIM بنجاح.</string>
+  <string name="pin_changed">تم تغيير رمز PIN شريحة SIM بنجاح.</string>
   <string name="pin_failed">رمز PIN الذي ادخلته غير صحيح.</string>
   <string name="pin_length_indicate">(4-8 digits)</string>
   <string name="pin_lock_warning">\nسيتم حظر الهاتف الخاص بك تلقائيًا بعد محاولة فاشلة أخرى</string>
@@ -1000,7 +1000,7 @@ Top up and start talking"</string>
   <string name="pin_progress_change_pin2">جارٍ تغيير رمز PIN2\u2026</string>
   <string name="pin_progress_set_fdn_lock">إعداد حالة قفل FDN\u2026</string>
   <string name="pin_progress_set_icc_lock">إعداد حالة قفل ICC\u2026</string>
-  <string name="pin_progress_unlock_icc">جارٍ إلغاء قفل بطاقة SIM\u2026</string>
+  <string name="pin_progress_unlock_icc">جارٍ إلغاء قفل شريحة SIM\u2026</string>
   <string name="please_enter_phone_number">أدخل رقم الهاتف</string>
   <string name="plmn_list_setting_add_plmn">New PLMN</string>
   <string name="plmn_list_setting_title">الشبكات المفضلة</string>
@@ -1039,7 +1039,7 @@ Top up and start talking"</string>
   <string name="preferred_network_mode_wcdma_only_summary">وضع الشبكة المفضل: WCDMA فقط</string>
   <string name="preferred_network_mode_wcdma_perf_summary">وضع الشبكة المفضل: WCDMA مفضلة</string>
   <string name="preferred_network_restrict_network_changed_incall">"لا يمكن تغيير شبكة الجوال أثناء المكالمة"</string>
-  <string name="preferred_network_type_3g_only_warning">يجب أن تدعم بطاقة SIM الخاصة بك 3G للاتصال بالشبكة.</string>
+  <string name="preferred_network_type_3g_only_warning">يجب أن تدعم شريحة SIM الخاصة بك 3G للاتصال بالشبكة.</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">تفضيل 3G</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">تفضيل 3G (CDMA)</string>
@@ -1060,12 +1060,12 @@ Top up and start talking"</string>
   <string name="pstn_phone">مكالمة الهاتف الخليوي</string>
   <string name="puk2_blocked">تم حظر رمز PUK2 بشكل دائم.</string>
   <string name="puk2_label">أدخل رمز PUK2</string>
-  <string name="puk2_requested">كلمة المرور غير صحيحة. تم قفل بطاقة SIM. أدخل PUK2.</string>
+  <string name="puk2_requested">كلمة المرور غير صحيحة. تم قفل شريحة SIM. أدخل PUK2.</string>
   <string name="puk_label">أدخل رمز PUK</string>
   <string name="puk_length_indicate">(8 digits)</string>
-  <string name="puk_lock_warning">\nسيتم قفل بطاقة SIM الخاصة بك بعد محاولة فاشلة أخرى.</string>
+  <string name="puk_lock_warning">\nسيتم قفل شريحة SIM الخاصة بك بعد محاولة فاشلة أخرى.</string>
   <string name="puk_requested">كلمة المرور غير صحيحة، تم حظر رمز PIN. رمز PUK مطلوب.</string>
-  <string name="puk_unlocked">تم إلغاء حظر بطاقة SIM الخاصة بك. جارٍ إلغاء قفل هاتفك\u2026</string>
+  <string name="puk_unlocked">تم إلغاء حظر شريحة SIM الخاصة بك. جارٍ إلغاء قفل هاتفك\u2026</string>
   <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.
 - No conflicts with your current plan.
 - Top up and start calling.
@@ -1144,7 +1144,7 @@ Top up and start talking"</string>
   <string name="search_networks">البحث عن شبكات</string>
   <string name="selectContact">تحديد جهة اتصال</string>
   <string name="select_automatically">اختيار تلقائي</string>
-  <string name="select_voice_call_sim">اختر بطاقة SIM</string>
+  <string name="select_voice_call_sim">اختر شريحة SIM</string>
   <string name="send_button">إرسال</string>
   <string name="send_keepalive_title">إرسال رسالة المحافظة على الحياة</string>
   <string name="send_order_failed">"Couldn't send order"</string>
@@ -1158,10 +1158,10 @@ Top up and start talking"</string>
   <string name="sim1_no_activated">"Couldn't verify SIM card 1"</string>
   <string name="sim2_activated">, SIM card 2</string>
   <string name="sim2_no_activated">"Couldn't verify SIM card 2"</string>
-  <string name="simContacts_airplaneMode">لإستيراد جهات الاتصال من بطاقة SIM، قم بإيقاف تشغيل وضع الطائرة.</string>
-  <string name="simContacts_empty">لا توجد جهات اتصال على بطاقة SIM الخاصة بك.</string>
+  <string name="simContacts_airplaneMode">لإستيراد جهات الاتصال من شريحة SIM، قم بإيقاف تشغيل وضع الطائرة.</string>
+  <string name="simContacts_empty">لا توجد جهات اتصال على شريحة SIM الخاصة بك.</string>
   <string name="simContacts_emptyLoading">جارٍ القراءة\u2026</string>
-  <string name="simContacts_title">إدارة جهات اتصال بطاقة SIM</string>
+  <string name="simContacts_title">إدارة جهات اتصال شريحة SIM</string>
   <string name="simFdnContacts_empty">لا توجد اي اتصالات بأرقام محددة.</string>
   <string name="sim_activated">التحقق</string>
   <string name="sim_card_activate">تأكيد SIM</string>
@@ -1169,7 +1169,7 @@ Top up and start talking"</string>
   <string name="sim_card_summary_no_sim_card">Please insert the SIM card</string>
   <string name="sim_contact_name">الإسم</string>
   <string name="sim_contact_number">الرقم</string>
-  <string name="sim_description_default">بطاقة SIM %s</string>
+  <string name="sim_description_default">شريحة SIM %s</string>
   <string name="sim_description_emergency_calls">مكالمة الطوارئ فقط</string>
   <string name="sim_label_emergency_calls">مكالمات الطوارئ</string>
   <string name="sim_ndp_dismiss_text">تجاهل</string>

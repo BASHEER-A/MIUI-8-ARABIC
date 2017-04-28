@@ -156,7 +156,7 @@
   <string name="pref_summary_allow_si_sl_push">السماح للرسائل بتحميل محتوى من مواقع ويب</string>
   <string name="pref_summary_delivery_reports">عرض تقارير التسليم لجميع الرسائل المرسلة</string>
   <string name="pref_summary_hide_festival">إخفاء ميزات اللغة الصينية فقط عند تعيين النظام إلى لغة أخرى غير الصينية</string>
-  <string name="pref_summary_manage_sim_messages">إدارة الرسائل المخزنة على بطاقة SIM الخاصة بك</string>
+  <string name="pref_summary_manage_sim_messages">إدارة الرسائل المخزنة على شريحة SIM الخاصة بك</string>
   <string name="pref_summary_mx_feedback">الإبلاغ عن خلل وإرسال مقترحات</string>
   <string name="pref_summary_notification_body_enabled">إظهار الرسائل على شاشة القفل وفي مركز الإشعارات</string>
   <string name="pref_summary_show_recent_contacts">عرض جهات الاتصال الجديدة عند كتابة نص جديد</string>
@@ -169,7 +169,7 @@
   <string name="pref_title_festival_networking">إشعار الاتصال</string>
   <string name="pref_title_fwd_sender_info">إعادة توجيه معلومات المرسل</string>
   <string name="pref_title_hide_festival">إخفاء ميزات اللغة الصينية</string>
-  <string name="pref_title_manage_sim_messages">إدارة رسائل بطاقة SIM</string>
+  <string name="pref_title_manage_sim_messages">إدارة رسائل شريحة SIM</string>
   <string name="pref_title_miui_card">إرسال عبر البطاقة</string>
   <string name="pref_title_notification_body_enabled">إظهار الرسائل على شاشة القفل</string>
   <string name="pref_title_ringtone_repeat">عدد أصوات الإشعارات</string>
@@ -206,11 +206,11 @@
   <string name="send_to">إلى:</string>
   <string name="service_unavailiable">الخدمة غير متاحة</string>
   <string name="share_img">مشاركة</string>
-  <string name="sim_card1">بطاقة SIM 1</string>
-  <string name="sim_card2">بطاقة SIM 2</string>
+  <string name="sim_card1">شريحة SIM 1</string>
+  <string name="sim_card2">شريحة SIM 2</string>
   <string name="sim_copy_to_phone_memory">نسخ إلى ذاكرة الهاتف</string>
   <string name="sim_delete">حذف</string>
-  <string name="sim_empty">لا توجد رسائل على بطاقة SIM</string>
+  <string name="sim_empty">لا توجد رسائل على شريحة SIM</string>
   <string name="snippet_audio">[صوت]</string>
   <string name="snippet_picture">[صورة]</string>
   <string name="sp_mark_as_read_title">وضع علامة على الكل كمقروء</string>

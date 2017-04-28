@@ -61,7 +61,7 @@
   <string name="unlock_error_unknown">"لا يمكن تسجيل الدخول"</string>
   <string name="unlock_error_user_name">اسم مستخدم غير صالح</string>
   <string name="unlock_error_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
-  <string name="unlock_help">ابق على اتصال بالشبكة\nتأكد بأنك قمت بثبيت بطاقة SIM مفعلة، وأن جهازك غير متصل بشبكة Wi-Fi غير فعالة\n\nنسيت كلمة المرور؟\nاذهب إلى id.mi.com لإعادة تعيين كلمة المرور الخاصة بك\n\nأسباب أخرى\nقم بتسجيل الدخول إلى i.mi.com و حاول إلغاء قفل جهازك من هناك</string>
+  <string name="unlock_help">ابق على اتصال بالشبكة\nتأكد بأنك قمت بثبيت شريحة SIM مفعلة، وأن جهازك غير متصل بشبكة Wi-Fi غير فعالة\n\nنسيت كلمة المرور؟\nاذهب إلى id.mi.com لإعادة تعيين كلمة المرور الخاصة بك\n\nأسباب أخرى\nقم بتسجيل الدخول إلى i.mi.com و حاول إلغاء قفل جهازك من هناك</string>
   <string name="unlock_help_title">مساعدة \"إلغاء قفل\":</string>
   <string name="unlock_wrong_captcha">الرمز الذي أدخلته غير صحيح</string>
   <string name="unlocking">جارٍ التفعيل\u2026</string>

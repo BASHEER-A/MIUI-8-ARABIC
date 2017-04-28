@@ -67,7 +67,7 @@
   <string name="main_menu_not_initialized">Main menu is not initialized</string>
   <string name="menu_back">رجوع</string>
   <string name="menu_end_session">إنهاء الدورة</string>
-  <string name="no_sim_card_inserted">قم بإدراج بطاقة SIM لتشغيل أدوات SIM.</string>
+  <string name="no_sim_card_inserted">قم بإدراج شريحة SIM لتشغيل أدوات SIM.</string>
   <string name="service_name">اسم الخدمة</string>
   <string name="sim_type_sim_name">أدوات SIM</string>
   <string name="sim_type_uim_name">أدوات UIM</string>

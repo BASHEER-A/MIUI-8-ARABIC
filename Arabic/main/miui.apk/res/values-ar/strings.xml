@@ -461,7 +461,7 @@
   <string name="nickname">الاسم المستعار</string>
   <string name="night">م</string>
   <string name="no_network">"تعذر الاتصال بالشبكة"</string>
-  <string name="no_sim">لم يتم الكشف عن بطاقة SIM.</string>
+  <string name="no_sim">لم يتم الكشف عن شريحة SIM.</string>
   <string name="noon">م</string>
   <string name="note">ملاحظة</string>
   <string name="organization">منظمة</string>
@@ -484,8 +484,8 @@
   <string name="sim_changed_reactivate_int_notice">قد تكون هناك حاجة لرسالة (SMS) دولية لإعادة تفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
   <string name="sim_changed_reactivate_notice">قد تكون هناك حاجة لرسالة قصيرة (SMS) لإعادة تفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
   <string name="sim_in_airplane_mode">إيقاف تشغيل وضع الطائرة.</string>
-  <string name="sim_locked">بطاقة SIM مقفلة.</string>
-  <string name="sim_not_ready">بطاقة SIM قيد الاستخدام. حاول مجددا لاحقا.</string>
+  <string name="sim_locked">شريحة SIM مقفلة.</string>
+  <string name="sim_not_ready">شريحة SIM قيد الاستخدام. حاول مجددا لاحقا.</string>
   <string name="sim_unavailable">بطاقة SD غير متاحة.</string>
   <string name="sip_phone">هاتف SIP</string>
   <string name="size_byte">بايت</string>
