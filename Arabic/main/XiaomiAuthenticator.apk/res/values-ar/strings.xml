@@ -90,7 +90,7 @@
   <string name="lockpattern_tutorial_close_label">Close</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockpattern_tutorial_jump_label">Skip</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;نسيت كلمة مرور النمط&lt;/u&gt;</string>
   <string name="login">sign in</string>
   <string name="main_preference_screen_title">Settings</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
@@ -149,21 +149,21 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="tip2_patternforgotten">إعادة تعيين مسح بيانات الحساب وإعادة تنشيط تعمل باللمس.</string>
   <string name="tip_lockpattern">أن كلمة المرور الخاصة بك أطول من 4 أحرف</string>
   <string name="title_change_lockpattern">Configure pattern lock</string>
-  <string name="title_createpattern">Create password</string>
-  <string name="title_forgetpattern">Forget password</string>
-  <string name="title_gesture">Pattern lock</string>
-  <string name="title_lockpattern">Require pattern lock</string>
-  <string name="title_myaccount">My account: %s</string>
+  <string name="title_createpattern">إنشاء كلمة مرور</string>
+  <string name="title_forgetpattern">نسيت كلمة المرور</string>
+  <string name="title_gesture">قفل النمط</string>
+  <string name="title_lockpattern">يتطلب قفل النمط</string>
+  <string name="title_myaccount">حسابي: %s</string>
   <string name="title_nopassword">"Don't require for small payments"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
   <string name="title_password">Password</string>
   <string name="title_password_threshold">Daily limit = ￥%1$s</string>
-  <string name="title_patternforgotten">"Forget password？
-You can："</string>
-  <string name="title_updatepattern">Change password</string>
-  <string name="title_visible_pattern">Make pattern visible</string>
-  <string name="type_prompt">Type of key</string>
-  <string name="update_pattern_jump">&lt;u&gt;Remove password&lt;/u&gt;</string>
+  <string name="title_patternforgotten">"هل نسيت كلمة المرور؟
+تستطيع："</string>
+  <string name="title_updatepattern">تغيير كلمة السر</string>
+  <string name="title_visible_pattern">إجعل النقش مرئيا</string>
+  <string name="type_prompt">نوع المفتاح</string>
+  <string name="update_pattern_jump">&lt;u&gt;إزالة كلمة المرور&lt;/u&gt;</string>
   <string name="version_preference_title">Version</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
   <string name="welcome_page_details">"— Keep your account safe.
