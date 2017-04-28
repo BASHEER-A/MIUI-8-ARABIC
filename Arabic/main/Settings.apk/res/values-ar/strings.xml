@@ -2494,7 +2494,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="path_xiaomi_account">حساب إعدادات/مي</string>
   <string name="path_xiaomi_cloud_service">تطبيقات</string>
   <string name="path_xiaomi_money_service">تطبيقات</string>
-  <string name="path_xspace">عدادات /التطبيقات المزدوجة</string>
+  <string name="path_xspace">عدادات /التطبيقات المكررة</string>
   <string name="path_zen_mode_option_miui_silent">وضع الإعدادات/الصوت والاهتزاز/صامت</string>
   <string name="performance_category">الأداء</string>
   <string name="permission_detail_info">التفاصيل</string>
@@ -3153,7 +3153,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="search_wifi_wapi_cert_uninstall">إلغاء تثبيت شهادة WAPI;شهائد WAPI;WAPI</string>
   <string name="search_wps_connect_title">زر دفع WPS;توصيل WPS;WPS</string>
   <string name="search_xiaomi_account">حساب Mi؛هوية حساب Mi؛حساب؛هوية الحساب</string>
-  <string name="search_xspace">التطبيقات المستنسخة;التطبيقات المزدوجة;تطبيق مزدوج;تطبيقات مزدوجة;تطبيق مستنسخ;تطبيقات مستنسخة;تطبيق مستنسخ;استنساخ التطبيق;حسابين;2 حسابات</string>
+  <string name="search_xspace">التطبيقات المستنسخة;التطبيقات المكررة;تطبيق مزدوج;تطبيقات مزدوجة;تطبيق مستنسخ;تطبيقات مستنسخة;تطبيق مستنسخ;استنساخ التطبيق;حسابين;2 حسابات</string>
   <string name="search_zen_mode_option_miui_silent">الوضع الصامت؛ صمت؛ صمت؛ كتم الصوت</string>
   <string name="second_space">الفضاء الثاني</string>
   <string name="secure_keyguard_business_title">تعيين قفل الشاشة</string>
@@ -3779,9 +3779,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_dlg_msg">إلغاء التثبيت سيزيل كل بيانات التطبيق.</string>
   <string name="uninstall_dlg_title">إلغاء التثبيت الآن؟</string>
   <string name="uninstall_text">Uninstall</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">ستتم إزالة التطبيقات المزدوجة المتشابهة جنبا إلى جنب مع بيانات التطبيق.</string>
-  <string name="uninstall_xspace_app_dlg_msg">إلغاء تثبيت التطبيقات المزدوجة سيزيل كل بيانات التطبيق.</string>
-  <string name="uninstall_xspace_app_dlg_title">إلغاء تثبيت التطبيقات المزدوجة؟</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">ستتم إزالة التطبيقات المكررة المتشابهة جنبا إلى جنب مع بيانات التطبيق.</string>
+  <string name="uninstall_xspace_app_dlg_msg">إلغاء تثبيت التطبيقات المكررة سيزيل كل بيانات التطبيق.</string>
+  <string name="uninstall_xspace_app_dlg_title">إلغاء تثبيت التطبيقات المكررة؟</string>
   <string name="unknown">غير معروف</string>
   <string name="unknown_app">تطبيق غير معروف</string>
   <string name="unlock_change_lock_password_title">Change unlock password</string>
@@ -4556,7 +4556,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="xiaomi_router_available_notif_title">جهاز توجيه Mi متوفر</string>
   <string name="xiaomi_router_notif_summary">قم بإعلامي عند توفر جهاز توجيه Mi</string>
   <string name="xiaomi_router_notif_title">إشعارات جهاز توجيه Mi</string>
-  <string name="xspace">التطبيقات المزدوجة</string>
+  <string name="xspace">التطبيقات المكررة</string>
   <string name="yes">Yes</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>

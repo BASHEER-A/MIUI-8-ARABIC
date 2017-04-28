@@ -260,8 +260,8 @@
   <string name="card_main_speeddetail_title">سرعة الاتصال</string>
   <string name="card_main_speeddetailt_summary">عرض سرعة الاتصال لتطبيقات الفردية</string>
   <string name="card_main_xspace_action">إنشاء</string>
-  <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
-  <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
+  <string name="card_main_xspace_summary">إنشاء حسابات مكررة لأي تطبيق</string>
+  <string name="card_main_xspace_title">التطبيقات المكررة</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"آخر شحن\u0020"</string>
   <string name="charging_text_battery_nearly_full">تقريباً مشحونة بالكامل</string>

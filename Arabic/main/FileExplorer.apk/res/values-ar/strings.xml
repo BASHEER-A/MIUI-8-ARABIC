@@ -495,7 +495,7 @@
   <string name="stay_awake_summary">"لا تدع الشاشة في وضع السكون عند استخدام الـFTP "</string>
   <string name="stay_awake_title">الحفاظ على الشاشة في حالة الأستيقاظ</string>
   <string name="stop_server">ايقاف الخادم</string>
-  <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
+  <string name="storage_cloned_app">التخزين للتطبيقات المكررة</string>
   <string name="storage_info_detail">المتوفر: %1$s الإجمالي: %2$s</string>
   <string name="storage_internal">التخزين الداخلي</string>
   <string name="storage_sd_card">بطاقة ذاكرة SD</string>

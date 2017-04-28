@@ -43,7 +43,7 @@
   <string name="create_space_loading">جارٍ إنشاء الفضاء الثاني\u2026</string>
   <string name="creating_app_icon">جارٍ إنشاء أيقونة\u2026</string>
   <string name="dataSafe">استخدام الفضاء الثاني هو بمثابة امتلاكك لجهازين.</string>
-  <string name="declare_dialog_title">معلومات عن التطبيقات المزدوجة</string>
+  <string name="declare_dialog_title">معلومات عن التطبيقات المكررة</string>
   <string name="deleteAll">حذف الكل</string>
   <string name="deleteDataConfirm">سيتم حذف جميع العناصر</string>
   <string name="deleteDataDes">"لم تقم بتحديد عناصر للنقل. لن تكون قادراً على استعادة العناصر بعد ما يتم حذفها."</string>
@@ -224,18 +224,18 @@
   <string name="transferMessage">سيتم نقل الرسائل من الفضاء الثاني إلى الفضاء الأول</string>
   <string name="tryNow">جرّب الآن</string>
   <string name="wating">لحظة من فضلك\u2026</string>
-  <string name="xspace_chocie">دعم التطبيق المزدوج</string>
-  <string name="xspace_creating">جارٍ إنشاء تطبيق مزدوج\u2026</string>
-  <string name="xspace_description">قم بإنشاء تطبيقات مزدوجة لإستخدام كل منها على حدة. التطبيقات المزدوجة لها أيقونات معينة في الشاشة الرئيسية.</string>
-  <string name="xspace_header">التطبيقات المزدوجة</string>
+  <string name="xspace_chocie">تطبيقات غير مكررة</string>
+  <string name="xspace_creating">جارٍ إنشاء تطبيق مكرر\u2026</string>
+  <string name="xspace_description">قم بإنشاء تطبيقات مكررة لإستخدام كل منها على حدة. التطبيقات المكررة لها أيقونات مميزة في الشاشة الرئيسية.</string>
+  <string name="xspace_header">التطبيقات المكررة</string>
   <string name="xspace_install_completed">تم إضافة الأيقونة إلى الشاشة الرئيسية</string>
   <string name="xspace_install_failed">"تعذر الإنشاء"</string>
   <string name="xspace_installing">جارٍ التثبيت\u2026</string>
   <string name="xspace_introduce">موصى به</string>
-  <string name="xspace_label">التطبيقات المزدوجة</string>
+  <string name="xspace_label">التطبيقات المكررة</string>
   <string name="xspace_loading_msg">جارٍ تحميل التطبيقات\u2026</string>
-  <string name="xspace_uninstall_completed">تم إلغاء تثبيت التطبيق المزدوج بنجاح</string>
-  <string name="xspace_uninstall_dialog_content">إلغاء تثبيت التطبيقات المزدوجة سيزيل كل بيانات التطبيق.</string>
-  <string name="xspace_uninstall_dialog_title">إلغاء تثبيت التطبيق المزدوج</string>
+  <string name="xspace_uninstall_completed">تم إلغاء تثبيت التطبيق المكرر بنجاح</string>
+  <string name="xspace_uninstall_dialog_content">إلغاء تثبيت التطبيقات المكررة سيزيل كل بيانات التطبيق.</string>
+  <string name="xspace_uninstall_dialog_title">إلغاء تثبيت التطبيق المكرر</string>
   <string name="xspace_uninstalling">جارٍ إلغاء التثبيت\u2026</string>
 </resources>
