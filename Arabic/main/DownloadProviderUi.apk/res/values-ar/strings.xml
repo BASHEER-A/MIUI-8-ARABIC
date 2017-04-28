@@ -177,8 +177,8 @@
   <string name="loading">Just a sec…</string>
   <string name="media_filter">Media</string>
   <string name="member_cost">Annual</string>
-  <string name="menu_all_task_pause">Pause all</string>
-  <string name="menu_all_task_start">Start all</string>
+  <string name="menu_all_task_pause">إيقاف الكل</string>
+  <string name="menu_all_task_start">بدأ الكل</string>
   <string name="menu_enter_edit_mode">محرر</string>
   <string name="menu_preferences">تحميل الإعدادات</string>
   <string name="menu_title_fileexplore">إكسبلورر</string>
@@ -219,10 +219,10 @@
   <string name="pause_download">إيقاف مؤقت</string>
   <string name="paused">توقف مؤقت</string>
   <string name="paused_by_app">توقف مؤقت</string>
-  <string name="paused_insufficient_space">في انتظار للفضاء</string>
-  <string name="paused_queued_for_wifi">في انتظار للشبكة</string>
+  <string name="paused_insufficient_space">في انتظار الفضاء</string>
+  <string name="paused_queued_for_wifi">في انتظار الشبكة</string>
   <string name="paused_unknown">توقف مؤقت</string>
-  <string name="paused_waiting_for_network">في انتظار للشبكة</string>
+  <string name="paused_waiting_for_network">في انتظار الشبكة</string>
   <string name="paused_waiting_to_retry">في انتظار إعادة المحاولة</string>
   <string name="period_of_validity">صلاحية البطاقة:</string>
   <string name="pref_download_revert_default">افتراضي</string>

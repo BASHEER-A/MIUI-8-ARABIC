@@ -41,8 +41,8 @@
   <string name="notify_install_guide_forward_text">فتح</string>
   <string name="notify_install_guide_msg">تثبيت بنجاح</string>
   <string name="notify_install_guide_title">تثبيت %s بنجاح</string>
-  <string name="notify_only_wifi_download">في انتظار للشبكات اللاسلكية</string>
-  <string name="paused_waiting_for_network">في انتظار للشبكة</string>
+  <string name="notify_only_wifi_download">في انتظار الشبكات اللاسلكية</string>
+  <string name="paused_waiting_for_network">في انتظار الشبكة</string>
   <string name="permdesc_accessAllDownloads">ويسمح التطبيق لعرض وتعديل كافة التحميلات بدأها أي التطبيق على النظام.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"ويسمح التطبيق لتحميل الملفات لتحميل ذاكرة التخزين المؤقت، الذي لا يمكن حذف تلقائياً عندما يحتاج مدير تحميل مساحة أكبر."</string>
   <string name="permdesc_downloadCompletedIntent">ويسمح التطبيق لإرسال إعلامات حول التحميلات المكتملة. يمكن استخدام تطبيقات خبيثة هذا الخلط بين تطبيقات أخرى تحميل الملفات.</string>

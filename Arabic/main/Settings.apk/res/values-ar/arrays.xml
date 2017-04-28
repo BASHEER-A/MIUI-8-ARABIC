@@ -30,7 +30,7 @@
     <item>تجنب سوء الاتصال مؤقتاً</item>
   </string-array>
   <string-array name="status_bar_style_entries">
-    <item>مشترك</item>
+    <item>مدمج</item>
     <item>منفصلة</item>
   </string-array>
   <string-array name="timezone_filters">

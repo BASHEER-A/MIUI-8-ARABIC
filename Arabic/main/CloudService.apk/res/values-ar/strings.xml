@@ -193,7 +193,7 @@
   <string name="micloud_detail_upload_syncing">جارٍ التحميل %s</string>
   <string name="micloud_detail_wlan">جارٍ انتظار %d للمزامنة</string>
   <string name="micloud_detail_wlan_contact">اتصل صور انتظار المزامنة: %d</string>
-  <string name="micloud_detail_wlan_mms">%d MMS انتظار للمزامنة</string>
+  <string name="micloud_detail_wlan_mms">%d MMS انتظار المزامنة</string>
   <string name="micloud_dspt">استخدم Mi Cloud لمزامنة البيانات، تحديد موقع جهازك، </string>
   <string name="micloud_dspt_provision">استخدم Mi Cloud لمزامنة البيانات، تحديد موقع جهازك ومشاركة الأشياء مع الأصدقاء.</string>
   <string name="micloud_find_device_finish">تم</string>

@@ -1149,11 +1149,11 @@
   <string name="dndm_repeated_call_summary_3min">الرنين عند استلام مكالمة أخرى من نفس الرقم في غضون ٣ دقائق</string>
   <string name="dndm_repeated_call_summary_none">كتم صوت المكالمات المتكررة من نفس الرقم</string>
   <string name="dndm_special_call_setting_group">الإستثناءات</string>
-  <string name="dndm_summary">المكالمات والإشعارات التي تأتي عندما يكون الجهاز في وضع عدم الازعاج سيتم اسكاتها.</string>
+  <string name="dndm_summary">المكالمات والإشعارات سيتم اسكاتها عندما يتم تفعيل وضع عدم الازعاج.</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">السماح للمكالمات الواردة من الاستثناءات</string>
-  <string name="dndm_vip_call_setting_detal">دائمًا قبول المكالمات الواردة من الاستثناءات</string>
+  <string name="dndm_vip_call_setting_detal">دائماً قبول المكالمات الواردة من الاستثناءات</string>
   <string name="dndm_vip_call_setting_title">الإستثناءات</string>
   <string name="dndm_vip_call_summary_contact">الكل</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
@@ -3433,7 +3433,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>
   <string name="status_bar_settings_expandable_under_keyguard">عرض في شاشة القفل</string>
   <string name="status_bar_settings_long_click_sort">إضغط لمدة طويلة لإختيار زر</string>
-  <string name="status_bar_settings_manage_notification">إشعارات التطبيق</string>
+  <string name="status_bar_settings_manage_notification">إشعارات التطبيقات</string>
   <string name="status_bar_settings_no_carrier">لا شيء</string>
   <string name="status_bar_settings_notification_bar">مركز الإشعارات</string>
   <string name="status_bar_settings_notification_led">ضوء الإشعار</string>
@@ -3442,7 +3442,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="status_bar_settings_notification_sound">الصوت</string>
   <string name="status_bar_settings_notification_vibrate">الإهتزاز</string>
   <string name="status_bar_settings_show_carrier">عرض اسم شركة الاتصالات</string>
-  <string name="status_bar_settings_show_carrier_summary">اسم شركة الاتصالات لا يزال معروض على شاشة القفل وفي مركز الإشعارات عند إيقاف هذه الميزة</string>
+  <string name="status_bar_settings_show_carrier_summary">اسم شركة الاتصالات دوماً سيكون معروضاً على شاشة القفل ومركز الإشعارات حتى مع إيقاف هذه الميزة</string>
   <string name="status_bar_settings_show_floating_notification">إشعارات منبثقة</string>
   <string name="status_bar_settings_show_floating_notification_summary">"سيتم اختفاء الإشعارات المنبثقة تلقائياً بعد ان تظهر اعلى الشاشة"</string>
   <string name="status_bar_settings_show_flow_info">إظهار إستخدام البيانات</string>
@@ -3452,7 +3452,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="status_bar_settings_show_notification_icon">عرض أيقونات الإشعارات</string>
   <string name="status_bar_settings_show_wifi_name">عرض Wi-Fi</string>
   <string name="status_bar_settings_status_bar">شريط الحالة</string>
-  <string name="status_bar_settings_style">الإشعارات وتنسيق مفاتيح التبديل</string>
+  <string name="status_bar_settings_style">تنسيق الإشعارات ومفاتيح التبديل</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">التقليص بعد المس</string>
   <string name="status_bar_settings_toggle_position">أوضاع مفاتيح التبديل</string>
   <string name="status_bar_style_list">مدمجة</string>

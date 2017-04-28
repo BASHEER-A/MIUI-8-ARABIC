@@ -735,7 +735,7 @@ To activate your account, follow the
   <string name="press_to_match">Tap to pair</string>
   <string name="prev_remote">Previous remote</string>
   <string name="privacy_content">\"Read Xiaomi\'s \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;Privacy Policy&lt;/a&gt; and &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
-  <string name="privacy_nohit">"Don't show again"</string>
+  <string name="privacy_nohit">"لاتظهر مرة أخرى"</string>
   <string name="privacy_title">Terms and Conditions</string>
   <string name="program_booking_book_filter_book_status">预约状态</string>
   <string name="program_booking_book_filter_not_booked">未预约</string>

@@ -870,13 +870,13 @@
   <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">sender</string>
   <string name="special_text_sender_zh">发件人</string>
-  <string name="storage">Storage</string>
-  <string name="str_select_all">Select all</string>
+  <string name="storage">التخزين</string>
+  <string name="str_select_all">تحديد الكل</string>
   <string name="str_select_none">Deselect</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Subject</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
-  <string name="sync_error">"Couldn't sync."</string>
+  <string name="sync_error">"تعذرت المزامنة."</string>
   <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
   <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
@@ -889,8 +889,8 @@
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">Touch to turn on.</string>
-  <string name="to">To</string>
-  <string name="to_heading">"To: "</string>
+  <string name="to">إلى</string>
+  <string name="to_heading">"إلى: "</string>
   <string name="toast_bar_fail_synchronization">"Can't connect to the network"</string>
   <string name="toast_bar_insufficient_memory_space">Not enough storage space</string>
   <string name="toast_bar_invalid_account">You need to sign in again</string>
