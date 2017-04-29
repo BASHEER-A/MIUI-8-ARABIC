@@ -104,7 +104,7 @@
   <string name="free_style_enter_tip">لعرض Mi Space، مرر من أعلى الشاشة لأسفل باستخدام أصبعين</string>
   <string name="free_style_exit_tip">للعودة إلى الشاشة الرئيسية، مرر من أسفل الشاشة لأعلى باستخدام أصبعين</string>
   <string name="free_style_londing_text">جارٍ التحميل\u2026</string>
-  <string name="gadget_calculator_label">آلة حاسبة</string>
+  <string name="gadget_calculator_label">الحاسبة</string>
   <string name="gadget_calendar_label">تقويم</string>
   <string name="gadget_clear_button_label">أداة التنظيف</string>
   <string name="gadget_clock_12_label">ساعة ١x٢</string>
