@@ -1305,7 +1305,7 @@
   <string name="error_apn_empty">APN لا يمكن أن يكون فارغاً.</string>
   <string name="error_mcc_not3">MCC field must be 3 digits.</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
-  <string name="error_name_empty">The Name field can’t be empty.</string>
+  <string name="error_name_empty">لا يمكن أن يكون حقل الاسم فارغا.</string>
   <string name="error_title"></string>
   <string name="every_day">كل يوم</string>
   <string name="experimental_preference">(تجريبية)</string>
@@ -1385,10 +1385,10 @@
   <string name="force_hw_ui_summary">استخدام القوة لزوجته للرسم 2d</string>
   <string name="force_msaa">X MSAA القوة 4</string>
   <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
-  <string name="force_rtl_layout_all_locales">Force RTL layout direction</string>
-  <string name="force_rtl_layout_all_locales_summary">Force screen layout direction to RTL for all locales</string>
+  <string name="force_rtl_layout_all_locales">فرض الاتجاه لليمين</string>
+  <string name="force_rtl_layout_all_locales_summary">فرض اتجاه تخطيط الشاشة لليمين للجميع</string>
   <string name="force_stop">إيقاف بالقوة</string>
-  <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
+  <string name="force_stop_dlg_text">إذا فرضت إيقاف التطبيق، قد تواجه مشكلة.</string>
   <string name="force_stop_dlg_title">إيقاف القوة؟</string>
   <string name="force_touch">لمس 3D</string>
   <string name="force_touch_demo">عرض تجريبي</string>
@@ -1590,7 +1590,7 @@
   <string name="install_whole_rom">تنزيل ROM</string>
   <string name="instruction_privacy_password">حماية كلمة المرور هذه البنود التالية</string>
   <string name="instruction_title">تعليمات</string>
-  <string name="insufficient_storage">Not enough storage space.</string>
+  <string name="insufficient_storage">مساحة التخزين غير كافية.</string>
   <string name="intent_sender_account_label">الحساب:</string>
   <string name="intent_sender_action_label">الإجراء:</string>
   <string name="intent_sender_data_label">البيانات:</string>
@@ -1610,7 +1610,7 @@
   <string name="invalid_size_value">لا يمكن حساب حجم الحزمة.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
-  <string name="join_many_items_last">%1$s and %2$s</string>
+  <string name="join_many_items_last">%1$s و %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s و %2$s</string>
   <string name="keep_legacy_fingerprint">إبقاء</string>
@@ -1720,11 +1720,11 @@
   <string name="local_auto_backup_off">إيقاف</string>
   <string name="local_auto_backup_on">تشغيل</string>
   <string name="local_auto_backup_section_title">نسخ احتياطي تلقائي</string>
-  <string name="local_backup_password_summary_change">Touch to change or remove the password for desktop full backups</string>
-  <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
-  <string name="local_backup_password_title">Desktop backup password</string>
+  <string name="local_backup_password_summary_change">أنقر لتغيير كلمة مرور النسخ الاحتياطية الكاملة لسطح المكتب أو إزالتها</string>
+  <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة لسطح المكتب غير محمية حاليا</string>
+  <string name="local_backup_password_title">كلمة مرور النسخة الاحتياطية لسطح المكتب</string>
   <string name="local_backup_password_toast_confirmation_mismatch">New password and confirmation don’t match</string>
-  <string name="local_backup_password_toast_success">New backup password set</string>
+  <string name="local_backup_password_toast_success">تعيين كلمة مرور احتياطية جديدة</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="local_backup_section_summary">النسخ الاحتياطي لإعدادات النظام، معلومات الحساب، والتطبيقات</string>
   <string name="local_backup_section_title">نسخ احتياطي محلي</string>
