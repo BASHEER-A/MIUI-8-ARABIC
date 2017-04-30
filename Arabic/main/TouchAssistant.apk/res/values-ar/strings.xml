@@ -18,7 +18,7 @@
   <string name="name_alipay_payment_code">دفع Alipay</string>
   <string name="name_alipay_scan">ماسح Alipay</string>
   <string name="name_long_press_power_key">الضغط مطولاً على زر الطاقة</string>
-  <string name="name_memory_clean">مسح ذاكرة التخزين المؤقت</string>
+  <string name="name_memory_clean">حذف الملفات المؤقتة</string>
   <string name="name_music_next_song">الأغنية التالية</string>
   <string name="name_music_prev_song">الأغنية السابقة</string>
   <string name="name_music_toggle">تشغيل/ إيقاف مؤقت للأغنية</string>

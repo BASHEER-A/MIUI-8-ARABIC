@@ -104,7 +104,7 @@
   <string name="conn_of_function_safe">اتصال الشبكة للحماية</string>
   <string name="connecting">جارٍ الاتصال\u2026</string>
   <string name="deep_clean_completed_tips">تم الحذف بنجاح</string>
-  <string name="deep_clean_data_path_clean_title">مسح ذاكرة التخزين المؤقت</string>
+  <string name="deep_clean_data_path_clean_title">حذف الملفات المؤقتة</string>
   <string name="deep_clean_normal_clean_progress_desc">تم حذف %1$s ملف</string>
   <string name="deep_clean_uninstall_completed_tips">تم إلغاء التثبيت بنجاح</string>
   <string name="deepclean_1_k_clean">تنظيف سريع</string>
@@ -284,7 +284,7 @@
   <string name="msg_update_error_code_unknown_error">خطأ غير معروف</string>
   <string name="name_debuglog_dir">سجل تصحيح Bsp</string>
   <string name="name_optimizer">سياسة الخصوصية</string>
-  <string name="nb_clear_set">مسح ذاكرة التخزين المؤقت، عرض معلومات البطارية وقائمة الحظر في مركزالاشعارات</string>
+  <string name="nb_clear_set">حذف الملفات المؤقتة، عرض معلومات البطارية وقائمة الحظر في مركزالاشعارات</string>
   <string name="net_assistant_detail">تم استخدام %1$s, تم حفظ %2$s</string>
   <string name="net_assistant_title">تم استعمال %s من بيانات الهاتف هذا الشهر</string>
   <string name="network_not_available">"تعذر الاتصال بالشبكة"</string>

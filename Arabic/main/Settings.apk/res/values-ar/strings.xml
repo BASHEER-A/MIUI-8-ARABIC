@@ -775,7 +775,7 @@
   <string name="clear_activities">مسح الإعدادات الافتراضية</string>
   <string name="clear_activities_summary">استخدام هذا التطبيق لإجراء بعض العمليات افتراضياً</string>
   <string name="clear_adb_keys">إلغاء تراخيص تصحيح USB</string>
-  <string name="clear_cache_btn_text">مسح ذاكرة التخزين المؤقت</string>
+  <string name="clear_cache_btn_text">حذف الملفات المؤقتة</string>
   <string name="clear_data_dlg_text">سيتم حذف بيانات هذا التطبيق بشكل دائم. وهذا يشمل جميع الملفات، وإعدادات، حسابات، قواعد البيانات، إلخ.</string>
   <string name="clear_data_dlg_title">حذف بيانات التطبيق؟</string>
   <string name="clear_data_failed">لم أستطع مسح بيانات التطبيق.</string>
@@ -1213,8 +1213,8 @@
   <string name="dtmf_tone_enable_title">نغمات لوحة الاتصال</string>
   <string name="edge_mode_back">الرجوع للخلف</string>
   <string name="edge_mode_back_summary">أنقر نقرا مزدوجا على حافة هاتفك للرجوع إلى الخلف</string>
-  <string name="edge_mode_clean">مسح ذاكرة التخزين المؤقت للنظام</string>
-  <string name="edge_mode_clean_summary">قم بالتمرير على الحافتين في وقت واحد لمسح ذاكرة التخزين المؤقت للنظام</string>
+  <string name="edge_mode_clean">حذف الملفات المؤقتة للنظام</string>
+  <string name="edge_mode_clean_summary">قم بالتمرير على الحافتين في وقت واحد لحذف الملفات المؤقتة للنظام</string>
   <string name="edge_mode_guide_title">المس المساحة البارزة لاستخدام عناصر تحكم الحافة</string>
   <string name="edge_mode_notification_summary">أنقر لمعرفة أكثر.</string>
   <string name="edge_mode_notification_title">استخدام عناصر تحكم الحافة</string>

@@ -11,8 +11,8 @@
   <string name="choose_unit">"حدد وحدة"</string>
   <string name="city">"مدينة"</string>
   <string name="clear">"ج"</string>
-  <string name="clearDesc">"مسح"</string>
-  <string name="clear_history">"مسح المحفوظات"</string>
+  <string name="clearDesc">"حذف"</string>
+  <string name="clear_history">"حذف المحفوظات"</string>
   <string name="combine_loan">"القروض المجمعة"</string>
   <string name="commercial_loan">"القروض التجارية"</string>
   <string name="convert_currency">"تحويل العملات"</string>

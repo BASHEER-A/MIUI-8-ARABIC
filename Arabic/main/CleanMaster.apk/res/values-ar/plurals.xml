@@ -82,12 +82,12 @@
     <item quantity="many">حذف الصور %1$s من كافة الأجهزة؟</item>
   </plurals>
   <plurals name="deepclean_cache_summary">
-    <item quantity="zero">يمكنك مسح البيانات غير مهم لتطبيقات %d</item>
-    <item quantity="other">يمكنك مسح البيانات غير مهم لتطبيقات %d</item>
-    <item quantity="one">يمكنك مسح البيانات غير مهم لتطبيقات %d</item>
-    <item quantity="two">يمكنك مسح البيانات غير مهم لتطبيقات %d</item>
-    <item quantity="few">يمكنك مسح البيانات غير مهم لتطبيقات %d</item>
-    <item quantity="many">يمكنك مسح البيانات غير مهم لتطبيقات %d</item>
+    <item quantity="zero">يمكنك حذف البيانات الغير مهمة لتطبيقات %d</item>
+    <item quantity="other">يمكنك حذف البيانات الغير مهمة لتطبيقات %d</item>
+    <item quantity="one">يمكنك حذف البيانات الغير مهمة لتطبيقات %d</item>
+    <item quantity="two">يمكنك حذف البيانات الغير مهمة لتطبيقات %d</item>
+    <item quantity="few">يمكنك حذف البيانات الغير مهمة لتطبيقات %d</item>
+    <item quantity="many">يمكنك حذف البيانات الغير مهمة لتطبيقات %d</item>
   </plurals>
   <plurals name="deepclean_app_summary">
     <item quantity="zero">تثبيت تطبيقات %d، يمكنك حذف نادراً ما تستخدم التطبيقات</item>
@@ -98,12 +98,12 @@
     <item quantity="many">تثبيت تطبيقات %d، يمكنك حذف نادراً ما تستخدم التطبيقات</item>
   </plurals>
   <plurals name="deepclean_large_summary">
-    <item quantity="zero">العثور على الملفات الكبيرة %d، يمكنك حذف تلك غير مهم</item>
-    <item quantity="other">العثور على الملفات الكبيرة %d، يمكنك حذف تلك غير مهم</item>
-    <item quantity="one">العثور على الملفات الكبيرة %d، يمكنك حذف تلك غير مهم</item>
-    <item quantity="two">العثور على الملفات الكبيرة %d، يمكنك حذف تلك غير مهم</item>
-    <item quantity="few">العثور على الملفات الكبيرة %d، يمكنك حذف تلك غير مهم</item>
-    <item quantity="many">العثور على الملفات الكبيرة %d، يمكنك حذف تلك غير مهم</item>
+    <item quantity="zero">العثور على الملفات الكبيرة %d، يمكنك حذف تلك الغير مهمة</item>
+    <item quantity="other">العثور على الملفات الكبيرة %d، يمكنك حذف تلك الغير مهمة</item>
+    <item quantity="one">العثور على الملفات الكبيرة %d، يمكنك حذف تلك الغير مهمة</item>
+    <item quantity="two">العثور على الملفات الكبيرة %d، يمكنك حذف تلك الغير مهمة</item>
+    <item quantity="few">العثور على الملفات الكبيرة %d، يمكنك حذف تلك الغير مهمة</item>
+    <item quantity="many">العثور على الملفات الكبيرة %d، يمكنك حذف تلك الغير مهمة</item>
   </plurals>
   <plurals name="deepclean_similar_summary">
     <item quantity="zero">العثور على الصور %d، يمكنك حذف التكرارات أو الصور المكررة</item>

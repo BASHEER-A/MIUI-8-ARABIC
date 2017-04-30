@@ -10,7 +10,7 @@
   <string name="abc_activity_chooser_view_see_all">اظهار الكل</string>
   <string name="abc_activitychooserview_choose_application">اختر التطبيق</string>
   <string name="abc_search_hint">البحث...</string>
-  <string name="abc_searchview_description_clear">مسح طلب بحث</string>
+  <string name="abc_searchview_description_clear">حذف طلبات البحث</string>
   <string name="abc_searchview_description_query">استعلام البحث</string>
   <string name="abc_searchview_description_search">البحث</string>
   <string name="abc_searchview_description_submit">إرسال الاستعلام</string>

@@ -321,7 +321,7 @@
   <string name="deep_clean_disconnect_data_title">إيقاف تشغيل بيانات الهاتف عندما يكون الجهاز مقفل</string>
   <string name="deep_clean_memory_clean_title">تنظيف ذاكرة التخزين المؤقت عندما تكون شاشة الجهاز مقفلة</string>
   <string name="deep_clean_never_memory_clean">ابداً</string>
-  <string name="deep_save_memory_clean_summary">مسح ذاكرة التخزين المؤقت عند قفل الجهاز لمنع التطبيقات من استخدام البطارية</string>
+  <string name="deep_save_memory_clean_summary">حذف الملفات المؤقتة عند قفل الجهاز لمنع التطبيقات من استخدام البطارية</string>
   <string name="deep_save_ontime_boot_shutdown_summary">جدولة الوقت لتشغيل وايقاف الجهاز</string>
   <string name="delete">حذف</string>
   <string name="delete_from_manual_item_white_list">إزالة من الاستثناءات</string>
@@ -755,7 +755,7 @@
   <string name="optmizingbar_ready">جار التحسين\u2026</string>
   <string name="optmizingbar_stop_optmize">إيقاف</string>
   <string name="optmizingbar_title_acceleration">جارٍ التحسين…</string>
-  <string name="optmizingbar_title_clear">مسح ذاكرة التخزين المؤقت</string>
+  <string name="optmizingbar_title_clear">حذف الملفات المؤقتة</string>
   <string name="optmizingbar_title_security">الحماية</string>
   <string name="optmizingbar_title_system">حماية النظام</string>
   <string name="other_exception_summary">"لا يوجد لديك اتصال بشبكة الإنترنت"</string>
@@ -1110,7 +1110,7 @@
   <string name="section_clear_acc_item_title">"%s. إذا مازال هناك مساحة غير كافية، حاول استخدام المنظف."</string>
   <string name="section_security_defend_item_title">قم بحماية بياناتك مع قفل التطبيقات</string>
   <string name="section_system_item_fixed">تم الاصلاح</string>
-  <string name="section_title_clear_acc">مسح ذاكرة التخزين المؤقت</string>
+  <string name="section_title_clear_acc">حذف الملفات المؤقتة</string>
   <string name="section_title_security_defend">الحماية</string>
   <string name="section_title_system">حماية النظام</string>
   <string name="security_app_lock">قفل التطبيقات</string>
@@ -1201,7 +1201,7 @@
   <string name="summary_permission">تجنب المدفوعات غير المرغوب فيها و حماية البيانات الشخصية </string>
   <string name="summary_permission_root">يبدو أن الجهاز لدية القدرة على الوصول للجذر. قد يلحق بالضرر على الحماية في جهازك.</string>
   <string name="summary_power_optimizer">"تقليل أداء الجهاز عند انخفاض البطارية"</string>
-  <string name="summary_show_notification">مسح ذاكرة التخزين المؤقت، عرض حالة البطارية، و حظر عناصر في مركزالاشعارات</string>
+  <string name="summary_show_notification">حذف الملفات المؤقتة، عرض حالة البطارية، و حظر عناصر في مركزالاشعارات</string>
   <string name="summary_telecom_operator">احصل على إحصائيات استخدام البيانات شهرياً من شركة الاتصالات الخاصة بك</string>
   <string name="summary_usb">منع البرمجيات الخبيثة من تنقلها عبر USB</string>
   <string name="summary_virus">قم بإزالة الفايروسات للحفاظ على جهازك أمنا</string>

@@ -26,12 +26,12 @@
     <item quantity="many">%1$d مختارة</item>
   </plurals>
   <plurals name="video_download_clear_prompt">
-    <item quantity="zero">فيديو %1$d هل تريد مسح؟</item>
-    <item quantity="other">فيديو %1$d هل تريد مسح؟</item>
-    <item quantity="one">فيديو %1$d هل تريد مسح؟</item>
-    <item quantity="two">فيديو %1$d هل تريد مسح؟</item>
-    <item quantity="few">فيديو %1$d هل تريد مسح؟</item>
-    <item quantity="many">فيديو %1$d هل تريد مسح؟</item>
+    <item quantity="zero">فيديو %1$d هل تريد حذف؟</item>
+    <item quantity="other">فيديو %1$d هل تريد حذف؟</item>
+    <item quantity="one">فيديو %1$d هل تريد حذف؟</item>
+    <item quantity="two">فيديو %1$d هل تريد حذف؟</item>
+    <item quantity="few">فيديو %1$d هل تريد حذف؟</item>
+    <item quantity="many">فيديو %1$d هل تريد حذف؟</item>
   </plurals>
   <plurals name="video_download_clear_info">
     <item quantity="zero">حذف الفيديو %1$d بنجاح.</item>

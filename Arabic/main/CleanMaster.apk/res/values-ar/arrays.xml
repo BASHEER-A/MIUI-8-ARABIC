@@ -34,11 +34,11 @@
     <item>"عرض موقع الملف"</item>
   </string-array>
   <string-array name="trash_clean_menu">
-    <item>مسح هذا الملف</item>
+    <item>حذف هذا الملف</item>
     <item>"عرض موقع الملف"</item>
   </string-array>
   <string-array name="video_clean_menu">
-    <item>مسح هذا الملف</item>
+    <item>حذف هذا الملف</item>
     <item>افتح</item>
   </string-array>
   <string-array name="empty_floder_clean_menu">
