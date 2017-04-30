@@ -21,7 +21,7 @@
   <string name="auto_update_sum">تحميل التحديثات عند الاتصال بشبكة Wi-Fi وتثبيتها في الليل</string>
   <string name="autosetmode">الإعدادات</string>
   <string name="best_update">أفضل تحديث حتى الآن</string>
-  <string name="boot_recovery">إعادة التشغيل إلى وضع الاسترداد؟</string>
+  <string name="boot_recovery">إعادة التشغيل إلى وضع الريكوفري؟</string>
   <string name="button_delay_update_reboot">إعادة تشغيل و تحديث</string>
   <string name="button_text_check">التحقق من وجود تحديثات</string>
   <string name="button_text_later_reboot">لاحقا</string>
