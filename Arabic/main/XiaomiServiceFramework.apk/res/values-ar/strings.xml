@@ -38,11 +38,11 @@
   <string name="activate_popup_confirm_failed_server">حاول مجدداً</string>
   <string name="activate_popup_desc_2_intl_sim_cards">سيتم إرسال ۲ رسائل دولية لتفعيل %s. وسيتم فرض رسوم عليك من قبل شركة الاتصالات.</string>
   <string name="activate_popup_desc_2_sim_cards">سيتم إرسال ۲ رسائل عادية لتفعيل %s. وسيتم فرض رسوم عليك من قبل شركة الاتصالات.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">لا يمكن إيجاد رقم الهاتف الخاص بك. تأكد من أن شريحة SIM الخاصة بك مفعّلة.\nأدخل رقم الهاتف المقترن بشريحة SIM الجديدة لإعادة تفعيل %s</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">لا يمكن إيجاد رقم هاتفك. تأكد من أن شريحة SIM الخاصة بك مفعّلة.\nأدخل رقم الهاتف المقترن بشريحة SIM الجديدة لإعادة تفعيل %s</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">تعذر إرسال رسالة التفعيل. تأكد من أن شريحة SIM الخاصة بك مفعّلة.\nأدخل رقم الهاتف المقترن بشريحة SIM الجديدة لإعادة تفعيل %s</string>
   <string name="activate_popup_desc_error_device_id">اطلب *#۰٦# للتحقق من رقم IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">رقم الهاتف الذي أدخلته غير صالح.</string>
-  <string name="activate_popup_desc_failed_query_info">"تعذر إيجاد رقم الهاتف الخاص بك. تأكد من أن شريحة SIM الخاصة بك مفعّلة."</string>
+  <string name="activate_popup_desc_failed_query_info">"تعذر إيجاد رقم هاتفك. تأكد من أن شريحة SIM الخاصة بك مفعّلة."</string>
   <string name="activate_popup_desc_failed_receive_sms">تأكد من أن رقم الهاتف الذي أدخلته صحيح وشريحة SIM الخاصة بك مفعّلة.</string>
   <string name="activate_popup_desc_failed_send_sms">"تعذر إرسال رسالة التفعيل. تأكد من أن شريحة SIM الخاصة بك مفعّلة."</string>
   <string name="activate_popup_desc_failed_server">تحقق من اتصال الشبكة ثم حاول مرة أخرى.</string>
@@ -106,7 +106,7 @@
   <string name="error_device_id_title">"لا يمكن الحصول على رقم تعريف صالح للجهاز"</string>
   <string name="explain_send_sms_permission_button">تحقق</string>
   <string name="explain_send_sms_permission_msg">لتشغيل %s، سيرسل اليك إطار خدمة Mi رسالة قصيرة (SMS) للتحقق من رقم هاتفك. سيتم احتساب رسوم الرسالة القصيرة الإعتيادية من قبل شركة الاتصالات.</string>
-  <string name="explain_send_sms_permission_title">تحقق من رقم الهاتف الخاص بك</string>
+  <string name="explain_send_sms_permission_title">تحقق من رقم هاتفك</string>
   <string name="sim_unactivated_title">"بطاقتك SIM غير مفعّلة"</string>
   <string name="sync_notification_title_format">عنصر المزامنة الحالي: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

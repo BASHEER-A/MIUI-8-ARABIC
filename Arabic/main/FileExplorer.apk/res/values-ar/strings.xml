@@ -41,7 +41,7 @@
   <string name="bind_need_to_login">تسجيل الدخول</string>
   <string name="bind_phone_dialog_bind">إضافة جديد</string>
   <string name="bind_phone_dialog_cancle">"لا تضيف"</string>
-  <string name="bind_phone_dialog_tip">"الفيديو الخاص بك يمكنه أن يشارك في التصنيف العالمي والفوز بالجوائز. في حال اذا فزت بشيء، لن نكون قادرين على الاتصال بك إلا إذا قمت بإضافة رقم الهاتف الخاص بك."</string>
+  <string name="bind_phone_dialog_tip">"الفيديو الخاص بك يمكنه أن يشارك في التصنيف العالمي والفوز بالجوائز. في حال اذا فزت بشيء، لن نكون قادرين على الاتصال بك إلا إذا قمت بإضافة رقم هاتفك."</string>
   <string name="bind_phone_failed_tip">"تعذر إضافة رقم الهاتف"</string>
   <string name="bind_phone_success_tip">تمت إضافة رقم الهاتف بنجاح</string>
   <string name="bind_success_tip">تمت الاضافة بنجاح</string>

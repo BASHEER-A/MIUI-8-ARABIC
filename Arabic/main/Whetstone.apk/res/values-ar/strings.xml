@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">ويستون</string>
-  <string name="permstep_description">"السماح للتطبيق بقراءة المعلومات الهاتف الخاص بك"</string>
+  <string name="permstep_description">"السماح للتطبيق بقراءة معلومات هاتفك"</string>
   <string name="permstep_label">قراءة الخطوات</string>
 </resources>

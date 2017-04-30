@@ -346,7 +346,7 @@
   <string name="forward_intent_to_owner">أنت تستخدم هذا التطبيق خارج ملفك الشخصي للعمل</string>
   <string name="forward_intent_to_work">أنت تستخدم هذا التطبيق في ملفك الشخصي للعمل</string>
   <string name="gadget_host_error_inflating">تعذرت إضافة أداة.</string>
-  <string name="gigabyteShort">غيغابايت</string>
+  <string name="gigabyteShort">قيقابايت</string>
   <string name="global_action_assist">مساعدة</string>
   <string name="global_action_bug_report">تقرير الأخطاء</string>
   <string name="global_action_emergency">الطوارئ</string>

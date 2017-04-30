@@ -353,7 +353,7 @@
   <string name="evdoorcdma">CDMA/EvDo</string>
   <string name="exit">خروج</string>
   <string name="exit_auto_test">إذا كنت ترغب في إنهاء الاختبار التلقائي؟</string>
-  <string name="exit_hint">سيتم مسح كافة السجلات تالتي تم اختبارها، الخروج؟</string>
+  <string name="exit_hint">سيتم حذف كافة السجلات التي تم اختبارها، خروج؟</string>
   <string name="external_version">إصدار خارجي:</string>
   <string name="factory_restore">استعادة المصنع</string>
   <string name="fastboot_lock_text">حالة تأمين fastboot</string>

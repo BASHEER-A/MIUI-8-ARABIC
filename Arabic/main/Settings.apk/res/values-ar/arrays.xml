@@ -135,7 +135,7 @@
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>تلقائي</item>
-    <item>5 غيغاهرتز فقط</item>
+    <item>5 قيقاهرتز فقط</item>
     <item>2.4 GHz فقط</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">

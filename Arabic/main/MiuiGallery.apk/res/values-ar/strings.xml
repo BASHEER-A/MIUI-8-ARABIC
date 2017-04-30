@@ -727,7 +727,7 @@
   <string name="gallery_sync_disable_toast">المزامنة متوقفة للمعرض</string>
   <string name="get_album_info_in_process">"جارٍ الحصول على تفاصيل الألبوم المشترك\u2026"</string>
   <string name="gif_tip">GIF</string>
-  <string name="gigabyteShort">غيغابايت</string>
+  <string name="gigabyteShort">قيقابايت</string>
   <string name="has_invalid_recipient">مستلمين غير صالحين: %1$s</string>
   <string name="have_known">فهمت</string>
   <string name="hidden_album_display_name">ألبوم مخفي</string>

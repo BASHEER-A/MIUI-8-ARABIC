@@ -35,9 +35,9 @@
   <string name="check_local_package_update_title">تحديث</string>
   <string name="check_local_package_validate_error_button">موافق</string>
   <string name="check_local_package_validate_error_msg">"تعذر التحقق من حزمة التحديث"</string>
-  <string name="check_local_package_wipe_btn">مسح و تحديث</string>
-  <string name="check_local_package_wipe_msg">"ستعود إلى إصدار MIUI %s. سيتم مسح البيانات الشخصية الخاصة بك. تأكد من عمل نسخة احتياطية من أي شيء ترغب في الاحتفاظ به قبل بدء العملية."</string>
-  <string name="check_local_package_wipe_title">مسح البيانات</string>
+  <string name="check_local_package_wipe_btn">حذف و تحديث</string>
+  <string name="check_local_package_wipe_msg">"ستعود إلى إصدار MIUI %s. سيتم حذف البيانات الشخصية الخاصة بك. تأكد من عمل نسخة احتياطية من أي شيء ترغب في الاحتفاظ به قبل بدء العملية."</string>
+  <string name="check_local_package_wipe_title">حذف البيانات</string>
   <string name="check_new_version">تحقق</string>
   <string name="check_update_policy">الإعدادات</string>
   <string name="check_update_when_wifi_available">تحقق باستخدام Wi-Fi فقط</string>
@@ -50,9 +50,9 @@
   <string name="comment_upload_hint">شكراً لملاحظاتك!</string>
   <string name="comment_upload_not_logined">تحتاج إلى تسجيل الدخول إلى حساب Mi أولا</string>
   <string name="comment_upload_success">تم الإرسال</string>
-  <string name="confirm_local_package_wipe_btn">مسح و تحديث</string>
-  <string name="confirm_local_package_wipe_msg">سيتم مسح البيانات الشخصية الخاصة بك. تأكد من عمل نسخة احتياطية من أي شيء ترغب في الاحتفاظ به المتابعة.</string>
-  <string name="confirm_local_package_wipe_title">هل تريد مسح البيانات؟</string>
+  <string name="confirm_local_package_wipe_btn">حذف و تحديث</string>
+  <string name="confirm_local_package_wipe_msg">سيتم حذف البيانات الشخصية الخاصة بك. تأكد من عمل نسخة احتياطية من أي شيء ترغب في الاحتفاظ به المتابعة.</string>
+  <string name="confirm_local_package_wipe_title">هل تريد حذف البيانات؟</string>
   <string name="continue_update_negative_btn">متابعة</string>
   <string name="continue_update_positive_btn">إيقاف</string>
   <string name="daily_build">كل ليلة</string>

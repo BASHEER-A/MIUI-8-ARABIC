@@ -422,7 +422,7 @@
   <string name="gateway_exception_summary">تحقق من جهاز التوجيه ثم أعد المحاولة.</string>
   <string name="gateway_exception_summary2">"تعذر الاتصال بالخادم"</string>
   <string name="gateway_exception_title">اختبار جهاز التوجيه</string>
-  <string name="gigabyteShort">غيغابايت</string>
+  <string name="gigabyteShort">قيقابايت</string>
   <string name="go_to_setting_fingerprint">الإعدادات</string>
   <string name="handle_bar_title_apps">التطبيقات</string>
   <string name="handle_bar_title_paysms">الرسائل</string>

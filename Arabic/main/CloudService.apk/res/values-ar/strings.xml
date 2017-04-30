@@ -356,9 +356,9 @@
   <string name="more_activity_in_upgrade_space">تعرف المزيد على &lt;a href=\"http://i.mi.com\"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">رسالة Mi</string>
   <string name="mx_dspt_provision">رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.\n\nيمكنك تشغيل هذه الميزة او ايقافها في اي وقت من الإعدادات.</string>
-  <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
-  <string name="mx_dspt_provision_privacy_2_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن شريحة SIM. قد تكون هناك حاجة لـ٢ رسائل قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
-  <string name="mx_dspt_provision_privacy_no_sim">قد تتطلب هذه الميزة رقم الهاتف الخاص بك. عندما يتم الكشف عن شريحة SIM، قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم هاتفك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy_2_sim">قد تتطلب هذه الميزة رقم هاتفك. عندما يتم الكشف عن شريحة SIM. قد تكون هناك حاجة لـ٢ رسائل قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
+  <string name="mx_dspt_provision_privacy_no_sim">قد تتطلب هذه الميزة رقم هاتفك. عندما يتم الكشف عن شريحة SIM، قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>
   <string name="mx_dspt_provision_with_voip">"اتصل بمستخدمي MIUI الآخرين مجانًا باستخدام اتصال الإنترنت. يمكنك تشغيل أو إيقاف هذه الميزة في أي وقت من الإعدادات. VoIP مدعوم من Weihui. راجع سياسة خصوصية Weihui"</string>
   <string name="mx_dspt_provision_with_voip2">سياسة الخصوصية</string>
   <string name="mx_sub_dspt_provision">رسالة Mi</string>
@@ -459,7 +459,7 @@
   <string name="trying_to_connect_to_network">جارٍ الإتصال بالشبكة\u2026</string>
   <string name="unactivated_user">تسجيل خروج </string>
   <string name="upgrade_space">إضافة مساحة</string>
-  <string name="upgrade_space_gb">غيغابايت</string>
+  <string name="upgrade_space_gb">قيقابايت</string>
   <string name="upgrade_space_mibipreyear"> %s رصيد Mi في السنة</string>
   <string name="upgrade_space_successful">تم إضافة %s جيجابايت</string>
   <string name="upgrade_space_successful_total">%s جيجابايت متوفرة</string>

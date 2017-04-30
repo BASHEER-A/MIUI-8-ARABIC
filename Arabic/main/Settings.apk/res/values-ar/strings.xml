@@ -228,8 +228,8 @@
   <string name="app_notifications_title">اشعارات التطبيق</string>
   <string name="app_ops_never_used">(تستخدم ابدأ)</string>
   <string name="app_ops_running">تشغيل</string>
-  <string name="app_ops_settings">App ops</string>
-  <string name="app_overlay_permission_preference">App draw on top permission</string>
+  <string name="app_ops_settings">عمليات التطبيق</string>
+  <string name="app_overlay_permission_preference">تطبيق الرسم على الأذونات</string>
   <string name="app_permissions">أذونات التطبيق</string>
   <string name="app_permissions_group_summary" formatted="false">%d تطبيقات %d المسموح به</string>
   <string name="app_permissions_summary" formatted="false">%d تطبيقات %d يسمح بدخول إضافية</string>
@@ -333,7 +333,7 @@
   <string name="batch_delete_saved_network">إزالة الشبكات المحددة: %s؟</string>
   <string name="battery_action_app_details">معلومات التطبيق</string>
   <string name="battery_action_app_settings">إعدادات التطبيق</string>
-  <string name="battery_action_bluetooth">إعدادات Bluetooth</string>
+  <string name="battery_action_bluetooth">إعدادات البلوتوث</string>
   <string name="battery_action_display">إعدادات الشاشة</string>
   <string name="battery_action_stop">إيقاف بالقوة</string>
   <string name="battery_action_wifi">إعدادات Wi-Fi</string>
@@ -420,12 +420,12 @@
   <string name="battery_sugg_apps_gps">حدد وضع البطارية--إنقاذ</string>
   <string name="battery_sugg_apps_info">إيقاف أو إلغاء تثبيت التطبيق</string>
   <string name="battery_sugg_apps_settings">التطبيق قد توفر إعدادات للحد من استخدام البطارية</string>
-  <string name="battery_sugg_bluetooth_basic">قم بإيقاف تشغيل Bluetooth عندما كنت لا تستخدم ذلك</string>
-  <string name="battery_sugg_bluetooth_headset">حاول الاتصال بجهاز Bluetooth مختلفة</string>
+  <string name="battery_sugg_bluetooth_basic">قم بإيقاف تشغيل البلوتوث عندما كنت لا تستخدم ذلك</string>
+  <string name="battery_sugg_bluetooth_headset">حاول الاتصال بجهاز بلوتوث مختلف</string>
   <string name="battery_sugg_display">تقليل سطوع الشاشة و/أو مهلة الشاشة</string>
   <string name="battery_sugg_radio">قم بالتبديل إلى وضع الطائرة لحفظ الطاقة في المناطق التي لا توجد تغطية الخلية</string>
   <string name="battery_sugg_wifi">"إيقاف تشغيل Wi-Fi عند عدم استخدامه أو عندما يكون غير متوفر"</string>
-  <string name="battery_summary">%1$d%% use since last full charge</string>
+  <string name="battery_summary">%1$d%% منذ آخر شحن كامل</string>
   <string name="bearer">حامل</string>
   <string name="bind_xiaomi_account_cancel">إلغاء الأمر</string>
   <string name="bind_xiaomi_account_confirm">إضافة</string>
@@ -437,11 +437,11 @@
   <string name="bluetooth_a2dp_profile_summary_connected">الاتصال بوسائل الإعلام السمعية</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">استخدام الصوت</string>
   <string name="bluetooth_advanced_titlebar">بلوتوث متقدمة</string>
-  <string name="bluetooth_ask_discovery">تطبيق ويريد جعل هاتفك مرئية لأجهزة Bluetooth الأخرى %1$d ثانية.</string>
-  <string name="bluetooth_ask_enablement">يريد تطبيق تشغيل Bluetooth لهذا الجهاز.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">يريد تطبيق لتشغيل تقنية Bluetooth وجعل الهاتف الخاص بك مرئياً للأجهزة الأخرى لثانية %1$d.</string>
+  <string name="bluetooth_ask_discovery">تطبيق ويريد جعل هاتفك مرئية لأجهزة البلوتوث الأخرى %1$d ثانية.</string>
+  <string name="bluetooth_ask_enablement">يريد التطبيق تشغيل البلوتوث لهذا الجهاز.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">يريد التطبيق تشغيل البلوتوث وجعل هاتفك مرئياً للأجهزة الأخرى لثانية %1$d.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">"\u0020 يرغب في تشغيل البلوتوث وجعل هاتفك مرئياً للأجهزة الأخرى لمدة %1$d ثانية."</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">يريد تطبيق لتشغيل تقنية Bluetooth وجعل الهاتف الخاص بك مرئياً للأجهزة الأخرى. يمكنك تغيير هذا في وقت لاحق في إعدادات Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">يريد تطبيق لتشغيل تقنية Bluetooth وجعل هاتفك مرئياً للأجهزة الأخرى. يمكنك تغيير هذا في وقت لاحق في إعدادات Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"\u0020 يرغب في تشغيل البلوتوث وجعل هاتفك مرئياً للأجهزة الأخرى. يمكنك تغيير ذلك لاحقاً من إعدادات البلوتوث."</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s يريد تشغيل البلوتوث وتقنية Bluetooth الإذاعة على التواصل مع الأجهزة الأخرى القريبة. يمكنك تغيير هذا في وقت لاحق في إعدادات Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">"\u0020يرغب في تشغيل البلوتوث."</string>
@@ -449,14 +449,14 @@
   <string name="bluetooth_ask_start_broadcast">يريد %1$s لتشغيل البث البلوتوث التواصل مع الأجهزة الأخرى القريبة. يمكنك تغيير هذا في وقت لاحق في إعدادات Bluetooth.</string>
   <string name="bluetooth_auto_connect">الاتصال التلقائي</string>
   <string name="bluetooth_broadcasting">البث الإذاعي</string>
-  <string name="bluetooth_broadcasting_explaination">عند تشغيل هذه الميزة، الهاتف الخاص بك يمكنك الاتصال مع الأجهزة الأخرى القريبة. البث يستخدم إشارات البلوتوث طاقة منخفضة </string>
-  <string name="bluetooth_confirm_passkey_msg">لإقران مع:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; تأكد من أنها تظهر هذا مفتاح المرور:%2$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
+  <string name="bluetooth_broadcasting_explaination">عند تشغيل هذه الميزة، هاتفك يمكنك الاتصال مع الأجهزة الأخرى القريبة. البث يستخدم إشارات البلوتوث طاقة منخفضة </string>
+  <string name="bluetooth_confirm_passkey_msg">لإقتران مع:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; تأكد من أنها تظهر هذا مفتاح المرور:%2$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">الاتصال…</string>
   <string name="bluetooth_connected">متصل</string>
   <string name="bluetooth_connected_no_a2dp">متصل (بلا وسائط)</string>
   <string name="bluetooth_connected_no_headset">متصل (لا يوجد هاتف)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">متصل (لا الهاتف أو ميديا)</string>
-  <string name="bluetooth_connected_no_map">Connected (no message access)</string>
+  <string name="bluetooth_connected_no_map">متصل (بدون رسالة أذن)</string>
   <string name="bluetooth_connecting">الاتصال…</string>
   <string name="bluetooth_connecting_error_message">تعذر الاتصال إلى %1$s.</string>
   <string name="bluetooth_connection_dialog_text">هل تريد الاتصال إلى \"%1$s\"؟</string>
@@ -469,13 +469,13 @@
   <string name="bluetooth_device_advanced_online_mode_title">الاتصال</string>
   <string name="bluetooth_device_advanced_profile_header_title">استخدام</string>
   <string name="bluetooth_device_advanced_rename_device">إعادة تسمية</string>
-  <string name="bluetooth_device_advanced_title">إقران جهاز Bluetooth</string>
+  <string name="bluetooth_device_advanced_title">إقتران جهاز Bluetooth</string>
   <string name="bluetooth_device_context_connect">الاتصال</string>
   <string name="bluetooth_device_context_connect_advanced">خيارات…</string>
   <string name="bluetooth_device_context_disconnect">قطع الاتصال</string>
-  <string name="bluetooth_device_context_disconnect_unpair">قم بقطع اتصال &amp; إقران</string>
+  <string name="bluetooth_device_context_disconnect_unpair">قم بقطع اتصال &amp; إقتران</string>
   <string name="bluetooth_device_context_pair_connect">الاقتران &amp; الاتصال</string>
-  <string name="bluetooth_device_context_unpair">انهي الاقتران</string>
+  <string name="bluetooth_device_context_unpair">انهاء الاقتران</string>
   <string name="bluetooth_device_details">إعدادات الجهاز</string>
   <string name="bluetooth_device_name">الإسم:</string>
   <string name="bluetooth_device_searchable">قابل للاكتشاف</string>
@@ -761,8 +761,8 @@
   <string name="checking_decryption">التدقيق…</string>
   <string name="checking_find_device_status">جارٍ التحقق من حالة العثور على الجهاز\u2026</string>
   <string name="checking_for_updates">جار التحقق من وجود تحديثات\u2026</string>
-  <string name="childmod_privacy_password_role_instruction">Turn on Child mode to prevent unwanted actions when the device is used by a child</string>
-  <string name="children_mode_enable_title">Child mode</string>
+  <string name="childmod_privacy_password_role_instruction">تشغيل وضع الطفل لمنع الإجراءات غير المرغوب فيها عندما يتم استخدام الجهاز من قبل الطفل</string>
+  <string name="children_mode_enable_title">وضع الطفل</string>
   <string name="children_mode_set_apps_title">تطبيقات موجوداً</string>
   <string name="children_mode_tips_off">بعد تشغيل وضع الطفل، اضغط على زر الرئيسية للعودة إلى الشاشة الرئيسية.</string>
   <string name="children_mode_tips_on">بعد إيقاف تشغيل وضع الطفل، اضغط على زر الرئيسية للعودة إلى الشاشة الرئيسية.</string>
@@ -866,25 +866,25 @@
   <string name="crypt_keeper_confirm_title">تشفير؟</string>
   <string name="crypt_keeper_content">يمكنك تشفير حساباتك، الإعدادات، التطبيقات المحمّلة وبياناتها، الوسائط، وملفات أخرى.</string>
   <string name="crypt_keeper_content_title">تشفير الجهاز</string>
-  <string name="crypt_keeper_data_corrupt_summary">كلمة المرور التي أدخلتها بشكل صحيح، ولكن للأسف معطوب البيانات الخاصة بك. لاستئناف استخدام الهاتف الخاص بك، تحتاج إلى إجراء إعادة مصنع. عندما تقوم بإعداد الهاتف الخاص بك بعد إعادة تعيين، سيكون لديك فرصة لاستعادة أي البيانات التي تم نسخها احتياطياً إلى حساب Google الخاص بك. </string>
+  <string name="crypt_keeper_data_corrupt_summary">كلمة المرور التي أدخلتها بشكل صحيح، ولكن للأسف معطوب البيانات الخاصة بك. لاستئناف استخدام هاتفك، تحتاج إلى إجراء إعادة مصنع. عندما تقوم بإعداد هاتفك بعد إعادة تعيين، سيكون لديك فرصة لاستعادة أي البيانات التي تم نسخها احتياطياً إلى حساب Google الخاص بك. </string>
   <string name="crypt_keeper_data_corrupt_title">فك التشفير غير ناجحة</string>
-  <string name="crypt_keeper_decrypt_methods">بعد تشفير الهاتف الخاص بك، على افتراض أنك قمت بأعداد قفل الشاشة ( نقش أو PIN أو كلمة مرور رقمية)، ستحتاج إلى إلغاء قفل الشاشة لفك تشفير الهاتف كل مرة تقوم بشتغيله. الطريقة الوحيدة لفك تشفيرهي تنفيذ إعادة تعيين بيانات المصنع، ومحو جميع البيانات الخاصة بك.</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"إذا قمت بتشفير الهاتف الخاص بك، يجب عليك إدخال كلمة السر الخاصة بك، رمز PIN أو نقش كل مرة تقوم فيها بإعادة تشغيل الجهاز من أجل فك تشفيره."</string>
+  <string name="crypt_keeper_decrypt_methods">بعد تشفير هاتفك، على افتراض أنك قمت بأعداد قفل الشاشة ( نقش أو PIN أو كلمة مرور رقمية)، ستحتاج إلى إلغاء قفل الشاشة لفك تشفير الهاتف كل مرة تقوم بشتغيله. الطريقة الوحيدة لفك تشفيرهي تنفيذ إعادة تعيين بيانات المصنع، ومحو جميع البيانات الخاصة بك.</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"إذا قمت بتشفير هاتفك، يجب عليك إدخال كلمة السر الخاصة بك، رمز PIN أو نقش كل مرة تقوم فيها بإعادة تشغيل الجهاز من أجل فك تشفيره."</string>
   <string name="crypt_keeper_decrypt_methods_title">فك تشفير الجهاز</string>
-  <string name="crypt_keeper_desc">يمكنك تشفير الحسابات الخاصة بك وإعدادات وتطبيقات تم تحميلها والبيانات الخاصة بهم، ووسائط الإعلام وملفات أخرى. بعد أن قمت بتشفير الهاتف الخاص بك، على افتراض قمت بإعداد قفل شاشة (أي نمط أو رقمي PIN أو كلمة المرور)، سوف تحتاج إلى فتح الشاشة لفك تشفير الهاتف في كل مرة تقوم السلطة في. طريقة أخرى فقط لفك تشفير لأداء بيانات مصنع تعيين، محو جميع البيانات الخاصة بك. تشفير يستغرق ساعة أو أكثر. يجب أن تبدأ مع بطارية مشحونة وإبقاء هاتفك في الوتر طوال العملية. إذا كنت المقاطعة أنها، فسوف تفقد بعض أو كافة البيانات الخاصة بك. </string>
+  <string name="crypt_keeper_desc">يمكنك تشفير الحسابات الخاصة بك وإعدادات وتطبيقات تم تحميلها والبيانات الخاصة بهم، ووسائط الإعلام وملفات أخرى. بعد أن قمت بتشفير هاتفك، على افتراض قمت بإعداد قفل شاشة (أي نمط أو رقمي PIN أو كلمة المرور)، سوف تحتاج إلى فتح الشاشة لفك تشفير الهاتف في كل مرة تقوم السلطة في. طريقة أخرى فقط لفك تشفير لأداء بيانات مصنع تعيين، محو جميع البيانات الخاصة بك. تشفير يستغرق ساعة أو أكثر. يجب أن تبدأ مع بطارية مشحونة وإبقاء هاتفك في الوتر طوال العملية. إذا كنت المقاطعة أنها، فسوف تفقد بعض أو كافة البيانات الخاصة بك. </string>
   <string name="crypt_keeper_dialog_need_password_message">تحتاج إلى تعيين قفل الشاشة رقم PIN أو كلمة المرور قبل أن يمكنك بدء تشغيل التشفير.</string>
   <string name="crypt_keeper_dialog_need_password_title">لا يوجد قفل الشاشة رقم PIN أو كلمة المرور</string>
   <string name="crypt_keeper_encrypt_title">تشفير الهاتف</string>
   <string name="crypt_keeper_encrypted_summary">تشفير</string>
   <string name="crypt_keeper_enter_password">اكتب كلمة المرور الخاصة بك</string>
-  <string name="crypt_keeper_failed_summary">التشفير وانقطعت ولا يمكن إكمال. نتيجة لذلك البيانات على الهاتف الخاص بك لم يعد موجوداً. لاستئناف استخدام الهاتف الخاص بك، تحتاج إلى إجراء إعادة مصنع. عندما تقوم بإعداد الهاتف الخاص بك بعد إعادة تعيين، سيكون لديك فرصة لاستعادة أي البيانات التي تم نسخها احتياطياً إلى حساب Google الخاص بك. </string>
+  <string name="crypt_keeper_failed_summary">التشفير وانقطعت ولا يمكن إكمال. نتيجة لذلك البيانات على هاتفك لم يعد موجوداً. لاستئناف استخدام هاتفك، تحتاج إلى إجراء إعادة مصنع. عندما تقوم بإعداد هاتفك بعد إعادة تعيين، سيكون لديك فرصة لاستعادة أي البيانات التي تم نسخها احتياطياً إلى حساب Google الخاص بك. </string>
   <string name="crypt_keeper_failed_title">فك التشفير غير ناجحة</string>
   <string name="crypt_keeper_final_desc">عملية التشفير لا رجعة فيها، وإذا كنت المقاطعة أنها، فسوف تفقد البيانات. تشفير يستغرق ساعة أو أكثر، والتي سيتم إعادة تشغيل الهاتف عدة مرات.</string>
-  <string name="crypt_keeper_force_power_cycle">لإلغاء تأمين الهاتف الخاص بك، تشغيل إيقاف ثم شقلة.</string>
+  <string name="crypt_keeper_force_power_cycle">لإلغاء تأمين هاتفك، قم بإعادة التشغيل.</string>
   <string name="crypt_keeper_low_charge_text">شحن البطارية والمحاولة مرة أخرى.</string>
   <string name="crypt_keeper_settings_title">التشفير</string>
-  <string name="crypt_keeper_setup_description">انتظر حتى يتم تشفير الهاتف الخاص بك. ^ 1% كاملة.</string>
-  <string name="crypt_keeper_setup_time_remaining">انتظر حتى يتم تشفير الهاتف الخاص بك. الوقت المتبقي: ^ 1</string>
+  <string name="crypt_keeper_setup_description">انتظر حتى يتم تشفير هاتفك. ^ 1% كاملة.</string>
+  <string name="crypt_keeper_setup_time_remaining">انتظر حتى يتم تشفير هاتفك. الوقت المتبقي: ^ 1</string>
   <string name="crypt_keeper_setup_title">تشفير</string>
   <string name="crypt_keeper_switch_input_method">بدل أسلوب الإدخال</string>
   <string name="crypt_keeper_unplugged_text">قم بتوصيل شاحن الخاص بك وحاول مرة أخرى.</string>
@@ -903,7 +903,7 @@
   <string name="current_use_uicc_se">استخدام العنصر الآمن على شريحة SIM</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (الأحمر والأخضر)</string>
   <string name="daltonizer_mode_disabled">تعطيل</string>
-  <string name="daltonizer_mode_monochromacy">Monochromacy</string>
+  <string name="daltonizer_mode_monochromacy">أحادي اللون</string>
   <string name="daltonizer_mode_protanomaly">Protanomaly (الأحمر والأخضر)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (أزرق-أصفر)</string>
   <string name="daltonizer_type">وضع التصحيح</string>
@@ -926,7 +926,7 @@
   <string name="data_usage_app_summary_title">استخدام بيانات التطبيق</string>
   <string name="data_usage_auto_sync_off_dialog">وهذا سيتم المحافظة على استخدام البيانات والبطارية، ولكن سوف تحتاج إلى مزامنة كل حساب يدوياً لجمع المعلومات الأخيرة. ولن تتلقى إعلامات عند حدوث التحديثات.</string>
   <string name="data_usage_auto_sync_off_dialog_title">هل تريد إيقاف تشغيل بيانات المزامنة التلقائية؟</string>
-  <string name="data_usage_auto_sync_on_dialog">أية تغييرات تتم على حساباتك على شبكة الإنترنت سيتم تلقائياً نسخ إلى الهاتف الخاص بك. بعض الحسابات أيضا تلقائياً نسخ أية تغييرات تقوم بها على الهاتف على شبكة الإنترنت. حساب جوجل يعمل بهذه الطريقة </string>
+  <string name="data_usage_auto_sync_on_dialog">أية تغييرات تتم على حساباتك على شبكة الإنترنت سيتم تلقائياً نسخ إلى هاتفك. بعض الحسابات أيضا تلقائياً نسخ أية تغييرات تقوم بها على الهاتف على شبكة الإنترنت. حساب جوجل يعمل بهذه الطريقة </string>
   <string name="data_usage_auto_sync_on_dialog_title">هل تريد تشغيل بيانات المزامنة التلقائية؟</string>
   <string name="data_usage_background_label">الخلفية:</string>
   <string name="data_usage_cellular_data">البيانات الخلوية</string>
@@ -950,7 +950,7 @@
   <string name="data_usage_forground_label">المقدمة:</string>
   <string name="data_usage_label_background">الخلفية</string>
   <string name="data_usage_label_foreground">مقدمة</string>
-  <string name="data_usage_limit_dialog_mobile">الهاتف الخاص بك سيتم إيقاف البيانات الخلوية بمجرد أن تصل إلى الحد الذي عينته. نظراً لاستخدام البيانات ويقاس بالهاتف الخاص بك، ويمكن حساب الناقل الخاص بك للاستخدام بشكل مختلف، النظر في وضع حد لمحافظ </string>
+  <string name="data_usage_limit_dialog_mobile">هاتفك سيتم إيقاف البيانات الخلوية بمجرد أن تصل إلى الحد الذي عينته. نظراً لاستخدام البيانات ويقاس بهاتفك، ويمكن حساب الناقل الخاص بك للاستخدام بشكل مختلف، النظر في وضع حد لمحافظ </string>
   <string name="data_usage_limit_dialog_title">الحد من استخدام البيانات</string>
   <string name="data_usage_limit_editor_title">حد استخدام مجموعة البيانات</string>
   <string name="data_usage_list_mobile">الخلوي</string>
@@ -989,7 +989,7 @@
   <string name="data_usage_tab_mobile">الخلوي</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_total_during_range">%2$s: حول %1$s المستخدمة.</string>
-  <string name="data_usage_total_during_range_mobile">%2$s: حول %1$s المستخدمة، كما يقاس بالهاتف الخاص بك. قد تختلف البيانات استخدام المحاسبة الناقل الخاص بك.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: حول %1$s المستخدمة، كما يقاس بهاتفك. قد تختلف البيانات استخدام المحاسبة الناقل الخاص بك.</string>
   <string name="data_usage_uninstalled_apps">إزالة تطبيقات</string>
   <string name="data_usage_uninstalled_apps_users">إزالة التطبيقات والمستخدمين</string>
   <string name="data_usage_warning_editor_title">تعيين تحذير استخدام البيانات</string>
@@ -1097,8 +1097,8 @@
   <string name="disable_overlays">Disable HW overlays</string>
   <string name="disable_overlays_summary">دائما استخدم GPU لتهيئة الشاشة</string>
   <string name="disable_power_key_long_press_under_keyguard">إيقاف تشغيل قائمة زر الطاقة</string>
-  <string name="disable_service_message">Touching OK will stop %1$s.</string>
-  <string name="disable_service_title">وقف %1$s؟</string>
+  <string name="disable_service_message">أنقر موافق لإيقاف %1$s.</string>
+  <string name="disable_service_title">إيقاف %1$s؟</string>
   <string name="disable_text">تعطيل</string>
   <string name="disabled">تعطيل</string>
   <string name="disabled_because_no_backup_security">لاستخدام، قم أولاً بتعيين قفل الشاشة</string>
@@ -1262,24 +1262,24 @@
   <string name="encrypt_talkback_dialog_require_pin">يتطلب رقم PIN؟</string>
   <string name="encryption_continue_button">Continue</string>
   <string name="encryption_interstitial_header">Secure start-up</string>
-  <string name="encryption_interstitial_message_password">"You can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
+  <string name="encryption_interstitial_message_password">"يمكنك زيادة حماية هذا الجهاز من خلال طلب كلمة المرور قبل بدء التشغيل. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
-This helps protect data on lost or stolen devices."</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
+  <string name="encryption_interstitial_message_password_for_fingerprint">"بالإضافة إلى استخدام بصمة إصبعك لإلغاء قفل الجهاز، يمكنك حماية هذا الجهاز من خلال طلب كلمة المرور قبل بدء تشغيله. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
-This helps protect data on lost or stolen devices."</string>
-  <string name="encryption_interstitial_message_pattern">"You can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
+وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
+  <string name="encryption_interstitial_message_pattern">"يمكنك أيضا حماية هذا الجهاز من خلال طلب النمط قبل البدء. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
-This helps protect data on lost or stolen devices."</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"بالإضافة إلى استخدام بصمة الإصبع لإلغاء قفل الجهاز، يمكنك حماية هذا الجهاز من خلال طلب النمط قبل بدء تشغيله. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
-This helps protect data on lost or stolen devices."</string>
-  <string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
+وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
+  <string name="encryption_interstitial_message_pin">"يمكنك زيادة حماية هذا الجهاز من خلال طلب رقم التعريف الشخصي قبل بدء تشغيله. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
-This helps protect data on lost or stolen devices."</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"بالإضافة إلى استخدام بصمة إصبعك لإلغاء قفل الجهاز، يمكنك حماية هذا الجهاز من خلال طلب رقم التعريف الشخصي قبل بدء تشغيله. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
-This helps protect data on lost or stolen devices."</string>
+وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
   <string name="enforce_read_external_confirm_message">عندما تكون محمية التخزين USB، تطبيقات يجب طلب الإذن بقراءة البيانات من وحدة التخزين الخارجية. بعض التطبيقات قد لا تعمل حتى تحديثها من قبل المطورين. </string>
   <string name="enforce_read_external_confirm_title">حماية تخزين USB؟</string>
   <string name="enforce_read_external_summary">تطبيقات يجب أن تطلب الإذن لقراءة التخزين USB</string>
@@ -1351,7 +1351,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="fingerprint_identify_msg">جارٍ قراءة بصمة الاصبع\u2026</string>
   <string name="fingerprint_identify_try_again_msg">"تعذر قراءة بصمة الاصبع، حاول مجددا"</string>
   <string name="fingerprint_last_delete_confirm">نعم، إزالة</string>
-  <string name="fingerprint_last_delete_message">"لن تتمكن من استخدام بصمات أصابعك لفتح الهاتف الخاص بك أو الإذن بشراء، أو تسجيل الدخول إلى تطبيقات معهم."</string>
+  <string name="fingerprint_last_delete_message">"لن تتمكن من استخدام بصمات أصابعك لفتح هاتفك أو الإذن بشراء، أو تسجيل الدخول إلى تطبيقات معهم."</string>
   <string name="fingerprint_last_delete_title">إزالة جميع بصمات الأصابع؟</string>
   <string name="fingerprint_list_title">بصمة الإصبع</string>
   <string name="fingerprint_lock_first">إلغاء قفل الفضاء الاول</string>
@@ -1785,7 +1785,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi المسح</string>
   <string name="location_settings_title">الموقع</string>
   <string name="location_sources_heading">مصادر الموقع</string>
-  <string name="location_street_level">تتيح تطبيقات استخدام نظام تحديد المواقع على الهاتف الخاص بك لتحديد الموقع الخاص بك</string>
+  <string name="location_street_level">تتيح تطبيقات استخدام نظام تحديد المواقع على هاتفك لتحديد الموقع الخاص بك</string>
   <string name="location_title">الموقع الخاص بي</string>
   <string name="lock_after_timeout">قفل تلقائياً</string>
   <string name="lock_after_timeout_summary">%1$s السكون بعد</string>
@@ -2149,7 +2149,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="next_button_label">التالي</string>
   <string name="next_label">القادم</string>
   <string name="nfc_category_title">NFC</string>
-  <string name="nfc_how_it_works_content">إعداد تطبيق دفع. ثم عقد للتو الجزء الخلفي الهاتف الخاص بك تصل إلى أي محطة برمز الاتصال.</string>
+  <string name="nfc_how_it_works_content">إعداد تطبيق دفع. ثم عقد للتو الجزء الخلفي هاتفك تصل إلى أي محطة برمز الاتصال.</string>
   <string name="nfc_how_it_works_got_it">فهمت ذلك</string>
   <string name="nfc_how_it_works_title">Paying at the terminal</string>
   <string name="nfc_more_title">أكثر...</string>
@@ -2159,7 +2159,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="nfc_payment_favor_default">دائماً</string>
   <string name="nfc_payment_favor_open">Except when another payment app is open</string>
   <string name="nfc_payment_how_it_works">كيف يعمل</string>
-  <string name="nfc_payment_no_apps">الدفع باستخدام الهاتف الخاص بك في المتجر</string>
+  <string name="nfc_payment_no_apps">الدفع باستخدام هاتفك في المتجر</string>
   <string name="nfc_payment_pay_with">At a Tap &amp; pay terminal, pay with:</string>
   <string name="nfc_payment_set_default">Always use %1$s when you Tap &amp; pay?</string>
   <string name="nfc_payment_set_default_instead_of">Always use %1$s instead of %2$s when you Tap &amp; pay?</string>
@@ -2860,7 +2860,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="runningservicedetails_processes_title">العمليات</string>
   <string name="runningservicedetails_services_title">الخدمات</string>
   <string name="runningservicedetails_settings_title">التطبيق قيد التشغيل</string>
-  <string name="runningservicedetails_stop_dlg_text">إذا قمت بإيقاف هذه الخدمة، قد تتوقف بعض ميزات الهاتف الخاص بك يعمل بشكل صحيح حتى تقوم السلطة إيقاف ثم في مرة أخرى.</string>
+  <string name="runningservicedetails_stop_dlg_text">إذا قمت بإيقاف هذه الخدمة، قد تتوقف بعض ميزات هاتفك يعمل بشكل صحيح حتى تقوم السلطة إيقاف ثم في مرة أخرى.</string>
   <string name="runningservicedetails_stop_dlg_title">ايقاف خدمة النظام؟</string>
   <string name="runningservices_settings_summary">عرض، ومراقبة الخدمات قيد التشغيل حاليا</string>
   <string name="runningservices_settings_title">الخدمات قيد التشغيل</string>
@@ -3183,22 +3183,22 @@ This helps protect data on lost or stolen devices."</string>
   <string name="security_privacy_settings_title">الخصوصية</string>
   <string name="security_relative">الحماية</string>
   <string name="security_settings_billing_desc">هذا التطبيق قد تهمة لكم المال:</string>
-  <string name="security_settings_desc">يمكن الوصول إلى هذا التطبيق التالي على الهاتف الخاص بك:</string>
-  <string name="security_settings_desc_multi">يمكن الوصول إلى هذا التطبيق التالي على الهاتف الخاص بك. وبغية تحسين الأداء وتقليل استخدام الذاكرة، بعض من هذه الأذونات متاحة ل %1$s نظراً لأنه يعمل في نفس العملية ك %2$s:</string>
+  <string name="security_settings_desc">يمكن الوصول إلى هذا التطبيق التالي على هاتفك:</string>
+  <string name="security_settings_desc_multi">يمكن الوصول إلى هذا التطبيق التالي على هاتفك. وبغية تحسين الأداء وتقليل استخدام الذاكرة، بعض من هذه الأذونات متاحة ل %1$s نظراً لأنه يعمل في نفس العملية ك %2$s:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">حذف</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">الاسم</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">موافق</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">بالإضافة إلى فتح الهاتف الخاص بك، يمكنك أيضا استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. &lt; شرح معرف = \"عنوان\" &gt; تعلم المزيد &lt;/الشرح &gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">بالإضافة إلى فتح هاتفك، يمكنك أيضا استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. &lt; شرح معرف = \"عنوان\" &gt; تعلم المزيد &lt;/الشرح &gt;</string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">تعطيل خيار قفل الشاشة. يمكنك الاستمرار في استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. &lt; شرح معرف = \"عنوان\" &gt; تعلم المزيد &lt;/الشرح &gt;</string>
   <string name="security_settings_fingerprint_enroll_done">تم</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">الرسم التوضيحي مع موقع استشعار بصمات الأصابع وجهاز</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">حدد موقع جهاز استشعار بصمات الأصابع على الجزء الخلفي الهاتف الخاص بك.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">حدد موقع جهاز استشعار بصمات الأصابع على الجزء الخلفي هاتفك.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">العثور على الحساس</string>
   <string name="security_settings_fingerprint_enroll_finish_message">عندما تشاهد هذا الرمز، يمكنك استخدام بصمة الإصبع لتحديد الهوية، أو الإذن بشراء.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">وأضاف بصمات الأصابع!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">إلغاء الأمر</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">مواصلة</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">عليك فقط لمس استشعار بصمات الأصابع لفتح الهاتف الخاص بك أو الإذن بشراء، أو تسجيل الدخول إلى تطبيقات. كن حذراً البصمات التي قمت بإضافة--أي بصمات أصابع المضافة سوف تكون قادرة على القيام بهذه الأمور.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">عليك فقط لمس استشعار بصمات الأصابع لفتح هاتفك أو الإذن بشراء، أو تسجيل الدخول إلى تطبيقات. كن حذراً البصمات التي قمت بإضافة--أي بصمات أصابع المضافة سوف تكون قادرة على القيام بهذه الأمور.</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">ملاحظة: قد تكون بصمة أصبعك أقل أماناً من نمط قوية أو PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">التعرف على المزيد</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">فتح مع بصمة الإصبع</string>
@@ -3469,7 +3469,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
   <string name="status_network_type">نوع الشبكة الخلوية</string>
-  <string name="status_number">رقم الهاتف الخاص بي</string>
+  <string name="status_number">رقم هاتفي</string>
   <string name="status_operator">شبكة</string>
   <string name="status_prl_version">الإصدار PRL</string>
   <string name="status_roaming">التجوال</string>
@@ -3917,20 +3917,20 @@ Your saved fingerprints will also be removed from this device and you won\'t be 
   <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>
   <string name="user_add_profile_item_title">Restricted profile</string>
   <string name="user_add_user_item_summary">Users have their own apps and content</string>
-  <string name="user_add_user_item_title">User</string>
-  <string name="user_add_user_menu">Add user</string>
+  <string name="user_add_user_item_title">إضافة</string>
+  <string name="user_add_user_menu">إضافة مستخدم</string>
   <string name="user_add_user_message_long">يمكنك مشاركة هذا الجهاز مع أشخاص آخرين بإنشاء مستخدمين إضافيين. لكل مستخدم مساحته الخاصة التي يمكن تخصيصها باستخدام التطبيقات والخلفيات وغير ذلك. يستطيع المستخدمون أيضاً تعديل إعدادات الجهاز اللوحي مثل Wi-Fi اللذي يؤثر على الجميع.\n\nبعد إنشاء مستخدم جديد، يحتاج هذا المستخدم إلى المضي قدماٌ في عملية الإعداد.\n\nيستطيع أي مستخدم قبول أذونات التطبيق المحدثة نيابة عن كل المستخدمين.</string>
   <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
 
 Any user can update apps for all other users."</string>
   <string name="user_add_user_or_profile_menu">Add user or profile</string>
-  <string name="user_add_user_title">Add new user?</string>
-  <string name="user_add_user_type_title">Add</string>
+  <string name="user_add_user_title">إضافة مستخدم جديد?</string>
+  <string name="user_add_user_type_title">إضافة</string>
   <string name="user_adding_new_user">إضافة مستخدم جديد…</string>
   <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
   <string name="user_cannot_manage_message">يمكن لمالك الهاتف فقط إدارة المستخدمين.</string>
   <string name="user_confirm_remove_message">سيتم حذف جميع التطبيقات والبيانات.</string>
-  <string name="user_confirm_remove_self_message">سوف تفقد الفضاء والبيانات المتعلقة بهذا الهاتف الخاصة بك. لا يمكنك التراجع عن هذا الإجراء.</string>
+  <string name="user_confirm_remove_self_message">سوف تفقد الفضاء والبيانات المتعلقة بهاتفك. لا يمكنك التراجع عن هذا الإجراء.</string>
   <string name="user_confirm_remove_self_title">حذف نفسك؟</string>
   <string name="user_confirm_remove_title">إزالة هذا المستخدم؟</string>
   <string name="user_delete_button">حذف</string>
@@ -4167,7 +4167,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_alert_lockdown_by_device_owner">يدير الجهاز الخاص بك %1$s ولا يسمح بتعديل أو حذف هذه الشبكة المحلية اللاسلكية. للحصول على مزيد من المعلومات، اتصل بالمسؤول الخاص بك.</string>
   <string name="wifi_allow_scan_with_traffic">السماح دوماً بالتجوال بمسح Wi‑Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">السماح/عدم السماح بالتجول مسح Wi‑Fi استناداً إلى مقدار حركة مرور البيانات الحالية في الواجهة</string>
-  <string name="wifi_and_mobile_skipped_message">\"إذا قمت بتخطي Wi‑Fi:\" &lt; لي &gt; الهاتف الخاص بك فاز &amp; #8217; t يكون اتصال إنترنت. &lt;/li &gt; \"\" &lt; لي &gt; يمكنك فاز &amp; #8217; t الحصول على تحديثات البرامج حتى يتم الاتصال بالإنترنت. &lt;/li &gt; \"\" &lt; لي &gt; لك يمكن &amp; #8217; t تنشيط ميزات الحماية للجهاز في هذا الوقت. &lt;/li &gt;</string>
+  <string name="wifi_and_mobile_skipped_message">\"إذا قمت بتخطي Wi‑Fi:\" &lt; لي &gt; هاتفك فاز &amp; #8217; t يكون اتصال إنترنت. &lt;/li &gt; \"\" &lt; لي &gt; يمكنك فاز &amp; #8217; t الحصول على تحديثات البرامج حتى يتم الاتصال بالإنترنت. &lt;/li &gt; \"\" &lt; لي &gt; لك يمكن &amp; #8217; t تنشيط ميزات الحماية للجهاز في هذا الوقت. &lt;/li &gt;</string>
   <string name="wifi_ap_band_config">Select AP Band</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -4449,7 +4449,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_signal">قوة الإشارة</string>
   <string name="wifi_signal_found_msg">اتصال بنقطة وصول شبكة Wi-Fi؟</string>
   <string name="wifi_skip_anyway">تخطي على أية حال</string>
-  <string name="wifi_skipped_message">تحذير: إذا قمت بتخطي Wi‑Fi، الهاتف الخاص بك سوف تستخدم فقط البيانات الخلوية الأولية التنزيلات والتحديثات. لتجنب رسوم البيانات الممكنة، قم بتوصيل Wi‑Fi.</string>
+  <string name="wifi_skipped_message">تحذير: إذا قمت بتخطي Wi‑Fi، هاتفك سوف تستخدم فقط البيانات الخلوية الأولية التنزيلات والتحديثات. لتجنب رسوم البيانات الممكنة، قم بتوصيل Wi‑Fi.</string>
   <string name="wifi_speed">سرعة الارتباط</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">أدخل SSID</string>
