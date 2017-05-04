@@ -33,10 +33,10 @@
   <string name="accessibility_enable">إمكانية الوصول</string>
   <string name="accessibility_feature_or_input_method_not_allowed">غير مسموح به من قبل مؤسستك</string>
   <string name="accessibility_feature_state_off">إيقاف</string>
-  <string name="accessibility_feature_state_on">تشقيل</string>
+  <string name="accessibility_feature_state_on">تشغيل</string>
   <string name="accessibility_global_gesture_preference_description">عندما يتم تشغيل هذه الميزة، يمكنك بسرعة تمكين ميزات إمكانية التشغيل في خطوتين: الخطوة 1: اضغط باستمرار على زر الطاقة حتى يتم سماع صوت أو تشعر باهتزاز. الخطوة 2: اللمس وعقد اصبعين حتى تسمع الصوت تأكيد. إذا كان الجهاز يحتوي على العديد من المستخدمين، باستخدام هذا الاختصار على الشاشة قفل مؤقتاً تمكين الوصول حتى الجهاز مؤمن. </string>
   <string name="accessibility_global_gesture_preference_summary_off">إيقاف</string>
-  <string name="accessibility_global_gesture_preference_summary_on">تشقيل</string>
+  <string name="accessibility_global_gesture_preference_summary_on">تشغيل</string>
   <string name="accessibility_global_gesture_preference_title">إمكانية الوصول إلى اختصار</string>
   <string name="accessibility_lock_screen_progress">%1$d من %2$d الأحرف المستخدمة</string>
   <string name="accessibility_long_press_timeout_preference_title">اتصال &amp; عقد التأخير</string>
@@ -1438,7 +1438,7 @@
   <string name="gadget_location">الموقع</string>
   <string name="gadget_picker_title">اختر الأداة</string>
   <string name="gadget_state_off">إيقاف</string>
-  <string name="gadget_state_on">تشقيل</string>
+  <string name="gadget_state_on">تشغيل</string>
   <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">إيقاف التشغيل</string>
   <string name="gadget_state_turning_on">جاري الايقاف</string>
@@ -2603,7 +2603,7 @@
   <string name="print_cancelling_state_title_template">إلغاء %1$s</string>
   <string name="print_failed_state_title_template">%1$s خطأ في الطابعة</string>
   <string name="print_feature_state_off">إيقاف</string>
-  <string name="print_feature_state_on">تشقيل</string>
+  <string name="print_feature_state_on">تشغيل</string>
   <string name="print_job_summary">"%1$s
 %2$s"</string>
   <string name="print_menu_item_add_printer">إضافة طابعة</string>
@@ -3622,7 +3622,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="suw_more_button_label">أكثر</string>
   <string name="suw_next_button_label">التالي</string>
   <string name="switch_off_text">إيقاف</string>
-  <string name="switch_on_text">تشقيل</string>
+  <string name="switch_on_text">تشغيل</string>
   <string name="switch_screen_button_order">أزرار التدوير</string>
   <string name="switch_screen_button_order_desc">زر التدوير و أزرار القائمة</string>
   <string name="symbols_not_allowed_for_password">"لا يمكن أن تحتوي كلمة المرور على رموز"</string>
@@ -3632,7 +3632,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_contacts">جهات الاتصال</string>
   <string name="sync_disabled">إيقاف المزامنة</string>
   <string name="sync_enable">مزامنة</string>
-  <string name="sync_enabled">تشقيل المزامنة</string>
+  <string name="sync_enabled">تشغيل المزامنة</string>
   <string name="sync_error">خطأ في المزامنة</string>
   <string name="sync_failed">فشلت المزامنة</string>
   <string name="sync_gmail">Gmail</string>

@@ -587,7 +587,7 @@ off---Disabling continuous Tx"</string>
   <string name="pkgsizeout">يجب أن يكون حجم الحزمة من 32 إلى 1500!</string>
   <string name="play_music">تشغيل الموسيقى على بطاقة SD</string>
   <string name="play_music_info">تشغيل الموسيقى على بطاقة SD. يرجى وضع music.mp3 لبطاقة SD</string>
-  <string name="play_music_no_sd">تشقيل mp3</string>
+  <string name="play_music_no_sd">تشغيل mp3</string>
   <string name="play_music_no_sd_hint">请听喇叭是否播放声音</string>
   <string name="play_music_on_sd">تشغيل mp3 على بطاقة SD</string>
   <string name="play_over_and_judge">اللعب عبر، يرجى القاضي إذا نجح أو فشل</string>

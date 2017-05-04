@@ -22,6 +22,6 @@
   <string name="phone_edit">تحرير</string>
   <string name="settings">إعدادات</string>
   <string name="start_test_off">بدء تشغيل الاختبار (إيقاف)</string>
-  <string name="start_test_on">إيقاف الاختبار (تشقيل)</string>
+  <string name="start_test_on">إيقاف الاختبار (تشغيل)</string>
   <string name="warm">دافئ</string>
 </resources>

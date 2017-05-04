@@ -45,7 +45,7 @@
   <string name="sst_grid_view_unselect_all">إلغاء تحديد الكل</string>
   <string name="sst_no_favor_wallpaper_hint">لا يوجد خلفيات في المفضلة</string>
   <string name="sst_prov_enable_desc">قم بتشغيل كاروسيل خلفيات قفل الشاشة</string>
-  <string name="sst_prov_enable_title">تشقيل خلفيات كاروسيل</string>
+  <string name="sst_prov_enable_title">تشغيل خلفيات كاروسيل</string>
   <string name="sst_require_one_category_hint">حدد الفئة 1 على الأقل</string>
   <string name="sst_sti_desc">تعيين معدل تحديث خلفية</string>
   <string name="sst_sti_title">تردد التحديث</string>

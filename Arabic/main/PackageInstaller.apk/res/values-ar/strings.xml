@@ -85,7 +85,7 @@
   <string name="lb_playback_controls_high_quality_enable">تمكين عالية الجودة</string>
   <string name="lb_playback_controls_more_actions">مزيد من الإجراءات</string>
   <string name="lb_playback_controls_pause">إيقاف مؤقت</string>
-  <string name="lb_playback_controls_play">تشقيل</string>
+  <string name="lb_playback_controls_play">تشغيل</string>
   <string name="lb_playback_controls_repeat_all">كرر كل</string>
   <string name="lb_playback_controls_repeat_none">بلا تكرار</string>
   <string name="lb_playback_controls_repeat_one">كرر أحد</string>

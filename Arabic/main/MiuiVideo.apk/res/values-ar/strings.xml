@@ -282,8 +282,8 @@
   <string name="personal_center">حساب</string>
   <string name="pick_addon_to_delete">اختر العناصر</string>
   <string name="place_at">No.%d</string>
-  <string name="play">تشقيل</string>
-  <string name="play_fail">"لايمكن تشقيل"</string>
+  <string name="play">تشغيل</string>
+  <string name="play_fail">"لايمكن تشغيل"</string>
   <string name="play_his_empty_title">فارغة</string>
   <string name="play_history">الأخيرة</string>
   <string name="play_source_fetching">الاتصال…</string>

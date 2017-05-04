@@ -43,7 +43,7 @@
   <string name="lable_poll_interval">Poll interval</string>
   <string name="lable_polling_off">Polling off</string>
   <string name="lable_power_off_card">إيقاف البطاقة</string>
-  <string name="lable_power_on_card">تشقيل البطاقة</string>
+  <string name="lable_power_on_card">تشغيل البطاقة</string>
   <string name="lable_provide_local_information">Provide Local Information</string>
   <string name="lable_receive_data">تلقي البيانات</string>
   <string name="lable_refresh">تحديث</string>
