@@ -140,8 +140,7 @@
   <string name="system_warning">إذا قمت برفض الإذن، قد لا تعمل الميزات الأساسية على النحو المنشود.</string>
   <string name="uninstall_activity_text">هذا %1$s جزء من التطبيق التالي:</string>
   <string name="uninstall_application_text">هل تريد إلغاء التثبيت هذا التطبيق؟</string>
-  <string name="uninstall_application_text_all_users">هل تريد إلغاء تثبيت هذه التطبيقات &lt;b&gt;&amp;#1604;&amp;#1580;&amp;#1605;&amp;#1610;&amp;#1593;&lt;/b&gt;
-        &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1605;&amp;#1610;&amp;#1606;&amp;#1567; &amp;#1587;&amp;#1610;&amp;#1578;&amp;#1605; &amp;#1581;&amp;#1584;&amp;#1601; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1591;&amp;#1576;&amp;#1610;&amp;#1602; &amp;#1608; &amp;#1576;&amp;#1610;&amp;#1575;&amp;#1606;&amp;#1575;&amp;#1578;&amp;#1607; &amp;#1605;&amp;#1606; &lt;b&gt;&amp;#1580;&amp;#1605;&amp;#1610;&amp;#1593;&lt;/b&gt; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1587;&amp;#1578;&amp;#1582;&amp;#1583;&amp;#1605;&amp;#1610;&amp;#1606; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1607;&amp;#1575;&amp;#1586;.</string>
+<string name="uninstall_application_text_all_users">هل تريد إلغاء تثبيت هذا التطبيق ل&lt;b&gt;all&lt;/b&gt; المستخدمين؟ سيتم إزالة التطبيق وبياناته من &lt;b&gt;all&lt;/b&gt;المستخدمين على الجهاز.</string>
   <string name="uninstall_application_text_user">هل تريد إلغاء التثبيت هذا التطبيق للمستخدم %1$s؟</string>
   <string name="uninstall_application_title">إلغاء تثبيت التطبيق</string>
   <string name="uninstall_blocked_device_owner">"هذا التطبيق مطلوب
