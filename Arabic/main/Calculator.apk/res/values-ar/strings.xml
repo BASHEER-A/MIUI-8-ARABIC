@@ -32,7 +32,7 @@
   <string name="dateformat">"الشهر/اليوم/السنة"</string>
   <string name="day">"يوم"</string>
   <string name="del">"DEL"</string>
-  <string name="digit0">"ص"</string>
+  <string name="digit0">"0"</string>
   <string name="digit1">"1"</string>
   <string name="digit2">"2"</string>
   <string name="digit3">"3"</string>
@@ -41,7 +41,7 @@
   <string name="digit6">"6"</string>
   <string name="digit7">"7"</string>
   <string name="digit8">"8"</string>
-  <string name="digit9">"ITMAS-STPUC-00-1020-4239-ANLSH-01-01-20130314-A"</string>
+  <string name="digit9">"9"</string>
   <string name="div">"÷"</string>
   <string name="divDesc">"تقسيم"</string>
   <string name="dot">"6\\"</string>
