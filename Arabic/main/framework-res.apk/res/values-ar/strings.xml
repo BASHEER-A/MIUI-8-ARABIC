@@ -476,7 +476,7 @@
   <string name="keyguard_password_enter_pin_prompt">‏رمز رمز PIN الجديد</string>
   <string name="keyguard_password_enter_puk_code">‏اكتب رمز PUK ورمز رمز PIN الجديد</string>
   <string name="keyguard_password_enter_puk_prompt">‏رمز PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;&amp;#1575;&amp;#1606;&amp;#1602;&amp;#1585; &amp;#1604;&amp;#1603;&amp;#1578;&amp;#1575;&amp;#1576;&amp;#1577; &amp;#1603;&amp;#1604;&amp;#1605;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1585;&amp;#1608;&amp;#1585;&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;المس لكتابة كلمة المرور&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">‏رمز PIN غير صحيح.</string>
   <string name="kg_enter_confirm_pin_hint">‏تأكيد رمز رمز PIN المراد</string>
   <string name="kg_failed_attempts_almost_at_login">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %1$d مرة. بعد إجراء %2$d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام حساب بريد إلكتروني لإلغاء تأمين الهاتف.
@@ -1000,7 +1000,7 @@
   <string name="permlab_writeSettings">تعديل إعدادات النظام</string>
   <string name="permlab_writeSyncSettings">التبديل بين تشغيل المزامنة وإيقافها</string>
   <string name="perms_description_app">يقدمه %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;&amp;#1580;&amp;#1583;&amp;#1610;&amp;#1583;: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEW: &lt;/font&gt;</string>
   <string name="petabyteShort">بيتابايت</string>
   <string name="phoneTypeAssistant">مساعد</string>
   <string name="phoneTypeCallback">هاتف معاودة الاتصال</string>
@@ -1211,13 +1211,13 @@
   <string name="sms_control_no">رفض</string>
   <string name="sms_control_title">‏إرسال رسائل قصيرة SMS</string>
   <string name="sms_control_yes">السماح</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;&amp;#1587;&amp;#1610;&amp;#1572;&amp;#1583;&amp;#1610; &amp;#1607;&amp;#1584;&amp;#1575; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1578;&amp;#1581;&amp;#1589;&amp;#1610;&amp;#1604; &amp;#1585;&amp;#1587;&amp;#1608;&amp;#1605; &amp;#1605;&amp;#1606; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1608;&amp;#1617;&amp;#1575;&amp;#1604;.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;وهذا سوف يسبب رسوم على حساب المحمول الخاص بك.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">إرسال</string>
   <string name="sms_short_code_confirm_always_allow">السماح دومًا</string>
   <string name="sms_short_code_confirm_deny">إلغاء</string>
   <string name="sms_short_code_confirm_message">‏هناك رغبة من &lt;b&gt;%1$s&lt;/b&gt; في إرسال رسالة إلى &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">عدم السماح مطلقًا</string>
-  <string name="sms_short_code_details">&lt;b&gt;&amp;#1585;&amp;#1576;&amp;#1605;&amp;#1575; &amp;#1610;&amp;#1572;&amp;#1583;&amp;#1610; &amp;#1607;&amp;#1584;&amp;#1575; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1578;&amp;#1581;&amp;#1589;&amp;#1610;&amp;#1604; &amp;#1585;&amp;#1587;&amp;#1608;&amp;#1605;&lt;/b&gt; &amp;#1605;&amp;#1606; &amp;#1581;&amp;#1587;&amp;#1575;&amp;#1576; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1608;&amp;#1617;&amp;#1575;&amp;#1604;.</string>
+  <string name="sms_short_code_details">هذا &lt;b&gt;قد يسبب رسوم&lt;/b&gt; على حساب هاتفك المحمول.</string>
   <string name="sms_short_code_remember_choice">تذكر اختياري</string>
   <string name="sms_short_code_remember_undo_instruction">‏يمكنك تغيير ذلك لاحقًا من إعدادات &gt; تطبيقات</string>
   <string name="smv_application">‏انتهك التطبيق %1$s (العملية %2$s) سياسة StrictMode المفروضة ذاتيًا.</string>
