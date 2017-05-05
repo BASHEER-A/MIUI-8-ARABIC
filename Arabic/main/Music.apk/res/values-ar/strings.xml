@@ -302,15 +302,12 @@
   <string name="file_not_found">"الملف غير موجود"</string>
   <string name="filter_by_duration">حسب المدة</string>
   <string name="filter_by_duration_format">%2$d دقيقة %5$2d ثانية</string>
-  <string name="filter_by_duration_max">٥ ثواني</string>
   <string name="filter_by_duration_min">٠ ثانية</string>
   <string name="filter_by_duration_prefix">"إخفاء الملفات الاقصر من "</string>
   <string name="filter_by_duration_summary">إخفاء ملفات الصوت القصيرة</string>
   <string name="filter_by_folder">حسب المجلد</string>
   <string name="filter_by_folder_summary">اختيار مجلدات للعرض</string>
   <string name="filter_by_size">حسب الحجم</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"إخفاء الملفات الاصغر من "</string>
   <string name="filter_by_size_summary">إخفاء ملفات الصوت الصغيرة</string>
   <string name="find_music">اكتشاف اغاني</string>
@@ -386,7 +383,6 @@
   <string name="lyric_open_other_connect">تحميل كلمات الاغنية باستخدام شبكة الجوال</string>
   <string name="lyric_setting">إعدادات الكلمات</string>
   <string name="male_artist">فنانين</string>
-  <string name="max_sleep_time">90</string>
   <string name="media_filter">الوسائط</string>
   <string name="menu_all_task_pause">إيقاف الجميع</string>
   <string name="menu_all_task_start">بدء تشغيل الجميع</string>
@@ -402,7 +398,6 @@
   <string name="metered_disallow">ليس الآن</string>
   <string name="metered_play_toast">استخدام بيانات الهاتف لتشغيل الأغاني</string>
   <string name="milink_unavaliable_please_update">"رابط Mi غير متاح. قم بتحديث MIUI."</string>
-  <string name="min_sleep_time">1</string>
   <string name="missing_title">&lt; المجهول &gt;</string>
   <string name="miui_music">موسيقى Mi</string>
   <string name="miuishare_account_activate_confirmation">التفعيل مطلوب</string>

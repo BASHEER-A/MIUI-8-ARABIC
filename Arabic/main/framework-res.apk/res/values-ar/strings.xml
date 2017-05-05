@@ -187,7 +187,6 @@
   <string name="data_usage_warning_title">تنبيه استخدام البيانات</string>
   <string name="data_usage_wifi_limit_snoozed_title">‏تم تجاوز حد بيانات شبكة Wi-Fi</string>
   <string name="data_usage_wifi_limit_title">‏تم بلوغ حد بيانات Wi-Fi</string>
-  <string name="date_and_time" formatted="false">%-l:%M:%S %p %d‏/%m‏/%Y</string>
   <string name="date_picker_decrement_day_button">تقليل الأيام</string>
   <string name="date_picker_decrement_month_button">تقليل الشهور</string>
   <string name="date_picker_decrement_year_button">تقليل الأعوام</string>

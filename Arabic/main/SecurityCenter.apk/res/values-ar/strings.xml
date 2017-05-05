@@ -403,7 +403,6 @@
   <string name="firewall_fragment_tab_title_sys">النظام</string>
   <string name="firewall_network_restrict_notify_message">أنقر لتغيير الإعدادات.</string>
   <string name="firewall_network_restrict_notify_mobile">بيانات الهاتف الجوال</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s لا يمكنه استخدام %2$s"</string>
   <string name="firewall_restrict_android_dialog_content">للتأكد من ان جهازك يعمل بشكل طبيعي، عدد قليل من تطبيقات نظام الأندرويد ستظل على اتصال بالإنترنت. هذه التطبيقات ستستخدم اتصال بيانات الهاتف ويمكن أن تولد رسوم بسيطة من شركة الاتصالات الخاصة بك.</string>
   <string name="firewall_restrict_android_dialog_title">تنبيه</string>
   <string name="firewall_rule_group_title_mobile">الهاتف الجوال</string>
@@ -997,7 +996,6 @@
   <string name="preferred_app_entries_launcher">المُشغل</string>
   <string name="preferred_app_entries_messaging">الرسائل</string>
   <string name="preferred_app_entries_music">الموسيقى</string>
-  <string name="privacy_declare_dialog_message">"باستخدام هذه الخدمة، فأنت توافق على  شروط الخدمة الخاصة بمتصفح Opera\."</string>
   <string name="privacy_declare_dialog_title">شروط الخدمة</string>
   <string name="privacy_mode_dialog_title">وضع الزائر</string>
   <string name="privacy_prompt_tc_sms_report_message">"سيتم تشفير رقم هاتفك وتفاصيل شركة الاتصالات الخاصة بك و رفعها الى خوادم Mi لتحديث معلومات استخدام البيانات الخاصة بك."</string>
@@ -1222,7 +1220,6 @@
   <string name="tc_diagnostic_all_error_notification_title">"تعذر اكمال التشخيص"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">أنقر لتعديل نوع الشبكة</string>
   <string name="tc_diagnostic_brand_error_notification_title">نوع شبكة خاطئ</string>
-  <string name="tc_diagnostic_brand_result">" النتيجة: اسم مشغل شبكة الجوال غير صحيحقم بتعيين اسم مشغل شبكة الجوال: %1$s2$s"</string>
   <string name="tc_diagnostic_complete">تم</string>
   <string name="tc_diagnostic_fragment_default">حول التشخيص\n١. سيقوم الجهاز بالاتصال بشبكة الخادم، إرسال رسالة مجانية، و انتظار استجابة الخادم. قد يستغرق ذلك ٥ دقائق.\n٢. يمكنك الخروج من هذه الصفحة خلال التشخيص، سيتم ذلك في الخلفية.</string>
   <string name="tc_diagnostic_location_error_notification_summary">أنقر لتعديل الموقع</string>

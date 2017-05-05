@@ -7,18 +7,6 @@
     <item>رسالة نصية</item>
     <item>المنبه</item>
   </string-array>
-  <string-array name="preferences_default_reminder_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </string-array>
   <string-array name="preferences_week_start_day_labels">
     <item>المنطقة الافتراضية</item>
     <item>السبت</item>

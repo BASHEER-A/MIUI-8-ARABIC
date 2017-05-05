@@ -698,7 +698,7 @@
   <string name="miprofile_request_empty_request">لا يوجد طلبات تبادل</string>
   <string name="miprofile_request_header">طلبات التبادل (تنتهي صلوحيتها تلقائيا خلال الأسبوع)</string>
   <string name="miprofile_request_menu_clear_request">حذف السجل</string>
-  <string name="miprofile_request_message">%$1s يرغب في تبادل بطاقات جهات الاتصال</string>
+  <string name="miprofile_request_message">%1$s يرغب في تبادل بطاقات جهات الاتصال</string>
   <string name="miprofile_request_notification_message">قم بالقبول لعرض صورة الملف الشخصي ومعلومات إضافية</string>
   <string name="miprofile_request_notification_title">%1$s شخصًا يرغب في تبادل بطاقات جهات الاتصال</string>
   <string name="miprofile_request_notification_title_name">%1$s شخصًا يرغب في تبادل بطاقات جهات الاتصال</string>
