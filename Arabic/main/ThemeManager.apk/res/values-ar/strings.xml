@@ -225,7 +225,7 @@
   <string name="resource_menu_refresh">تحديث</string>
   <string name="resource_mute">لا شيء</string>
   <string name="resource_my">المتواجدة</string>
-  <string name="resource_network_diagnostics">&lt;u&gt;&amp;#1578;&amp;#1588;&amp;#1582;&amp;#1610;&amp;#1589;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577;&lt;/u&gt;</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;تشخيص الشبكة&lt;/u&gt;</string>
   <string name="resource_no_match_app">لم يتم العثور على اي تطبيق للتعامل مع هذا الإجراء.</string>
   <string name="resource_no_network_text">"تعذر الاتصال بالشبكة."</string>
   <string name="resource_no_result">"لم يتم العثور على أي شيء"</string>

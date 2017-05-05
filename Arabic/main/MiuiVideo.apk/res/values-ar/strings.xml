@@ -504,7 +504,7 @@
   <string name="vp_using_4_3">فرض 4:3</string>
   <string name="vp_video_bad_network_condition">اتصال الإنترنت ضعيف. أعد المحاولة لاحقًا.</string>
   <string name="vp_video_invalid_cp_info">معلومات غير صالحة لمزود الفيديو، يرجى إعادة تشغيل التطبيق</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;&amp;#1578;&amp;#1581;&amp;#1605;&amp;#1610;&amp;#1604;\u2026&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">&lt;CDATA&gt;جاري تحميل&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">تثبيت%1$s\u2026</string>
   <string name="waiting_to_download">في انتظار</string>
   <string name="wasu">Wasu</string>
