@@ -447,8 +447,8 @@
   <string name="vp_hint">تنبيه</string>
   <string name="vp_install">تثبيت</string>
   <string name="vp_install_title">تثبيت</string>
-  <string name="vp_loading">&lt;CDATA&gt;&amp;#1580;&amp;#1575;&amp;#1585;&amp;#1613; &amp;#1575;&amp;#1604;&amp;#1578;&amp;#1606;&amp;#1586;&amp;#1610;&amp;#1604;&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;&amp;#1580;&amp;#1575;&amp;#1585;&amp;#1613;&amp;#1575;&amp;#1604;&amp;#1578;&amp;#1606;&amp;#1586;&amp;#1610;&amp;#1604;\u2026&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">&lt;CDATA&gt;جار التحميل&amp;#8230;&lt;/CDATA&gt;</string>
+   <string name="vp_loading_download">&lt;CDATA&gt;جارى التحميل&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_loading_video">تحميل…</string>
   <string name="vp_low_definition">أقل</string>
   <string name="vp_maintitlearea">مشاهدة فيديو HD من أي مكان</string>
