@@ -1955,7 +1955,7 @@
   <string name="media_button">زر الوسائط</string>
   <string name="media_category">الوسائط</string>
   <string name="media_feedback_enable_title">اهتزاز مع الإيقاع</string>
-  <string name="media_volume_option_title">حجم الوسائط</string>
+  <string name="media_volume_option_title">مستوى صوت الوسائط</string>
   <string name="media_volume_summary">تعيين وحدة التخزين للموسيقى والفيديو</string>
   <string name="media_volume_title">الوسائط</string>
   <string name="medium_font">متوسطة</string>
