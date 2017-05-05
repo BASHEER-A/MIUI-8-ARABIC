@@ -53,12 +53,11 @@
   <string name="Generic_UserApp">تم تنزيل (%d)</string>
   <string name="Generic_Version">الإصدار %1$s</string>
   <string name="HIPS_Action_Accept">السماح</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color="#478800"&gt;&amp;#1575;&amp;#1604;&amp;#1587;&amp;#1605;&amp;#1575;&amp;#1581;&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;السماح&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">السماح مرة واحدة</string>
   <string name="HIPS_Action_Prompt">مطالبة</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color="#FF8A00"&gt;&amp;#1605;&amp;#1591;&amp;#1575;&amp;#1604;&amp;#1576;&amp;#1577;&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject">رفض</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color="#DF0000"&gt;&amp;#1585;&amp;#1601;&amp;#1590;&lt;/font&gt;</string>
+<string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>  <string name="HIPS_Action_Reject">رفض</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">رفض مرة واحدة</string>
   <string name="HIPS_Group_DataPrivacy">الخصوصية</string>
   <string name="HIPS_Group_Expense">الحماية</string>
@@ -254,7 +253,7 @@
   <string name="HIPS_SecurityPrompt_Remember">تذكر التفضيلات</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s يحاول %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d أذونات</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d من الأذونات - &lt;font color="#478800"&gt;&amp;#1605;&amp;#1608;&amp;#1579;&amp;#1608;&amp;#1602;&amp;#1577;&lt;/font&gt;</string>
+ <string name="Privacy_AppPerm_Count_Trust">%1$d الاذونات - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">موافق</string>
   <string name="Privacy_App_Installed">تم التثبيت بنجاح</string>
   <string name="Privacy_App_Launch">تشغيل</string>
