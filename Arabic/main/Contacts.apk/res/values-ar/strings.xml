@@ -756,7 +756,6 @@
 	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 	"</string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
-  <string name="noContactsHelpTextForCreateShortcut">"ليس لديك أي جهات اتصال لعرضها."</string>
 	  <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
 
