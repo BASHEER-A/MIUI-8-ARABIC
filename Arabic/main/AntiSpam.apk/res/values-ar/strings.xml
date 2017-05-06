@@ -64,8 +64,8 @@
   <string name="bl_no_block_call">لا توجد مكالمات محظورة.</string>
   <string name="bl_no_block_sms">لا يوجد رسائل نصية محظورة.</string>
   <string name="blacklist_prefix_add_hint">حظر كل الأرقام بهذه البادئة</string>
-  <string name="block_message_number">الرسائل النصية SMS: &lt;font color="#5fab1b"&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number">المكالمات: &lt;font color="#5fab1b"&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">الرسائل النصية SMS: <font color="#5fab1b">%d</font></string>
+  <string name="block_phone_number">المكالمات: <font color="#5fab1b">%d</font></string>
   <string name="button_text_delete">حذف</string>
   <string name="button_to_setting">الإعدادات</string>
   <string name="call_delete_hint">حذف كل المكالمات المحظورة الواردة من هذا الرقم؟</string>
@@ -104,7 +104,7 @@
   <string name="dlg_import_blacklist">جارٍ الإضافة\u2026</string>
   <string name="dlg_import_whitelist">جارٍ الإضافة\u2026</string>
   <string name="dlg_keyword_ok">حفظ</string>
-  <string name="dlg_message_not_open_stranger_identify">لتشغيل هذه الميزة، اذهب إلى الإعدادات &gt; الهاتف.</string>
+  <string name="dlg_message_not_open_stranger_identify">لتشغيل هذه الميزة، اذهب إلى الإعدادات > الهاتف.</string>
   <string name="dlg_no_block">إلغاء حظر هذا الرقم واستعادة المكالمات الى سجل المكالمات ؟</string>
   <string name="dlg_no_block_ok">إلغاء الحظر</string>
   <string name="dlg_remove_address_blacklist">إزالة هذا الموقع من قائمة الحظر؟</string>
