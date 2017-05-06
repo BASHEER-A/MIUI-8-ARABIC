@@ -447,8 +447,8 @@
   <string name="vp_hint">تنبيه</string>
   <string name="vp_install">تثبيت</string>
   <string name="vp_install_title">تثبيت</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;جار التحميل&amp;#8230;&lt;/CDATA&gt;</string>
-   <string name="vp_loading_download">&lt;CDATA&gt;جارى التحميل&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_loading">&lt;CDATA&gt;Downloading&lt;/CDATA&gt;</string>
+  <string name="vp_loading_download">&lt;CDATA&gt;Downloading&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_loading_video">تحميل…</string>
   <string name="vp_low_definition">أقل</string>
   <string name="vp_maintitlearea">مشاهدة فيديو HD من أي مكان</string>
@@ -504,7 +504,7 @@
   <string name="vp_using_4_3">فرض 4:3</string>
   <string name="vp_video_bad_network_condition">اتصال الإنترنت ضعيف. أعد المحاولة لاحقًا.</string>
   <string name="vp_video_invalid_cp_info">معلومات غير صالحة لمزود الفيديو، يرجى إعادة تشغيل التطبيق</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;جاري تحميل&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">&lt;CDATA&gt;Loading&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">تثبيت%1$s\u2026</string>
   <string name="waiting_to_download">في انتظار</string>
   <string name="wasu">Wasu</string>
