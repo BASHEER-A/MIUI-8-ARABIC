@@ -913,7 +913,7 @@ To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touc
   <string name="pref_key_sim_manage">بطاقات SIM</string>
   <string name="pref_key_sim_manage1">إعداد شريحة SIM 1</string>
   <string name="pref_key_sim_manage2">إعداد شريحة SIM 2</string>
-  <string name="pref_rcs_backup_restore_title">نسخ احتياطي & إعدادات الاسترداد</string>
+  <string name="pref_rcs_backup_restore_title">نسخ احتياطي &amp; إعدادات الاسترداد</string>
   <string name="pref_rcs_fetion_entry_title">Fetion settings</string>
   <string name="pref_summary_import_from_account">نقل جهات الاتصال من حساب Google و تبادل الحسابات إلى حساب Mi الخاص بي</string>
   <string name="pref_title_account_import">استيراد جهات الاتصال</string>
@@ -1160,11 +1160,10 @@ To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touc
   <string name="strequentList">المفضلة</string>
   <string name="success_message_import_from_account">تم استيراد جهة الاتصال</string>
   <string name="summary_kind_title">ملخص</string>
-  <string name="t9_search_guide_pinyin_title1">أدخل الارقام للإيجاد جهات الاتصال</string>
-<string name="t9_search_guide_pinyin_title2">أدخل 9 و 4 للبحث عن <font fgcolor="">W</font>ashington <font fgcolor="">I</font>rving</string>
-  <string name="t9_search_guide_zhuyin_title1">أدخل الارقام للإيجاد جهات الاتصال</string>
-  <string name="t9_search_guide_zhuyin_title2">أدخل \"٥\" و \"٦\" للبحث عن
-        \"<font fgcolor=\"\">J</font>eff <font fgcolor=\"\">M</font></string>
+  <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
+  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
+  <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
+  <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">التقاط صورة جديدة</string>
   <string name="take_photo">التقاط صورة</string>
   <string name="telecom_fraud_insurance">تأمين احتيال الاتصالات</string>

@@ -100,8 +100,8 @@
   <string name="open_wifi_description">الاتصال بشبكة Wi-Fi لاستعادة التطبيق</string>
   <string name="open_wifi_setting">إعدادات Wi-Fi</string>
   <string name="process_whole_recovery">الاستعادة \"%s\"</string>
-  <string name="provision_arrow_back"><</string>
-  <string name="provision_arrow_next">></string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">نسخ Mi Cloud الإحتياطي</string>
   <string name="query_restore_description">استعادة تطبيقات الشاشة الرئيسية والاعدادات باستعمال هذا النسخ الاحتياطي. هذا سيمسح بيانات التطبيقات المكررة المثبتة مسبقا على جهازك. التطبيقات غير المشمولة في النسخ الاحتياطي ستنقل الى الشاشة الرئيسية الاخيرة.</string>
   <string name="query_restore_summary">اعثر على النسخة الاحتياطية لهذا الجهاز. إستعادة تطبيقات الشاشة الرئيسية والاعدادات أو استعمالها كجهاز جديد ومسح نسخة Mi الاحتياطية السابقة؟</string>

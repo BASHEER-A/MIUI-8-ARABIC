@@ -508,7 +508,7 @@
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">تم الوضع على الشاشة الرئيسية</string>
   <string name="history_saved_webpage">حفظ الصفحة</string>
-  <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">حذف</string>
   <string name="homepage_get_location">الحصول على الموقع</string>
   <string name="homepage_get_location_failed">"تعذر الحصول على المعلومات، اختر مدينة"</string>
