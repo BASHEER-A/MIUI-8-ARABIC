@@ -345,7 +345,7 @@
   <string name="default_areacode">Default area code</string>
   <string name="default_call_switch_err_msg1">Can not switch preferred SIM for calls during the call.</string>
   <string name="default_notification_description">Default sound (%1$s)</string>
-  <string name="default_preference_summary"><غير معين></string>
+  <string name="default_preference_summary">&lt;غير معين&gt;</string>
   <string name="delete">حذف</string>
   <string name="delete_ecc_number">Delete emergency number</string>
   <string name="delete_fdn_contact">حذف رقم الطلب الثابت</string>
@@ -413,7 +413,7 @@
   <string name="disable_fdn_ok">تشغيل FDN</string>
   <string name="disable_pin_ok">رمز PIN شريحة SIM غير مفعل.</string>
   <string name="disable_sim_pin">إيقاف تشغيل رمز PIN شريحة SIM</string>
-  <string name="display_name_summary">>مماثل لاسم المستخدم<</string>
+  <string name="display_name_summary">&lt;مماثل لاسم المستخدم&gt;</string>
   <string name="display_name_title">عرض الاسم</string>
   <string name="do_not_ask">"عدم السؤال مرة أخرى"</string>
   <string name="domain_address_title">الخادم</string>
@@ -895,7 +895,7 @@ Top up and start talking"</string>
   <string name="operator_mins_first">"Give priority to carrier's plan"</string>
   <string name="operator_mins_first_close">Turn off</string>
   <string name="operator_remain_mins">Operator package minutes</string>
-  <string name="optional_summary">>اختياري<</string>
+  <string name="optional_summary">&lt;اختياري&gt;</string>
   <string name="order_by_recent">Frequency</string>
   <string name="order_id">Order ID: %1$s</string>
   <string name="order_price">¥ %1$s</string>
@@ -1341,7 +1341,7 @@ Use it for Top-up package?"</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
   <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">اهتزاز</string>
-  <string name="voicemail_number_not_set">>غير معين<</string>
+  <string name="voicemail_number_not_set">&lt;غير معين&gt;</string>
   <string name="voicemail_provider">خدمة البريد الصوتي</string>
   <string name="voicemail_provider_summary">اختيار خدمة البريد الصوتي</string>
   <string name="voicemail_settings">إعدادات البريد الصوتي</string>

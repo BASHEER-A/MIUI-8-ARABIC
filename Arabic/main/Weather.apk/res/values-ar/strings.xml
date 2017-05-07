@@ -61,7 +61,7 @@
   <string name="daily_forcast_drawer_on_top">توقعات %1$s يوم</string>
   <string name="daily_forcast_no_stable_direction">نسيم</string>
   <string name="daily_forcast_no_wind">٠</string>
-  <string name="daily_forcast_no_wind_miles"><19.3mph</string>
+  <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
   <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s.%2$s لاحقا.</string>

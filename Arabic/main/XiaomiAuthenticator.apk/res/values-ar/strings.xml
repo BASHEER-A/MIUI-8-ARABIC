@@ -74,8 +74,8 @@
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
   <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
   <string name="lockpattern_need_to_unlock_footer"></string>
-  <string name="lockpattern_need_to_unlock_wrong"><font color=red>Password wrong,you can enter %d times more</font></string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"></string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong,you can enter %d times more&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded.</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>

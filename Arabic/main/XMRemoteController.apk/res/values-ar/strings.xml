@@ -99,7 +99,7 @@
   <string name="append_ok_key_after_num">Add confirmation button after the numeric button</string>
   <string name="application">Apps</string>
   <string name="auto_tune">自动换台</string>
-  <string name="auto_tune_hint_text">自动换台开始后，手机会以一定的间隔发送遥控器<频道+>按键</string>
+  <string name="auto_tune_hint_text">自动换台开始后，手机会以一定的间隔发送遥控器&lt;频道+&gt;按键</string>
   <string name="auto_tune_running">正在自动换台中…</string>
   <string name="back">Back</string>
   <string name="backup">Back up</string>
@@ -734,7 +734,7 @@ To activate your account, follow the
   <string name="press_to_continue_match">Tap to continue</string>
   <string name="press_to_match">Tap to pair</string>
   <string name="prev_remote">Previous remote</string>
-  <string name="privacy_content">\"Read Xiaomi\'s \"<a href=\"http://www.miui.com/res/doc/privacy/en.html\">Privacy Policy</a> and <a href=\"http://www.miui.com/res/doc/eula/en.html\">User Agreement</a> before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
+  <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacy Policy&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"لاتظهر مرة أخرى"</string>
   <string name="privacy_title">Terms and Conditions</string>
   <string name="program_booking_book_filter_book_status">预约状态</string>

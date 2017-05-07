@@ -9,5 +9,5 @@
   <string name="legacy_title">اتصال VPN</string>
   <string name="prompt">طلب الاتصال</string>
   <string name="session">Session:</string>
-  <string name="warning">%s يريد أن إعداد اتصال VPN التي تسمح لها برصد حركة مرور شبكة الاتصال. تقبل فقط إذا كنت تثق بالمصدر. <br/><br/><img src = vpn_icon/> يظهر في الجزء العلوي من الشاشة عندما VPN نشطاً.</string>
+  <string name="warning">%s يريد أن إعداد اتصال VPN التي تسمح لها برصد حركة مرور شبكة الاتصال. تقبل فقط إذا كنت تثق بالمصدر. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; يظهر في الجزء العلوي من الشاشة عندما VPN نشطاً.</string>
 </resources>
