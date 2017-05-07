@@ -939,7 +939,7 @@
   <string name="veiled_summary_unknown_person"></string>
   <string name="via_domain">عن طريق %1$s</string>
   <string name="view_more_conversations">عرض المزيد من المحادثات</string>
-  <string name="wait_for_manual_sync_body">\"لم يتم إعداد هذا الحساب للمزامنة تلقائياً. لمس \"< b > المزامنة الآن </b> مزامنة البريد مرة.، أو < b > إعدادات المزامنة التغيير </b> إعداد هذا الحساب لمزامنة البريد تلقائياً.</string>
+  <string name="wait_for_manual_sync_body">\"لم يتم إعداد هذا الحساب للمزامنة تلقائياً. لمس \"<b> المزامنة الآن </b> مزامنة البريد مرة.، أو <b> إعدادات المزامنة التغيير </b> إعداد هذا الحساب لمزامنة البريد تلقائياً.</string>
   <string name="wait_for_sync_title">في انتظار المزامنة</string>
   <string name="widget_all_mail">كل البريد</string>
   <string name="widget_large_unread_count">%d+</string>
