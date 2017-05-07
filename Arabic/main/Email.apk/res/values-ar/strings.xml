@@ -552,7 +552,7 @@
   <string name="menu_att_mgr_order_rev_date">فرز حسب تاريخ الاستلام</string>
   <string name="menu_att_mgr_order_size">فرز حسب الحجم</string>
   <string name="menu_change_folders">نقل</string>
-  <string name="menu_compose">يؤلف</string>
+  <string name="menu_compose">إنشاء</string>
   <string name="menu_discovery">اكتشاف</string>
   <string name="menu_folder_options">خيارات المزامنة</string>
   <string name="menu_move_to">الانتقال إلى</string>

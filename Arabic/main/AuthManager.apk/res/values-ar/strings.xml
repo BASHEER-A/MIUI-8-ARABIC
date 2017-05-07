@@ -56,7 +56,8 @@
   <string name="HIPS_Action_Accept_Colored"><font color=#478800>السماح</font></string>
   <string name="HIPS_Action_Accept_Once">السماح مرة واحدة</string>
   <string name="HIPS_Action_Prompt">مطالبة</string>
-<string name="HIPS_Action_Prompt_Colored"><font color=#FF8A00>Prompt</font></string>  <string name="HIPS_Action_Reject">رفض</string>
+  <string name="HIPS_Action_Prompt_Colored"><font color=#FF8A00>Prompt</font></string>
+  <string name="HIPS_Action_Reject">رفض</string>
   <string name="HIPS_Action_Reject_Colored"><font color=#DF0000>Deny</font></string>
   <string name="HIPS_Action_Reject_Once">رفض مرة واحدة</string>
   <string name="HIPS_Group_DataPrivacy">الخصوصية</string>
