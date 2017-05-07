@@ -1273,9 +1273,9 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="fd_text_set">Set</string>
   <string name="fd_text_unit">0.1s</string>
   <string name="fd_text_unit_ap">1s (>5s)</string>
-  <string name="fd_turn_off">Turn Off R8 FD & Legacy FD</string>
-  <string name="fd_turn_off_legacy">Turn On R8 FD & Turn Off Legacy FD</string>
-  <string name="fd_turn_on">Turn On R8 FD & Legacy FD</string>
+  <string name="fd_turn_off">Turn Off R8 FD &amp; Legacy FD</string>
+  <string name="fd_turn_off_legacy">Turn On R8 FD &amp; Turn Off Legacy FD</string>
+  <string name="fd_turn_on">Turn On R8 FD &amp; Legacy FD</string>
   <string name="file_list_title">Please select a file to burn</string>
   <string name="fir_text">***NO FIR Selected***</string>
   <string name="flicker_dailog_title">Set Flicker</string>

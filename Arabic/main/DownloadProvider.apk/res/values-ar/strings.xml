@@ -22,7 +22,7 @@
   <string name="download_remaining">%s انتهى</string>
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
-  <string name="download_unknown_title"><Untitled></string>
+  <string name="download_unknown_title">&lt;Untitled&gt;</string>
   <string name="enter_garbage_clean">تنظيف وحدة التخزين الداخلية.</string>
   <string name="insufficient_space">"لا توجد مساحة كافية على الجهاز الخاص بك لوحدة التخزين الداخلية"</string>
   <string name="mobile_recommended_title">استخدام البيانات المتنقلة</string>
@@ -68,16 +68,16 @@
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
+  <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Data usage warning</string>
   <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
 
- Touch %s to start this download the next time you\'re connected to a WLAN network."</string>
+ Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
   <string name="wifi_recommended_title">Queue for download later?</string>
-  <string name="wifi_required_body" formatted="false">"You must use WLAN to complete this %s download. 
+  <string name="wifi_required_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
 
-Touch %s to start this download the next time you\'re connected to a WLAN network."</string>
+Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
   <string name="wifi_required_title">Download too large for operator network</string>
   <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
   <string name="xl_speedup_experience_notify_title">Xunlei membership</string>

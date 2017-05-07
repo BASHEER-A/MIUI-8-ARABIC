@@ -176,12 +176,12 @@
   <string name="file_info_modified">آخر تعديل:</string>
   <string name="file_info_size">الحجم:</string>
   <string name="file_loading">لحظة من فضلك\u2026</string>
-  <string name="file_name_invalid">"لا يمكن أن تحتوي أسماء الملفات على الرموز التالية: /\\:*?<>"</string>
+  <string name="file_name_invalid">"لا يمكن أن تحتوي أسماء الملفات على الرموز التالية: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"ملف غير موجود"</string>
   <string name="flow_setting">Settings</string>
   <string name="folder_name_empty">اسم المجلد لا يمكن ان يكون فارغ</string>
   <string name="folder_name_illegal">اسم مجلد غير صالح</string>
-  <string name="folder_name_invalid">"لا يمكن أن تحتوي أسماء المجلدات على الأحرف التالية: /\\:*?<>"</string>
+  <string name="folder_name_invalid">"لا يمكن أن تحتوي أسماء المجلدات على الأحرف التالية: /\\:*?&lt;&gt;"</string>
   <string name="found_router">جهاز التوجيه متصل</string>
   <string name="found_usb">وحدة تخزين USB متصلة</string>
   <string name="ftp_account_req_notice"> ٤-١٦ حرف، رمز و رقم، حساس لحالة الأحرف</string>

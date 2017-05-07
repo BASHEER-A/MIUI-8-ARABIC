@@ -1273,7 +1273,7 @@
   <string name="unpin_target">إزالة تثبيت</string>
   <string name="unsupported_display_size_message">%1$s غير متوافق مع الإعداد الحالي لحجم شاشة العرض وربما يعمل بطريقة غير متوقعة.</string>
   <string name="unsupported_display_size_show">العرض دائمًا</string>
-  <string name="untitled">‏<بلا عنوان></string>
+  <string name="untitled">&lt;بلا عنوان&gt;</string>
   <string name="upload_file">اختيار ملف</string>
   <string name="usb_accessory_notification_title">‏الاتصال بجهاز USB ملحق</string>
   <string name="usb_charging_notification_title">‏يتم استخدام الاتصال عبر USB لشحن هذا الجهاز</string>
@@ -1398,5 +1398,5 @@
   <string name="zen_mode_forever">لحين تعطيل هذا الإعداد</string>
   <string name="zen_mode_forever_dnd">حتى يتم تعطيل \"الرجاء عدم الإزعاج\"</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
-  <string name="zen_mode_until">حتى %1$s</string>
+  <string name="zen_mode_until">Until %1$s</string>
 </resources>

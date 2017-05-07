@@ -215,7 +215,7 @@
   <string name="cancel_action">Cancel</string>
   <string name="cant_move_or_change_labels">"Can't move items from multiple accounts."</string>
   <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc: %1$s<br></string>
+  <string name="cc_attribution">Cc: %1$s&amp;lt;br&amp;gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Change folders</string>
@@ -433,7 +433,7 @@
   <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">إلى الأمام</string>
   <string name="forward_attachment">إلى الأمام</string>
-  <string name="forward_attribution">---رسالة توجيهها---<br> من: %1$s <br> التاريخ: %2$s <br> الموضوع: %3$s <br> إلى: %4$s <br></string>
+  <string name="forward_attribution">---رسالة توجيهها---<br> من: %1$s &amp;lt;br&amp;gt; التاريخ: %2$s &amp;lt;br&amp;gt; الموضوع: %3$s &amp;lt;br&amp;gt; إلى: %4$s <br></string>
   <string name="forward_attribution_no_headers">---رسالة توجيهها--</string>
   <string name="forward_download_failed_ticker">"لا يمكن إعادة توجيه واحد أو أكثر من المرفقات."</string>
   <string name="forward_download_failed_title">المرفقات التي لم ترسل</string>
@@ -499,13 +499,13 @@
   <string name="login">Sign in</string>
   <string name="login_failed_ticker">%s signin unsuccessful.</string>
   <string name="login_failed_title">"Can't sign in"</string>
-  <string name="long_press_to_select_tip">Touch & hold to select one conversation, then touch to select more.</string>
+  <string name="long_press_to_select_tip">Touch &amp;amp; hold to select one conversation, then touch to select more.</string>
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">حساب مشترك</string>
-  <string name="mailbox_name_display_ad">Ads & notifications</string>
+  <string name="mailbox_name_display_ad">Ads &amp; notifications</string>
   <string name="mailbox_name_display_drafts">المسودات</string>
   <string name="mailbox_name_display_inbox">صندوق الوارد</string>
   <string name="mailbox_name_display_junk">الرسائل غير المرغوب فيها</string>
@@ -579,7 +579,7 @@
   <string name="mibill_privacy_policy_button1">Later</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
-  <string name="mibill_privacy_policy_link">\"By using this feature, you\'re agreeing to our \"<a href=\"https://www.mipay.com/res/doc/eula/email.html\">Terms of Service</a></string>
+  <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Manage bills automatically</string>
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_context">More</string>
@@ -749,7 +749,7 @@
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_reply_hint_reply_only_from">الرد السريع (المرسل فقط)</string>
   <string name="quick_responses_empty_view">ولم ترد ردود سريعة</string>
-  <string name="quote_begin"><div class=\"wps_quotion\"></string>
+  <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
   <string name="quote_divider_11">----- 原文 -----</string>
   <string name="quote_divider_12"> 原始邮件 </string>
@@ -760,7 +760,7 @@
   <string name="quote_divider_6">---الأصلي-</string>
   <string name="quote_divider_7">الرسالة الأصلية</string>
   <string name="quote_divider_apple">"
->"</string>
+&gt;"</string>
   <string name="quote_divider_huawei_zh">来自华为手机</string>
   <string name="quote_divider_ipad_zh">发自我的 iPad</string>
   <string name="quote_divider_iphone_en">Sent from my iPhone</string>
@@ -939,7 +939,8 @@
   <string name="veiled_summary_unknown_person"></string>
   <string name="via_domain">عن طريق %1$s</string>
   <string name="view_more_conversations">عرض المزيد من المحادثات</string>
-  <string name="wait_for_manual_sync_body">\"لم يتم إعداد هذا الحساب للمزامنة تلقائياً. لمس \"<b> المزامنة الآن </b> مزامنة البريد مرة.، أو <b> إعدادات المزامنة التغيير </b> إعداد هذا الحساب لمزامنة البريد تلقائياً.</string>
+  <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
+Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Settings&lt;/b&gt; to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">في انتظار المزامنة</string>
   <string name="widget_all_mail">كل البريد</string>
   <string name="widget_large_unread_count">%d+</string>

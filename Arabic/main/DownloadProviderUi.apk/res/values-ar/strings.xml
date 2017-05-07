@@ -187,7 +187,7 @@
   <string name="menu_title_settings">إعدادات</string>
   <string name="mi_money">Mi Credits</string>
   <string name="mi_money_">Mi Credits</string>
-  <string name="missing_title"><Unknown></string>
+  <string name="missing_title">&lt;Unknown&gt;</string>
   <string name="net_error">"تعذر الاتصال بشبكة الاتصال، حاول مرة أخرى"</string>
   <string name="network_error">"تعذر الاتصال بشبكة الاتصال"</string>
   <string name="new_add">تحميل جديد</string>
@@ -324,7 +324,7 @@
   <string name="sniff_result_num_prefix">وجدت</string>
   <string name="sniff_result_num_video_suffix">العناصر</string>
   <string name="sniff_result_num_website_suffix">مواقع ويب</string>
-  <string name="sniff_result_website_intro">Total <font color=\"#6699ff\">%1$d</font> items | Source: %2$s</string>
+  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">الحجم: %1$s</string>
   <string name="sniff_search_install">Install</string>
   <string name="sniff_shortcut_cloudconfig_btn">Got it</string>
