@@ -554,10 +554,10 @@
   <string name="confirm_merge_face_albums">" "<Data> دمج هذا الألبوم مع %s? </Data>" "</string>
   <string name="confirm_merge_many_face_albums">" "<Data> دمج هذا الألبوم مع %s? </Data>" "</string>
   <string name="confirm_not_face">لا توجد نتائج متطابقة</string>
-   <string name="confirm_recommandation_face_is">" "<Data> بالتأكيد هذا هو <font color=#323232><b>%1$s</b></font>? سيتم نقل هذا الشخص إلى \"%2$s\" album. </Data>" "</string>
-  <string name="confirm_recommandation_face_not">" "<Data>" Sure this isn't <font color=#323232><b>%1$s</b></font>? "</Data>" "</string>
-   <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sure these are <font color=#323232><b>%1$s</b></font>? These people will be moved to \"%2$s\" album. </Data>" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Sure these aren't <font color=#323232><b>%1$s</b></font>? "</Data>" "</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This person will be moved to \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These people will be moved to \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt;" Sure these aren't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
   <string name="contact_tip">جهة اتصال</string>
   <string name="context_menu_add_contact">إضافة إلى جهات الاتصال</string>
   <string name="context_menu_copy">نسخ</string>

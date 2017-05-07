@@ -60,7 +60,7 @@
   <string name="progress_set_owner">Setting the device owner…</string>
   <string name="provisioning">Provisioning</string>
   <string name="provisioning_error_title">Oops!</string>
-  <string name="read_more_delete_profile">Before proceeding, <a href=\"#read_this_link\">read this</a>.</string>
+  <string name="read_more_delete_profile">Before proceeding, &lt;a href=\"#read_this_link\"&gt;read this&lt;/a&gt;.</string>
   <string name="set_up">Set up</string>
   <string name="setting_up_workspace">Setting up your work profile…</string>
   <string name="setup_device_encryption">Set up your device. Encryption</string>
