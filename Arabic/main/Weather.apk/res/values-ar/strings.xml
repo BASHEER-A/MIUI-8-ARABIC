@@ -15,7 +15,7 @@
   <string name="activity_find_city_dialog_set">الإعدادات</string>
   <string name="activity_find_city_dialog_title">الوصول إلى الموقع</string>
   <string name="activity_main_alert"/>
-  <string name="activity_main_clickable">&gt;</string>
+  <string name="activity_main_clickable">></string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">تم تحديثه %1$s</string>
@@ -61,7 +61,7 @@
   <string name="daily_forcast_drawer_on_top">توقعات %1$s يوم</string>
   <string name="daily_forcast_no_stable_direction">نسيم</string>
   <string name="daily_forcast_no_wind">٠</string>
-  <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
+  <string name="daily_forcast_no_wind_miles"><19.3mph</string>
   <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s.%2$s لاحقا.</string>

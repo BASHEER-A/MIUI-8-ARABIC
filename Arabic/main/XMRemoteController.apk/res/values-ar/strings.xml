@@ -99,7 +99,7 @@
   <string name="append_ok_key_after_num">Add confirmation button after the numeric button</string>
   <string name="application">Apps</string>
   <string name="auto_tune">自动换台</string>
-  <string name="auto_tune_hint_text">自动换台开始后，手机会以一定的间隔发送遥控器&lt;频道+&gt;按键</string>
+  <string name="auto_tune_hint_text">自动换台开始后，手机会以一定的间隔发送遥控器<频道+>按键</string>
   <string name="auto_tune_running">正在自动换台中…</string>
   <string name="back">Back</string>
   <string name="backup">Back up</string>
@@ -129,7 +129,7 @@
   <string name="cancel_share">Stop sharing</string>
   <string name="cancel_share_done">Stopped sharing</string>
   <string name="cancel_timer">Cancel timer</string>
-  <string name="cannot_be_used_in_current_mode">"Can't use &lt;%1$s&gt; in the current mode"</string>
+  <string name="cannot_be_used_in_current_mode">"Can't use %1$s in the current mode"</string>
   <string name="carrier_data">Carrier info</string>
   <string name="change_to_channel">Switching [%1$s] %2$s</string>
   <string name="channel">Channel</string>
@@ -521,7 +521,7 @@ wait a moment after the action."</string>
   <string name="my_favorite">Starred</string>
   <string name="my_notification">Notifications</string>
   <string name="my_room">My room</string>
-  <string name="my_room_underline">&lt;u&gt;My room&lt;/u&gt;</string>
+  <string name="my_room_underline"><u>My room</u></string>
   <string name="my_setting">Settings</string>
   <string name="network_diagnosis">Test network</string>
   <string name="network_no_connection">"Can't connect to the network. Check your network connection and try again."</string>
@@ -578,7 +578,7 @@ wait a moment after the action."</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_btn_return">Back</string>
   <string name="passport_button_cancel">Cancel</string>
-  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
+  <string name="passport_change_account"><u>Change account</u></string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>
@@ -619,7 +619,7 @@ To activate your account, follow the
   <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
-  <string name="passport_forget_password">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>نسيت كلمة المرور</u></string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
   <string name="passport_get_back_pwd">Retrieve account password</string>
   <string name="passport_get_verify_code">Get code</string>
@@ -644,7 +644,7 @@ To activate your account, follow the
   <string name="passport_login_notice">Signing in…</string>
   <string name="passport_login_short">Sign in</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id"><u>Sign in with email address or Mi Account ID</u></string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -664,7 +664,7 @@ To activate your account, follow the
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">Use email address</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Use your email address or an alternate number&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways"><u>Use your email address or an alternate number</u></string>
   <string name="passport_reg_type_other_ways_title">Create a Mi Account</string>
   <string name="passport_reg_using_other_phone">Use alternate phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
@@ -674,7 +674,7 @@ To activate your account, follow the
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>Create an account using email address</u></string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_reject_recycle_account">Nope</string>
@@ -734,7 +734,7 @@ To activate your account, follow the
   <string name="press_to_continue_match">Tap to continue</string>
   <string name="press_to_match">Tap to pair</string>
   <string name="prev_remote">Previous remote</string>
-  <string name="privacy_content">\"Read Xiaomi\'s \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;Privacy Policy&lt;/a&gt; and &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
+  <string name="privacy_content">\"Read Xiaomi\'s \"<a href=\"http://www.miui.com/res/doc/privacy/en.html\">Privacy Policy</a> and <a href=\"http://www.miui.com/res/doc/eula/en.html\">User Agreement</a> before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"لاتظهر مرة أخرى"</string>
   <string name="privacy_title">Terms and Conditions</string>
   <string name="program_booking_book_filter_book_status">预约状态</string>
@@ -766,7 +766,7 @@ To activate your account, follow the
   <string name="quick_add_tv_power">已速配的: %1$s电视电源开关</string>
   <string name="rc">Remote</string>
   <string name="rc_add_distance">%1$dm</string>
-  <string name="rc_add_distance_far">&gt;1000km</string>
+  <string name="rc_add_distance_far">>1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Remote</string>
   <string name="recover">Restore from Mi Cloud</string>
@@ -955,7 +955,7 @@ directly from your Lock screen"</string>
   <string name="timer_turn_on">Schedule turn on time</string>
   <string name="title_hot_links">热点链接</string>
   <string name="title_nodata_feedback">"Couldn't get device info"</string>
-  <string name="to_be_used_in_these_modes">&lt;%1$s&gt; can only be used in %2$s mode</string>
+  <string name="to_be_used_in_these_modes">%1$s can only be used in %2$s mode</string>
   <string name="to_qq">Open QQ and join our group</string>
   <string name="to_qq_maintext">Join our QQ group and send us feedback</string>
   <string name="to_qq_subtext">QQ group: 532652329</string>

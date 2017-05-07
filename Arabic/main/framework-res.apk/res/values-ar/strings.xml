@@ -154,7 +154,7 @@
   <string name="chooseUsbActivity">‏اختيار أحد التطبيقات لجهاز USB</string>
   <string name="choose_account_label">اختيار حساب</string>
   <string name="chooser_wallpaper">تغيير الخلفية</string>
-  <string name="clearDefaultHintMsg">‏يمكنك محو الإعدادات الافتراضية في إعدادات النظام &gt; التطبيقات &gt; ما تم تنزيله.</string>
+  <string name="clearDefaultHintMsg">‏يمكنك محو الإعدادات الافتراضية في إعدادات النظام > التطبيقات > ما تم تنزيله.</string>
   <string name="close_button_text">إغلاق</string>
   <string name="common_name">الاسم الشائع:</string>
   <string name="condition_provider_service_binding_label">موفر الحالة</string>
@@ -476,7 +476,7 @@
   <string name="keyguard_password_enter_pin_prompt">‏رمز رمز PIN الجديد</string>
   <string name="keyguard_password_enter_puk_code">‏اكتب رمز PUK ورمز رمز PIN الجديد</string>
   <string name="keyguard_password_enter_puk_prompt">‏رمز PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;المس لكتابة كلمة المرور&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">المس لكتابة كلمة المرور</font></string>
   <string name="keyguard_password_wrong_pin_code">‏رمز PIN غير صحيح.</string>
   <string name="kg_enter_confirm_pin_hint">‏تأكيد رمز رمز PIN المراد</string>
   <string name="kg_failed_attempts_almost_at_login">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %1$d مرة. بعد إجراء %2$d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام حساب بريد إلكتروني لإلغاء تأمين الهاتف.
@@ -490,7 +490,7 @@
   <string name="kg_invalid_sim_pin_hint">"اكتب  رقم التعريف الشخصي المكون من ٤ إلى ٨ أرقام."</string>
   <string name="kg_invalid_sim_puk_hint">‏يجب أن يتكون رمز PUK من ۸ أرقام.</string>
   <string name="kg_login_account_recovery_hint">"‏هل نسيت اسم المستخدم أو كلمة المرور؟
-انتقل إلى "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+انتقل إلى "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_checking_password">جارٍ فحص الحساب…</string>
   <string name="kg_login_instructions">‏لإلغاء التأمين، سجّل الدخول بحسابك في Google.</string>
   <string name="kg_login_invalid_input">اسم مستخدم غير صحيح أو كلمة مرور غير صالحة.</string>
@@ -554,7 +554,7 @@
   <string name="lockscreen_failed_attempts_now_wiping">لقد حاولت إلغاء تأمين الهاتف %d من المرات بشكل غير صحيح. سيتم الآن إعادة تعيين الهاتف إلى الإعدادات الافتراضية للمصنع.</string>
   <string name="lockscreen_forgot_pattern_button_text">هل نسيت النمط؟</string>
   <string name="lockscreen_glogin_account_recovery_hint">"‏هل نسيت اسم المستخدم أو كلمة المرور؟
-انتقل إلى "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;</string>
+انتقل إلى "<b>google.com/accounts/recovery</b></string>
   <string name="lockscreen_glogin_checking_password">جارٍ التحقق...</string>
   <string name="lockscreen_glogin_forgot_pattern">إلغاء تأمين الحساب</string>
   <string name="lockscreen_glogin_instructions">‏لإلغاء التأمين، سجّل الدخول بحسابك في Google.</string>
@@ -1000,7 +1000,7 @@
   <string name="permlab_writeSettings">تعديل إعدادات النظام</string>
   <string name="permlab_writeSyncSettings">التبديل بين تشغيل المزامنة وإيقافها</string>
   <string name="perms_description_app">يقدمه %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEW: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NEW: </font></string>
   <string name="petabyteShort">بيتابايت</string>
   <string name="phoneTypeAssistant">مساعد</string>
   <string name="phoneTypeCallback">هاتف معاودة الاتصال</string>
@@ -1136,7 +1136,7 @@
   <string name="save_password_never">مطلقًا</string>
   <string name="save_password_notnow">ليس الآن</string>
   <string name="save_password_remember">تذكّر</string>
-  <string name="screen_compat_mode_hint">‏يمكنك إعادة تمكين هذا في إعدادات النظام &gt; التطبيقات &gt; ما تم تنزيله.</string>
+  <string name="screen_compat_mode_hint">‏يمكنك إعادة تمكين هذا في إعدادات النظام > التطبيقات > ما تم تنزيله.</string>
   <string name="screen_compat_mode_scale">تدرج</string>
   <string name="screen_compat_mode_show">الإظهار دائمًا</string>
   <string name="screen_lock">تأمين الشاشة</string>
@@ -1207,19 +1207,19 @@
   <string name="sipAddressTypeOther">غير ذلك</string>
   <string name="sipAddressTypeWork">العمل</string>
   <string name="skip_button_label">تخطٍ</string>
-  <string name="sms_control_message">‏&lt;b&gt;%1$s&lt;/b&gt; يرسل عددًا كبيرًا من الرسائل القصيرة SMS. هل تريد السماح لهذا التطبيق بالاستمرار في إرسال الرسائل؟</string>
+  <string name="sms_control_message">‏<b>%1$s</b> يرسل عددًا كبيرًا من الرسائل القصيرة SMS. هل تريد السماح لهذا التطبيق بالاستمرار في إرسال الرسائل؟</string>
   <string name="sms_control_no">رفض</string>
   <string name="sms_control_title">‏إرسال رسائل قصيرة SMS</string>
   <string name="sms_control_yes">السماح</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;وهذا سوف يسبب رسوم على حساب المحمول الخاص بك.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details"><b>وهذا سوف يسبب رسوم على حساب المحمول الخاص بك.</b></string>
   <string name="sms_short_code_confirm_allow">إرسال</string>
   <string name="sms_short_code_confirm_always_allow">السماح دومًا</string>
   <string name="sms_short_code_confirm_deny">إلغاء</string>
-  <string name="sms_short_code_confirm_message">‏هناك رغبة من &lt;b&gt;%1$s&lt;/b&gt; في إرسال رسالة إلى &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message">‏هناك رغبة من <b>%1$s</b> في إرسال رسالة إلى <b>%2$s</b>.</string>
   <string name="sms_short_code_confirm_never_allow">عدم السماح مطلقًا</string>
-  <string name="sms_short_code_details">هذا &lt;b&gt;قد يسبب رسوم&lt;/b&gt; على حساب هاتفك المحمول.</string>
+  <string name="sms_short_code_details">هذا <b>قد يسبب رسوم</b> على حساب هاتفك المحمول.</string>
   <string name="sms_short_code_remember_choice">تذكر اختياري</string>
-  <string name="sms_short_code_remember_undo_instruction">‏يمكنك تغيير ذلك لاحقًا من إعدادات &gt; تطبيقات</string>
+  <string name="sms_short_code_remember_undo_instruction">‏يمكنك تغيير ذلك لاحقًا من إعدادات > تطبيقات</string>
   <string name="smv_application">‏انتهك التطبيق %1$s (العملية %2$s) سياسة StrictMode المفروضة ذاتيًا.</string>
   <string name="smv_process">‏انتهكت العملية %1$s سياسة StrictMode المفروضة ذاتيًا.</string>
   <string name="ssl_ca_cert_noti_by_administrator">بواسطة مشرف الملف الشخصي للعمل</string>
@@ -1273,7 +1273,7 @@
   <string name="unpin_target">إزالة تثبيت</string>
   <string name="unsupported_display_size_message">%1$s غير متوافق مع الإعداد الحالي لحجم شاشة العرض وربما يعمل بطريقة غير متوقعة.</string>
   <string name="unsupported_display_size_show">العرض دائمًا</string>
-  <string name="untitled">‏&lt;بلا عنوان&gt;</string>
+  <string name="untitled">‏<بلا عنوان></string>
   <string name="upload_file">اختيار ملف</string>
   <string name="usb_accessory_notification_title">‏الاتصال بجهاز USB ملحق</string>
   <string name="usb_charging_notification_title">‏يتم استخدام الاتصال عبر USB لشحن هذا الجهاز</string>

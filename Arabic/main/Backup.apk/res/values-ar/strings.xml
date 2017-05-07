@@ -269,9 +269,9 @@
   <string name="trans_one_key_migrate">ناقل Mi</string>
   <string name="trans_operate_func_one">الطريقة A</string>
   <string name="trans_operate_func_two">الطريقة B</string>
-  <string name="trans_operate_new_phone_tips">اذهب الى الإعدادات &gt; الإعدادات الإضافية &gt; ناقل Mi\nأنقر [انا المستلم] لانشاء رمز QR</string>
+  <string name="trans_operate_new_phone_tips">اذهب الى الإعدادات > الإعدادات الإضافية > ناقل Mi\nأنقر [انا المستلم] لانشاء رمز QR</string>
   <string name="trans_operate_old_phone_tips1">١. قم بتثبيت تطبيق ناقل Mi في جهازك القديم\n٢. افتح التطبيق و أنقر بدء\n٣. قم بمسح رمز QR باستخدام جهازك القديم</string>
-  <string name="trans_operate_old_phone_tips2">"اذهب الى الإعدادات&gt; إعدادات إضافية &gt; ناقل Mi، أنقر [أنا المرسل]"</string>
+  <string name="trans_operate_old_phone_tips2">"اذهب الى الإعدادات> إعدادات إضافية > ناقل Mi، أنقر [أنا المرسل]"</string>
   <string name="trans_please_waiting">لحظة من فضلك\u2026</string>
   <string name="trans_progress_subdescript_br_receiver">إستعادة %1$s، %2$s اكتمل</string>
   <string name="trans_progress_subdescript_br_sender">نسخ احتياطي %1$s، %2$s اكتمل</string>

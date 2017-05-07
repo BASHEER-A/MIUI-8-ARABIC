@@ -14,7 +14,7 @@
   <string name="loop_200">200</string>
   <string name="loop_50">50</string>
   <string name="loops">الحلقات</string>
-  <string name="msg_permission_steps">\"لقد قمت بتعطيل أذونات، يرجى تسمح بالحصول على إذن من\" إعدادات &gt; ب &lt; &lt;/b &gt;--&amp; gt; تطبيقات &lt; ب &gt; &lt;/b &gt;--&amp; gt; &lt; i &gt; قائمة &lt;/i &gt;--&amp; gt; &lt; i &gt; إظهار نظام &lt;/i &gt;--&amp; gt; &lt; ب &gt; \"السيارات المسجل\" &lt;/b &gt;--&amp; gt; &lt; ب &gt; أذونات &lt;/b &gt; لتمكين كافة الأذونات</string>
+  <string name="msg_permission_steps">\"لقد قمت بتعطيل أذونات، يرجى تسمح بالحصول على إذن من\" إعدادات > ب < </b>--> تطبيقات <b> </b>--> <i> قائمة </i>--> <i> إظهار نظام </i>--> <b> \"السيارات المسجل\" </b>--> <b> أذونات </b> لتمكين كافة الأذونات</string>
   <string name="phone">الهاتف</string>
   <string name="phone_8378911">\#8378911</string>
   <string name="phone_911">911</string>

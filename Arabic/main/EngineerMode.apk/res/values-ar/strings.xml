@@ -424,7 +424,7 @@
   <string name="NFC_SoftwareStack_Scan_NDEF">Tag NDEF</string>
   <string name="NFC_SoftwareStack_Scan_P2PInit">P2P Initiator Detected</string>
   <string name="NFC_SoftwareStack_Scan_P2PTarget">P2P Target Detected</string>
-  <string name="NFC_SoftwareStack_Scan_PageX">Page &gt;</string>
+  <string name="NFC_SoftwareStack_Scan_PageX">Page ></string>
   <string name="NFC_SoftwareStack_Scan_Read_BlockNo">Block:</string>
   <string name="NFC_SoftwareStack_Scan_Read_BtnOK">GO</string>
   <string name="NFC_SoftwareStack_Scan_Read_Other">الأخرى</string>
@@ -556,11 +556,11 @@
   <string name="SIM1">SIM1</string>
   <string name="SIM2">SIM2</string>
   <string name="SIMList">SIM Select</string>
-  <string name="SSPDebugMode">&lt;b&gt;Enable SSP debug mode&lt;/b&gt;</string>
-  <string name="SetSspDebugModeDisableFailure">&lt;b&gt;Disable failure (Hint: check feature option)&lt;/b&gt;</string>
-  <string name="SetSspDebugModeDisableSuccess">&lt;b&gt;Disable success (Take effects when next BT on)&lt;/b&gt;</string>
-  <string name="SetSspDebugModeEnableFailure">&lt;b&gt;Enable failure (Hint: check feature option)&lt;/b&gt;</string>
-  <string name="SetSspDebugModeEnableSuccess">&lt;b&gt;Enable success (Take effects when next BT on)&lt;/b&gt;</string>
+  <string name="SSPDebugMode"><b>Enable SSP debug mode</b></string>
+  <string name="SetSspDebugModeDisableFailure"><b>Disable failure (Hint: check feature option)</b></string>
+  <string name="SetSspDebugModeDisableSuccess"><b>Disable success (Take effects when next BT on)</b></string>
+  <string name="SetSspDebugModeEnableFailure"><b>Enable failure (Hint: check feature option)</b></string>
+  <string name="SetSspDebugModeEnableSuccess"><b>Enable success (Take effects when next BT on)</b></string>
   <string name="Settings">إعدادات</string>
   <string name="StrChannel">القناة:</string>
   <string name="StrFrequency">قناة Tx:</string>
@@ -646,7 +646,7 @@
   <string name="addr_need">Address is needed.</string>
   <string name="address6575_text">Address[Hex 00-FF]</string>
   <string name="address6589_text">Address[Hex 0000-FFFF]</string>
-  <string name="address_text">Address[Hex input:Fz0xxxxx]-&gt; [z00xxxxx]</string>
+  <string name="address_text">Address[Hex input:Fz0xxxxx]-> [z00xxxxx]</string>
   <string name="af_mode_dailog_title">Set AF Mode</string>
   <string name="amr_wb">AMR-WB on/off</string>
   <string name="amr_wb_gsm">Enable GSM AMR-WB</string>
@@ -1033,7 +1033,7 @@ z: 0"</string>
   <string name="cw_test_cur_times_tx">Current times</string>
   <string name="cw_test_dialog_error">خطأ</string>
   <string name="cw_test_dialog_error_message">الرجاء فتح موفر المواقع</string>
-  <string name="cw_test_interval_tx">Test interval(&gt;=3s)</string>
+  <string name="cw_test_interval_tx">Test interval(>=3s)</string>
   <string name="cw_test_max_cnr">Max CNR=</string>
   <string name="cw_test_min_cnr">Min CNR=</string>
   <string name="cw_test_start">بدء تشغيل</string>
@@ -1051,7 +1051,7 @@ z: 0"</string>
   <string name="dcm_lpm_longest_high">LONGEST HIGH</string>
   <string name="dcm_lpm_low2high">LOW2HIGH</string>
   <string name="dcm_lpm_operate_error_code">Warning: Error Code =</string>
-  <string name="dcm_lpm_ref_clk_note">Note: 104M -&gt; Max 20.64s</string>
+  <string name="dcm_lpm_ref_clk_note">Note: 104M -> Max 20.64s</string>
   <string name="dcm_lpm_start">Start</string>
   <string name="dcm_lpm_stop">Stop</string>
   <string name="dcm_lpm_total_time">TOTAL TIME</string>
@@ -1186,10 +1186,10 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="desense_freqhopping_triger_hop">Trigger Hop</string>
   <string name="desense_lcd_activity">DesenseLcdActivity</string>
   <string name="desense_mempll">MEMPLL Setting</string>
-  <string name="desense_mempll_200to266">200-&gt;266</string>
-  <string name="desense_mempll_266to200">266-&gt;200</string>
-  <string name="desense_mempll_266to333">266-&gt;333</string>
-  <string name="desense_mempll_333to266">333-&gt;266</string>
+  <string name="desense_mempll_200to266">200->266</string>
+  <string name="desense_mempll_266to200">266->200</string>
+  <string name="desense_mempll_266to333">266->333</string>
+  <string name="desense_mempll_333to266">333->266</string>
   <string name="desense_mempll_geterror">Get current DRAMC error</string>
   <string name="desense_mempll_notsupport">Not support MEMPLL Setting</string>
   <string name="desense_mempll_set">MEMPLL set</string>
@@ -1272,10 +1272,10 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="fd_text_send">Send FD</string>
   <string name="fd_text_set">Set</string>
   <string name="fd_text_unit">0.1s</string>
-  <string name="fd_text_unit_ap">1s (&gt;5s)</string>
-  <string name="fd_turn_off">Turn Off R8 FD &amp; Legacy FD</string>
-  <string name="fd_turn_off_legacy">Turn On R8 FD &amp; Turn Off Legacy FD</string>
-  <string name="fd_turn_on">Turn On R8 FD &amp; Legacy FD</string>
+  <string name="fd_text_unit_ap">1s (>5s)</string>
+  <string name="fd_turn_off">Turn Off R8 FD & Legacy FD</string>
+  <string name="fd_turn_off_legacy">Turn On R8 FD & Turn Off Legacy FD</string>
+  <string name="fd_turn_on">Turn On R8 FD & Legacy FD</string>
   <string name="file_list_title">Please select a file to burn</string>
   <string name="fir_text">***NO FIR Selected***</string>
   <string name="flicker_dailog_title">Set Flicker</string>
@@ -1570,7 +1570,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="lte_enable_psdm">Enable Background search triggered by PSDM:</string>
   <string name="lte_error_rsrp_rsrq">Error: RSRP and RSRQ cannot both be 0</string>
   <string name="lte_error_set_invalid_search_timer">Error: value cannot be 0</string>
-  <string name="lte_error_set_invalid_timer">Error: value must &gt;= 100</string>
+  <string name="lte_error_set_invalid_timer">Error: value must >= 100</string>
   <string name="lte_get">Get</string>
   <string name="lte_history">History:</string>
   <string name="lte_instant_search">Instantaneously LTE search:</string>
@@ -2042,7 +2042,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="start_tone">Start tone</string>
   <string name="step_dailog_title">Set step</string>
   <string name="stop_tone">Stop tone</string>
-  <string name="strTestMode">&lt;b&gt;Enable test mode&lt;/b&gt;</string>
+  <string name="strTestMode"><b>Enable test mode</b></string>
   <string name="success">success</string>
   <string name="switch_to_mbim">Switching to MBIM Mode</string>
   <string name="switch_to_normal">Switching to Normal Mode</string>

@@ -132,7 +132,7 @@
   <string name="desktop_lyric_button_close">إغلاق</string>
   <string name="desktop_lyric_button_lock">القفل</string>
   <string name="desktop_lyric_color">اللون</string>
-  <string name="desktop_lyric_dialog_msg">قم بتشغيل او ايقاف كلمات الشاشة الرئيسية في الموسيقى&gt;الإعدادات&gt;الإعدادات المتقدمة</string>
+  <string name="desktop_lyric_dialog_msg">قم بتشغيل او ايقاف كلمات الشاشة الرئيسية في الموسيقى>الإعدادات>الإعدادات المتقدمة</string>
   <string name="desktop_lyric_dialog_positive_button">جرّب الآن</string>
   <string name="desktop_lyric_dialog_title">جرّب الآن</string>
   <string name="desktop_lyric_lock_toast">مقفل. يمكنك إلغاء قفل الموسيقى في مركز الإشعارات.</string>
@@ -237,7 +237,7 @@
   <string name="download_traffic_dialog_msg">قد يؤدي استخدام اتصال بيانات جوالك لتنزيل الموسيقى إلى زيادة رسوم استخدام البيانات لديك</string>
   <string name="download_traffic_dialog_negative_button">انتظر شبكة الـWi-Fi</string>
   <string name="download_traffic_dialog_position_button">ما زال التنزيل جارياً</string>
-  <string name="download_unknown_title">&lt; بلا عنوان &gt;</string>
+  <string name="download_unknown_title">بلا عنوان</string>
   <string name="download_wait_connect">انتظار الاتصال</string>
   <string name="download_when_network_connected">التنزيل عند الاتصال بإنترنت</string>
   <string name="download_while_playing_no_vip_summary">تنزيل تلقائي للاغاني التي تستمع اليها عبر الانترنت (باستثناء المحتوى المدفوع)</string>
@@ -398,7 +398,7 @@
   <string name="metered_disallow">ليس الآن</string>
   <string name="metered_play_toast">استخدام بيانات الهاتف لتشغيل الأغاني</string>
   <string name="milink_unavaliable_please_update">"رابط Mi غير متاح. قم بتحديث MIUI."</string>
-  <string name="missing_title">&lt; المجهول &gt;</string>
+  <string name="missing_title">مجهول</string>
   <string name="miui_music">موسيقى Mi</string>
   <string name="miuishare_account_activate_confirmation">التفعيل مطلوب</string>
   <string name="miuishare_account_activate_ok">تفعيل</string>
@@ -531,7 +531,7 @@
   <string name="pay_now">الخدمة الحالية</string>
   <string name="payment_fail">فشل الدفع</string>
   <string name="payment_success">اكتمل الدفع</string>
-  <string name="permission_declaration_message">السماح بالوصول إلى التخزين في الحماية &gt; الأذونات &gt; الأذونات &gt; التخزين &gt; الموسيقى لتكون قادر على استخدام الموسيقى بشكل طبيعي.</string>
+  <string name="permission_declaration_message">السماح بالوصول إلى التخزين في الحماية > الأذونات > الأذونات > التخزين > الموسيقى لتكون قادر على استخدام الموسيقى بشكل طبيعي.</string>
   <string name="permission_declaration_negative_text">لاحقا</string>
   <string name="permission_declaration_positive_text">اذهب الى الحماية</string>
   <string name="permission_declaration_title">السماح بالدخول</string>

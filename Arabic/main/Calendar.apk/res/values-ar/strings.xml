@@ -136,7 +136,7 @@
   <string name="departure">المغادرة</string>
   <string name="directory_searching_fmt">Searching %s…</string>
   <string name="discard_label">Cancel</string>
-  <string name="do_not_check">Do NOT check -&gt;</string>
+  <string name="do_not_check">Do NOT check -></string>
   <string name="does_not_repeat">One-time event</string>
   <string name="download">تنزيل</string>
   <string name="download_finished">下载完成</string>

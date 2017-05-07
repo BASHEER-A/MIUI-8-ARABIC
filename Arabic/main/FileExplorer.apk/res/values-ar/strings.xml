@@ -148,7 +148,7 @@
   <string name="downloading">جارٍ التنزيل</string>
   <string name="editor_commend">تعديل</string>
   <string name="empty_comment">"لا يمكن للتعليقات أن تكون فارغة"</string>
-  <string name="enable_documentsui">تشغيل %s من الاعدادات &gt; التطبيقات المثبتة اولا</string>
+  <string name="enable_documentsui">تشغيل %s من الاعدادات > التطبيقات المثبتة اولا</string>
   <string name="enable_sd_card"> ادخل بطاقة SD أو قم بتعطيل تخزين USB.</string>
   <string name="enable_usb">توصيل جهاز USB</string>
   <string name="encrypt_error">"يتعذر إخفاء الملفات, حاول مرة أخرى"</string>
@@ -176,12 +176,12 @@
   <string name="file_info_modified">آخر تعديل:</string>
   <string name="file_info_size">الحجم:</string>
   <string name="file_loading">لحظة من فضلك\u2026</string>
-  <string name="file_name_invalid">"لا يمكن أن تحتوي أسماء الملفات على الرموز التالية: /\\:*?&lt;&gt;"</string>
+  <string name="file_name_invalid">"لا يمكن أن تحتوي أسماء الملفات على الرموز التالية: /\\:*?<>"</string>
   <string name="file_not_exist">"ملف غير موجود"</string>
   <string name="flow_setting">Settings</string>
   <string name="folder_name_empty">اسم المجلد لا يمكن ان يكون فارغ</string>
   <string name="folder_name_illegal">اسم مجلد غير صالح</string>
-  <string name="folder_name_invalid">"لا يمكن أن تحتوي أسماء المجلدات على الأحرف التالية: /\\:*?&lt;&gt;"</string>
+  <string name="folder_name_invalid">"لا يمكن أن تحتوي أسماء المجلدات على الأحرف التالية: /\\:*?<>"</string>
   <string name="found_router">جهاز التوجيه متصل</string>
   <string name="found_usb">وحدة تخزين USB متصلة</string>
   <string name="ftp_account_req_notice"> ٤-١٦ حرف، رمز و رقم، حساس لحالة الأحرف</string>
@@ -210,7 +210,7 @@
   <string name="hot_comments">تعليقات مشهورة</string>
   <string name="hot_sticker">ملصقات</string>
   <string name="hot_video">فيديوهات</string>
-  <string name="hot_video_load_more">المزيد &gt;</string>
+  <string name="hot_video_load_more">المزيد ></string>
   <string name="hottest_sticker_str">الاكثر شهرة</string>
   <string name="if_cancel">هل تريد إلغاء هذه العملية؟</string>
   <string name="image_loading_error">"تعذر تحميل الصورة"</string>

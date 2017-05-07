@@ -33,7 +33,7 @@
   <string name="fm_record_smaple_prefix_miui">تسجيل FM</string>
   <string name="force_exit_message">الإيقاف الإجباري %1$s</string>
   <string name="force_exit_skip_message">"لا يمكن إغلاق %1$s لأن النظام يحتاج إليه."</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">يمكنك العودة إلى الشاشة الرئيسية بالنقر الخفيف على زر الصفحة الرئيسية. فقط انتقل إلى إعدادات &gt; إعدادات إضافية &gt; الأزرار ثم قم بتشغيل \" النقر للشاشة الرئيسية\".</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">يمكنك العودة إلى الشاشة الرئيسية بالنقر الخفيف على زر الصفحة الرئيسية. فقط انتقل إلى إعدادات > إعدادات إضافية > الأزرار ثم قم بتشغيل \" النقر للشاشة الرئيسية\".</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">ليس الآن</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">اذهب إلى الإعدادات</string>
   <string name="fp_nav_center_action_choose_dlg_title">نقر سريع إلى الشاشة الرئيسية</string>
@@ -83,7 +83,7 @@
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">لإيقاف تشغيل هذه الميزة، اضغط على زر رفع مستوى الصوت.</string>
   <string name="screen_on_proximity_sensor_summary">"لا تقم بتغطية منطقة سماعة الأذن"</string>
   <string name="screen_on_proximity_sensor_title">وضع الجيب</string>
-  <string name="screen_paper_mode_enter_toast">وضع القراءة قيد التشغيل. لأيقاف تشغيلة، اذهب إلى الإعدادات &gt; الشاشة &gt; وضع القراءة.</string>
+  <string name="screen_paper_mode_enter_toast">وضع القراءة قيد التشغيل. لأيقاف تشغيلة، اذهب إلى الإعدادات > الشاشة > وضع القراءة.</string>
   <string name="screen_rotation_freeze_message">التدوير التلقائى معطل.</string>
   <string name="screenshot_gesture_detect_alert_button">تشغيل في الإعدادات</string>
   <string name="screenshot_gesture_detect_alert_dont_again">"لا تظهر مرّة اخرى"</string>

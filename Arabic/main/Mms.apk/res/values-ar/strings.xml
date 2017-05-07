@@ -200,7 +200,7 @@
   <string name="guild_add_attachments">أنقر لإضافة الرموز والعناصر الأخرى</string>
   <string name="guild_add_recipients">أنقر لإضافة مستلمين من جهات الاتصال</string>
   <string name="guild_msim_switcher">أنقر لتبديل بطاقات SIM</string>
-  <string name="has_invalid_recipient">مستلمين غير صالحين: &lt;%1$s &gt;</string>
+  <string name="has_invalid_recipient">مستلمين غير صالحين: %1$s </string>
   <string name="hidden_sender_address">إخفاء عنوان المرسل</string>
   <string name="hint_search_sms">%d رسالة</string>
   <string name="hms_add_image_progress_message">جارٍ التنفيذ\u2026</string>
@@ -325,7 +325,7 @@
   <string name="mx_enable_ex">رسالة Mi والصوت</string>
   <string name="mx_enable_popup_msg">رسالة Mi تتيح لك إرسال رسائل إلى مستخدمي MIUI آخرين بدون دفع رسوم.</string>
   <string name="mx_filter_message_from_stranger">حظر رسائل Mi من أرقام غير معروفة</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"مازال يمكنك استقبال الرسائل القصيرة العادية من أرقام غير معروفة. يمكنك تفعيل أو إيقاف هذه الميزة في إي وقت في الرسائل&gt; الإعدادات."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"مازال يمكنك استقبال الرسائل القصيرة العادية من أرقام غير معروفة. يمكنك تفعيل أو إيقاف هذه الميزة في إي وقت في الرسائل> الإعدادات."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">حظر رسائل Mi من أرقام غير معروفة</string>
   <string name="mx_filter_message_from_stranger_summary">"مازال يمكنك استقبال الرسائل القصيرة العادية من أرقام غير معروفة"</string>
   <string name="mx_msg">رسالة Mi</string>
@@ -507,8 +507,8 @@
   <string name="second_mms_introduction">اذهب إلى الفضاء الثاني</string>
   <string name="second_mms_switch">تبديل</string>
   <string name="secs">ثواني</string>
-<string name="security_alert_desc">&lt;font color="#7f000000"&gt;"المرسل ليس في جهات الاتصال الخاصة بك.
-	 "&lt;/font&gt;</string>
+<string name="security_alert_desc"><font color="#7f000000">"المرسل ليس في جهات الاتصال الخاصة بك.
+	 "</font></string>
   <string name="security_alert_desc_highlight">الإبلاغ عن هذا الرقم</string>
   <string name="security_alert_dialog_desc">ارسل هذا الرقم (%s) وإرسل إلى Mi للمراجعة.</string>
   <string name="security_alert_dialog_title">إبلاغ</string>
@@ -645,7 +645,7 @@
   <string name="url_fraud_insurance">تأمين مخادع</string>
   <string name="url_fraud_risky_alert">قد يكون الموقع الذي تحاول القيام بزيارتة خطير. الزيارة على أي حال؟\n%s</string>
   <string name="url_fraud_title">يمكن للموقع أن يكون وهمي</string>
-<string name="url_fraud_visit">&lt;u&gt;زيارة على أي حال&lt;/u&gt;</string>
+<string name="url_fraud_visit"><u>زيارة على أي حال</u></string>
   <string name="url_result_safe">الـ URL آمن</string>
   <string name="url_scanning">جارٍ التحقق من URL\u2026</string>
   <string name="user_agreement1">إقرأ الشروط المعمول بها بعناية قبل تثبيت برامج إضافية أو إستخدام هذا المنتج.</string>

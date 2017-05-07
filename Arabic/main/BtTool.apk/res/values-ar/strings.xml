@@ -20,7 +20,7 @@
   <string name="abc_toolbar_collapse_description">انهيار</string>
   <string name="act_set_pref_btsc_cust_path_summary">%1$s</string>
   <string name="act_set_pref_btsc_cust_path_title">Stack Cust Config</string>
-  <string name="act_set_pref_systool_open_engmode_summary">الكلام VM: اختبار الأجهزة &gt; الصوت &gt; الكلام المسجل</string>
+  <string name="act_set_pref_systool_open_engmode_summary">الكلام VM: اختبار الأجهزة > الصوت > الكلام المسجل</string>
   <string name="act_set_pref_systool_open_engmode_title">Open EngineerMode</string>
   <string name="act_set_pref_systool_open_mtklogger_summary">go to MtkLogger home screen</string>
   <string name="act_set_pref_systool_open_mtklogger_title">Open MtkLogger</string>

@@ -25,7 +25,7 @@
   <string name="button_uninstall_old_app">إلغاء تثبيت</string>
   <string name="cancel">إلغاء</string>
   <string name="change_security_lock">إقفال الشاشة أكثر</string>
-  <string name="check_code">للتحقق من أن لديك قيمة المفتاح الصحيح ل %1$s التحقق من أن القيمة هنا يطابق قيمة تحقق التكامل توفيرها من قبل الملقم: &lt; br/&gt;</string>
+  <string name="check_code">للتحقق من أن لديك قيمة المفتاح الصحيح ل %1$s التحقق من أن القيمة هنا يطابق قيمة تحقق التكامل توفيرها من قبل الملقم: <br/></string>
   <string name="check_code_menu_item">تحقق من قيمة المفتاح</string>
   <string name="check_code_title">قيمة تحقق التكامل</string>
   <string name="continue_btn">مواصلة</string>
@@ -50,7 +50,7 @@
   <string name="error_qr">لا يمكن ترجمة رمز QR.</string>
   <string name="error_title">خطأ</string>
   <string name="error_uri">مفتاح غير معترف بها.</string>
-  <string name="forget_password">&lt; u &gt; نسيت كلمة السر &lt;/ش &gt;</string>
+  <string name="forget_password"><u> نسيت كلمة السر </u></string>
   <string name="general_security_exception">General security exception</string>
   <string name="gif_not_support_camera_msg">Your device does not support video recording.</string>
   <string name="how_it_works_menu_item">How it works</string>
@@ -74,7 +74,7 @@
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
   <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
   <string name="lockpattern_need_to_unlock_footer"></string>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong,you can enter %d times more&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong"><font color=red>Password wrong,you can enter %d times more</font></string>
   <string name="lockpattern_need_to_unlock_wrong_footer"></string>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded.</string>
@@ -85,12 +85,12 @@
   <string name="lockpattern_retry_text">Reset pattern password</string>
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header"><font color=red>Too many incorrect attempts!</font></string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_close_label">Close</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockpattern_tutorial_jump_label">Skip</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;نسيت كلمة مرور النمط&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>نسيت كلمة مرور النمط</u></string>
   <string name="login">sign in</string>
   <string name="main_preference_screen_title">Settings</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
@@ -108,7 +108,7 @@
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">سياسة الخصوصية</string>
   <string name="progress_loading">تحميل…</string>
-  <string name="remove_Xiaomi_account_dialog_message">يؤدي إزالة هذا الحساب سوف &lt; ب &gt; &lt;/b &gt; القدرة على توليد أكواد، بيد أنها سوف &lt; ب &gt; لا &lt;/b &gt; إيقاف تشغيل التحقق من خطوتين. وهذا قد تمنعك من تسجيل الدخول إلى الحساب الخاص بك. &lt; p &gt; قبل إزالة: &lt; ul &gt;&lt; لي &gt; إيقاف تشغيل التحقق من خطوتين لهذا الحساب، أو &lt;/li &gt;&lt; لي &gt; تأكد من أنك تملك إليه بديلة لتوليد أكواد. &lt;/li &gt;&lt;/ul &gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">يؤدي إزالة هذا الحساب سوف <b> </b> القدرة على توليد أكواد، بيد أنها سوف <b> لا </b> إيقاف تشغيل التحقق من خطوتين. وهذا قد تمنعك من تسجيل الدخول إلى الحساب الخاص بك. < p > قبل إزالة: < ul >< لي > إيقاف تشغيل التحقق من خطوتين لهذا الحساب، أو </li >< لي > تأكد من أنك تملك إليه بديلة لتوليد أكواد. </li ></ul ></string>
   <string name="remove_account">ازالة الحساب</string>
   <string name="remove_account_dialog_message">"إزالة هذا الحساب سيتم إزالة قدرتك على إنشاء رموز. وهذا قد تمنعك من تسجيل الدخول إلى الحساب الخاص بك. قبل إزالة: — إيقاف 2-عامل التوثيق لهذا الحساب، أو--تأكد من أنك تملك إليه بديلة لتوليد أكواد. "</string>
   <string name="remove_account_dialog_title">ازالة الحساب؟</string>
@@ -129,7 +129,7 @@
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">شروط الخدمة</string>
   <string name="timesync_about_feature_preference_title">حول هذه الميزة</string>
-  <string name="timesync_about_feature_screen_details">"If you press &amp;quot;Sync now&amp;quot;, Authenticator will attempt to sync its internal clock with Google servers once. The device's Date &amp; Time settings will not be changed. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
+  <string name="timesync_about_feature_screen_details">"If you press "Sync now", Authenticator will attempt to sync its internal clock with Google servers once. The device's Date & Time settings will not be changed. <p> Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. <p> <b>Why this is useful</b> <p> Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. <p> If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. <p> By default Authenticator uses the device's Date & Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
   <string name="timesync_about_feature_screen_title">حول هذه الميزة</string>
   <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
   <string name="timesync_preference_screen_title">Time correction for codes</string>
@@ -143,7 +143,7 @@
   <string name="timesync_sync_now_time_already_correct_dialog_title">Time already correct</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">"Authenticator\'s internal clock has been adjusted to match the time provided by servers. 
 
-The Date &amp; Time settings on this device have not been changed."</string>
+The Date & Time settings on this device have not been changed."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">وقت تصحيح</string>
   <string name="tip1_patternforgotten">إعادة تثبيت وتنشيط</string>
   <string name="tip2_patternforgotten">إعادة تعيين مسح بيانات الحساب وإعادة تنشيط تعمل باللمس.</string>
@@ -163,9 +163,9 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="title_updatepattern">تغيير كلمة السر</string>
   <string name="title_visible_pattern">إجعل النقش مرئيا</string>
   <string name="type_prompt">نوع المفتاح</string>
-  <string name="update_pattern_jump">&lt;u&gt;إزالة كلمة المرور&lt;/u&gt;</string>
+  <string name="update_pattern_jump"><u>إزالة كلمة المرور</u></string>
   <string name="version_preference_title">Version</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
+  <string name="welcome_page_alert">"<font color=#fb3500>* </font>If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
   <string name="welcome_page_details">"— Keep your account safe.
 — Prevent strangers from using your device to sign in to your account."</string>
   <string name="welcome_page_title">Use for Secure Sign-in</string>

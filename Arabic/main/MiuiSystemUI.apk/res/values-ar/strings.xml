@@ -64,7 +64,7 @@
   <string name="battery_profiles">استخدام وضع البطارية</string>
   <string name="block_notification_content_text">"لن تظهر إشعارات %1$s مرة أخرى. يمكنك تغيير ذلك في الإعدادات."</string>
   <string name="block_notification_text">إخفاء</string>
-  <string name="block_record_notification_more_text">إخفاء الإشعارات من تطبيقات %1$s &amp; %2$d.</string>
+  <string name="block_record_notification_more_text">إخفاء الإشعارات من تطبيقات %1$s & %2$d.</string>
   <string name="block_record_notification_text">إخفاء الإشعارات من %1$s.</string>
   <string name="block_record_notification_title">إشعارات مخفية</string>
   <string name="bluetooth_a2dp_profile_summary_connected">الاتصال بوسائل الإعلام السمعية</string>
@@ -197,7 +197,7 @@
   <string name="mount_storage">نعم</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">لا توجد إشعارات.</string>
-  <string name="no_weather_description">احصل على معلومات الطقس &gt;</string>
+  <string name="no_weather_description">احصل على معلومات الطقس ></string>
   <string name="notification_header_title">الإشعارات</string>
   <string name="notification_hidden_text">المحتويات مخفية</string>
   <string name="notification_manager">إدارة الإشعارات</string>
@@ -272,9 +272,9 @@
   <string name="status_bar_date_format_12">EEEE\nd MMMM</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"اليوم: %1$s   المتبقي: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">اليوم:  %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;تجاوزت الخطة: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_exceed_content">اليوم:  %1$s   تجاوزت الخطة: <font color=%2$s>%3$s</font></string>
   <string name="status_bar_network_flow_limit">"   الحد الشهري: %1$s   "</string>
-  <string name="status_bar_network_flow_purchase">"   شراء &gt;"</string>
+  <string name="status_bar_network_flow_purchase">"   شراء >"</string>
   <string name="status_bar_network_flow_today">اليوم: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">لا توجد تطبيقات حديثة</string>

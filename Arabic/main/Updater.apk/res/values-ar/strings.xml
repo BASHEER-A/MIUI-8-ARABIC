@@ -104,7 +104,7 @@
   <string name="menu_title_download_current_rom">تنزيل تحديث</string>
   <string name="menu_title_pick_rom_file">اختيار حزمة تحديث</string>
   <string name="menu_title_recovery">إعادة التشغيل إلى وضع الريكوفري</string>
-  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
+  <string name="miui_BBS">" "<a href="http://bbs.miui.com">Go to MIUI forum</a>" "</string>
   <string name="miui_summary_has_new_version">"  تحديث متاح  "</string>
   <string name="miui_summary_no_new_version">لا توجد تحديثات متاحة</string>
   <string name="miui_summary_now_version">"تعذر الاتصال بالشبكة"</string>

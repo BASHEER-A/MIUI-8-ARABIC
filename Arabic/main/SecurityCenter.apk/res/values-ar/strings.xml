@@ -151,7 +151,7 @@
   <string name="battery_history_days_no_seconds">%1$dيوم %2$dس %3$dدق</string>
   <string name="battery_history_hours">%1$dساعة %2$dدقيقة%3$dثانية</string>
   <string name="battery_history_hours_no_seconds">%1$dس %2$dدق</string>
-  <string name="battery_history_minutes">%1$dدق %2$d&gt;ث</string>
+  <string name="battery_history_minutes">%1$dدق %2$d>ث</string>
   <string name="battery_history_minutes_no_seconds">%1$dدق</string>
   <string name="battery_history_seconds">%1$dث</string>
   <string name="battery_stats_charging_label">يتم الشحن </string>
@@ -411,7 +411,7 @@
   <string name="firewall_service_network_blocked">تم تقييد %1$s من استخدام %2$s‏ من الشبكات</string>
   <string name="five_percent_total_pkg">%s (5%% من البيانات شهرية)</string>
   <string name="foreground_traffic">الأمامي %s</string>
-<string name="forget_password_button_text">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
+<string name="forget_password_button_text"><u>نسيت كلمة المرور</u></string>
   <string name="free_time_traffic">حد البيانات خارج أوقات الذروة</string>
   <string name="free_time_traffic_hint">إدخال حد البيانات خارج أوقات الذروة</string>
   <string name="free_time_traffic_settings">حد البيانات خارج أوقات الذروة</string>
@@ -678,20 +678,20 @@
   <string name="network_roaming_exception_tips">"يتعذر استخدام بيانات الهاتف أثناء التجوال للاتصال بالشبكة."</string>
   <string name="network_route_exception_detail">"قد تكون هناك مشكلة في جهاز التوجيه الذي تتصل به:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "<b>"1. Public WLAN network issues
+"</b>"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+ 2."<b>" Internet service provider issues
+M"</b>"ake sure that your account is in good standing with your Internet Service Provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ 3."<b>" Router hardware issues
+T"</b>"ry rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ 4."<b>" Other router issues
+R"</b>"ead the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+ 5."<b>" Make sure your router is connected properly
+T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
   <string name="network_sim_exception_detail">قد تكون هناك مشكلة في شريحة SIM الخاصة بك:\n\n
          ١. تأكد من أن حسابك في وضع جيدة مع شركة الاتصالات الخاصة بك. جرب استخدام شريحة SIM خاصة بصديق لك وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n
          ٢. إذا كنت تستخدم بطاقتي SIM، جرب الانتقال إلى البطاقة الأخرى وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n
@@ -1143,7 +1143,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_power_save_ontime_title">الجدول</string>
   <string name="settings_title_payment_security">إعدادات أمن الدفع</string>
   <string name="settings_title_permission">إعدادات الأذونات</string>
-  <string name="show_traffic_dialog_message">سيتم عرض معلومات استخدام بياناتك في مركز الإشعارات. يمكنك تشغيل أو إيقاف هذه الميزة في أي وقت  في استخدام البيانات &gt; الإعدادات</string>
+  <string name="show_traffic_dialog_message">سيتم عرض معلومات استخدام بياناتك في مركز الإشعارات. يمكنك تشغيل أو إيقاف هذه الميزة في أي وقت  في استخدام البيانات > الإعدادات</string>
   <string name="show_traffic_dialog_title">عرض الاستخدام في مركز الإشعارات</string>
   <string name="showpattern">عرض النقش</string>
   <string name="shutdown_cancel_reminder">"لم يتم إيقاف التشغيل"</string>
@@ -1244,24 +1244,24 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_diagnostic_onekey_repair_botton">إصلاح</string>
   <string name="tc_diagnostic_operator_error_notification_summary">أنقر لتغيير إعدادات مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_operator_error_notification_title">مشغّل شبكة جوال خاطئ</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color="#CC0000"&gt; &amp;#1575;&amp;#1604;&amp;#1606;&amp;#1578;&amp;#1610;&amp;#1580;&amp;#1577;: &amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1594;&amp;#1610;&amp;#1585; &amp;#1589;&amp;#1581;&amp;#1610;&amp;#1581; &lt;br/&gt;&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1615;&amp;#1593;&amp;#1610;&amp;#1606;: %1$s&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1582;&amp;#1575;&amp;#1583;&amp;#1605; &amp;#1575;&amp;#1604;&amp;#1601;&amp;#1593;&amp;#1604;&amp;#1610;: %2$s&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"<font color="#CC0000"> &#1575;&#1604;&#1606;&#1578;&#1610;&#1580;&#1577;: &#1582;&#1575;&#1583;&#1605; &#1594;&#1610;&#1585; &#1589;&#1581;&#1610;&#1581; <br/><br/> &#1575;&#1604;&#1582;&#1575;&#1583;&#1605; &#1575;&#1604;&#1605;&#1615;&#1593;&#1610;&#1606;: %1$s<br/> &#1575;&#1604;&#1582;&#1575;&#1583;&#1605; &#1575;&#1604;&#1601;&#1593;&#1604;&#1610;: %2$s</font>"</string>
   <string name="tc_diagnostic_repair_and_continue">إصلاح ومتابعة</string>
-<string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
+<string name="tc_diagnostic_repair_location">"<font color='#3EC234'>Diagnostics complete, fixed location issues.</font>"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"<font color='#3EC234'>Diagnostics complete, fixed location and carrier issues.</font>"</string>
   <string name="tc_diagnostic_repair_success_toast">تم التغيير بنجاح</string>
-<string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color="#CC0000"&gt;&amp;#1575;&amp;#1604;&amp;#1606;&amp;#1578;&amp;#1610;&amp;#1580;&amp;#1577;: &amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1582;&amp;#1575;&amp;#1591;&amp;#1574; &lt;br/&gt;&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1615;&amp;#1593;&amp;#1610;&amp;#1606;: %1$s&lt;br/&gt; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1601;&amp;#1593;&amp;#1604;&amp;#1610;: %2$s&lt;/font&gt;"</string>
+<string name="tc_diagnostic_result">"<font color='#CC0000'>Result: Couldn't complete diagnostics<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
+  <string name="tc_diagnostic_sim_location_result">"<font color="#CC0000">&#1575;&#1604;&#1606;&#1578;&#1610;&#1580;&#1577;: &#1605;&#1608;&#1602;&#1593; &#1582;&#1575;&#1591;&#1574; <br/><br/> &#1575;&#1604;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1605;&#1615;&#1593;&#1610;&#1606;: %1$s<br/> &#1575;&#1604;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1601;&#1593;&#1604;&#1610;: %2$s</font>"</string>
   <string name="tc_diagnostic_status_error_brand">لم يتم إيجاد خادم الشبكة</string>
-<string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
-<string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;لا يوجد اتصال بالشبكة&lt;/font&gt;"</string>
-<string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;تعذر الحصول على معلومات&lt;/font&gt;"</string>
-<string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
-<string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
-<string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
+<string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Error</font>"</string>
+<string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>لا يوجد اتصال بالشبكة</font>"</string>
+<string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>تعذر الحصول على معلومات</font>"</string>
+<string name="tc_diagnostic_status_success">"<font color='#3EC234'>Correct</font>"</string>
+<string name="tc_diagnostic_status_success_brand">"<font color='#3EC234'>Carrier network responds</font>"</string>
+<string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
   <string name="tc_diagnostic_status_updating">جارٍ الإختبار\u2026</string>
   <string name="tc_diagnostic_success_notification_summary">قم بالابلاغ عن هذا الخلل لمساعدة MIUI تحسين ادوات التشخيص</string>
   <string name="tc_diagnostic_success_notification_title">مشغّل شبكة الجوال والعلامة تجارية صحيحة</string>
-<string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+<string name="tc_diagnostic_success_result">"<font color='#CC0000'>Result: Carrier network and brand set correctly<br/><br/>Couldn't complete adjustment:<br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.<br/>2. Network assistant wasn't updated.<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
   <string name="tc_diagnostic_title">تشخيص مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_upload_button">الإبلاغ</string>
   <string name="tc_diagnostic_upload_no_network">شكراً لملاحظاتك! سيم تقديم تقريرك عند اتصالك بالشبكة.</string>
@@ -1288,7 +1288,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_sms_report_notify_get_timeout_body">انتهت مهلة العملية. تأكد مع شركة اتصالاتك من أن رمز استعلام رسالة SMS الذي أدخلته صحيحًا.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"تعذر استلام رسالة (SMS) استخدام البيانات"</string>
   <string name="tc_sms_report_receive_content">محتوى رسالة (SMS) تقرير استخدام البيانات(تأكيد إحصائيات الاستخدام)</string>
-  <string name="tc_sms_report_receive_content_null">"​مساعدة في تحسين هذه الميزة!&lt;br/&gt;وإليك كيفية ذلك:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS  template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"​مساعدة في تحسين هذه الميزة!<br/>وإليك كيفية ذلك:<br/>1. Go to \"Check command SMS\" and \"Recipient number\"<br/>2. Tap \"Get SMS  template\"<br/>3. Wait to receive SMS message from your carrier <br/>4. Tap \"Upload to MIUI\"​"</string>
   <string name="tc_sms_report_receive_num">رقم المستلِم</string>
   <string name="tc_sms_report_send_num">هاتف شركة الاتصالات #</string>
   <string name="tc_sms_report_summary">ساعدنا في تحسين هذه الميزة بإرسال تقرير إذا كانت معلومات استخدام البيانات الخاصة بك غير صحيحة أو تعذر تحديثها</string>
@@ -1399,7 +1399,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="traffic_limit_error_alert_title">تذكير حد البيانات %s</string>
   <string name="traffic_none">بدون</string>
   <string name="traffic_over_purchase_body">أنقر لعرض التفاصيل.</string>
-  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.&lt;br/&gt;إذا استخدمت الحد الأقصى للبيانات، فقد يفرض مشغل شبكة الجوال رسوما إضافية عليك.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;انقر على رصيدك.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.<br/>إذا استخدمت الحد الأقصى للبيانات، فقد يفرض مشغل شبكة الجوال رسوما إضافية عليك.<br/><br/><font color='#ccffffff'><U>انقر على رصيدك.</U></font>"</string>
   <string name="traffic_over_purchase_title">تم تجاوز حد الاستخدام</string>
   <string name="traffic_purchase_body">اضغط إعادة شحن رصيدك.</string>
   <string name="traffic_purchse_suggestion">إعادة شحن بيانات جوال</string>

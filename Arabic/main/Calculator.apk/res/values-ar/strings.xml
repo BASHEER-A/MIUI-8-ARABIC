@@ -342,7 +342,7 @@
   <string name="unit_data_short_weight_dan">"دان"</string>
   <string name="unit_data_short_weight_jin">"جين"</string>
   <string name="unit_data_short_weight_liang">"يانغ"</string>
-  <string name="unit_data_short_weight_lt">"&lt;"</string>
+  <string name="unit_data_short_weight_lt">"<"</string>
   <string name="unit_data_short_weight_qian">"تشيان"</string>
   <string name="unit_data_short_weight_st">"sh.t"</string>
   <string name="unit_data_short_weight_ug">"ميكروغرام"</string>

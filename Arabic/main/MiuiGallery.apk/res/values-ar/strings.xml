@@ -551,13 +551,13 @@
   <string name="confirm_download_video_message">يجب إنهاء تنزيل هذا الفيديو لتتمكن من مشاهدته. سيتم استئناف التنزيل عندما تكون شبكة Wi-Fi متاحة.</string>
   <string name="confirm_download_video_title">تنزيل الفيديو</string>
   <string name="confirm_face">مطابق</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; دمج هذا الألبوم مع %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; دمج هذا الألبوم مع %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "<Data> دمج هذا الألبوم مع %s? </Data>" "</string>
+  <string name="confirm_merge_many_face_albums">" "<Data> دمج هذا الألبوم مع %s? </Data>" "</string>
   <string name="confirm_not_face">لا توجد نتائج متطابقة</string>
-   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; بالتأكيد هذا هو &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? سيتم نقل هذا الشخص إلى \"%2$s\" album. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
-   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These people will be moved to \"%2$s\" album. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt;" Sure these aren't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
+   <string name="confirm_recommandation_face_is">" "<Data> بالتأكيد هذا هو <font color=#323232><b>%1$s</b></font>? سيتم نقل هذا الشخص إلى \"%2$s\" album. </Data>" "</string>
+  <string name="confirm_recommandation_face_not">" "<Data>" Sure this isn't <font color=#323232><b>%1$s</b></font>? "</Data>" "</string>
+   <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sure these are <font color=#323232><b>%1$s</b></font>? These people will be moved to \"%2$s\" album. </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Sure these aren't <font color=#323232><b>%1$s</b></font>? "</Data>" "</string>
   <string name="contact_tip">جهة اتصال</string>
   <string name="context_menu_add_contact">إضافة إلى جهات الاتصال</string>
   <string name="context_menu_copy">نسخ</string>
@@ -601,7 +601,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d محذوف، %2$d محفوظ</string>
   <string name="delete_third_party_photo">حذف هذه الصورة؟</string>
   <string name="delete_third_party_video">حذف هذا الفيديو؟</string>
-  <string name="delete_to_trash_tips">يمكنك عرض أحدث الصور المحذوفة من الإعدادات&gt; سلة المهملات</string>
+  <string name="delete_to_trash_tips">يمكنك عرض أحدث الصور المحذوفة من الإعدادات> سلة المهملات</string>
   <string name="deny">رفض</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -750,8 +750,8 @@
   <string name="kick_sharer_failed">"تعذر إزالة هذا الشخص"</string>
   <string name="kick_sharer_successfully">تمت إزالة هذا الشخص</string>
   <string name="kilobyteShort">كيلوبايت</string>
-  <string name="limit_height">Height should be &gt; 0</string>
-  <string name="limit_width">Width should be &gt; 0</string>
+  <string name="limit_height">Height should be > 0</string>
+  <string name="limit_width">Width should be > 0</string>
   <string name="load_image_error">"Can't load photo"</string>
   <string name="loading_dual_tip">جارٍ تحميل الصورة\u2026</string>
   <string name="loading_fail">"تعذر التنزيل"</string>

@@ -184,7 +184,7 @@
   <string name="passport_auto_generate_pwd">إنشاء كلمة مرور آمنة</string>
   <string name="passport_back">رجوع</string>
   <string name="passport_bad_authentication">اسم المستخدم غير صحيح أو كلمة المرور</string>
-  <string name="passport_change_account">&lt; u &gt; تغيير حساب &lt;/ش &gt;</string>
+  <string name="passport_change_account"><u> تغيير حساب </u></string>
   <string name="passport_change_phone_number">تبديل الأرقام</string>
   <string name="passport_checking_account">التحقق من كلمة المرور…</string>
   <string name="passport_checking_input">التحقق من الإدخال…</string>
@@ -220,7 +220,7 @@
   <string name="passport_error_user_name">The username you entered is invalid.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
-  <string name="passport_forget_password">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>نسيت كلمة المرور</u></string>
   <string name="passport_forget_password_no_underline">نسيت كلمة المرور</string>
   <string name="passport_get_back_pwd">استرداد كلمة مرور الحساب</string>
   <string name="passport_get_verify_code">الحصول على رمز</string>
@@ -242,7 +242,7 @@
   <string name="passport_login_instead_reg_with_email">استخدم هذا البريد الإلكتروني</string>
   <string name="passport_login_prompt">حساب Mi واحد. لكافة الخدمات.</string>
   <string name="passport_login_title">قم بتسجيل الدخول إلى حسابك Mi</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;طرق أخرى لتسجيل الدخول&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways"><u>طرق أخرى لتسجيل الدخول</u></string>
   <string name="passport_message_dialog_title">SMS مع رموز التحقق</string>
   <string name="passport_next">التالي</string>
   <string name="passport_notification_title">خطأ تسجيل ل %1$s</string>
@@ -265,7 +265,7 @@
   <string name="passport_reg_success">تم إنشاء الحساب</string>
   <string name="passport_reg_success_summary">وقد تم ربط %1$s مع الحساب الخاص بك. يمكنك استخدامه لتسجيل الدخول أو لإعادة تعيين كلمة المرور الخاصة بك.</string>
   <string name="passport_reg_type_email">استخدم عنوان البريد الإلكتروني</string>
-  <string name="passport_reg_using_other_phone">&lt; u &gt; استخدام رقم هاتف بديل &lt;/ش &gt;</string>
+  <string name="passport_reg_using_other_phone"><u> استخدام رقم هاتف بديل </u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"إنشاء حساب جديد باستخدام "</string>
   <string name="passport_reg_using_phone_number_prompt">إنشاء حساب باستخدام رقم الهاتف</string>
   <string name="passport_reg_via_sms_alert"> قد تفرض شركة الاتصال رسوم  لتفعيل هذه الخدمة (تعريب بشير + عبدالله)</string>
@@ -273,7 +273,7 @@
   <string name="passport_register">إنشاء حساب</string>
   <string name="passport_register_account_goto_email">الانتقال إلى علبة الوارد</string>
   <string name="passport_register_account_verified_confirm">التحقق من الحساب</string>
-  <string name="passport_register_by_email">&lt; u &gt; إنشاء حساب باستخدام عنوان البريد الإلكتروني &lt;/ش &gt;</string>
+  <string name="passport_register_by_email"><u> إنشاء حساب باستخدام عنوان البريد الإلكتروني </u></string>
   <string name="passport_register_restricted">حسابات كثيرة جداً وقد ارتبط بهذا العدد، في محاولة واحدة مختلفة</string>
   <string name="passport_register_restricted_title">"لا يمكن استخدام رقم الهاتف هذا"</string>
   <string name="passport_registered_phone_user_ID">ID المستخدم: %s</string>

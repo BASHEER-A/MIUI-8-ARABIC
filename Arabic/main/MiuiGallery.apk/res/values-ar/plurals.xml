@@ -10,12 +10,12 @@
     <item quantity="many">"لا تظهر هذا الشخص؟"</item>
   </plurals>
   <plurals name="more_face">
-    <item quantity="zero">صور %1$s %2$s &gt;&gt;</item>
-    <item quantity="other">صور %1$s %2$s &gt;&gt;</item>
-    <item quantity="one">صور %1$s %2$s &gt;&gt;</item>
-    <item quantity="two">صور %1$s %2$s &gt;&gt;</item>
-    <item quantity="few">صور %1$s %2$s &gt;&gt;</item>
-    <item quantity="many">صور %1$s %2$s &gt;&gt;</item>
+    <item quantity="zero">صور %1$s %2$s >></item>
+    <item quantity="other">صور %1$s %2$s >></item>
+    <item quantity="one">صور %1$s %2$s >></item>
+    <item quantity="two">صور %1$s %2$s >></item>
+    <item quantity="few">صور %1$s %2$s >></item>
+    <item quantity="many">صور %1$s %2$s >></item>
   </plurals>
   <plurals name="age_year">
     <item quantity="zero">%d سنة</item>

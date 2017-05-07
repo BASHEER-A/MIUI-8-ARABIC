@@ -1080,7 +1080,7 @@ HSPA+ on"</item>
     <item>WCDMA(GSM) فقط</item>
   </string-array>
   <string-array name="antenna_modes_4g">
-    <item>RX1 &amp; RX2</item>
+    <item>RX1 & RX2</item>
     <item>RX1</item>
     <item>RX2</item>
   </string-array>
@@ -1088,7 +1088,7 @@ HSPA+ on"</item>
     <item>الرجاء تحديد وضع:</item>
     <item>RX1</item>
     <item>RX2</item>
-    <item>RX1 &amp; RX2</item>
+    <item>RX1 & RX2</item>
     <item>Resume default setting</item>
   </string-array>
   <string-array name="band_mode_lte_fdd">

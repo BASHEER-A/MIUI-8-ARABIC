@@ -103,7 +103,7 @@
   <string name="find_device_status_ok">اعثر على جهازك من أي مكان عبر i.mi.com</string>
   <string name="find_device_status_ok_international">اعثر على جهازك من أي مكان على www.mi.com/micloud</string>
   <string name="find_device_success_title">العثور على الجهاز</string>
-  <string name="forget_password">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
+  <string name="forget_password"><u>نسيت كلمة المرور</u></string>
   <string name="free_space_has_received">لقد أضفت مساحة مجانية بالفعل هذا الشهر</string>
   <string name="free_space_receive_fail">"تتعذر الترقية"</string>
   <string name="get_first_month_gb">احصل على %s مساحة مجانية</string>
@@ -317,7 +317,7 @@
   <string name="micloud_space_applist_title">إدارة التطبيقات</string>
   <string name="micloud_space_duokan_detail">تنزيل وإدارة الكتب الإلكترونية بإستخدام تطبيق Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
- <string name="micloud_space_full_influence">&lt;u&gt;ماذا يحدث عند تمتلئ المساحة?&lt;/u&gt;</string>
+ <string name="micloud_space_full_influence"><u>ماذا يحدث عند تمتلئ المساحة?</u></string>
   <string name="micloud_space_soundrecorder_detail">إدارة التسجييلات المخزنة على جهازك</string>
   <string name="micloud_space_soundrecorder_title">التسجيلات</string>
   <string name="micloud_storage">التخزين</string>
@@ -353,7 +353,7 @@
   <string name="microsoft_cloud">خدمة Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">حوالي ٨٠ يوان في السنة</string>
-  <string name="more_activity_in_upgrade_space">تعرف المزيد على &lt;a href=\"http://i.mi.com\"&gt;http://i.mi.com&lt;/a&gt;</string>
+  <string name="more_activity_in_upgrade_space">تعرف المزيد على <a href=\"http://i.mi.com\">http://i.mi.com</a></string>
   <string name="mx_dspt">رسالة Mi</string>
   <string name="mx_dspt_provision">رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.\n\nيمكنك تشغيل هذه الميزة او ايقافها في اي وقت من الإعدادات.</string>
   <string name="mx_dspt_provision_privacy">قد تتطلب هذه الميزة رقم هاتفك. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.\n\nهذه الميزة تقوم بتشفير وإرسال معرف الجهاز الخاص بك إلى خوادم Mi.</string>

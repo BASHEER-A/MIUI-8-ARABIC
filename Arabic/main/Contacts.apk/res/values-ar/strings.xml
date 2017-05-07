@@ -385,7 +385,7 @@
   <string name="dialog_phone_call_prohibited_message">لم يتم إرسال المكالمة</string>
   <string name="dialog_sync_add">إضافة مجموعة المزامنة</string>
   <string name="dialog_voicemail_airplane_mode_message">للاتصال بالبريد الصوتي، عليك بإيقاف تشغيل وضع الطائرة.</string>
-  <string name="dialog_voicemail_not_ready_message">لإعداد بريد صوتي، اذهب إلى القائمة &gt; الإعدادات.</string>
+  <string name="dialog_voicemail_not_ready_message">لإعداد بريد صوتي، اذهب إلى القائمة > الإعدادات.</string>
   <string name="directory_search_label">دليل</string>
   <string name="display_all_contacts">جميع جهات الاتصال</string>
   <string name="display_more_groups">المزيد من المجموعات\u2026</string>
@@ -746,66 +746,66 @@
   <string name="noContactsHelpText">"ليس لديك أي جهات اتصال لعرضها.
 
 
-	لإضافة جهات اتصال، المس "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+	لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
 	 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+	"<b><font fgcolor="#ffffffff"><li>"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	"</li></font></b>" 
+	"<b><font fgcolor="#ffffffff"><li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
+	"</li></font></b>" 
+	"<b><font fgcolor="#ffffffff"><li>"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
+	"</li></font></b>"
 	"</string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
 	  <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
 
-	لإضافة جهات اتصال، المس "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+	لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
 	 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+	"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+	"</li></font></b>" 
+	"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+	"</li></font></b>" 
+	"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+	"</li></font></b>" 
+	"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
+	"</li></font></b>"
 	"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"</li></font></b>"
 "</string>
 <string name="noContactsNoSimHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+To add contacts, touch "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"</li></font></b>"
 "</string>
   <string name="noContactsWithPhoneNumbers">لا توجد جهات اتصال بأرقام هاتف</string>
 <string name="noFavoritesHelpText">"ليس لديك أي جهات اتصال مفضلة.
 
 لإضافة جهة اتصال إلى قائمة المفضلة لديك:
 
-"&lt;li&gt;Touch the &lt;b&gt;Contacts&lt;/b&gt;" tab
-"&lt;/li&gt;" 
-"&lt;li&gt;"Touch the contact you want to add to your favorites
-"&lt;/li&gt;" 
-"&lt;li&gt;"Touch the star next to the contact's name
-"&lt;/li&gt;"
+"<li>Touch the <b>Contacts</b>" tab
+"</li>" 
+"<li>"Touch the contact you want to add to your favorites
+"</li>" 
+"<li>"Touch the star next to the contact's name
+"</li>"
 "</string>
   <string name="noGroups">لا توجد مجموعات</string>
   <string name="noMatchingContacts">لم يتم العثور على جهات اتصال مطابقة.</string>
@@ -913,7 +913,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="pref_key_sim_manage">بطاقات SIM</string>
   <string name="pref_key_sim_manage1">إعداد شريحة SIM 1</string>
   <string name="pref_key_sim_manage2">إعداد شريحة SIM 2</string>
-  <string name="pref_rcs_backup_restore_title">نسخ احتياطي &amp; إعدادات الاسترداد</string>
+  <string name="pref_rcs_backup_restore_title">نسخ احتياطي & إعدادات الاسترداد</string>
   <string name="pref_rcs_fetion_entry_title">Fetion settings</string>
   <string name="pref_summary_import_from_account">نقل جهات الاتصال من حساب Google و تبادل الحسابات إلى حساب Mi الخاص بي</string>
   <string name="pref_title_account_import">استيراد جهات الاتصال</string>
@@ -1161,10 +1161,10 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="success_message_import_from_account">تم استيراد جهة الاتصال</string>
   <string name="summary_kind_title">ملخص</string>
   <string name="t9_search_guide_pinyin_title1">أدخل الارقام للإيجاد جهات الاتصال</string>
-<string name="t9_search_guide_pinyin_title2">أدخل 9 و 4 للبحث عن &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
+<string name="t9_search_guide_pinyin_title2">أدخل 9 و 4 للبحث عن <font fgcolor="">W</font>ashington <font fgcolor="">I</font>rving</string>
   <string name="t9_search_guide_zhuyin_title1">أدخل الارقام للإيجاد جهات الاتصال</string>
   <string name="t9_search_guide_zhuyin_title2">أدخل \"٥\" و \"٦\" للبحث عن
-        \"&lt;font fgcolor=\"\"&gt;J&lt;/font&gt;eff &lt;font fgcolor=\"\"&gt;M&lt;/font&gt;</string>
+        \"<font fgcolor=\"\">J</font>eff <font fgcolor=\"\">M</font></string>
   <string name="take_new_photo">التقاط صورة جديدة</string>
   <string name="take_photo">التقاط صورة</string>
   <string name="telecom_fraud_insurance">تأمين احتيال الاتصالات</string>

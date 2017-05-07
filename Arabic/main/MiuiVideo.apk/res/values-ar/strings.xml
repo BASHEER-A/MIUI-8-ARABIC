@@ -47,7 +47,7 @@
   <string name="app_wifi_mode">تحديث تلقائي</string>
   <string name="app_wifi_mode_summary">تحديث التطبيق تلقائياً عند بدء تشغيل التطبيق، والاتصال بالـ Wi-Fi</string>
   <string name="authenticated_failed">"لا يمكن تسجيل الدخول"</string>
-  <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating"><CDATA>Verifying&#8230;</CDATA></string>
   <string name="authenticating_manually">"لا يمكن المصادقة"</string>
   <string name="average_score">متوسط التقييم</string>
   <string name="avg_score">%.1f</string>
@@ -101,7 +101,7 @@
   <string name="debug_mode_desc">تشغيل التطبيق في وضع التصحيح وإظهار معرف الفيديو في الزاوية العلوية اليمنى</string>
   <string name="declaration">شروط الخدمة</string>
   <string name="declaration_allow">اتفق</string>
-  <string name="declaration_content">"1. باستخدام هذا التطبيق بما في ذلك الفيديو سوهو، إيقييي وخدمة موفري المحتوى، فإنك توافق على\" &lt; href = \"http://www.miui.com/res/doc/eula.html\" &gt; \"اتفاقية المستخدم\" &lt;/a &gt; و &lt; href = \"http://www.miui.com/res/doc/privacy.html\" &gt; &lt;/a &gt; سياسة الخصوصية \". 2-لتحسين خبرة المستخدم الخاصة بك، سوف نقوم بجمع بعض البيانات عن الجهاز الخاص بك ويمكنك مشاهدة المحتوى. سوهو وإيكي أيضا جمع للجهاز IMEI. &amp; #8203؛ 3. سيتم تلقائياً تثبيت لدينا ففيديو عالية الدقة في المكونات. 4-أن هذا التطبيق يحتاج للاتصال بالإنترنت للعمل بشكل طبيعي "</string>
+  <string name="declaration_content">"1. باستخدام هذا التطبيق بما في ذلك الفيديو سوهو، إيقييي وخدمة موفري المحتوى، فإنك توافق على\" < href = \"http://www.miui.com/res/doc/eula.html\" > \"اتفاقية المستخدم\" </a > و < href = \"http://www.miui.com/res/doc/privacy.html\" > </a > سياسة الخصوصية \". 2-لتحسين خبرة المستخدم الخاصة بك، سوف نقوم بجمع بعض البيانات عن الجهاز الخاص بك ويمكنك مشاهدة المحتوى. سوهو وإيكي أيضا جمع للجهاز IMEI. & #8203؛ 3. سيتم تلقائياً تثبيت لدينا ففيديو عالية الدقة في المكونات. 4-أن هذا التطبيق يحتاج للاتصال بالإنترنت للعمل بشكل طبيعي "</string>
   <string name="declaration_content_td_custom">هذا التطبيق يحتاج للاتصال بالإنترنت للعمل بشكل طبيعي.</string>
   <string name="defaults">افتراضي</string>
   <string name="delete">حذف</string>
@@ -192,7 +192,7 @@
   <string name="lekan">ليكان</string>
   <string name="letv">Letv</string>
   <string name="live">Live</string>
-  <string name="loading">تحميل &lt; CDATA &gt; &lt;/CDATA &gt;</string>
+  <string name="loading">تحميل < CDATA > </CDATA ></string>
   <string name="loading_video_netplay_label">جارٍ التحميل\u2026</string>
   <string name="loading_video_netplay_label_v5">جارٍ التحميل\u2026</string>
   <string name="local_favorite_empty_title">فارغة</string>
@@ -354,7 +354,7 @@
   <string name="subscribe">Subscribe</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">App settings</string>
-  <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
+  <string name="tab_loading"><CDATA>...</CDATA></string>
   <string name="temp_play_history_button_label">السجل</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"للتالي: "</string>
@@ -388,7 +388,7 @@
   <string name="user_tab">حساب</string>
   <string name="version_select">اختر الإصدار</string>
   <string name="version_select_summary">اختيار الإصدار المراد استخدامها</string>
-  <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
+  <string name="vertical_line"><CDATA> | </CDATA></string>
   <string name="video">فيديو</string>
   <string name="video_app_update">التحديث</string>
   <string name="video_bbs">الانضمام إلى المنتدى</string>
@@ -447,8 +447,8 @@
   <string name="vp_hint">تنبيه</string>
   <string name="vp_install">تثبيت</string>
   <string name="vp_install_title">تثبيت</string>
-  <string name="vp_loading">&lt;CDATA&gt;Downloading&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;Downloading&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_loading"><CDATA>Downloading</CDATA></string>
+  <string name="vp_loading_download"><CDATA>Downloading&#8230;</CDATA></string>
   <string name="vp_loading_video">تحميل…</string>
   <string name="vp_low_definition">أقل</string>
   <string name="vp_maintitlearea">مشاهدة فيديو HD من أي مكان</string>
@@ -504,7 +504,7 @@
   <string name="vp_using_4_3">فرض 4:3</string>
   <string name="vp_video_bad_network_condition">اتصال الإنترنت ضعيف. أعد المحاولة لاحقًا.</string>
   <string name="vp_video_invalid_cp_info">معلومات غير صالحة لمزود الفيديو، يرجى إعادة تشغيل التطبيق</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;Loading&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading"><CDATA>Loading&#8230;</CDATA></string>
   <string name="vp_video_plugin_installation">تثبيت%1$s\u2026</string>
   <string name="waiting_to_download">في انتظار</string>
   <string name="wasu">Wasu</string>

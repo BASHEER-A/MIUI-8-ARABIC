@@ -39,14 +39,14 @@
   <string name="accessibility_global_gesture_preference_summary_on">تشغيل</string>
   <string name="accessibility_global_gesture_preference_title">إمكانية الوصول إلى اختصار</string>
   <string name="accessibility_lock_screen_progress">%1$d من %2$d الأحرف المستخدمة</string>
-  <string name="accessibility_long_press_timeout_preference_title">اتصال &amp; عقد التأخير</string>
+  <string name="accessibility_long_press_timeout_preference_title">اتصال & عقد التأخير</string>
   <string name="accessibility_menu_item_settings">إعدادات</string>
   <string name="accessibility_no_services_installed">لا توجد خدمات تثبيت</string>
   <string name="accessibility_no_wifi">لا يوجد Wi-Fi.</string>
   <string name="accessibility_personal_account_title">حساب شخصي-%s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">زر البور إنهاء المكالمة</string>
   <string name="accessibility_screen_magnification_enable">إيماءات التكبير</string>
-  <string name="accessibility_screen_magnification_summary">عند تشغيل هذه الميزة، يمكنك يمكن التكبير والتصغير عن طريق الثلاثي-التنصت الشاشة. حين التكبير، يمكنك أن: \"&lt; لي &gt;&lt; ul &gt;\" Pan: اسحب أصابع اثنين أو أكثر عبر الشاشة. \"&lt; لي &gt; ضبط مستوى التكبير/التصغير: قرصه الأصابع اثنين أو أكثر معا أو نشرها بعيداً. &lt;/li &gt;&lt;/ul &gt;&lt;/li &gt;\" يمكنك أيضا مؤقتاً تكبير ما &amp; #8217؛ s تحت أصبعك عن طريق التنصت على الثلاثي وعقد. في هذه الحالة تم تكبيره، يمكنك سحب أصبعك لاستكشاف أجزاء مختلفة من الشاشة. رفع أصبعك على العودة إلى الحالة السابقة الخاصة بك. ملاحظة: الضغط الثلاثي للتكبير يعمل في كل مكان ما عدا شريط التنقل ولوحة المفاتيح. </string>
+  <string name="accessibility_screen_magnification_summary">عند تشغيل هذه الميزة، يمكنك يمكن التكبير والتصغير عن طريق الثلاثي-التنصت الشاشة. حين التكبير، يمكنك أن: \"<li>< ul >\" Pan: اسحب أصابع اثنين أو أكثر عبر الشاشة. \"<li> ضبط مستوى التكبير/التصغير: قرصه الأصابع اثنين أو أكثر معا أو نشرها بعيداً. </li></ul ></li>\" يمكنك أيضا مؤقتاً تكبير ما & #8217؛ s تحت أصبعك عن طريق التنصت على الثلاثي وعقد. في هذه الحالة تم تكبيره، يمكنك سحب أصبعك لاستكشاف أجزاء مختلفة من الشاشة. رفع أصبعك على العودة إلى الحالة السابقة الخاصة بك. ملاحظة: الضغط الثلاثي للتكبير يعمل في كل مكان ما عدا شريط التنقل ولوحة المفاتيح. </string>
   <string name="accessibility_screen_magnification_title">إيماءات التكبير</string>
   <string name="accessibility_service_default_description">لا يوجد وصف المقدمة.</string>
   <string name="accessibility_services_title">الخدمات</string>
@@ -266,7 +266,7 @@
   <string name="assist_access_context_title">استخدام النص من الشاشة</string>
   <string name="assist_access_screenshot_summary">السماح للتطبيق مساعدة للوصول إلى صورة للشاشة</string>
   <string name="assist_access_screenshot_title">استخدام لقطة للشاشة</string>
-  <string name="assist_and_voice_input_title">مساعدة &amp; صوت الإدخال</string>
+  <string name="assist_and_voice_input_title">مساعدة & صوت الإدخال</string>
   <string name="assist_footer">تطبيقات مساعدة يمكن أن تساعدك على بناء على معلومات من الشاشة التي تقوم بعرضها. بعض تطبيقات تدعم كلا قاذفة وإدماج خدمات الإدخال الصوتي لإعطائك المساعدة.</string>
   <string name="assistant_security_warning">ستكون قادراً على قراءة معلومات حول تطبيقات قيد الاستخدام على النظام الخاص بك، بما في ذلك المعلومات المرئية على الشاشة أو موجوداً داخل التطبيقات المساعد.</string>
   <string name="assistant_security_warning_agree">اتفق</string>
@@ -449,7 +449,7 @@
   <string name="bluetooth_auto_connect">الاتصال التلقائي</string>
   <string name="bluetooth_broadcasting">البث الإذاعي</string>
   <string name="bluetooth_broadcasting_explaination">عند تشغيل هذه الميزة، هاتفك يمكنك الاتصال مع الأجهزة الأخرى القريبة. البث يستخدم إشارات البلوتوث طاقة منخفضة </string>
-  <string name="bluetooth_confirm_passkey_msg">لإقتران مع:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; تأكد من أنها تظهر هذا مفتاح المرور:%2$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">لإقتران مع:%1$s <br>< ب > </b><br><br> تأكد من أنها تظهر هذا مفتاح المرور:%2$s <br>< ب > </b></string>
   <string name="bluetooth_connect_specific_profiles_title">الاتصال…</string>
   <string name="bluetooth_connected">متصل</string>
   <string name="bluetooth_connected_no_a2dp">متصل (بلا وسائط)</string>
@@ -472,17 +472,17 @@
   <string name="bluetooth_device_context_connect">الاتصال</string>
   <string name="bluetooth_device_context_connect_advanced">خيارات…</string>
   <string name="bluetooth_device_context_disconnect">قطع الاتصال</string>
-  <string name="bluetooth_device_context_disconnect_unpair">قم بقطع اتصال &amp; إقتران</string>
-  <string name="bluetooth_device_context_pair_connect">الاقتران &amp; الاتصال</string>
+  <string name="bluetooth_device_context_disconnect_unpair">قم بقطع اتصال & إقتران</string>
+  <string name="bluetooth_device_context_pair_connect">الاقتران & الاتصال</string>
   <string name="bluetooth_device_context_unpair">انهاء الاقتران</string>
   <string name="bluetooth_device_details">إعدادات الجهاز</string>
   <string name="bluetooth_device_name">الإسم:</string>
   <string name="bluetooth_device_searchable">قابل للاكتشاف</string>
   <string name="bluetooth_devices">أجهزة Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">سيؤدي ذلك إلى تعطيل:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; من:%2$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
+  <string name="bluetooth_disable_profile_message">سيؤدي ذلك إلى تعطيل:%1$s <br>< ب > </b><br><br> من:%2$s <br>< ب > </b></string>
   <string name="bluetooth_disable_profile_title">تعطيل الملف شخصي؟</string>
   <string name="bluetooth_disconnect_a2dp_profile">سيتم قطع اتصال %1$s من وسائل السمعية.</string>
-  <string name="bluetooth_disconnect_all_profiles">سيؤدي هذا إلى إنهاء الاتصال مع:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">سيؤدي هذا إلى إنهاء الاتصال مع:%1$s <br>< ب > </b></string>
   <string name="bluetooth_disconnect_headset_profile">سيتم قطع اتصال %1$s من الصوت يدوي.</string>
   <string name="bluetooth_disconnect_hid_profile">سيتم قطع اتصال %1$s من جهاز الإدخال.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">سيتم قطع اتصال %1$s من مشاركة اتصال إنترنت هذا الهاتف.</string>
@@ -490,7 +490,7 @@
   <string name="bluetooth_disconnect_title">قطع الاتصال؟</string>
   <string name="bluetooth_disconnected">قطع الاتصال</string>
   <string name="bluetooth_disconnecting">قطع الاتصال…</string>
-  <string name="bluetooth_display_passkey_pin_msg">الاقتران مع:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; كتابة على ذلك:%2$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;، ثم اضغط Return أو Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">الاقتران مع:%1$s <br>< ب > </b><br><br> كتابة على ذلك:%2$s <br>< ب > </b>، ثم اضغط Return أو Enter.</string>
   <string name="bluetooth_dock_settings">Dock Settings</string>
   <string name="bluetooth_dock_settings_a2dp">للموسيقى والوسائط</string>
   <string name="bluetooth_dock_settings_headset">كمكبر لصوت الهاتف</string>
@@ -510,7 +510,7 @@
   <string name="bluetooth_headset_profile_summary_use_for">استخدام لصوت الهاتف</string>
   <string name="bluetooth_hid_profile_summary_connected">متصل بأجهزة الإدخال</string>
   <string name="bluetooth_hid_profile_summary_use_for">استخدام للإدخال</string>
-  <string name="bluetooth_incoming_pairing_msg">من:%1$s &lt; br &gt;&lt; ب &gt; &lt;/b &gt;&lt; br &gt;&lt; br &gt; الاقتران مع هذا الجهاز؟</string>
+  <string name="bluetooth_incoming_pairing_msg">من:%1$s <br>< ب > </b><br><br> الاقتران مع هذا الجهاز؟</string>
   <string name="bluetooth_is_disconnect_question">قطع %1$s؟</string>
   <string name="bluetooth_is_discoverable">مرئية لجميع الاجهزة القريبة Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">جعل هذا الجهاز مرئي لكل أجهزة البلوتوث القريبة</string>
@@ -978,10 +978,10 @@
   <string name="data_usage_restrict_background_title">تقييد بيانات في الخلفية؟</string>
   <string name="data_usage_restrict_denied_dialog">تقييد البيانات الخلفية ممكن فقط عندما قمت بتعيين حد بيانات خلوية.</string>
   <string name="data_usage_summary_title">استخدام البيانات</string>
-  <string name="data_usage_sweep_limit">&lt;font size=\"21\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;limit&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size=\"21\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;warning&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit"><font size=\"21\">^1</font> <font size=\"9\">^2</font>\"
+\"<font size=\"12\">limit</font></string>
+  <string name="data_usage_sweep_warning"><font size=\"21\">^1</font> <font size=\"9\">^2</font>\"
+\"<font size=\"12\">warning</font></string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">شبكة إيثرنت</string>
@@ -1395,7 +1395,7 @@
   <string name="force_touch_enable_tips">اضغط على أيقونات التطبيقات في مشغل البرامج (Launcher) مع الكبس قليلا لعرض القائمات المختصرة عندما يكون لمس 3D يعمل.</string>
   <string name="forget">نسيان</string>
   <string name="forget_password_button_text">نسيت كلمة المرور</string>
-  <string name="forget_pattern">&lt;u&gt;نسيت النمط?&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>نسيت النمط?</u></string>
   <string name="forget_privacy_password_setting">إضافة حساب Mi</string>
   <string name="forget_privacy_password_summary">استخدام حساب Mi لإعادة تعيين كلمة المرور الخاصة بك</string>
   <string name="forget_wifi_message">هاتفك سيتوقف تلقائياً عن الاتصال بهذه الشبكة.</string>
@@ -1620,7 +1620,7 @@
   <string name="keyboard_layout_dialog_switch_hint">للتبديل، اضغط Spacebar التحكم</string>
   <string name="keyboard_layout_dialog_title">اختر نسق لوحة المفاتيح</string>
   <string name="keyboard_layout_picker_title">نسق لوحة المفاتيح</string>
-  <string name="keyboard_settings_category">أساليب لوحة المفاتيح &amp; الإدخال</string>
+  <string name="keyboard_settings_category">أساليب لوحة المفاتيح & الإدخال</string>
   <string name="keyboard_settings_title">لوحة مفاتيح Android</string>
   <string name="keyguard_left_function_chooser_hint_text">اختصار الأيسر تغيرت إلى %s</string>
   <string name="keyguard_left_function_chooser_title">التطبيق</string>
@@ -1669,9 +1669,9 @@
   <string name="keywords_wifi">WiFi;WiFi;WiFi;Wi-Fi;Wi-Fi;WiFi</string>
   <string name="keywords_wifi_calling">wifi wi-fi call calling</string>
   <string name="keywords_write_settings">كتابة تعديل إعدادات النظام</string>
-  <string name="language_keyboard_settings_title">اللغة &amp; الإدخال</string>
+  <string name="language_keyboard_settings_title">اللغة & الإدخال</string>
   <string name="language_picker_title">اللغة</string>
-  <string name="language_settings">اللغة &amp; الإدخال</string>
+  <string name="language_settings">اللغة & الإدخال</string>
   <string name="language_settings_category">إعدادات اللغة</string>
   <string name="large_font">كبيرة</string>
   <string name="last_synced">%1$s مزامن آخر</string>
@@ -1906,7 +1906,7 @@
   <string name="manageapplications_settings_summary">إدارة وإزالة تثبيت التطبيقات</string>
   <string name="manageapplications_settings_title">إدارة التطبيقات</string>
   <string name="managed_device_admin_title">العمل</string>
-  <string name="managed_profile_device_admin_info">لإيقاف %1$s من الوصول إلى ملف التعريف الخاص بك في العمل، قم بإزالة التشكيل الجانبي ضمن إعدادات &gt; الحسابات</string>
+  <string name="managed_profile_device_admin_info">لإيقاف %1$s من الوصول إلى ملف التعريف الخاص بك في العمل، قم بإزالة التشكيل الجانبي ضمن إعدادات > الحسابات</string>
   <string name="managed_profile_location_category">ملف العمل الشخصي</string>
   <string name="managed_profile_location_switch_lockdown">تم إيقافه من قبل مسؤول الشركة.</string>
   <string name="managed_profile_location_switch_title">موقع ملف العمل الشخصي</string>
@@ -1918,15 +1918,15 @@
   <string name="master_clear_all">"مسح جميع البيانات من سعة التخزين الداخلية للهاتف؟ لا يمكن التراجع عن هذا الإجراء!"</string>
   <string name="master_clear_button_text">إعادة تعيين الهاتف</string>
   <string name="master_clear_confirm_title">إعادة تعيين؟</string>
-  <string name="master_clear_desc">This will erase all data from your phone’s &lt;b&gt;internal storage&lt;/b&gt;\", including:
+  <string name="master_clear_desc">This will erase all data from your phone’s <b>internal storage</b>\", including:
 
-\"&lt;li&gt;Your Google account&lt;/li&gt;\"
-\"&lt;li&gt;System and app data and settings&lt;/li&gt;\"
-\"&lt;li&gt;Downloaded apps&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Music&lt;/li&gt;\"
-\"&lt;li&gt;Photos&lt;/li&gt;\"
-\"&lt;li&gt;Other user data&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">\"لمسح الموسيقى والصور وغيرها من البيانات المستخدم،\" &lt; ب &gt; USB التخزين &lt;/b &gt; يحتاج إلى محوها.</string>
+\"<li>Your Google account</li>\"
+\"<li>System and app data and settings</li>\"
+\"<li>Downloaded apps</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Music</li>\"
+\"<li>Photos</li>\"
+\"<li>Other user data</li></string>
+  <string name="master_clear_desc_erase_external_storage">\"لمسح الموسيقى والصور وغيرها من البيانات المستخدم،\" <b> USB التخزين </b> يحتاج إلى محوها.</string>
   <string name="master_clear_erase_application_progress">جار مسح التطبيقات\u2026</string>
   <string name="master_clear_failed">No reset was performed because the System Clear service isn’t available.</string>
   <string name="master_clear_final_button_text">محو كل شيء</string>
@@ -2155,11 +2155,11 @@
   <string name="nfc_payment_favor_open">Except when another payment app is open</string>
   <string name="nfc_payment_how_it_works">كيف يعمل</string>
   <string name="nfc_payment_no_apps">الدفع باستخدام هاتفك في المتجر</string>
-  <string name="nfc_payment_pay_with">At a Tap &amp; pay terminal, pay with:</string>
-  <string name="nfc_payment_set_default">Always use %1$s when you Tap &amp; pay?</string>
-  <string name="nfc_payment_set_default_instead_of">Always use %1$s instead of %2$s when you Tap &amp; pay?</string>
+  <string name="nfc_payment_pay_with">At a Tap & pay terminal, pay with:</string>
+  <string name="nfc_payment_set_default">Always use %1$s when you Tap & pay?</string>
+  <string name="nfc_payment_set_default_instead_of">Always use %1$s instead of %2$s when you Tap & pay?</string>
   <string name="nfc_payment_set_default_label">Set as your preference?</string>
-  <string name="nfc_payment_settings_title">Tap &amp; pay</string>
+  <string name="nfc_payment_settings_title">Tap & pay</string>
   <string name="nfc_payment_use_default">استخدام الافتراضي</string>
   <string name="nfc_quick_toggle_summary">السماح بتبادل البيانات عند ملامسة الهاتف لجهاز آخر</string>
   <string name="nfc_quick_toggle_title">NFC</string>
@@ -2203,7 +2203,7 @@
   <string name="notification_pulse_title">Pulse notification light</string>
   <string name="notification_ringtone_title">نغمة الاشعار الافتراضية</string>
   <string name="notification_section_header">الإشعارات</string>
-  <string name="notification_settings">الصوت &amp; الاشعار</string>
+  <string name="notification_settings">الصوت & الاشعار</string>
   <string name="notification_settings_apps_title">اشعارات التطبيق</string>
   <string name="notification_sound_dialog_title">صوت الاشعار الافتراضي</string>
   <string name="notification_sound_title">صوت الإشعار الافتراضي</string>
@@ -2321,7 +2321,7 @@
   <string name="path_accessibility_captioning_title">إعدادات/الإضافي الإعدادات/الوصول/التسميات التوضيحية</string>
   <string name="path_accessibility_display_daltonizer_preference_title">تصحيح الإعدادات/الوصول/اللون إعدادات/إضافية</string>
   <string name="path_accessibility_global_gesture_preference_title">إعدادات / إعدادات إضافية / إمكانية الوصول / اختصار إمكانية الوصول</string>
-  <string name="path_accessibility_long_press_timeout_preference_title">إعدادات/إضافية الإعدادات/الوصول/اللمس &amp; معلقة تأخير</string>
+  <string name="path_accessibility_long_press_timeout_preference_title">إعدادات/إضافية الإعدادات/الوصول/اللمس & معلقة تأخير</string>
   <string name="path_accessibility_screen_magnification_title">إعدادات/الإضافي الإعدادات/الوصول/التكبير الإيماءات</string>
   <string name="path_accessibility_settings">إعدادات/الإضافية إعدادات الوصول</string>
   <string name="path_account_list">إعدادات/حسابات أخرى</string>
@@ -2395,28 +2395,28 @@
   <string name="path_music_headset_settings">إعدادات إعدادات/الإضافية/سماعات الرأس والتأثيرات الصوتية</string>
   <string name="path_music_mi_effect_title">إعدادات إعدادات/الصوت والاهتزاز/الصوت/مي سليم محسن</string>
   <string name="path_network_settings">إعدادات/البطاقات وشبكات الهاتف النقال</string>
-  <string name="path_networks_title">إعدادات/البطاقات &amp; شبكات الجوال شبكات الجوال</string>
+  <string name="path_networks_title">إعدادات/البطاقات & شبكات الجوال شبكات الجوال</string>
   <string name="path_nfc_se_route_title">موضع العنصر إعدادات/أكثر/آمنة</string>
-  <string name="path_notification_app_list_settings">إعدادات/الاشعارات &amp; حالة الاشعارات بار/التطبيق</string>
+  <string name="path_notification_app_list_settings">إعدادات/الاشعارات & حالة الاشعارات بار/التطبيق</string>
   <string name="path_notification_sound">إعلام إعدادات/الصوت والاهتزاز/الافتراضي الصوت</string>
   <string name="path_notification_sound_title">إعلام إعدادات/الصوت والاهتزاز/الافتراضي الصوت</string>
   <string name="path_ntts_settings_title">إعدادات/الإضافي الإعدادات/الوصول/Text-إلى-speech الإخراج</string>
   <string name="path_oldman_mode">وضع الإعدادات/الوضع السهل</string>
   <string name="path_onekey_migrate">إعدادات / إعدادات إضافية / نقل</string>
   <string name="path_other_advanced_settings">إعدادات / إعدادات إضافية</string>
-  <string name="path_owner_info_settings">معلومات الإعدادات/قفل الشاشة &amp; كلمة المرور/المالك</string>
+  <string name="path_owner_info_settings">معلومات الإعدادات/قفل الشاشة & كلمة المرور/المالك</string>
   <string name="path_page_layout_settings">حجم نص/إعدادات/عرض</string>
-  <string name="path_pointer_speed">سرعة إعدادات/اللغة &amp; مؤشر الإدخال/إعدادات/إضافية</string>
+  <string name="path_pointer_speed">سرعة إعدادات/اللغة & مؤشر الإدخال/إعدادات/إضافية</string>
   <string name="path_power_checker">إعدادات/الإضافية إعدادات/بيتا ميزات الطاقة/مدقق</string>
   <string name="path_power_hide_mode_title">إعدادات/البطارية والأداء/إدارة تطبيقات استخدام البطارية</string>
   <string name="path_power_mode_settings">إعدادات إعدادات/البطارية والأداء/الطاقة</string>
   <string name="path_power_optimize">إعدادات/الإضافية إعدادات/بيتا ميزات/توفير البطارية</string>
-  <string name="path_pref_volume_wake_title">إعدادات/قفل الشاشة &amp; كلمة المرور واليقظة مع الأزرار الصوت</string>
-  <string name="path_preferred_network_type_settings">إعدادات/البطاقات &amp; شبكات الجوال/المفضل شبكة نوع</string>
+  <string name="path_pref_volume_wake_title">إعدادات/قفل الشاشة & كلمة المرور واليقظة مع الأزرار الصوت</string>
+  <string name="path_preferred_network_type_settings">إعدادات/البطاقات & شبكات الجوال/المفضل شبكة نوع</string>
   <string name="path_privacy_policy">إعدادات/حول سياسة خصوصية/المعلومات القانونية الهاتف</string>
   <string name="path_privacy_settings">إعدادات إعدادات/الإضافية/النسخ الاحتياطي وإعادة تعيين</string>
-  <string name="path_ringer_volume_settings">الأصوات إعدادات/الصوت والاهتزاز/النغمات &amp; الاشعارات</string>
-  <string name="path_ringtone_settings">Settings/Sound &amp; vibration/Phone ringtone</string>
+  <string name="path_ringer_volume_settings">الأصوات إعدادات/الصوت والاهتزاز/النغمات & الاشعارات</string>
+  <string name="path_ringtone_settings">Settings/Sound & vibration/Phone ringtone</string>
   <string name="path_safe_result_header_title_system">إعدادات / إعدادات إضافية / الخصوصية</string>
   <string name="path_screen_effect_settings">إعدادات / عرض / الألوان التشبع</string>
   <string name="path_screen_key_long_press_timeout">إعدادات / إعدادات إضافية / أزرار / تعيين وقت الضغط لفترة طويلة</string>
@@ -2424,25 +2424,25 @@
   <string name="path_screen_optimize">إعدادات / عرض / ألوان التباين</string>
   <string name="path_screen_paper_mode">إعدادات / عرض / وضع القراءة</string>
   <string name="path_screen_saver_settings">إعدادات/عرض/شاشة التوقف</string>
-  <string name="path_screen_timeout_settings">إعدادات/قفل الشاشة &amp; كلمة المرور/السكون</string>
+  <string name="path_screen_timeout_settings">إعدادات/قفل الشاشة & كلمة المرور/السكون</string>
   <string name="path_second_space">مساحة إعدادات/الثانية</string>
   <string name="path_security_encryption_title">Settings/Additional settings/Privacy/Encrypt device using lock screen password</string>
-  <string name="path_security_passwords_title">Settings/Lock screen &amp; password/Screen lock</string>
+  <string name="path_security_passwords_title">Settings/Lock screen & password/Screen lock</string>
   <string name="path_security_settings">Settings/Additional settings/Privacy</string>
   <string name="path_slot_status_title">Settings/About phone/IMEI information</string>
-  <string name="path_sms_delivered_sound_title">Settings/Sound &amp; vibration/Message delivered</string>
-  <string name="path_sms_received_settings">Settings/Sound &amp; vibration/Message received</string>
-  <string name="path_sound_effects_enable_title">Settings/Sound &amp; vibration/Touch sounds</string>
-  <string name="path_sound_settings">Settings/Sound &amp; vibration</string>
-  <string name="path_status_bar_settings">Settings/Notifications &amp; status bar</string>
-  <string name="path_status_bar_settings_custom_carrier">Settings/Notifications &amp; status bar/Edit carrier name</string>
-  <string name="path_status_bar_settings_expandable_under_keyguard">Settings/Notifications &amp; status bar/Show on lock screen</string>
-  <string name="path_status_bar_settings_show_carrier">Settings/Notifications &amp; status bar/Show carrier name</string>
-  <string name="path_status_bar_settings_show_network_speed">Settings/Notifications &amp; status bar/Show connection speed</string>
-  <string name="path_status_bar_settings_show_notification_icon">Settings/Notifications &amp; status bar/Show notification icons</string>
-  <string name="path_status_bar_settings_show_screenshot_notification">Settings/Notifications &amp; status bar/Show screenshot notification</string>
-  <string name="path_status_bar_settings_style">Settings/Notifications &amp; status bar/Notifications &amp; toggles layout</string>
-  <string name="path_status_bar_settings_toggle_collapse_after_clicked">Settings/Notifications &amp; status bar/Collapse after touch</string>
+  <string name="path_sms_delivered_sound_title">Settings/Sound & vibration/Message delivered</string>
+  <string name="path_sms_received_settings">Settings/Sound & vibration/Message received</string>
+  <string name="path_sound_effects_enable_title">Settings/Sound & vibration/Touch sounds</string>
+  <string name="path_sound_settings">Settings/Sound & vibration</string>
+  <string name="path_status_bar_settings">Settings/Notifications & status bar</string>
+  <string name="path_status_bar_settings_custom_carrier">Settings/Notifications & status bar/Edit carrier name</string>
+  <string name="path_status_bar_settings_expandable_under_keyguard">Settings/Notifications & status bar/Show on lock screen</string>
+  <string name="path_status_bar_settings_show_carrier">Settings/Notifications & status bar/Show carrier name</string>
+  <string name="path_status_bar_settings_show_network_speed">Settings/Notifications & status bar/Show connection speed</string>
+  <string name="path_status_bar_settings_show_notification_icon">Settings/Notifications & status bar/Show notification icons</string>
+  <string name="path_status_bar_settings_show_screenshot_notification">Settings/Notifications & status bar/Show screenshot notification</string>
+  <string name="path_status_bar_settings_style">Settings/Notifications & status bar/Notifications & toggles layout</string>
+  <string name="path_status_bar_settings_toggle_collapse_after_clicked">Settings/Notifications & status bar/Collapse after touch</string>
   <string name="path_status_sim">Settings/About phone/SIM status</string>
   <string name="path_storage_settings">Settings/Storage/Cleaner</string>
   <string name="path_sync_settings">إعدادات/المزامنة</string>
@@ -2451,14 +2451,14 @@
   <string name="path_tether_settings_title_bluetooth">إعدادات/أكثر/بلوتوث الربط</string>
   <string name="path_tether_settings_title_usb">إعدادات/أكثر/USB الربط</string>
   <string name="path_theme_settings">إعدادات/المواضيع</string>
-  <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
+  <string name="path_toggle_position_settings">Settings/Notifications & status bar/Toggle positions</string>
   <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/Privacy/Trusted credentials</string>
-  <string name="path_tts_settings_title">إخراج إعدادات/الإضافية إعدادات/اللغة &amp; الإدخال/Text-إلى-سبيش</string>
-  <string name="path_turn_on_security_lock">إعدادات/قفل الشاشة &amp; شاشة كلمة السر/لوك/تغيير قفل الشاشة</string>
-  <string name="path_unlock_set_settings">إعدادات/قفل الشاشة &amp; كلمة المرور</string>
-  <string name="path_user_dict_settings_title">قاموس إعدادات/الإضافية إعدادات/اللغة &amp; الإدخال/الشخصية</string>
+  <string name="path_tts_settings_title">إخراج إعدادات/الإضافية إعدادات/اللغة & الإدخال/Text-إلى-سبيش</string>
+  <string name="path_turn_on_security_lock">إعدادات/قفل الشاشة & شاشة كلمة السر/لوك/تغيير قفل الشاشة</string>
+  <string name="path_unlock_set_settings">إعدادات/قفل الشاشة & كلمة المرور</string>
+  <string name="path_user_dict_settings_title">قاموس إعدادات/الإضافية إعدادات/اللغة & الإدخال/الشخصية</string>
   <string name="path_vibrate_in_silent_title">إعدادات/الصوت والاهتزاز/يهتز في الوضع الصامت</string>
   <string name="path_vibrate_on_touch_title">إعدادات/الصوت والاهتزاز/يهتز على اللمس</string>
   <string name="path_vibrate_when_ringing_title">إعدادات/الصوت والاهتزاز/أيضا يهتز للمكالمات</string>
@@ -2466,7 +2466,7 @@
   <string name="path_vpn_enable">إعدادات/أكثر/VPN/VPN</string>
   <string name="path_vpn_settings">إعدادات/أكثر/VPN</string>
   <string name="path_vpn_settings_password">كلمة المرور في إعدادات/أكثر/VPN/VPN</string>
-  <string name="path_wakeup_for_keyguard_notification_title">إعدادات/قفل الشاشة &amp; كلمة المرور واليقظة قفل الشاشة للحصول على إعلامات</string>
+  <string name="path_wakeup_for_keyguard_notification_title">إعدادات/قفل الشاشة & كلمة المرور واليقظة قفل الشاشة للحصول على إعلامات</string>
   <string name="path_wallpaper_settings">إعدادات/الخلفية</string>
   <string name="path_wifi_advanced_ip_address_title">معالجة إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة إعدادات/الملكية الفكرية</string>
   <string name="path_wifi_advanced_mac_address_title">عنوان MAC إعدادات إعدادات/الشبكة المحلية اللاسلكية/خيارات متقدمة/WLAN</string>
@@ -2793,13 +2793,13 @@
   <string name="reset_aaid">إعادة تعيين معرف الإعلان</string>
   <string name="reset_app_preferences">إعادة تعيين تفضيلات التطبيق</string>
   <string name="reset_app_preferences_button">إعادة تعيين التطبيقات</string>
-  <string name="reset_app_preferences_desc">وهذا سيؤدي إلى إعادة تعيين كافة تفضيلات ل: &lt; لي &gt; تعطيل تطبيقات &lt;/li &gt;\" \"&lt; لي &gt; تعطيل التطبيق الإشعارات &lt;/li &gt;\" \"&lt; لي &gt; التطبيقات الافتراضية للإجراءات &lt;/li &gt;\" \"&lt; لي &gt; قيود البيانات الخلفية لتطبيقات &lt;/li &gt;\" \"&lt; لي &gt; أي قيود إذن &lt;/li &gt;\" لن تفقد أية بيانات التطبيق. </string>
+  <string name="reset_app_preferences_desc">وهذا سيؤدي إلى إعادة تعيين كافة تفضيلات ل: <li> تعطيل تطبيقات </li>\" \"<li> تعطيل التطبيق الإشعارات </li>\" \"<li> التطبيقات الافتراضية للإجراءات </li>\" \"<li> قيود البيانات الخلفية لتطبيقات </li>\" \"<li> أي قيود إذن </li>\" لن تفقد أية بيانات التطبيق. </string>
   <string name="reset_app_preferences_title">إعادة تعيين تفضيلات التطبيق؟</string>
   <string name="reset_legacy_password_settings_preface_text">تحتاج إلى إعادة تعيين كلمة مررور شاشة القفل.</string>
   <string name="reset_network_button_text">إعادة تعيين الإعدادات</string>
   <string name="reset_network_complete_toast">تم إعادة تعيين إعدادات شبكة الاتصال</string>
   <string name="reset_network_confirm_title">إعادة تعيين؟</string>
-  <string name="reset_network_desc">\"هذا إلى إعادة تعيين كافة إعدادات شبكة الاتصال، بما في ذلك:\" &lt; لي &gt; خدمة &amp; #8209؛ &lt;/Li &gt; وأي فأي \"\" &lt; لي &gt; البيانات الخلوية &lt;/li &gt; \"\" &lt; لي &gt; &lt;/li &gt; بلوتوث;</string>
+  <string name="reset_network_desc">\"هذا إلى إعادة تعيين كافة إعدادات شبكة الاتصال، بما في ذلك:\" <li> خدمة & #8209؛ </Li > وأي فأي \"\" <li> البيانات الخلوية </li> \"\" <li> </li> بلوتوث;</string>
   <string name="reset_network_final_button_text">إعادة تعيين الإعدادات</string>
   <string name="reset_network_final_desc">إعادة تعيين كافة إعدادات شبكة الاتصال؟ لا يمكنك التراجع عن هذا الإجراء!</string>
   <string name="reset_network_title">إعادة تعيين إعدادات شبكة الاتصال</string>
@@ -2986,7 +2986,7 @@
   <string name="search_application_lock">قفل التطبيق</string>
   <string name="search_application_settings">تطبيقات مثبتة</string>
   <string name="search_back_key">رجوع;زر الرجوع;مفتاح الرجوع</string>
-  <string name="search_battery">Battery &amp; performance;Battery and performance;Battery;performance;Battery saver;Save battery</string>
+  <string name="search_battery">Battery & performance;Battery and performance;Battery;performance;Battery saver;Save battery</string>
   <string name="search_battery_indicator">مؤشر البطارية</string>
   <string name="search_bluetooth">بلوتوث؛ وقابل للاكتشاف</string>
   <string name="search_bluetooth_device_name">اسم الجهاز؛ اسم بلوتوث؛ اسم الهاتف</string>
@@ -3031,7 +3031,7 @@
   <string name="search_key">Buttons;Keys</string>
   <string name="search_lab_functions_title">الميزات التجريبية;وظيفة المختبر</string>
   <string name="search_label">الإعدادات</string>
-  <string name="search_language">Language &amp; input;Language;Language and input;Input;Keyboard</string>
+  <string name="search_language">Language & input;Language;Language and input;Input;Keyboard</string>
   <string name="search_language_picker_title">Language</string>
   <string name="search_led">LED;Notification light;LED light</string>
   <string name="search_legal_information">المعلومات القانونية</string>
@@ -3067,13 +3067,13 @@
   <string name="search_power_optimize">توفير شحن البطارية;حفظ البطارية</string>
   <string name="search_pref_volume_wake_title">الايقاظ بأزرار الصوت؛أزرار الصوت</string>
   <string name="search_preferred_network_type_title">نوع الشبكة المفضلة؛ الشبكة المفضلة؛نوع الشبكة</string>
-  <string name="search_privacy">Backup &amp; reset;Backup and reset;Backup;reset;Back up</string>
+  <string name="search_privacy">Backup & reset;Backup and reset;Backup;reset;Back up</string>
   <string name="search_privacy_policy">سياسة الخصوصية</string>
   <string name="search_recents_queries_label">Recent searches</string>
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Results</string>
   <string name="search_results_title">Settings</string>
-  <string name="search_ring_volume">Volumes;volume;Ringtone &amp; notifications;ringtone;ringtones;Alarm;Music</string>
+  <string name="search_ring_volume">Volumes;volume;Ringtone & notifications;ringtone;ringtones;Alarm;Music</string>
   <string name="search_ringtone">Phone ringtone;ringtone;ringtones</string>
   <string name="search_safe_result_header_title_system">الخصوصية؛ الأمن؛ مصادر غير معروفة؛ إظهار كلمة السر؛ توقيع التطبيق؛ تواقيع التطبيق؛ وثائق التفويض واضحة؛ بيانات اعتماد واضحة</string>
   <string name="search_screen_effect">الألوان والتشبع؛الألوان والتباين؛لون؛الوان؛صفاء اللون؛التباين</string>
@@ -3107,7 +3107,7 @@
   <string name="search_storage_settings">المنظف;حذف ذاكرة التخزين المؤقت;ذاكرة التخزين المؤقت</string>
   <string name="search_sync_settings">مزامنة؛تلقائي؛فقط Wi-Fi</string>
   <string name="search_system_app_settings">تطبيقات النظام</string>
-  <string name="search_tether">نقطة hotspot الربط &amp; المحمولة؛ حبل؛ ومشاركة على شبكة الإنترنت؛ الشبكة المحلية اللاسلكية hotspot؛ وأي فأي نقطة hotspot؛ الشبكة المحلية اللاسلكية hotspot</string>
+  <string name="search_tether">نقطة hotspot الربط & المحمولة؛ حبل؛ ومشاركة على شبكة الإنترنت؛ الشبكة المحلية اللاسلكية hotspot؛ وأي فأي نقطة hotspot؛ الشبكة المحلية اللاسلكية hotspot</string>
   <string name="search_tether_settings_title_bluetooth">بلوتوث الربط؛ والربط</string>
   <string name="search_tether_settings_title_usb">الربط USB؛ الربط؛ الناقل التسلسلي العام</string>
   <string name="search_theme_settings">Themes;Theme;Personalization;Personalize</string>
@@ -3117,7 +3117,7 @@
   <string name="search_trusted_credentials">أوراق اعتماد موثوق بها;توقيع التطبيق;توقيعات التطبيق;أوراق اعتماد;التوقيع</string>
   <string name="search_tts_settings_title">إخراج النص إلى كلام;النص إلى كلام</string>
   <string name="search_turn_on_security_lock">اختيار قفل الشاشة;قفل الشاشة;إضافة قفل الشاشة;قفلالشاشة</string>
-  <string name="search_unlock_set">Lock Screen &amp; password;Bluetooth unlock;passcode;Unlock with Bluetooth device</string>
+  <string name="search_unlock_set">Lock Screen & password;Bluetooth unlock;passcode;Unlock with Bluetooth device</string>
   <string name="search_user_agreement">شروط الخدمة</string>
   <string name="search_user_dict_settings_title">القاموس الشخصي;القاموس</string>
   <string name="search_vibrate_in_silent_title">اهتزاز عندما يكون صامتا;اهتز;اهتزاز</string>
@@ -3183,8 +3183,8 @@
   <string name="security_settings_fingerprint_enroll_dialog_delete">حذف</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">الاسم</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">موافق</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">بالإضافة إلى فتح هاتفك، يمكنك أيضا استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. &lt; شرح معرف = \"عنوان\" &gt; تعلم المزيد &lt;/الشرح &gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">تعطيل خيار قفل الشاشة. يمكنك الاستمرار في استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. &lt; شرح معرف = \"عنوان\" &gt; تعلم المزيد &lt;/الشرح &gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">بالإضافة إلى فتح هاتفك، يمكنك أيضا استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. < شرح معرف = \"عنوان\" > تعلم المزيد </الشرح ></string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">تعطيل خيار قفل الشاشة. يمكنك الاستمرار في استخدام بصمة الإصبع للإذن بالمشتريات والوصول إلى التطبيق. < شرح معرف = \"عنوان\" > تعلم المزيد </الشرح ></string>
   <string name="security_settings_fingerprint_enroll_done">تم</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">الرسم التوضيحي مع موقع استشعار بصمات الأصابع وجهاز</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">حدد موقع جهاز استشعار بصمات الأصابع على الجزء الخلفي هاتفك.</string>
@@ -3505,15 +3505,15 @@
 
 All data on this ^1 will be erased. Consider backing up first. 
 
-\"&lt;b&gt;Back up photos &amp;amp; other media&lt;/b&gt;\" 
+\"<b>Back up photos & other media</b>\" 
 Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
 
-\"&lt;b&gt;Back up apps&lt;/b&gt;\" 
+\"<b>Back up apps</b>\" 
 All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
   <string name="storage_internal_title">تخزين خارج النظام</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.&lt;/b&gt;\" 
+  <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>\" 
 
-This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any others.\"</string>
+This ^1 is formatted to work on this device only. It won&#8217;t work on any others.\"</string>
   <string name="storage_label">التخزين</string>
   <string name="storage_low_summary">بعض وظائف النظام، مثل المزامنة، قد لا تعمل بشكل صحيح. حاول تحرير مساحة بحذف أو الفتح العناصر، مثل محتوى تطبيقات أو وسائل الإعلام.</string>
   <string name="storage_low_title">نفاد مساحة التخزين</string>
@@ -3534,7 +3534,7 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
   <string name="storage_settings">Storage</string>
   <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>
-  <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
+  <string name="storage_size_large">^1<small><small> ^2</small></small></string>
   <string name="storage_summary_format">%1$s used in %2$s</string>
   <string name="storage_title_usb">USB computer connection</string>
   <string name="storage_type_external">External storage</string>
@@ -3542,7 +3542,7 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
   <string name="storage_unmount_failure">Couldn’t safely eject %1$s</string>
   <string name="storage_unmount_success">%1$s is safely ejected</string>
   <string name="storage_usb">وحدة تخزين USB</string>
-  <string name="storage_usb_settings">Storage &amp; USB</string>
+  <string name="storage_usb_settings">Storage & USB</string>
   <string name="storage_used">Storage used</string>
   <string name="storage_volume_summary">%1$s used of %2$s</string>
   <string name="storage_volume_used">Used of %1$s</string>
@@ -3551,8 +3551,8 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
 
 After formatting, this ^1 will only work in this device. 
 
-\"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;\" To avoid losing the data, consider backing it up. "</string>
-  <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
+\"<b>Formatting erases all data currently stored on the ^1.</b>\" To avoid losing the data, consider backing it up. "</string>
+  <string name="storage_wizard_format_confirm_next">Erase & format</string>
   <string name="storage_wizard_format_confirm_public_body">هذا يتطلب تهيأة ^1.
         \n<b>التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.</b> لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها.
     </string>
@@ -3568,7 +3568,7 @@ After formatting, this ^1 will only work in this device.
   <string name="storage_wizard_migrate_body">يمكنك نقل الصور والملفات الخاصة بك وبعض التطبيقات لهذه ^1 الجديدة.
         \nعملية النقل تأخذ حوالي ^2 و ستقوم بتوفير ^3 في التخزين الداخلي. بعض التطبيقات لن تعمل عند النقل.
     </string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>The move takes about ^1. It will free ^2 on ^3.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Move</string>
   <string name="storage_wizard_migrate_confirm_title">نقل البيانات الآن</string>
   <string name="storage_wizard_migrate_details">"During the move: 
@@ -3593,7 +3593,7 @@ The ^2 app on this device won’t be available until the move is complete."</str
     </string>
   <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
 
-To move photos, files, and app data to this device, go to Settings &gt; Storage."</string>
+To move photos, files, and app data to this device, go to Settings > Storage."</string>
   <string name="storage_wizard_ready_title">^1 جاهز</string>
   <string name="storage_wizard_slow_body">"This ^1 appears to be slow. 
 
@@ -3609,7 +3609,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
-  <string name="supl_not_set">&lt;غير معين&gt;</string>
+  <string name="supl_not_set"><غير معين></string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="suspension_ball_enable">اختصار الكرة السريعة</string>
   <string name="suspension_ball_enable_desc">قم بتشغيل و ايقاف الكرة السريعة باستخدام الاختصار</string>
@@ -3637,7 +3637,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_menu_sync_cancel">إلغاء المزامنة</string>
   <string name="sync_menu_sync_now">مزامنة الآن</string>
   <string name="sync_one_time_sync">على اتصال للمزامنة الآن%1$s</string>
-  <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Welcome to Google sync!&lt;/font&gt;\" 
+  <string name="sync_plug"><font fgcolor=\"#ffffffff\">Welcome to Google sync!</font>\" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. \"</string>
   <string name="sync_settings">المزامنة</string>
   <string name="sync_wifi_label">Wi-Fi</string>
@@ -3825,7 +3825,7 @@ Your saved fingerprints will also be removed from this device and you won\'t be 
   <string name="unlock_set_unlock_pin_summary">ادخل أربعة أرقام لإلغاء قفل الجهاز</string>
   <string name="unlock_set_unlock_pin_title">رمز PIN</string>
   <string name="unlock_set_unlock_summary">تعيين قفل الشاشة</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings > Security.</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">بدون عنوان</string>
   <string name="update_progress_for_updates">جارٍ التحديث (%s)</string>
@@ -3901,7 +3901,7 @@ Your saved fingerprints will also be removed from this device and you won\'t be 
   <string name="use_default_tts_settings_summary">Default settings below override app settings</string>
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
-  <string name="use_location_title">Location &amp; Google search</string>
+  <string name="use_location_title">Location & Google search</string>
   <string name="use_personalized_ad_service">استخدام معرف الإعلان</string>
   <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
@@ -4043,8 +4043,8 @@ Any user can update apps for all other users."</string>
   <string name="virus_scanner_title">ماسح الفايروسات</string>
   <string name="virus_scanner_update_lib">تحديث التعريفات</string>
   <string name="voice_category">Speech</string>
-  <string name="voice_input_output_settings">Voice input &amp; output</string>
-  <string name="voice_input_output_settings_title">Voice input &amp; output settings</string>
+  <string name="voice_input_output_settings">Voice input & output</string>
+  <string name="voice_input_output_settings_title">Voice input & output settings</string>
   <string name="voice_input_settings">Voice input settings</string>
   <string name="voice_input_settings_title">Voice input</string>
   <string name="voice_interaction_security_warning">This voice input service will be able to perform always-on voice monitoring and control voice enabled applications on your behalf. It comes from the %s application. Enable the use of this service?</string>
@@ -4060,13 +4060,13 @@ Any user can update apps for all other users."</string>
   <string name="volume_category_title">مستوى الصوت</string>
   <string name="volume_hifi_description">إعدادات Hi-Fi</string>
   <string name="volume_media_description">الموسيقى، الفيديو، الألعاب، والوسائط الأخرى</string>
-  <string name="volume_media_mute">Mute music &amp; other media</string>
+  <string name="volume_media_mute">Mute music & other media</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Mute notifications</string>
   <string name="volume_restore">إعادة تعيين المستويات</string>
   <string name="volume_restore_alert">إعادة تعيين جميع مستويات الصوت إلى الإعدادات الافتراضية؟</string>
   <string name="volume_ring_description">نغمة الرنين والإشعارات</string>
-  <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
+  <string name="volume_ring_mute">Mute ringtone & notifications</string>
   <string name="volume_system_description">الكاميرا، شاشة القفل، و إشعارات النظام الأخرى</string>
   <string name="volume_voice_description">صوت المكالمات</string>
   <string name="vpn_cancel">Cancel</string>
@@ -4162,7 +4162,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_alert_lockdown_by_device_owner">يدير الجهاز الخاص بك %1$s ولا يسمح بتعديل أو حذف هذه الشبكة المحلية اللاسلكية. للحصول على مزيد من المعلومات، اتصل بالمسؤول الخاص بك.</string>
   <string name="wifi_allow_scan_with_traffic">السماح دوماً بالتجوال بمسح Wi‑Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">السماح/عدم السماح بالتجول مسح Wi‑Fi استناداً إلى مقدار حركة مرور البيانات الحالية في الواجهة</string>
-  <string name="wifi_and_mobile_skipped_message">\"إذا قمت بتخطي Wi‑Fi:\" &lt; لي &gt; هاتفك فاز &amp; #8217; t يكون اتصال إنترنت. &lt;/li &gt; \"\" &lt; لي &gt; يمكنك فاز &amp; #8217; t الحصول على تحديثات البرامج حتى يتم الاتصال بالإنترنت. &lt;/li &gt; \"\" &lt; لي &gt; لك يمكن &amp; #8217; t تنشيط ميزات الحماية للجهاز في هذا الوقت. &lt;/li &gt;</string>
+  <string name="wifi_and_mobile_skipped_message">\"إذا قمت بتخطي Wi‑Fi:\" <li> هاتفك فاز & #8217; t يكون اتصال إنترنت. </li> \"\" <li> يمكنك فاز & #8217; t الحصول على تحديثات البرامج حتى يتم الاتصال بالإنترنت. </li> \"\" <li> لك يمكن & #8217; t تنشيط ميزات الحماية للجهاز في هذا الوقت. </li></string>
   <string name="wifi_ap_band_config">Select AP Band</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -4376,7 +4376,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setting_sleep_policy_title">الإبقاء على اتصال Wi-Fi أثناء السكون</string>
   <string name="wifi_settings">Wi-Fi</string>
   <string name="wifi_settings_category">إعدادات Wi-Fi</string>
-  <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
+  <string name="wifi_settings_summary">Set up & manage wireless access points</string>
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_add_network">إضافة شبكة</string>
   <string name="wifi_setup_back">الى الخلف</string>
@@ -4385,7 +4385,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_description_connected">أنقر<b>التالي</b> لمتابعة التثبيت.\n\nأنقر<b>رجوع</b> للاتصال بشبكة Wi-Fi مختلفة.</string>
   <string name="wifi_setup_description_connecting">الاتصال يمكن أن يستغرق ذلك بضع دقائق…</string>
   <string name="wifi_setup_detail">تفاصيل الشبكة</string>
-  <string name="wifi_setup_eap_not_supported">"لا يمكنك تهيئة اتصال شبكة EAP Wi-Fi أثناء الإعداد. يمكنك بعد الإعداد الذهاب إلى الإعدادات &gt; الـ Wi-Fi."</string>
+  <string name="wifi_setup_eap_not_supported">"لا يمكنك تهيئة اتصال شبكة EAP Wi-Fi أثناء الإعداد. يمكنك بعد الإعداد الذهاب إلى الإعدادات > الـ Wi-Fi."</string>
   <string name="wifi_setup_forget">نسيان</string>
   <string name="wifi_setup_next">التالي</string>
   <string name="wifi_setup_not_connected">غير متصل</string>
@@ -4519,7 +4519,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_wps_setup_title">إعداد Wi-Fi المحمي</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Window animation scale</string>
-  <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
+  <string name="wireless_networks_settings_title">Wireless & networks</string>
   <string name="wireless_off">إيقاف</string>
   <string name="wireless_on">تشغيل</string>
   <string name="wizard_back">رجوع</string>

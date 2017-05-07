@@ -291,7 +291,7 @@
   <string name="clip_dialog_title">فتح عنوان URL المنسوخ؟</string>
   <string name="close_ads_choice_no">السماح</string>
   <string name="close_ads_choice_yes">حظر</string>
-  <string name="close_ads_message">"أترغب في حظر المحتوى الوارد من هذا الموقع؟ يمكنك عرض المواقع التي قمت بحظرها في الإعدادات &gt; متقدمة &gt; المواقع المحظورة."</string>
+  <string name="close_ads_message">"أترغب في حظر المحتوى الوارد من هذا الموقع؟ يمكنك عرض المواقع التي قمت بحظرها في الإعدادات > متقدمة > المواقع المحظورة."</string>
   <string name="close_ads_title">أترغب في حظر المحتوى؟</string>
   <string name="close_all_tab_alert_message">إغلاق كل علامات التبويب المفتوحة حاليا في المتصفح؟</string>
   <string name="close_all_tab_alert_title">إغلاق كل علامات التبويب</string>
@@ -494,7 +494,7 @@
   <string name="geolocation_permissions_prompt_message">%s يرغب في معرفة موقعك</string>
   <string name="geolocation_permissions_prompt_remember">تذكر التفضيل</string>
   <string name="geolocation_permissions_prompt_share">مشاركة الموقع</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">يمكن لهذا الموقع الوصول إلى معلومات الموقع خاصتك. لتغيير ذلك، اذهب إلى إعدادات &gt; متقدمة &gt; بيانات موقع الويب.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">يمكن لهذا الموقع الوصول إلى معلومات الموقع خاصتك. لتغيير ذلك، اذهب إلى إعدادات > متقدمة > بيانات موقع الويب.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">هذا الموقع لا يمكنه الوصول إلى موقعك</string>
   <string name="geolocation_settings_page_dialog_cancel_button">إلغاء</string>
   <string name="geolocation_settings_page_dialog_message">أترغب في حذف الوصول إلى الموقع لموقع الويب هذا؟</string>
@@ -508,7 +508,7 @@
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">تم الوضع على الشاشة الرئيسية</string>
   <string name="history_saved_webpage">حفظ الصفحة</string>
-  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
   <string name="homepage_delete_card_menu">حذف</string>
   <string name="homepage_get_location">الحصول على الموقع</string>
   <string name="homepage_get_location_failed">"تعذر الحصول على المعلومات، اختر مدينة"</string>
