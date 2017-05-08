@@ -85,7 +85,7 @@
   <string name="lockpattern_retry_text">Reset pattern password</string>
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header"><font color=red>Too many incorrect attempts!</font></string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_close_label">Close</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
@@ -165,7 +165,7 @@ The Date & Time settings on this device have not been changed."</string>
   <string name="type_prompt">نوع المفتاح</string>
   <string name="update_pattern_jump"><u>إزالة كلمة المرور</u></string>
   <string name="version_preference_title">Version</string>
-  <string name="welcome_page_alert">"<font color=#fb3500>* </font>If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
   <string name="welcome_page_details">"— Keep your account safe.
 — Prevent strangers from using your device to sign in to your account."</string>
   <string name="welcome_page_title">Use for Secure Sign-in</string>

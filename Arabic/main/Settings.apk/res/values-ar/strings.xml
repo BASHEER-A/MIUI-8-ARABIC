@@ -3645,7 +3645,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_menu_sync_cancel">إلغاء المزامنة</string>
   <string name="sync_menu_sync_now">مزامنة الآن</string>
   <string name="sync_one_time_sync">على اتصال للمزامنة الآن%1$s</string>
-  <string name="sync_plug"><font fgcolor=\"#ffffffff\">Welcome to Google sync!</font>\" 
+  <string name="sync_plug"><font fgcolor=\"#ffffffff\">Welcome to Google sync!&lt;/font&gt;\" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. \"</string>
   <string name="sync_settings">المزامنة</string>
   <string name="sync_wifi_label">Wi-Fi</string>

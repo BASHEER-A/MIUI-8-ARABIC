@@ -1244,24 +1244,24 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="tc_diagnostic_onekey_repair_botton">إصلاح</string>
   <string name="tc_diagnostic_operator_error_notification_summary">أنقر لتغيير إعدادات مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_operator_error_notification_title">مشغّل شبكة جوال خاطئ</string>
-  <string name="tc_diagnostic_operator_result">"<font color="#CC0000"> &#1575;&#1604;&#1606;&#1578;&#1610;&#1580;&#1577;: &#1582;&#1575;&#1583;&#1605; &#1594;&#1610;&#1585; &#1589;&#1581;&#1610;&#1581; <br/><br/> &#1575;&#1604;&#1582;&#1575;&#1583;&#1605; &#1575;&#1604;&#1605;&#1615;&#1593;&#1610;&#1606;: %1$s<br/> &#1575;&#1604;&#1582;&#1575;&#1583;&#1605; &#1575;&#1604;&#1601;&#1593;&#1604;&#1610;: %2$s</font>"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color="#CC0000"&gt; &#1575;&#1604;&#1606;&#1578;&#1610;&#1580;&#1577;: &#1582;&#1575;&#1583;&#1605; &#1594;&#1610;&#1585; &#1589;&#1581;&#1610;&#1581; <br/><br/> &#1575;&#1604;&#1582;&#1575;&#1583;&#1605; &#1575;&#1604;&#1605;&#1615;&#1593;&#1610;&#1606;: %1$s<br/> &#1575;&#1604;&#1582;&#1575;&#1583;&#1605; &#1575;&#1604;&#1601;&#1593;&#1604;&#1610;: %2$s&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">إصلاح ومتابعة</string>
-<string name="tc_diagnostic_repair_location">"<font color='#3EC234'>Diagnostics complete, fixed location issues.</font>"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"<font color='#3EC234'>Diagnostics complete, fixed location and carrier issues.</font>"</string>
+<string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">تم التغيير بنجاح</string>
-<string name="tc_diagnostic_result">"<font color='#CC0000'>Result: Couldn't complete diagnostics<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
-  <string name="tc_diagnostic_sim_location_result">"<font color="#CC0000">&#1575;&#1604;&#1606;&#1578;&#1610;&#1580;&#1577;: &#1605;&#1608;&#1602;&#1593; &#1582;&#1575;&#1591;&#1574; <br/><br/> &#1575;&#1604;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1605;&#1615;&#1593;&#1610;&#1606;: %1$s<br/> &#1575;&#1604;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1601;&#1593;&#1604;&#1610;: %2$s</font>"</string>
+<string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: Couldn't complete diagnostics<br/><br/>Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color="#CC0000"&gt;&#1575;&#1604;&#1606;&#1578;&#1610;&#1580;&#1577;: &#1605;&#1608;&#1602;&#1593; &#1582;&#1575;&#1591;&#1574; <br/><br/> &#1575;&#1604;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1605;&#1615;&#1593;&#1610;&#1606;: %1$s<br/> &#1575;&#1604;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1601;&#1593;&#1604;&#1610;: %2$s&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">لم يتم إيجاد خادم الشبكة</string>
-<string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Error</font>"</string>
-<string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>لا يوجد اتصال بالشبكة</font>"</string>
-<string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>تعذر الحصول على معلومات</font>"</string>
-<string name="tc_diagnostic_status_success">"<font color='#3EC234'>Correct</font>"</string>
-<string name="tc_diagnostic_status_success_brand">"<font color='#3EC234'>Carrier network responds</font>"</string>
-<string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
+<string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Error&lt;/font&gt;"</string>
+<string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;لا يوجد اتصال بالشبكة&lt;/font&gt;"</string>
+<string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;تعذر الحصول على معلومات&lt;/font&gt;"</string>
+<string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
+<string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
+<string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">جارٍ الإختبار\u2026</string>
   <string name="tc_diagnostic_success_notification_summary">قم بالابلاغ عن هذا الخلل لمساعدة MIUI تحسين ادوات التشخيص</string>
   <string name="tc_diagnostic_success_notification_title">مشغّل شبكة الجوال والعلامة تجارية صحيحة</string>
-<string name="tc_diagnostic_success_result">"<font color='#CC0000'>Result: Carrier network and brand set correctly<br/><br/>Couldn't complete adjustment:<br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.<br/>2. Network assistant wasn't updated.<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
+<string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly<br/><br/>Couldn't complete adjustment:<br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.<br/>2. Network assistant wasn't updated.<br/><br/>Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">تشخيص مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_upload_button">الإبلاغ</string>
   <string name="tc_diagnostic_upload_no_network">شكراً لملاحظاتك! سيم تقديم تقريرك عند اتصالك بالشبكة.</string>
@@ -1399,7 +1399,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="traffic_limit_error_alert_title">تذكير حد البيانات %s</string>
   <string name="traffic_none">بدون</string>
   <string name="traffic_over_purchase_body">أنقر لعرض التفاصيل.</string>
-  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.<br/>إذا استخدمت الحد الأقصى للبيانات، فقد يفرض مشغل شبكة الجوال رسوما إضافية عليك.<br/><br/><font color='#ccffffff'><U>انقر على رصيدك.</U></font>"</string>
+  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.<br/>إذا استخدمت الحد الأقصى للبيانات، فقد يفرض مشغل شبكة الجوال رسوما إضافية عليك.<br/><br/>&lt;font color='#ccffffff'&gt;<U>انقر على رصيدك.</U>&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">تم تجاوز حد الاستخدام</string>
   <string name="traffic_purchase_body">اضغط إعادة شحن رصيدك.</string>
   <string name="traffic_purchse_suggestion">إعادة شحن بيانات جوال</string>

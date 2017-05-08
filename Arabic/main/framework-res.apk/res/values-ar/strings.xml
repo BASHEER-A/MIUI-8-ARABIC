@@ -476,7 +476,7 @@
   <string name="keyguard_password_enter_pin_prompt">‏رمز رمز PIN الجديد</string>
   <string name="keyguard_password_enter_puk_code">‏اكتب رمز PUK ورمز رمز PIN الجديد</string>
   <string name="keyguard_password_enter_puk_prompt">‏رمز PUK</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">المس لكتابة كلمة المرور</font></string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;المس لكتابة كلمة المرور&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">‏رمز PIN غير صحيح.</string>
   <string name="kg_enter_confirm_pin_hint">‏تأكيد رمز رمز PIN المراد</string>
   <string name="kg_failed_attempts_almost_at_login">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %1$d مرة. بعد إجراء %2$d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام حساب بريد إلكتروني لإلغاء تأمين الهاتف.
@@ -1000,7 +1000,7 @@
   <string name="permlab_writeSettings">تعديل إعدادات النظام</string>
   <string name="permlab_writeSyncSettings">التبديل بين تشغيل المزامنة وإيقافها</string>
   <string name="perms_description_app">يقدمه %1$s.</string>
-  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NEW: </font></string>
+  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NEW: &lt;/font&gt;</string>
   <string name="petabyteShort">بيتابايت</string>
   <string name="phoneTypeAssistant">مساعد</string>
   <string name="phoneTypeCallback">هاتف معاودة الاتصال</string>

@@ -507,8 +507,8 @@
   <string name="second_mms_introduction">اذهب إلى الفضاء الثاني</string>
   <string name="second_mms_switch">تبديل</string>
   <string name="secs">ثواني</string>
-<string name="security_alert_desc"><font color="#7f000000">"المرسل ليس في جهات الاتصال الخاصة بك.
-	 "</font></string>
+<string name="security_alert_desc">&lt;font color="#7f000000"&gt;"المرسل ليس في جهات الاتصال الخاصة بك.
+	 "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">الإبلاغ عن هذا الرقم</string>
   <string name="security_alert_dialog_desc">ارسل هذا الرقم (%s) وإرسل إلى Mi للمراجعة.</string>
   <string name="security_alert_dialog_title">إبلاغ</string>
