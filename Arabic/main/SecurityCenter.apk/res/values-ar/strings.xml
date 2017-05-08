@@ -1398,7 +1398,6 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="traffic_limit_error_alert_title">تذكير حد البيانات %s</string>
   <string name="traffic_none">بدون</string>
   <string name="traffic_over_purchase_body">أنقر لعرض التفاصيل.</string>
-  <string name="traffic_over_purchase_link">"تجاوزت حد استخدام بيانات خطة جوالك.<br/>إذا استخدمت الحد الأقصى للبيانات، فقد يفرض مشغل شبكة الجوال رسوما إضافية عليك.<br/><br/>&lt;font color='#ccffffff'&gt;<U>انقر على رصيدك.</U>&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">تم تجاوز حد الاستخدام</string>
   <string name="traffic_purchase_body">اضغط إعادة شحن رصيدك.</string>
   <string name="traffic_purchse_suggestion">إعادة شحن بيانات جوال</string>
