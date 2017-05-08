@@ -112,14 +112,6 @@
     <item>كبيرة</item>
     <item>ضخم</item>
   </string-array>
-  <string-array name="entryvalues_font_size">
-    <item>صغيرة</item>
-    <item>عادي</item>
-    <item>متوسطة</item>
-    <item>كبيرة</item>
-    <item>ضخمة</item>
-    <item>غدزيلا</item>
-  </string-array>
   <string-array name="tts_rate_entries">
     <item>بطيئة جدا</item>
     <item>بطيئة</item>
@@ -172,19 +164,6 @@
     <item>spa</item>
     <item>kor</item>
   </string-array>
-  <string-array name="wifi_security">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wep</item>
-    <item>@string/wifi_security_psk_generic</item>
-    <item>@string/wifi_security_eap</item>
-  </string-array>
-  <string-array name="wifi_security_no_eap">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wep</item>
-    <item>@string/wifi_security_psk_generic</item>
-    <item>WAPI PSK</item>
-    <item>WAPI CERT</item>
-  </string-array>
   <string-array name="wifi_ap_security">
     <item>@string/wifi_security_none</item>
     <item>@string/wifi_security_wpa2</item>
@@ -203,13 +182,6 @@
     <item>TLS</item>
     <item>TTLS</item>
     <item>PWD</item>
-  </string-array>
-  <string-array name="wifi_ap_band_config_full">
-    <item>@string/wifi_ap_choose_2G</item>
-    <item>@string/wifi_ap_choose_5G</item>
-  </string-array>
-  <string-array name="wifi_ap_band_config_2G_only">
-    <item>@string/wifi_ap_choose_2G</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Push button</item>
@@ -541,17 +513,6 @@
     <item>Raised</item>
     <item>Depressed</item>
   </string-array>
-  <string-array name="captioning_color_selector_titles">
-    <item>@string/color_unspecified</item>
-    <item>@string/color_white</item>
-    <item>@string/color_black</item>
-    <item>@string/color_red</item>
-    <item>@string/color_yellow</item>
-    <item>@string/color_green</item>
-    <item>@string/color_cyan</item>
-    <item>@string/color_blue</item>
-    <item>@string/color_magenta</item>
-  </string-array>
   <string-array name="captioning_opacity_selector_titles">
     <item>25%</item>
     <item>50%</item>
@@ -797,22 +758,10 @@
     <item>Critical</item>
     <item>\?</item>
   </string-array>
-  <string-array name="daltonizer_type_entries">
-    <item>@string/daltonizer_mode_deuteranomaly</item>
-    <item>@string/daltonizer_mode_protanomaly</item>
-    <item>@string/daltonizer_mode_tritanomaly</item>
-  </string-array>
   <string-array name="daltonizer_type_values">
     <item>12</item>
     <item>11</item>
     <item>13</item>
-  </string-array>
-  <string-array name="simulate_color_space_entries">
-    <item>@string/daltonizer_mode_disabled</item>
-    <item>@string/daltonizer_mode_monochromacy</item>
-    <item>@string/daltonizer_mode_deuteranomaly</item>
-    <item>@string/daltonizer_mode_protanomaly</item>
-    <item>@string/daltonizer_mode_tritanomaly</item>
   </string-array>
   <string-array name="simulate_color_space_values">
     <item>-1</item>
@@ -852,7 +801,7 @@
     <item>Red</item>
   </string-array>
   <string-array name="usb_configuration_titles">
-    <item>@string/usb_use_charging_only</item>
+    <item>تحميل</item>
     <item>MTP (Media Transfer Protocol)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
@@ -867,20 +816,10 @@
     <item>audio_source</item>
     <item>midi</item>
   </string-array>
-  <string-array name="night_mode_entries">
-    <item>@string/night_mode_no</item>
-    <item>@string/night_mode_yes</item>
-    <item>@string/night_mode_auto</item>
-  </string-array>
   <string-array name="night_mode_values">
     <item>1</item>
     <item>2</item>
     <item>0</item>
-  </string-array>
-  <string-array name="input_method_selector_titles">
-    <item>@string/input_method_selector_show_automatically_title</item>
-    <item>@string/input_method_selector_always_show_title</item>
-    <item>@string/input_method_selector_always_hide_title</item>
   </string-array>
   <string-array name="input_method_selector_values">
     <item>@string/input_method_selector_show_automatically_value</item>
@@ -990,23 +929,6 @@
     <item>سماوي</item>
     <item>أبيض</item>
     <item>بنفسجي</item>
-  </string-array>
-  <string-array name="always_enabled_app_list">
-    <item>com.android.providers.applications</item>
-    <item>com.android.providers.calendar</item>
-    <item>com.android.providers.contacts</item>
-    <item>com.android.providers.downloads</item>
-    <item>com.android.providers.drm</item>
-    <item>com.android.providers.media</item>
-    <item>com.android.providers.telephony</item>
-    <item>com.android.providers.userdictionary</item>
-    <item>com.miui.providers.userbook</item>
-    <item>com.miui.providers.weather</item>
-    <item>com.miui.yellowpage</item>
-    <item>com.miui</item>
-    <item>com.android.htmlviewer</item>
-    <item>com.google.android.packageinstaller</item>
-    <item>com.miui.core</item>
   </string-array>
   <string-array name="wifi_security_only_wapi_cert_entries">
     <item>WAPI CERT</item>
@@ -1225,12 +1147,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>1</item>
     <item>2</item>
   </string-array>
-  <string-array name="change_security_lock_picker_key">
-    <item>facial</item>
-    <item>pattern</item>
-    <item>numerical</item>
-    <item>mixed</item>
-  </string-array>
   <string-array name="change_security_lock_picker">
     <item>إلغاء قفل الوجه</item>
     <item>نقش</item>
@@ -1440,10 +1356,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>عالية جدا (2k)</item>
     <item>عادي (720 بكسل)</item>
   </string-array>
-  <string-array name="screen_resolution_values">
-    <item>1440</item>
-    <item>720</item>
-  </string-array>
   <string-array name="miui_entries_font_size">
     <item>صغير</item>
     <item>متوسط</item>
@@ -1631,14 +1543,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>com_miui_applicatinlock_use_fingerprint_state</item>
     <item>security_core_add</item>
   </string-array>
-  <string-array name="common_password_business_clickable_default">
-    <item>true</item>
-    <item>true</item>
-    <item>true</item>
-    <item>false</item>
-    <item>true</item>
-    <item>false</item>
-  </string-array>
   <string-array name="common_password_business_names">
     <item>شاشة القفل</item>
     <item>كلمة مرور الخصوصية</item>
@@ -1652,12 +1556,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>٢٠ ثانية</item>
     <item>٣٠ ثانية</item>
     <item>١دقيقة</item>
-  </string-array>
-  <string-array name="anr_record_interval_values">
-    <item>10</item>
-    <item>20</item>
-    <item>30</item>
-    <item>60</item>
   </string-array>
   <string-array name="screen_button_style">
     <item>نمط اليد اليسرى</item>
