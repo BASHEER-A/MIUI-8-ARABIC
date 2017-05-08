@@ -38,7 +38,7 @@
     <item>JIS_B5</item>
   </string-array>
   <string-array name="color_mode_labels">
-    <item>Black & White</item>
+    <item>Black &amp; White</item>
     <item>لون</item>
   </string-array>
   <string-array name="duplex_mode_labels">
