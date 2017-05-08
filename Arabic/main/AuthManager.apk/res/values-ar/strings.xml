@@ -53,12 +53,12 @@
   <string name="Generic_UserApp">تم تنزيل (%d)</string>
   <string name="Generic_Version">الإصدار %1$s</string>
   <string name="HIPS_Action_Accept">السماح</string>
-  <string name="HIPS_Action_Accept_Colored"><font color=#478800>السماح</font></string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;السماح&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">السماح مرة واحدة</string>
   <string name="HIPS_Action_Prompt">مطالبة</string>
-  <string name="HIPS_Action_Prompt_Colored"><font color=#FF8A00>Prompt</font></string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">رفض</string>
-  <string name="HIPS_Action_Reject_Colored"><font color=#DF0000>Deny</font></string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">رفض مرة واحدة</string>
   <string name="HIPS_Group_DataPrivacy">الخصوصية</string>
   <string name="HIPS_Group_Expense">الحماية</string>
