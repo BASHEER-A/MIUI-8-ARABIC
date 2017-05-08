@@ -2807,7 +2807,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="reset_network_button_text">إعادة تعيين الإعدادات</string>
   <string name="reset_network_complete_toast">تم إعادة تعيين إعدادات شبكة الاتصال</string>
   <string name="reset_network_confirm_title">إعادة تعيين؟</string>
-  <string name="reset_network_desc">\"هذا إلى إعادة تعيين كافة إعدادات شبكة الاتصال، بما في ذلك:\" <li> خدمة &amp; #8209؛ </Li > وأي فأي \"\" <li> البيانات الخلوية </li> \"\" <li> </li> بلوتوث;</string>
+  <string name="reset_network_desc">\"هذا إلى إعادة تعيين كافة إعدادات شبكة الاتصال، بما في ذلك:\" <li> خدمة &amp; #8209؛ </li> وأي فأي \"\" <li> البيانات الخلوية </li> \"\" <li> </li> بلوتوث;</string>
   <string name="reset_network_final_button_text">إعادة تعيين الإعدادات</string>
   <string name="reset_network_final_desc">إعادة تعيين كافة إعدادات شبكة الاتصال؟ لا يمكنك التراجع عن هذا الإجراء!</string>
   <string name="reset_network_title">إعادة تعيين إعدادات شبكة الاتصال</string>
@@ -3617,7 +3617,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
-  <string name="supl_not_set"><غير معين></string>
+  <string name="supl_not_set">&lt;غير معين&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="suspension_ball_enable">اختصار الكرة السريعة</string>
   <string name="suspension_ball_enable_desc">قم بتشغيل و ايقاف الكرة السريعة باستخدام الاختصار</string>
@@ -3645,7 +3645,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_menu_sync_cancel">إلغاء المزامنة</string>
   <string name="sync_menu_sync_now">مزامنة الآن</string>
   <string name="sync_one_time_sync">على اتصال للمزامنة الآن%1$s</string>
-  <string name="sync_plug"><font fgcolor=\"#ffffffff\">Welcome to Google sync!&lt;/font&gt;\" 
+  <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Welcome to Google sync!&lt;/font&gt;\" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. \"</string>
   <string name="sync_settings">المزامنة</string>
   <string name="sync_wifi_label">Wi-Fi</string>
