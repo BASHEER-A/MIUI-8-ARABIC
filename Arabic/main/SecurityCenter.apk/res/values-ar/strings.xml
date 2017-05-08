@@ -1261,7 +1261,6 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="tc_diagnostic_status_updating">جارٍ الإختبار\u2026</string>
   <string name="tc_diagnostic_success_notification_summary">قم بالابلاغ عن هذا الخلل لمساعدة MIUI تحسين ادوات التشخيص</string>
   <string name="tc_diagnostic_success_notification_title">مشغّل شبكة الجوال والعلامة تجارية صحيحة</string>
-<string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly<br/><br/>Couldn't complete adjustment:<br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.<br/>2. Network assistant wasn't updated.<br/><br/>Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">تشخيص مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_upload_button">الإبلاغ</string>
   <string name="tc_diagnostic_upload_no_network">شكراً لملاحظاتك! سيم تقديم تقريرك عند اتصالك بالشبكة.</string>
