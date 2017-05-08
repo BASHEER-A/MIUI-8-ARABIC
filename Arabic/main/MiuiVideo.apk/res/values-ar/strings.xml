@@ -195,7 +195,7 @@
   <string name="lekan">ليكان</string>
   <string name="letv">Letv</string>
   <string name="live">Live</string>
-  <string name="loading">&lt;CDATA&gt;تحميل &lt;/CDATA&gt;</string>
+  <string name="loading">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">جارٍ التحميل\u2026</string>
   <string name="loading_video_netplay_label_v5">جارٍ التحميل\u2026</string>
   <string name="local_favorite_empty_title">فارغة</string>

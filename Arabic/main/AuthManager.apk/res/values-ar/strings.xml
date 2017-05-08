@@ -254,7 +254,7 @@
   <string name="HIPS_SecurityPrompt_Remember">تذكر التفضيلات</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s يحاول %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d أذونات</string>
- <string name="Privacy_AppPerm_Count_Trust">%1$d الاذونات - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d الأذونات - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">موافق</string>
   <string name="Privacy_App_Installed">تم التثبيت بنجاح</string>
   <string name="Privacy_App_Launch">تشغيل</string>

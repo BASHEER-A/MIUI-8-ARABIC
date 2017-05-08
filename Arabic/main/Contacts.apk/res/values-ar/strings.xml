@@ -748,51 +748,51 @@
 
 	لإضافة جهات اتصال، المس "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
 	 
-	"<b><font fgcolor="#ffffffff"><li>"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
 	"</li>&lt;/font&gt;</b>" 
-	"<b><font fgcolor="#ffffffff"><li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
 	"</li>&lt;/font&gt;</b>" 
-	"<b><font fgcolor="#ffffffff"><li>"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
 	"</li>&lt;/font&gt;</b>"
 	"</string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
 	  <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
 
-	لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">Menu&lt;/font&gt;</b>", then touch:
+	لإضافة جهات اتصال، المس "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
 	 
-	"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Accounts to add or set up an account with contacts you can sync to the phone
 	"</li>&lt;/font&gt;</b>" 
-	"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Display options to change which contacts are visible
 	"</li>&lt;/font&gt;</b>" 
-	"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"New contact to create a new contact from scratch
 	"</li>&lt;/font&gt;</b>" 
-	"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
+	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Import/Export to import contacts from your SIM or SD card
 	"</li>&lt;/font&gt;</b>"
 	"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "<b><font fgcolor="#ffffffff">Menu&lt;/font&gt;</b>", then touch:
+To add contacts, touch "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
  
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Accounts to add or set up an account with contacts you can sync to the phone
 "</li>&lt;/font&gt;</b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"New contact to create a new contact from scratch
 "</li>&lt;/font&gt;</b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Import/Export to import contacts from your SD card
 "</li>&lt;/font&gt;</b>"
 "</string>
 <string name="noContactsNoSimHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
-To add contacts, touch "<b><font fgcolor="#ffffffff">Menu&lt;/font&gt;</b>", then touch:
+To add contacts, touch "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
  
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or set up an account with contacts you can sync to the phone
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Accounts to add or set up an account with contacts you can sync to the phone
 "</li>&lt;/font&gt;</b>" 
-"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Display options to change which contacts are visible
 "</li>&lt;/font&gt;</b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"New contact to create a new contact from scratch
 "</li>&lt;/font&gt;</b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Import/Export to import contacts from your SD card
 "</li>&lt;/font&gt;</b>"
 "</string>
   <string name="noContactsWithPhoneNumbers">لا توجد جهات اتصال بأرقام هاتف</string>

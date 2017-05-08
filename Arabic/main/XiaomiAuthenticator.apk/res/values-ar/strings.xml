@@ -108,7 +108,7 @@
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">سياسة الخصوصية</string>
   <string name="progress_loading">تحميل…</string>
-  <string name="remove_Xiaomi_account_dialog_message">يؤدي إزالة هذا الحساب سوف <b> </b> القدرة على توليد أكواد، بيد أنها سوف <b> لا </b> إيقاف تشغيل التحقق من خطوتين. وهذا قد تمنعك من تسجيل الدخول إلى الحساب الخاص بك. < p > قبل إزالة: < ul >< لي > إيقاف تشغيل التحقق من خطوتين لهذا الحساب، أو </li >< لي > تأكد من أنك تملك إليه بديلة لتوليد أكواد. </li ></ul ></string>
+  <string name="remove_Xiaomi_account_dialog_message">يؤدي إزالة هذا الحساب سوف <b> </b> القدرة على توليد أكواد، بيد أنها سوف <b> لا </b> إيقاف تشغيل التحقق من خطوتين. وهذا قد تمنعك من تسجيل الدخول إلى الحساب الخاص بك. <p> قبل إزالة: <ul><li> إيقاف تشغيل التحقق من خطوتين لهذا الحساب، أو </li><li> تأكد من أنك تملك إليه بديلة لتوليد أكواد. </li></ul></string>
   <string name="remove_account">ازالة الحساب</string>
   <string name="remove_account_dialog_message">"إزالة هذا الحساب سيتم إزالة قدرتك على إنشاء رموز. وهذا قد تمنعك من تسجيل الدخول إلى الحساب الخاص بك. قبل إزالة: — إيقاف 2-عامل التوثيق لهذا الحساب، أو--تأكد من أنك تملك إليه بديلة لتوليد أكواد. "</string>
   <string name="remove_account_dialog_title">ازالة الحساب؟</string>
