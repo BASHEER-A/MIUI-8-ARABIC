@@ -493,11 +493,6 @@
     <item>إظهار المكشوف المناطق</item>
     <item>إظهار المناطق Deuteranomaly</item>
   </string-array>
-  <string-array name="debug_hw_overdraw_values">
-    <item>false</item>
-    <item>show</item>
-    <item>show_deuteranomaly</item>
-  </string-array>
   <string-array name="app_process_limit_entries">
     <item>الحد القياسي</item>
     <item>لا توجد خلفية العمليات</item>
@@ -505,14 +500,6 @@
     <item>في معظم العمليات 2</item>
     <item>في معظم العمليات 3</item>
     <item>في معظم العمليات 3</item>
-  </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
   </string-array>
   <string-array name="vpn_types">
     <item>PPTP</item>
@@ -545,13 +532,6 @@
     <item>الشمبانزي</item>
     <item>القرد</item>
   </string-array>
-  <string-array name="user_content_ratings_values">
-    <item>5</item>
-    <item>4</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
-  </string-array>
   <string-array name="security_settings_premium_sms_values">
     <item>اسأل</item>
     <item>عدم السماح</item>
@@ -563,18 +543,6 @@
     <item>Low</item>
     <item>Critical</item>
     <item>\?</item>
-  </string-array>
-  <string-array name="daltonizer_type_values">
-    <item>12</item>
-    <item>11</item>
-    <item>13</item>
-  </string-array>
-  <string-array name="simulate_color_space_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-    <item>3</item>
   </string-array>
   <string-array name="proc_stats_memory_states">
     <item>Normal</item>
@@ -614,26 +582,9 @@
     <item>Audio Source</item>
     <item>MIDI</item>
   </string-array>
-  <string-array name="usb_configuration_values">
-    <item>none</item>
-    <item>mtp</item>
-    <item>ptp</item>
-    <item>rndis</item>
-    <item>audio_source</item>
-    <item>midi</item>
-  </string-array>
-  <string-array name="night_mode_values">
-    <item>1</item>
-    <item>2</item>
-    <item>0</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>WLAN preferred</item>
     <item>Cellular preferred</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_values">
-    <item>2</item>
-    <item>1</item>
   </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>متوقّف</item>
@@ -641,41 +592,20 @@
     <item>متوسط</item>
     <item>قوي</item>
   </string-array>
-  <string-array name="haptic_feedback_level_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="media_feedback_level_entries">
     <item>قوي</item>
     <item>متوسط</item>
     <item>خفيف</item>
-  </string-array>
-  <string-array name="media_feedback_level_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>رسم بياني</item>
     <item>نسبة مئوية</item>
     <item>شريط علوي</item>
   </string-array>
-  <string-array name="battery_indicator_style_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="usb_connection_mode_entries">
     <item>السؤال عند الاتصال</item>
     <item>الشحن فقط</item>
     <item>  تحميل بطاقة SD </item>
-  </string-array>
-  <string-array name="usb_connection_mode_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="led_freq_entries">
     <item>٢ ثواني</item>
@@ -686,33 +616,6 @@
     <item>7 ثواني</item>
     <item>8 ثواني</item>
     <item>9 ثواني</item>
-  </string-array>
-  <string-array name="led_freq_values">
-    <item>2000</item>
-    <item>3000</item>
-    <item>4000</item>
-    <item>5000</item>
-    <item>6000</item>
-    <item>7000</item>
-    <item>8000</item>
-    <item>9000</item>
-  </string-array>
-  <string-array name="led_color_values">
-    <item>blue</item>
-    <item>red</item>
-    <item>yellow</item>
-    <item>green</item>
-    <item>cyan</item>
-    <item>white</item>
-    <item>\#FFAA00AA</item>
-  </string-array>
-  <string-array name="mi1_led_color_values">
-    <item>blue</item>
-    <item>red</item>
-    <item>green</item>
-    <item>\#FFFF0033</item>
-    <item>\#FF5500FF</item>
-    <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
     <item>أزرق</item>
@@ -754,17 +657,9 @@
     <item>زر الخيارات على جهة اليسار، وزر الرجوع على جهة اليمين</item>
     <item>زر الرجوع على جهة اليسار، وزر الخيارات على جهة اليمين</item>
   </string-array>
-  <string-array name="screen_key_position_action_value">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="screen_key_press_action">
     <item>عرض التطبيقات الأخيرة </item>
     <item>عرض القائمة</item>
-  </string-array>
-  <string-array name="screen_key_press_action_value">
-    <item>recent_panel</item>
-    <item>show_menu</item>
   </string-array>
   <string-array name="screen_key_long_press_action">
     <item>لا شيء</item>
@@ -775,36 +670,16 @@
     <item>تشغيل البحث السريع</item>
     <item>عرض القائمة</item>
   </string-array>
-  <string-array name="screen_key_long_press_action_value">
-    <item>none</item>
-    <item>recent_panel</item>
-    <item>voice_assistant</item>
-    <item>google_now</item>
-    <item>close_app</item>
-    <item>quick_search</item>
-    <item>show_menu</item>
-  </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>٠.٥ ثانية</item>
     <item>١ ثانية</item>
     <item>١.٥ ثانية</item>
     <item>٢ ثواني</item>
   </string-array>
-  <string-array name="screen_key_long_press_timeout_value">
-    <item>500</item>
-    <item>1000</item>
-    <item>1500</item>
-    <item>2000</item>
-  </string-array>
   <string-array name="long_press_volume_down_action">
     <item>None</item>
     <item>Quick snap mode (select in Camera)</item>
     <item>Public transportation shortcuts</item>
-  </string-array>
-  <string-array name="long_press_volume_down_action_value">
-    <item>one</item>
-    <item>Street-snap</item>
-    <item>public_transportation_shortcuts</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>١ ثانية</item>
@@ -813,14 +688,6 @@
     <item>١٠ ثواني</item>
     <item>٢٠ ثانية</item>
     <item>دائما</item>
-  </string-array>
-  <string-array name="button_light_timeout_value">
-    <item>1000</item>
-    <item>2000</item>
-    <item>5000</item>
-    <item>10000</item>
-    <item>20000</item>
-    <item>-1</item>
   </string-array>
   <string-array name="wfd_status">
     <item>بدء جلسة\u2026</item>
@@ -884,19 +751,10 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>"زيادة تباين الشاشة"</item>
     <item>التباين سيظل ثابت</item>
   </string-array>
-  <string-array name="perms_hips_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="perm_hips_action">
     <item>السماح</item>
     <item>اسأل</item>
     <item>رفض</item>
-  </string-array>
-  <string-array name="startup_hips_values">
-    <item>2</item>
-    <item>0</item>
   </string-array>
   <string-array name="startup_hips_action">
     <item>السماح</item>
@@ -906,17 +764,9 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>sRGB</item>
     <item>Native</item>
   </string-array>
-  <string-array name="values_color_calibration">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="phone_call_noise_suppression_title">
     <item>تقليل ضوضاء الميكرفون الواحد</item>
     <item>تقليل ضوضاء الميكرفون المزدوج</item>
-  </string-array>
-  <string-array name="phone_call_noise_suppression_values">
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="change_security_lock_picker">
     <item>إلغاء قفل الوجه</item>
@@ -932,19 +782,6 @@ Note: Only for Ubuntu 8.04!"</item>
   <string-array name="wifi_ssid_type_entries">
     <item>الاتصال تلقائياً</item>
     <item>الاتصال يدوياً</item>
-  </string-array>
-  <string-array name="wifi_connect_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="wifi_ssid_type_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="nfc_se_route_values">
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="preferred_app_entries">
     <item>المُشغل</item>
@@ -1013,10 +850,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>التخزين الداخلي</item>
     <item>وحدة التخزين الخارجية</item>
   </string-array>
-  <string-array name="priority_storage_value">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="tts_rate_xunfei_entries">
     <item>Very slow</item>
     <item>Slow</item>
@@ -1024,53 +857,23 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>Fast</item>
     <item>Faster</item>
   </string-array>
-  <string-array name="tts_rate_xunfei_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
-  </string-array>
   <string-array name="whetstone_level_entries">
     <item>إيقاف</item>
     <item>منخفض</item>
     <item>متوسط</item>
     <item>عالي</item>
   </string-array>
-  <string-array name="whetstone_level_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="agps_network_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="agps_network_entries">
     <item>الشبكة المحلية</item>
     <item>كل الشبكات</item>
-  </string-array>
-  <string-array name="agps_si_mode_values">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="agps_si_mode_entries">
     <item>MSB</item>
     <item>MSA</item>
   </string-array>
-  <string-array name="agps_apn_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="agps_apn_entries">
     <item>CMWAP</item>
     <item>CMNET</item>
-  </string-array>
-  <string-array name="agps_reset_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="agps_reset_type_entries">
     <item>حار</item>
