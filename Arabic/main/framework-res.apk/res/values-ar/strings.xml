@@ -1062,7 +1062,7 @@
   <string name="profile_encrypted_detail">تم قفل الملف الشخصي للعمل.</string>
   <string name="profile_encrypted_message">أنقر لإلغاء قفل الملف الشخصي للعمل</string>
   <string name="progress_erasing">‏جارٍ محو وحدة تخزين USB...</string>
-  <string name="quick_contacts_not_available">لم يتم العثور على تطبيق لعرض جهة الاتصال هذه.</string>
+  <string name="quick_contacts_not_available">تعذر العثور على تطبيق لعرض جهة الاتصال هذه.</string>
   <string name="reason_service_unavailable">خدمة الطباعة ليست ممكّنة</string>
   <string name="reason_unknown">غير معروف</string>
   <string name="reboot_safemode_confirm">هل تريد إعادة تشغيل الكمبيوتر في الوضع الآمن؟ سيؤدي ذلك إلى تعطيل جميع تطبيقات الجهات الخارجية التي تم تثبيتها. ستتم استعادتها عند إعادة التشغيل مرة أخرى.</string>
@@ -1174,7 +1174,7 @@
   <string name="serviceDisabled">تم تعطيل الخدمة.</string>
   <string name="serviceEnabled">تم تمكين الخدمة.</string>
   <string name="serviceEnabledFor">تم تمكين الخدمة لـ:</string>
-  <string name="serviceErased">لم يتم المسح بنجاح.</string>
+  <string name="serviceErased">تعذر المسح بنجاح.</string>
   <string name="serviceNotProvisioned">الخدمة غير متوفرة.</string>
   <string name="serviceRegistered">تم التسجيل بنجاح.</string>
   <string name="setup_autofill">إعداد الملء التلقائي</string>

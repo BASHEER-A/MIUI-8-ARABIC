@@ -728,7 +728,7 @@
   <string name="push_wps_confirm_download">تحميل</string>
   <string name="push_wps_confirm_message">حاول استخدام WPS Office لفتح هذا المرفق.</string>
   <string name="push_wps_confirm_title">حاول WPS Office</string>
-  <string name="push_wps_no_response_app">لم يتم العثور على للتعامل مع هذا العمل تطبيق</string>
+  <string name="push_wps_no_response_app">تعذر العثور على تطبيق للتعامل مع هذا الملف</string>
   <string name="questionnair_body_invisibility">"لا يتم عرض الرسائل"</string>
   <string name="questionnair_confirm_delete">إزالة</string>
   <string name="questionnair_instability">وكثيراً ما يتعطل</string>

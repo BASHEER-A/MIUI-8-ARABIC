@@ -104,7 +104,7 @@
   <string name="calllog_menu_send_sms">إرسال رسالة</string>
   <string name="callrecordview_item_newcontact">جهة اتصال جديدة</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$dد %2$dث</string>
-  <string name="callrecordview_item_op_time_missed">"لم يتم الاتصال"</string>
+  <string name="callrecordview_item_op_time_missed">"تعذر الاتصال"</string>
   <string name="callrecordview_item_op_time_only_minutes">%d دقيقة</string>
   <string name="callrecordview_item_op_time_only_seconds">%d ثانية</string>
   <string name="callrecordview_item_op_time_rejected">مرفوض</string>
@@ -185,7 +185,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">%1$s\n%2$s</string>
   <string name="composer_failed_to_get_database_infomation">"تعذر الحصول على معلومات قاعدة البيانات."</string>
   <string name="composer_has_no_exportable_contact">لا توجد جهات اتصال قابلة للتصدير. إذا كان لديك جهات اتصال على هاتفك، فقد لا يسمح بعض موفري البيانات بتصدير جهات الاتصال من الهاتف.</string>
-  <string name="composer_not_initialized">"لم يتم بدء تشغيل مؤلف vCard بشكل صحيح."</string>
+  <string name="composer_not_initialized">"تعذر بدء تشغيل مؤلف vCard بشكل صحيح."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"></string>
   <string name="config_export_file_extension">vcf</string>
@@ -373,7 +373,7 @@
   <string name="dialer_digits_copy_number_label">الرقم المنسوخ</string>
   <string name="dialer_empty_text_loading">لحظة من فضلك\u2026</string>
   <string name="dialer_empty_text_no_call_log">لا توجد جهات اتصال جديدة</string>
-  <string name="dialer_empty_text_no_search_result">لم يتم العثور على جهات اتصال</string>
+  <string name="dialer_empty_text_no_search_result">تعذر العثور على جهات اتصال</string>
   <string name="dialer_menu_description">عرض القائمة</string>
   <string name="dialer_menu_title">قائمة الخيارات</string>
   <string name="dialer_returnToInCallScreen">العودة إلى المكالمة الحالية</string>
@@ -382,7 +382,7 @@
   <string name="dialog_import_export">استيراد/تصدير جهات الاتصال</string>
   <string name="dialog_new_contact_account">إنشاء جهة الاتصال ضمن الحساب</string>
   <string name="dialog_new_group_account">إنشاء المجموعة ضمن الحساب</string>
-  <string name="dialog_phone_call_prohibited_message">لم يتم إرسال المكالمة</string>
+  <string name="dialog_phone_call_prohibited_message">تعذر إرسال المكالمة</string>
   <string name="dialog_sync_add">إضافة مجموعة المزامنة</string>
   <string name="dialog_voicemail_airplane_mode_message">للاتصال بالبريد الصوتي، عليك بإيقاف تشغيل وضع الطائرة.</string>
   <string name="dialog_voicemail_not_ready_message">لإعداد بريد صوتي، اذهب إلى القائمة > الإعدادات.</string>
@@ -432,7 +432,7 @@
   <string name="export_to_sim_prepare_title">جارٍالتجهيز\u2026</string>
   <string name="export_to_sim_title">جارٍ التصدير\u2026</string>
   <string name="export_vcard_description">"تصدير vCard إلى بطاقة SD"</string>
-  <string name="exporting_contact_failed_message">لم يتم تصدير بيانات جهة الاتصال.n\السبب: \"%s\"</string>
+  <string name="exporting_contact_failed_message">تعذر تصدير بيانات جهة الاتصال.n\السبب: \"%s\"</string>
   <string name="exporting_contact_failed_title">"تعذر التصدير"</string>
   <string name="exporting_contact_list_message">جارٍ التصدير إلى %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s من %s جهة اتصال</string>
@@ -512,7 +512,7 @@
   <string name="import_all_vcard_string">استيراد جميع ملفات vCard</string>
   <string name="import_contact_card_aggregate_suggestion_button">دمج البطاقات</string>
   <string name="import_contact_card_button">استيراد جهات الاتصال</string>
-  <string name="import_failure_no_vcard_file">لم يتم العثور على ملفات vCard في بطاقة SD.</string>
+  <string name="import_failure_no_vcard_file">تعذر العثور على ملفات vCard في بطاقة SD.</string>
   <string name="import_from_onekey_migrate">استيراد بإستخدام ناقل Mi</string>
   <string name="import_from_other_phone">استيراد من هاتف آخر</string>
   <string name="import_from_sdcard">استيراد من وحدة التخزين</string>
@@ -816,7 +816,7 @@ To add contacts, touch "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>
   <string name="no_contacts_dialog_message">"قد تكون جهات الاتصال مخزنة على شريحة SIM الخاصة بك. فحاول استيرادها من شريحة SIM إلى سعة التخزين الداخلية بالهاتف ثم حاول مرة أخرى. "</string>
   <string name="no_contacts_dialog_title">"لا يمكن العثور على جهات الاتصال"</string>
   <string name="no_contacts_selected">لم يتم تحديد أي جهة اتصال.</string>
-  <string name="no_sdcard_message">لم يتم العثور على بطاقة SD.</string>
+  <string name="no_sdcard_message">تعذر العثور على بطاقة SD.</string>
   <string name="no_voip_contacts">لا يوجد جهات اتصال صوت Mi</string>
   <string name="non_phone_add_to_contacts">إضافة لجهة اتصال موجودة</string>
   <string name="non_phone_caption">رقم الهاتف</string>

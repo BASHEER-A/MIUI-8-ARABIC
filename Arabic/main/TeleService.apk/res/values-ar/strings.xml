@@ -444,7 +444,7 @@
   <string name="emergency_enable_radio_dialog_retry">لا توجد خدمة. جار المحاولة مرة اخرى\u2026</string>
   <string name="emergency_enable_radio_dialog_title">مكالمة الطوارئ</string>
   <string name="empty_alert">"%s لا يمكن أن يكون فارغًا."</string>
-  <string name="empty_networks_list">لم يتم العثور على اية شبكة.</string>
+  <string name="empty_networks_list">تعذر العثور على شبكة.</string>
   <string name="enable">تشغيل</string>
   <string name="enable_4G_data">Enable 4G data</string>
   <string name="enable_4G_data_summary">4G can provide better and faster Internet access</string>
@@ -527,7 +527,7 @@
   <string name="fdn_errorcode_storage_info">Failed,storage is full.</string>
   <string name="fdn_errorcode_unknown_info">Failed,unknown error occured,please try later.</string>
   <string name="fdn_failed">فشل عملية FDN.</string>
-  <string name="fdn_full">"لم يتم تحديث FDN لأن القائمة ممتلئة."</string>
+  <string name="fdn_full">"تعذر تحديث FDN لأن القائمة ممتلئة."</string>
   <string name="fdn_invalid_number">"لم يتم تحديث FDN لأن الرقم لا يمكن أن يتجاوز 20 رقمًا."</string>
   <string name="fdn_list_with_label">قائمة FDN  (%s)</string>
   <string name="fdn_phone_book_busy">Phone book is busy now,please try later.</string>
@@ -920,7 +920,7 @@ Top up and start talking"</string>
   <string name="ota_touch_activate">يجب إجراء مكالمة خاصة لتفعيل خدمة هاتفك.
     \n\nبعد الضغط على \u201Cتفعيل\u201D، استمع للتعليمات المقدمة لتفعيل هاتفك.</string>
   <string name="ota_try_again">إعادة المحاولة</string>
-  <string name="ota_unsuccessful">لم يتم تفعيل هاتفك.
+  <string name="ota_unsuccessful">تعذر تفعيل هاتفك.
     \nقد تحتاج إلى البحث عن منطقة بتغطية أفضل (بالقرب من النافذة، أو في الخارج).
     \n\nحاول مرة أخرى أو اتصل بخدمة العملاء لمعرفة المزيد من الخيارات.</string>
   <string name="other">Other</string>
@@ -986,7 +986,7 @@ Top up and start talking"</string>
   <string name="pin2_attempts">\nلديك %d محاولة متبقية.</string>
   <string name="pin2_changed">تم تغيير رمز PIN2 بنجاح.</string>
   <string name="pin2_error_exception">خطأ في الشبكة او في شريحة SIM</string>
-  <string name="pin2_invalid">"لم يتم تحديث FDN لأنك أدخلت رمز PIN غير صحيح."</string>
+  <string name="pin2_invalid">"تعذر تحديث FDN لأنك أدخلت رمز PIN غير صحيح."</string>
   <string name="pin2_invalid_or_name_is_too_long">لقد أدخلت رمز PIN غير صحيح أو الاسم الذي أدخلته طويل جدًا.</string>
   <string name="pin2_lock_warning">\nسيتم قفل الوظائف المتعلقة برمز PIN2 بعد محاولة فاشلة أخرى.</string>
   <string name="pin2_or_fdn_invalid">"FDN لم تكن محدثة. رمز PIN2 كان غير صحيح, أو تم رفض رقم الهاتف."</string>

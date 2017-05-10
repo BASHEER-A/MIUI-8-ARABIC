@@ -54,7 +54,7 @@
   <string name="adb_install_no_network">قم بالاتصال بالإنترنت ثم حاول مجدداً</string>
   <string name="adb_install_open">جار السماح\u2026</string>
   <string name="adb_install_open_error">"تعذر السماح، تحقق من اتصال الشبكة"</string>
-  <string name="adb_install_reject_notiy">"لم يتم السماح بتثبيت %s عبر USB"</string>
+  <string name="adb_install_reject_notiy">"تعذر السماح بتثبيت %s عبر USB"</string>
   <string name="adb_install_reject_notiy_desc">يمكنك السماح التثبيت عبر USB في خيارات المطور</string>
   <string name="adb_login_xiaomi_account">قم بتسجيل الدخول لحساب Mi أولاً</string>
   <string name="add_miservice_dialog_content">"يتطلب %s منك إضافة إطار عمل خدمة MIUI إلى قائمة الاستثناءات. ربما تتلقى إشعارات من تطبيقات MIUI الافتراضية والتطبيقات الأخرى التابعة للغير."</string>
@@ -92,7 +92,7 @@
   <string name="app_check_optimize_title">تحسين أنشطة الخلفية</string>
   <string name="app_check_reason_background_cpu">نشاط خلفية CPU</string>
   <string name="app_check_reason_background_gps">GPS يعمل في الخلفية</string>
-  <string name="app_check_reason_wakelock">لم يتم تعيين وقت سكون النظام</string>
+  <string name="app_check_reason_wakelock">تعذر تعيين وقت سكون النظام</string>
   <string name="app_check_reason_wakeup_alarm">قفل الشاشة يستيقظ بشكل متكرر</string>
   <string name="app_check_reason_wifi_scan">فحوصات الـWi-Fi المُتكررة</string>
   <string name="app_check_sub_title_text">تحسين التطبيقات لحل مشاكل البطارية</string>
@@ -102,7 +102,7 @@
   <string name="app_name">قفل التطبيقات</string>
   <string name="app_name_na">استخدام البيانات</string>
   <string name="app_name_securitycenter">الحماية</string>
-  <string name="app_not_installed_toast">"لم يتم تثبيت التطبيق على جهازك."</string>
+  <string name="app_not_installed_toast">"تعذر تثبيت التطبيق على جهازك."</string>
   <string name="app_version">الإصدار</string>
   <string name="app_wifi">شبكة Wi-Fi</string>
   <string name="apps_item_sign_dialog_content">"توقيع %s يختلف عن النسخة في متجر التطبيقات. هل تريد حذف هذا التطبيق وتثبيت الإصدار الرسمي؟ ملاحظة: تثبيت التطبيق مع توقيع متضارب قد يؤدي إلى فقدان بيانات التطبيق."</string>

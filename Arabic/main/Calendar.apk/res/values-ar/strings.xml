@@ -307,7 +307,7 @@
   <string name="preferences_alerts_vibrate_title">اهتزاز مع نغمة الرنين</string>
   <string name="preferences_category_account_title">حساب</string>
   <string name="preferences_category_general_title">الإعدادات العامة</string>
-  <string name="preferences_clear_search_history_summary">"إزالة كافة عمليات البحث كنت قد أنجزت"</string>
+  <string name="preferences_clear_search_history_summary">"إزالة كافة عمليات البحث المنجزة"</string>
   <string name="preferences_clear_search_history_title">تاريخ مسح البحث</string>
   <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_general_title">طريقة عرض التقويم الإعداد</string>

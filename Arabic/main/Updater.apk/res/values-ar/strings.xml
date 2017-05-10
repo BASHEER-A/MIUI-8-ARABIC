@@ -139,7 +139,7 @@
   <string name="notification_delay_update_cancel">"عدم القيام بتحديث الليلة"</string>
   <string name="notification_delay_update_low_power">يبدو أن البطارية كانت منخفضة في الليل</string>
   <string name="notification_delay_update_msg">سيتم إعادة تشغيل الجهاز و التحديث في %s ثانية</string>
-  <string name="notification_delay_update_no_update">"لم يتم تطبيق التحديثات"</string>
+  <string name="notification_delay_update_no_update">"تعذر تطبيق التحديثات"</string>
   <string name="notification_delay_update_shutdown">يبدو أن الجهاز كان مغلق في الليل</string>
   <string name="notification_downloading">جارٍ تنزيل التحديث\u2026</string>
   <string name="notification_fail_msg">حاول تنزيل حزمة التشغيل كاملة</string>

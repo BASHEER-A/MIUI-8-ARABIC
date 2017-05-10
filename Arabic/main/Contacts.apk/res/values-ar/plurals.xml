@@ -18,20 +18,20 @@
     <item quantity="other">تم نسخ %1$d جهة اتصال</item>
   </plurals>
   <plurals name="listTotalPhoneContacts">
-    <item quantity="zero">اتصالات %d مع أرقام الهاتف</item>
-    <item quantity="other">اتصالات %d مع أرقام الهاتف</item>
-    <item quantity="one">اتصالات %d مع أرقام الهاتف</item>
-    <item quantity="two">اتصالات %d مع أرقام الهاتف</item>
-    <item quantity="few">اتصالات %d مع أرقام الهاتف</item>
-    <item quantity="many">اتصالات %d مع أرقام الهاتف</item>
+    <item quantity="zero">%d جهة اتصال مع أرقام الهاتف</item>
+    <item quantity="other">%d جهة اتصال مع أرقام الهاتف</item>
+    <item quantity="one">%d جهة اتصال مع أرقام الهاتف</item>
+    <item quantity="two">%d جهة اتصال مع أرقام الهاتف</item>
+    <item quantity="few">%d جهة اتصال مع أرقام الهاتف</item>
+    <item quantity="many">%d جهة اتصال مع أرقام الهاتف</item>
   </plurals>
   <plurals name="listTotalAllContacts">
-    <item quantity="zero">اتصالات %d</item>
-    <item quantity="other">اتصالات %d</item>
-    <item quantity="one">اتصالات %d</item>
-    <item quantity="two">اتصالات %d</item>
-    <item quantity="few">اتصالات %d</item>
-    <item quantity="many">اتصالات %d</item>
+    <item quantity="zero">%d جهة اتصال</item>
+    <item quantity="other">%d جهة اتصال</item>
+    <item quantity="one">%d جهة اتصال</item>
+    <item quantity="two">%d جهة اتصال</item>
+    <item quantity="few">%d جهة اتصال</item>
+    <item quantity="many">%d جهة اتصال</item>
   </plurals>
   <plurals name="listFoundAllContacts">
     <item quantity="zero">العثور على %d</item>

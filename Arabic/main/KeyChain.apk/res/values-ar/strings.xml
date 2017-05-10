@@ -8,6 +8,6 @@
   <string name="install_new_cert_message">يمكنك تثبيت شهادات من ملف PKCS #12 مع %1$s أو ملحق %2$s الموجودة في وحدة التخزين الخارجية.</string>
   <string name="requesting_application">%s التطبيق طلب شهادة. وسوف تتيح اختيار شهادة التطبيق استخدام هذه الهوية مع ملقمات الآن وفي المستقبل.</string>
   <string name="requesting_server">حدد التطبيق الملقم الطالبة ك %s، ولكن يجب أن تعطي فقط الوصول إلى التطبيق بالشهادة إذا كنت تثق في التطبيق.</string>
-  <string name="title_no_certs">لم يتم العثور على شهادات</string>
+  <string name="title_no_certs">تعذر العثور على شهادات</string>
   <string name="title_select_cert">اختيار شهادة</string>
 </resources>

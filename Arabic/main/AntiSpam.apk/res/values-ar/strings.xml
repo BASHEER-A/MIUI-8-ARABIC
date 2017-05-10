@@ -15,7 +15,7 @@
   <string name="AD_SCANNING">جارٍ المسح\u2026</string>
   <string name="AD_SCAN_BUTTON">مسح</string>
   <string name="AD_TITLE_COUNT">%d تطبيقات تحتوي على إعلانات</string>
-  <string name="AD_TITLE_NON_COUNT">لم يتم اكتشاف عن إعلانات</string>
+  <string name="AD_TITLE_NON_COUNT">لم يتم اكتشاف أي إعلانات</string>
   <string name="AD_Unistall">إلغاء التثبيت</string>
   <string name="Call_ADRESS">قائمة الحظر المناطق</string>
   <string name="Call_BLACKLIST">قائمة حظر المكالمات</string>

@@ -138,11 +138,11 @@
     <item quantity="many">%1$d يوم</item>
   </plurals>
   <plurals name="des_running_trans">
-    <item quantity="zero">"%1$d ملف لم يتم نقله."</item>
-    <item quantity="other">"%1$d ملف لم يتم نقله."</item>
-    <item quantity="one">"%1$d ملف لم يتم نقله."</item>
-    <item quantity="two">"%1$d ملفات لم يتم نقلها."</item>
-    <item quantity="few">"%1$d ملفات لم يتم نقلها."</item>
-    <item quantity="many">"%1$d ملف لم يتم نقله."</item>
+    <item quantity="zero">"%1$d ملف تعذر نقله."</item>
+    <item quantity="other">"%1$d ملف تعذر نقله."</item>
+    <item quantity="one">"%1$d ملف تعذر نقله."</item>
+    <item quantity="two">"%1$d ملفات تعذر نقلها."</item>
+    <item quantity="few">"%1$d ملفات تعذر نقلها."</item>
+    <item quantity="many">"%1$d ملف تعذر نقله."</item>
   </plurals>
 </resources>

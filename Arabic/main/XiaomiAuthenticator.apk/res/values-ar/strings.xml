@@ -5,7 +5,7 @@
   <string name="about_preference_title">حول</string>
   <string name="acknowledge_btn">واعترف</string>
   <string name="action_settings">الإعدادات</string>
-  <string name="activation_page">لم يتم تنشيط</string>
+  <string name="activation_page">تعذر تنشيط</string>
   <string name="activation_page_btn_txt">تفعيل</string>
   <string name="activation_page_info">قم بتسجيل الدخول إلى حسابك Mi لتنشيط الدخول</string>
   <string name="add_account_menu_item">إضافة حساب</string>

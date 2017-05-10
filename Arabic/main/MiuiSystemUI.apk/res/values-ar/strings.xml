@@ -49,7 +49,7 @@
   <string name="accessibility_wimax_signal_full">اشارة WiMAX كاملة.</string>
   <string name="accessibility_wimax_three_bars">ثلاث أشارات WiMAX.</string>
   <string name="accessibility_wimax_two_bars">أشارتين WiMAX.</string>
-  <string name="account_info">لم يتم تسجيل الدخول</string>
+  <string name="account_info">تعذر تسجيل الدخول</string>
   <string name="activate_usb_message">لتفعيل هذه الميزة، أدخل شريحة SIM.</string>
   <string name="activate_usb_title">تفعيل USB</string>
   <string name="always_use_accessory">استخدام افتراضياً لملحق USB هذا</string>
@@ -348,7 +348,7 @@
   <string name="wifi_disabled_password_failure">مشكلة المصادقة</string>
   <string name="wifi_disabled_wifi_failure">فشل الاتصال بالـ Wi-Fi</string>
   <string name="wifi_fail_to_scan">"يتعذر البحث عن للشبكات"</string>
-  <string name="wifi_no_internet">"لا \"لم يتم الوصول إلى الإنترنت\"، لن يعاد الاتصال تلقائياً."</string>
+  <string name="wifi_no_internet">"لا \"تعذر الوصول إلى الإنترنت\"، لن يعاد الاتصال تلقائياً."</string>
   <string name="wifi_not_in_range">ليس في النطاق</string>
   <string name="wifi_remembered">حفظ</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>

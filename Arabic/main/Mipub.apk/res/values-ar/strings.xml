@@ -232,7 +232,7 @@
   <string name="type_to_compose_text_or_leave_blank">اكتب الرسالة، أو اترك فارغًا</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">فيديو</string>
-  <string name="undelivered_msg_dialog_title">رسالة لم يتم تسليمها</string>
+  <string name="undelivered_msg_dialog_title">رسالة تعذر تسليمها</string>
   <string name="unstick">إلغاء تثبيت</string>
   <string name="unsticked_conversation">تم إلغاء تثبيت المحادثة بالفعل</string>
   <string name="unsupported_media_format">صيغة %1$s غير مدعومة.</string>

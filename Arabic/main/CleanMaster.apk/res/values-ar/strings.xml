@@ -166,7 +166,7 @@
   <string name="empty_content_no_ignore_image">فارغ</string>
   <string name="empty_content_no_privacy">فارغ</string>
   <string name="empty_content_no_similar_image">لا يوجد صور</string>
-  <string name="empty_title_ad">لم يتم العثور على أية ملفات مهملة</string>
+  <string name="empty_title_ad">تعذر العثور على ملفات مهملة</string>
   <string name="empty_title_apk">لا توجد حزم التثبيت</string>
   <string name="empty_title_garbage_cache">لا شيء لمسح</string>
   <string name="empty_title_garbage_white_list">اضغط لفترة طويلة على العناصر لإضافتها إلى الاستثناءات.</string>

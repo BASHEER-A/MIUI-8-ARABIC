@@ -164,7 +164,7 @@
   <string name="non_ivr_menu_collapse_menu">تقليص القائمة</string>
   <string name="non_ivr_menu_view_menu">عرض القائمة</string>
   <string name="not_activate_sim_card_content">قم بتأكيد رقم هاتفك لبدء استخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
-  <string name="not_activate_sim_card_content_title">لم يتم التحقق من رقم الهاتف</string>
+  <string name="not_activate_sim_card_content_title">تعذر التحقق من رقم الهاتف</string>
   <string name="not_activate_sim_card_content_with_operator">قم بالتحقق من شريحة SIM%1$s (%2$s) للقيام بمكالمة باستخدام حزمة إعادة الشحن. مازال يمكنك القيام بمكالمات عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_support_message">تعذر الاتصال بهذا الرقم. التبديل إلى مكالمه عادية حيث سيتم فرض رسومها عليك من قبل شركة الاتصالات.</string>
   <string name="not_support_title">هذا الرقم غير مدعوم</string>

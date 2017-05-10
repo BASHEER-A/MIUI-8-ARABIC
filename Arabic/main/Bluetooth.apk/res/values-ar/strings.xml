@@ -148,7 +148,7 @@
   <string name="unknown_file_desc">"ليس هناك أي التطبيق للتعامل مع هذا النوع من الملفات. "</string>
   <string name="update_record">تأكيد التسجيل</string>
   <string name="upload_fail_cancel">قم بإغلاق</string>
-  <string name="upload_fail_line1">"لم يتم إرسال الملف إلى \"%1$s\"."</string>
+  <string name="upload_fail_line1">"تعذر إرسال الملف إلى \"%1$s\"."</string>
   <string name="upload_fail_line1_2">الملف: %1$s</string>
   <string name="upload_fail_ok">حاول مرة أخرى</string>
   <string name="upload_fail_waiting">إعداد ملف إرسال الجارية، إعادة الإرسال التلقائي في وقت لاحق</string>

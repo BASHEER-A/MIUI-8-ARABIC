@@ -62,7 +62,7 @@
   <string name="move_failed_retry">"لا يمكن القص، انتظر %1$s ثم حاول مجدداً"</string>
   <string name="need_get_accounts_permission">يحتاج Mi Drive للدخول لحسابك للعمل بشكل طبيعي.</string>
   <string name="never_notify">"عدم الإظهار مرة أخرى"</string>
-  <string name="no_app_found_to_open_file">لم يتم العثور على أي تطبيق للتعامل مع هذا الإجراء.</string>
+  <string name="no_app_found_to_open_file">تعذر العثور على أي تطبيق للتعامل مع هذا الإجراء.</string>
   <string name="no_more_space">لا يوجد مساحة تخزين كافية.</string>
   <string name="no_network">"تعذر الاتصال بالشبكة. تحقق من اتصال البيانات الخاصة بك ثم حاول مرة أخرى."</string>
   <string name="no_tasks">لا توجد مهام</string>
