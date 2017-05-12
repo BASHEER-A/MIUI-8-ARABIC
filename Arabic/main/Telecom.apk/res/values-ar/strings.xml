@@ -67,7 +67,7 @@
   <string name="callFailed_server_unreachable">الملقم غير قابلة للوصول</string>
   <string name="callFailed_service_option_not_available"></string>
   <string name="callFailed_service_or_option_not_implemented"></string>
-  <string name="callFailed_simError">لا يوجد SIM أو شريحة SIM خطأ</string>
+  <string name="callFailed_simError">شريحة SIM خاطئة أو غير موجودة</string>
   <string name="callFailed_switching_equipment_congestion"></string>
   <string name="callFailed_tempopary_failure"></string>
   <string name="callFailed_timedOut">No response, timed out</string>
@@ -97,21 +97,21 @@
   <string name="dialpad_1_labels"></string>
   <string name="dialpad_1_letters"></string>
   <string name="dialpad_2_labels"></string>
-  <string name="dialpad_2_letters">ABC</string>
+  <string name="dialpad_2_letters">ب ت ث ة</string>
   <string name="dialpad_3_labels"></string>
-  <string name="dialpad_3_letters">DEF</string>
+  <string name="dialpad_3_letters">ء ا أ ى</string>
   <string name="dialpad_4_labels"></string>
-  <string name="dialpad_4_letters">GHI</string>
+  <string name="dialpad_4_letters">س ش ص ض</string>
   <string name="dialpad_5_labels"></string>
-  <string name="dialpad_5_letters">JKL</string>
+  <string name="dialpad_5_letters">د ذ ر ز</string>
   <string name="dialpad_6_labels"></string>
-  <string name="dialpad_6_letters">MNO</string>
+  <string name="dialpad_6_letters">ج ح خ</string>
   <string name="dialpad_7_labels"></string>
-  <string name="dialpad_7_letters">PQRS</string>
+  <string name="dialpad_7_letters">ن هـ و ي</string>
   <string name="dialpad_8_labels"></string>
-  <string name="dialpad_8_letters">TUV</string>
+  <string name="dialpad_8_letters">ف ق ك ل م</string>
   <string name="dialpad_9_labels"></string>
-  <string name="dialpad_9_letters">WXYZ</string>
+  <string name="dialpad_9_letters">ط ظ ع غ</string>
   <string name="dialpad_pound_labels"></string>
   <string name="dialpad_pound_letters"></string>
   <string name="dialpad_pound_number">\#</string>
@@ -207,5 +207,5 @@ unconditional activated"</string>
   <string name="voice_dial_out">مكالمة صوتية</string>
   <string name="voice_report_incoming_call">اتصال</string>
   <string name="voice_report_unknown_num">رقم مجهول</string>
-  <string name="volte_ss_not_available_tips">To complete the operation, you need to open data connection of %s.</string>
+  <string name="volte_ss_not_available_tips">%s لإكمال العملية، تحتاج إلى اتصال البيانات من</string>
 </resources>
