@@ -109,16 +109,8 @@
   <string name="miui_summary_no_new_version">لا توجد تحديثات متاحة</string>
   <string name="miui_summary_now_version">"تعذر الاتصال بالشبكة"</string>
   <string name="miui_summary_slogan">"  
- :::..اللغة العربية..:::
-\n
- ..:::عبدالله المطيري:::..\n
- ..:::السعودية:::..\n
- ..:::بشير أحمد:::..\n
- ..:::العراق:::..\n
  ..:::تواصلوا معنا للتطوير والتعريب:::..\n
-\n
   www.mi2ar.com
-
  "</string>
   <string name="miui_summary_updating">"  جارٍ التحديث\u2026  "</string>
   <string name="monthly_build">شهري</string>
