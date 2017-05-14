@@ -2647,11 +2647,11 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="privacy_password_confirm_use_finger">فتح مع بصمة الإصبع</string>
   <string name="privacy_password_fingerprint_confirm_failed">"تعذر التحقق من بصمات الأصابع"</string>
   <string name="privacy_password_fingerprint_confirm_succes">التحقق من بصمات الأصابع</string>
-  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
-  <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
-  <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
-  <string name="privacy_password_settings">Use Privacy protection password</string>
-  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"تعذر التحقق من بصمة الإصبع، أعد المحاولة"</string>
+  <string name="privacy_password_fingerprint_dialog_message">ضع إصبعك على جهاز الاستشعار</string>
+  <string name="privacy_password_fingerprint_dialog_title">مسح بصمة إصبعك</string>
+  <string name="privacy_password_settings">استخدام كلمة المرور لحماية الخصوصية</string>
+  <string name="privacy_password_settings_titles">حماية الخصوصية كلمة السر تحمي الرسائل والصور والملفات والملاحظات.</string>
   <string name="privacy_password_title">كلمة مرور حماية الخصوصية</string>
   <string name="privacy_password_transparent_tiltle"></string>
   <string name="privacy_password_visible_pattern">إظهار نمط</string>
