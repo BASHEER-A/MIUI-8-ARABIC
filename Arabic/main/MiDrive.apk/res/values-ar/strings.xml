@@ -30,7 +30,7 @@
   <string name="download_failed">"تعذر التنزيل"</string>
   <string name="downloading">جارٍ التنزيل</string>
   <string name="downloading_in_3g">جارٍ التنزيل بـ 3G\u2026</string>
-  <string name="downloading_in_wifi">جار التنزيل\u2026</string>
+  <string name="downloading_in_wifi">جارٍ التنزيل\u2026</string>
   <string name="empty_file_download">"الملفات الفارغة غير مدعومة."</string>
   <string name="empty_file_upload">"الملفات الفارغة غير مدعومة."</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
@@ -93,7 +93,7 @@
   <string name="operation_refresh">تحديث</string>
   <string name="operation_rename">إعادة التسمية</string>
   <string name="operation_rename_message">إعادة تسمية المجلد</string>
-  <string name="operation_renaming">جار إعادة التسمية\u2026</string>
+  <string name="operation_renaming">جارٍ إعادة التسمية\u2026</string>
   <string name="operation_resume">بدء</string>
   <string name="operation_resume_all">استئناف الكل</string>
   <string name="operation_save">إرسال</string>

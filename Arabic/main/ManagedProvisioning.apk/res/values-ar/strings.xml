@@ -52,8 +52,8 @@
   <string name="profile_owner_cancel_cancel">لا</string>
   <string name="profile_owner_cancel_message">إيقاف الإعداد؟</string>
   <string name="profile_owner_cancel_ok">موافق</string>
-  <string name="profile_owner_cancelling">جار الإلغاء...</string>
-  <string name="progress_connect_to_wifi">جار الاتصال بالـwi-fi...</string>
+  <string name="profile_owner_cancelling">جارٍ الإلغاء...</string>
+  <string name="progress_connect_to_wifi">جارٍ الاتصال بالـwi-fi...</string>
   <string name="progress_data_process">Processing setup data…</string>
   <string name="progress_download">Downloading the admin app…</string>
   <string name="progress_install">Installing the admin app…</string>

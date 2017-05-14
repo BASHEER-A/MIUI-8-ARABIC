@@ -73,11 +73,11 @@
   <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الهاتف لتشغيل الأغاني</string>
   <string name="back_confirm">أنقر مرة اخرى للخروج من التطبيق</string>
   <string name="baidu_music">موسيقى Baidu</string>
-  <string name="being_disable_auto_payment">جار إيقاف التفعيل\u2026</string>
+  <string name="being_disable_auto_payment">جارٍ إيقاف التفعيل\u2026</string>
   <string name="being_enable_auto_payment">جارٍ التفعيل\u2026</string>
   <string name="bill_list_fragment_title">قوائم</string>
   <string name="billboard_song_subtitle">— %s</string>
-  <string name="bluetooth_device">جهاز صوت البلوتوث</string>
+  <string name="bluetooth_device">جهاز صوت الـbluetooth</string>
   <string name="buffering">تخزين مؤقت\u2026</string>
   <string name="button_add">إضافة</string>
   <string name="button_cancel_download">إلغاء الأمر</string>
@@ -578,7 +578,7 @@
   <string name="radar_click_to_retry">أنقر للمحاولة مرة أخرى</string>
   <string name="radar_fail">لا توجد نتائج</string>
   <string name="radar_fail_by_noise">"يبدو أنها صاخبة جدا هنا"</string>
-  <string name="radar_listening_state">جاري التعرف\u2026</string>
+  <string name="radar_listening_state">جارٍ التعرف\u2026</string>
   <string name="radar_possible_result">النتائج المحتملة</string>
   <string name="radar_retry">حاول مجدداً</string>
   <string name="radar_searching_state">جارٍ البحثu2026\</string>

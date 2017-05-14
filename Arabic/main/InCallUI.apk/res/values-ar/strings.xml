@@ -186,7 +186,7 @@
   <string name="online_check_warning_type_by_cmb">بريد مزعج</string>
   <string name="onscreenEndCallText">إنهاء</string>
   <string name="onscreen_add_call_text">إضافة مكالمة</string>
-  <string name="onscreen_audio_mode_bluetooth">بلوتوث</string>
+  <string name="onscreen_audio_mode_bluetooth">bluetooth</string>
   <string name="onscreen_audio_mode_conference">جماعية</string>
   <string name="onscreen_audio_mode_handset">حر اليدين</string>
   <string name="onscreen_audio_mode_headset">سماعة الرأس</string>

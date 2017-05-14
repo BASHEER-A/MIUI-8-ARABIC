@@ -52,7 +52,7 @@
   <string name="activity_title_virus_detail">تفاصيل الفايروس</string>
   <string name="activity_title_virus_settings">الاعدادت</string>
   <string name="adb_install_no_network">قم بالاتصال بالإنترنت ثم حاول مجدداً</string>
-  <string name="adb_install_open">جار السماح\u2026</string>
+  <string name="adb_install_open">جارٍ السماح\u2026</string>
   <string name="adb_install_open_error">"تعذر السماح، تحقق من اتصال الشبكة"</string>
   <string name="adb_install_reject_notiy">"تعذر السماح بتثبيت %s عبر USB"</string>
   <string name="adb_install_reject_notiy_desc">يمكنك السماح التثبيت عبر USB في خيارات المطور</string>
@@ -129,7 +129,7 @@
   <string name="battery_charge_full">مشحونة</string>
   <string name="battery_charging_prompt">يتم الشحن </string>
   <string name="battery_desc_apps">البطارية المستخدمة من قبل التطبيقات</string>
-  <string name="battery_desc_bluetooth">البطارية المستخدمة من قبل البلوتوث</string>
+  <string name="battery_desc_bluetooth">البطارية المستخدمة من قبل الـbluetooth</string>
   <string name="battery_desc_display">البطارية المستخدمة من قبل الشاشة والإضاءة الخلفية</string>
   <string name="battery_desc_other_apps">الطاقة المستهلكة بواسطة التطبيقات الأخرى</string>
   <string name="battery_desc_radio">البطارية المستخدمة من قبل الراديو</string>
@@ -765,7 +765,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="optimize_result_toast_system_default_settings">تم استعادة الإعدادات الافتراضية</string>
   <string name="optimize_result_toast_system_no_item_selected">لم يتم تحديد اية عناصر</string>
   <string name="optmizingbar_optimize_done">تم التحسين</string>
-  <string name="optmizingbar_ready">جار التحسين\u2026</string>
+  <string name="optmizingbar_ready">جارٍ التحسين\u2026</string>
   <string name="optmizingbar_stop_optmize">إيقاف</string>
   <string name="optmizingbar_title_acceleration">جارٍ التحسين…</string>
   <string name="optmizingbar_title_clear">حذف الملفات المؤقتة</string>
@@ -828,7 +828,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="power_20s_shutdown">سيتم إيقاف الجهاز في غضون %d ثانية</string>
   <string name="power_analysis_consume_title">استخدام البطارية</string>
   <string name="power_analysis_suggestion_need_optimize">تم اكتشاف مشاكل في استخدام البطارية.</string>
-  <string name="power_bluetooth">البلوتوث</string>
+  <string name="power_bluetooth">الـbluetooth</string>
   <string name="power_btn_analyze">تحليل إستخدام البطارية</string>
   <string name="power_cell">استعداد الخلية</string>
   <string name="power_center_auto_shutdown">جدولة التشغيل / الإيقاف</string>
@@ -1127,7 +1127,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="section_title_system">حماية النظام</string>
   <string name="security_app_lock">قفل التطبيقات</string>
   <string name="security_scan_card_clean_now">فحص</string>
-  <string name="security_scan_optimizing">جار التحسين\u2026</string>
+  <string name="security_scan_optimizing">جارٍ التحسين\u2026</string>
   <string name="see_detail">التفاصيل</string>
   <string name="select_pattern">تحديد نقش</string>
   <string name="set_applock_password">تعيين كلمة مرور</string>
@@ -1260,7 +1260,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
 <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">جارٍ الإختبار\u2026</string>
   <string name="tc_diagnostic_success_notification_summary">قم بالابلاغ عن هذا الخلل لمساعدة MIUI تحسين ادوات التشخيص</string>
-  <string name="tc_diagnostic_success_notification_title">مشغّل شبكة الجوال والعلامة تجارية صحيحة</string>
+  <string name="tc_diagnostic_success_notification_title">مشغّل شبكة الجوال والعلامة التجارية صحيحة</string>
   <string name="tc_diagnostic_title">تشخيص مشغّل شبكة الجوال</string>
   <string name="tc_diagnostic_upload_button">الإبلاغ</string>
   <string name="tc_diagnostic_upload_no_network">شكراً لملاحظاتك! سيم تقديم تقريرك عند اتصالك بالشبكة.</string>

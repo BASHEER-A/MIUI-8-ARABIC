@@ -34,7 +34,7 @@
   <string name="err_type">نوع الخلل</string>
   <string name="err_type_app">التطبيقات</string>
   <string name="err_type_appstore">متجر التطبيقات</string>
-  <string name="err_type_bluetooth">بلوتوث</string>
+  <string name="err_type_bluetooth">bluetooth</string>
   <string name="err_type_camera">الكاميرا</string>
   <string name="err_type_hardware">معدات الجهاز</string>
   <string name="err_type_hardware_summary">أزرار، الشحن، أجهزة الاستشعار، الخ</string>
@@ -75,7 +75,7 @@
   <string name="feedback_status_change_notification_title">"تم تحديث حالة تقدم التقرير الخاص بك"</string>
   <string name="feedback_status_commit_failed_title">"تعذر إرسال التقرير"</string>
   <string name="feedback_status_commit_succ_title">أُرسل</string>
-  <string name="feedback_status_commit_uploading_title">جار الإرسال\u2026</string>
+  <string name="feedback_status_commit_uploading_title">جارٍ الإرسال\u2026</string>
   <string name="feedback_status_more">التفاصيل</string>
   <string name="feedback_status_processing">جارٍ المعالجة\u2026</string>
   <string name="feedback_status_recorded">تم استلام الملاحظة</string>
@@ -154,7 +154,7 @@
   <string name="michat_no_good_message_title">"وهذا لا يمكن أن تحل مشكلتي."</string>
   <string name="michat_product_click_text">طريقة العرض</string>
   <string name="michat_pull_to_refresh_pull_label">اسحب لأسفل لعرض السجل</string>
-  <string name="michat_pull_to_refresh_refreshing_label">جار تحميل السجل…</string>
+  <string name="michat_pull_to_refresh_refreshing_label">جارٍ تحميل السجل…</string>
   <string name="michat_pull_to_refresh_release_label">Release to view history</string>
   <string name="michat_queue_pos_update">There are %1$d people in front of you, wait a moment…</string>
   <string name="michat_return_to_outside">Exit</string>
@@ -235,7 +235,7 @@
   <string name="toast_feedback_network_unavailable">"تعذر الاتصال بالشبكة"</string>
   <string name="toast_feedback_pending_wlan">"سيتم أرسال التقرير عند اتصالك بشبكة Wi-Fi"</string>
   <string name="toast_feedback_submitted">تم إرسال التقرير</string>
-  <string name="toast_feedback_submitting">جار الإرسال\u2026</string>
+  <string name="toast_feedback_submitting">جارٍ الإرسال\u2026</string>
   <string name="toast_feedbackservice_in_submit">معالجة الملاحظات السابقة\u2026</string>
   <string name="toast_fill_brackets">يفتقد تقريرك بعض المعلومات</string>
   <string name="toast_network_unavailable">"تعذر الإرسال. تعذر الاتصال بالشبكة."</string>

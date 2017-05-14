@@ -4,8 +4,8 @@
   <string name="activity_not_found">"لم يتم تثبيت التطبيق على جهازك"</string>
   <string name="add_screen">إضافة شاشة</string>
   <string name="app_already_exist">التطبيق موجود مسبقا</string>
-  <string name="app_being_backup_message">جار القيام بنسخة احتياطية للتطبيق</string>
-  <string name="app_being_restored_message">جار استعادة التطبيق</string>
+  <string name="app_being_backup_message">جارٍ القيام بنسخة احتياطية للتطبيق</string>
+  <string name="app_being_restored_message">جارٍ استعادة التطبيق</string>
   <string name="app_category_books">قراءة</string>
   <string name="app_category_education">تعليم</string>
   <string name="app_category_entertainment">ترفيه</string>

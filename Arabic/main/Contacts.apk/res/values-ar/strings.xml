@@ -47,7 +47,7 @@
   <string name="back_view_description">رجوع</string>
   <string name="batch_delete">حذف الدفعة</string>
   <string name="blacklist">حظر</string>
-  <string name="bluetooth_connection_failed_toast">تقطع اتصال البلوتوث</string>
+  <string name="bluetooth_connection_failed_toast">تقطع اتصال الـbluetooth</string>
   <string name="blurbJoinContactDataWith">اختر جهة الاتصال التي ترغب في دمجها مع %s:</string>
   <string name="btn_rotation">تدوير</string>
   <string name="btn_split_contact">فصل</string>
@@ -355,13 +355,13 @@
   <string name="device_import_progress_toast">%1$d جهة اتصال تم استيرادها</string>
   <string name="device_import_title">استيراد</string>
   <string name="device_list_title">اختيار هاتف</string>
-  <string name="device_other_guide">"الهواتف الأخرى تدعم البلوتوث؟"</string>
+  <string name="device_other_guide">"الهواتف الأخرى تدعم الـbluetooth؟"</string>
   <string name="device_other_title">استيراد من هواتف أخرى</string>
   <string name="device_paired_dialog_message">جارٍ جلب جهات الاتصال\u2026</string>
   <string name="device_paired_dialog_title">جارٍ جلب جهات الاتصال\u2026</string>
   <string name="device_pairing_dialog_message">جارٍ الاقتران\u2026</string>
   <string name="device_pairing_dialog_title">اقتران الأجهزة</string>
-  <string name="device_version_header_bluetooth">استيراد عبر البلوتوث</string>
+  <string name="device_version_header_bluetooth">استيراد عبر الـbluetooth</string>
   <string name="device_version_header_no_bluetooth">استيراد عبر شريحة SIM</string>
   <string name="device_version_title">اختيار نموذج</string>
   <string name="dial">طلب</string>

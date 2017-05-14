@@ -58,7 +58,7 @@
     <string-array name="network_switch_type_name">
         <item>بيانات شبكة الجوّال</item>
         <item>Wi-Fi</item>
-        <item>بلوتوث</item>
+        <item>bluetooth</item>
         <item>إيثرنت</item>
         <item>اتصال VPN</item>
     </string-array>

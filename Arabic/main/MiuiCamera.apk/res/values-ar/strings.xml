@@ -380,7 +380,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">فاصل زمني ٣ ثواني (٩٠ مرة)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">فاصل زمني ٣٠ ثانية (٩٠٠ مرة)</string>
   <string name="pref_video_time_lapse_frame_interval_title">فاصل التقطع الزمني</string>
-  <string name="preparing_sd">جار التحقق من بطاقة SD\u2026</string>
+  <string name="preparing_sd">جارٍ التحقق من بطاقة SD\u2026</string>
   <string name="record_back_pressed_hint">المس مرة أخرى لإيقاف التسجيل</string>
   <string name="search_settings">إعدادات الكاميرا;الجودة;جودة الصورة;موقع الصورة;موقع الصورة;اكتشاف الوجه;صوت الكاميرا</string>
   <string name="see_qrcode_detals">عرض التفاصيل</string>

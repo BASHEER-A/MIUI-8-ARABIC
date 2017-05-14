@@ -115,7 +115,7 @@
 
 يتم إيقاف موفر البطارية تلقائيًا أثناء شحن الجهاز."</string>
   <string name="beforeOneMonthDurationPast">قبل شهر واحد</string>
-  <string name="bluetooth_a2dp_audio_route_name">صوت بلوتوث</string>
+  <string name="bluetooth_a2dp_audio_route_name">صوت bluetooth</string>
   <string name="bugreport_message">سيجمع هذا معلومات حول حالة جهازك الحالي لإرسالها كرسالة إلكترونية، ولكنه سيستغرق وقتًا قليلاً من بدء عرض تقرير بالأخطاء. وحتى يكون جاهزًا للإرسال، الرجاء الانتظار.</string>
   <string name="bugreport_option_full_summary">يمكنك استخدام هذا الخيار للحصول على حد أدنى من تدخل النظام عند توقف استجابة الجهاز أو عند بطئها الشديد أو عند الحاجة إلى جميع أقسام التقرير. ولا يسمح لك هذا الخيار بالحصول على مزيد من التفاصيل أو تسجيل لقطات شاشة إضافية.</string>
   <string name="bugreport_option_full_title">تقرير كامل</string>
@@ -799,8 +799,8 @@
   <string name="permdesc_bindNotificationListenerService">يتيح للمالك الربط بواجهة المستوى العلوي لخدمة تلقّي الإشعارات الصوتية. ولن تكون هناك حاجة إليه مطلقًا مع التطبيقات العادية.</string>
   <string name="permdesc_bind_connection_service">للسماح للتطبيق بالتفاعل مع الخدمات الهاتفية لإجراء/تلقي المكالمات.</string>
   <string name="permdesc_bind_incall_service">للسماح للتطبيق بالتحكم في وقت وكيفية مشاهدة المستخدم للشاشة أثناء الاتصال.</string>
-  <string name="permdesc_bluetooth">للسماح للتطبيق بعرض تهيئة البلوتوث على الهاتف وإجراء اتصالات وقبولها مع الأجهزة المقترنة.</string>
-  <string name="permdesc_bluetoothAdmin">للسماح للتطبيق بتهيئة هاتف البلوتوث المحلي، واكتشاف أجهزة التحكم عن بعد والاقتران بها.</string>
+  <string name="permdesc_bluetooth">للسماح للتطبيق بعرض تهيئة الـbluetooth على الهاتف وإجراء اتصالات وقبولها مع الأجهزة المقترنة.</string>
+  <string name="permdesc_bluetoothAdmin">للسماح للتطبيق بتهيئة هاتف الـbluetooth المحلي، واكتشاف أجهزة التحكم عن بعد والاقتران بها.</string>
   <string name="permdesc_bodySensors">للسماح للتطبيق بالدخول إلى البيانات من المستشعرات التي تراقب الحالة البدنية، مثل معدل نبضات القلب.</string>
   <string name="permdesc_broadcastSticky">للسماح للتطبيق بإرسال مجموعات بث مستمرة، والتي تظل بعد انتهاء البث. قد يؤدي الاستخدام بكثرة إلى حدوث بطء أو عدم استقرار في الهاتف من خلال التسبب في استخدام الهاتف لمساحة كبيرة للغاية من الذاكرة.</string>
   <string name="permdesc_callPhone">للسماح للتطبيق بطلب أرقام هاتفية بدون تدخل منك. وقد يؤدي ذلك إلى تحمل رسوم غير متوقعة أو إجراء مكالمات غير متوقعة. ومن الجدير بالذكر أن ذلك لا يتيح للتطبيق الاتصال بأرقام الطوارئ. وقد تؤدي التطبيقات الضارة إلى تحملك تكاليف مالية من خلال إجراء مكالمات بدون موافقة منك.</string>
@@ -919,8 +919,8 @@
   <string name="permlab_bindNotificationListenerService">الربط بخدمة تلقّي الإشعارات الصوتية</string>
   <string name="permlab_bind_connection_service">التفاعل مع الخدمات الهاتفية</string>
   <string name="permlab_bind_incall_service">التفاعل مع الشاشة أثناء الاتصال</string>
-  <string name="permlab_bluetooth">الاتصال بأجهزة بلوتوث</string>
-  <string name="permlab_bluetoothAdmin">الدخول إلى إعدادات بلوتوث</string>
+  <string name="permlab_bluetooth">الاتصال بأجهزة bluetooth</string>
+  <string name="permlab_bluetoothAdmin">الدخول إلى إعدادات bluetooth</string>
   <string name="permlab_bodySensors">الوصول إلى أجهزة استشعار الجسم (مثل شاشات معدل ضربات القلب)</string>
   <string name="permlab_broadcastSticky">إرسال بث طويل الزيارة</string>
   <string name="permlab_callPhone">اتصال مباشر بأرقام الهواتف</string>
@@ -1299,15 +1299,15 @@
   <string name="user_switching_message">جارٍ التبديل إلى %1$s…</string>
   <string name="validity_period">الصلاحية:</string>
   <string name="volume_alarm">مستوى صوت المنبّه</string>
-  <string name="volume_bluetooth_call">مستوى صوت المكالمة الواردة بالبلوتوث</string>
+  <string name="volume_bluetooth_call">مستوى صوت المكالمة الواردة بالـbluetooth</string>
   <string name="volume_call">مستوى صوت المكالمات الواردة</string>
-  <string name="volume_icon_description_bluetooth">مستوى صوت البلوتوث</string>
+  <string name="volume_icon_description_bluetooth">مستوى صوت الـbluetooth</string>
   <string name="volume_icon_description_incall">مستوى صوت المكالمة</string>
   <string name="volume_icon_description_media">مستوى صوت الوسائط</string>
   <string name="volume_icon_description_notification">مستوى صوت الإشعار</string>
   <string name="volume_icon_description_ringer">مستوى صوت نغمة الرنين</string>
   <string name="volume_music">مستوى صوت الوسائط</string>
-  <string name="volume_music_hint_playing_through_bluetooth">تشغيل من خلال البلوتوث</string>
+  <string name="volume_music_hint_playing_through_bluetooth">تشغيل من خلال الـbluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">تم تعيين نغمة الرنين الصامتة</string>
   <string name="volume_notification">مستوى صوت التنبيه</string>
   <string name="volume_ringtone">مستوى صوت الرنين</string>

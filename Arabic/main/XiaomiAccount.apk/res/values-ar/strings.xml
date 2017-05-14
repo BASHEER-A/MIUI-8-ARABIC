@@ -224,7 +224,7 @@
   <string name="passport_forget_password_no_underline">نسيت كلمة المرور</string>
   <string name="passport_get_back_pwd">استرداد كلمة مرور الحساب</string>
   <string name="passport_get_verify_code">الحصول على رمز</string>
-  <string name="passport_getting_verify_code">جاري الحصول على رمز</string>
+  <string name="passport_getting_verify_code">جارٍ الحصول على رمز</string>
   <string name="passport_i_know">Got it</string>
   <string name="passport_identitfication_expired">Verification code expired, start over</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
@@ -235,7 +235,7 @@
   <string name="passport_input_phone_hint">أدخل رقم الهاتف</string>
   <string name="passport_input_vcode_hint">أدخل رمز التحقق</string>
   <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
-  <string name="passport_loading">جار تسجيل الدخول…</string>
+  <string name="passport_loading">جارٍ تسجيل الدخول…</string>
   <string name="passport_login">تسجيل الدخول</string>
   <string name="passport_login_failed">"تعذر تسجيل الدخول"</string>
   <string name="passport_login_instead_reg">استخدم هذا الرقم</string>
@@ -293,14 +293,14 @@
   <string name="passport_retry">حاول مجددا</string>
   <string name="passport_select_reg_ways_title">طرق أخرى للتسجيل</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="passport_setting">جار الإعداد ...</string>
+  <string name="passport_setting">جارٍ الإعداد ...</string>
   <string name="passport_skip_login">Skip</string>
   <string name="passport_skip_register">تخطي التسجيل</string>
   <string name="passport_skip_setup_account_msg">يمكنك إعداد حساب Mi لاحقا في الإعدادات.</string>
   <string name="passport_skip_setup_account_title">تخطي الإعداد</string>
   <string name="passport_title_reg">إنشاء حساب</string>
   <string name="passport_trust_device">إضافة هذا الجهاز إلى أجهزة التي تم التحقق منها</string>
-  <string name="passport_trying_read_verify_code_sms">جاري الحصول على رمز التحقق ...</string>
+  <string name="passport_trying_read_verify_code_sms">جارٍ الحصول على رمز التحقق ...</string>
   <string name="passport_uplink_reg">استخدام رقم الهاتف</string>
   <string name="passport_uplink_slot1_reg">استخدام SIM 1</string>
   <string name="passport_uplink_slot2_reg">استخدام SIM 2</string>

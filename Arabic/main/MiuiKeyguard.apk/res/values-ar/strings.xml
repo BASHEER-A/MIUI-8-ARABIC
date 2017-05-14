@@ -69,7 +69,7 @@
   <string name="lockscreen_glogin_submit_button">تسجيل الدخول</string>
   <string name="login_website_in_case_forget_password">لإعادة تعيين كلمة المرور الخاصة بك، اذهب الى www.mi.com/micloud</string>
   <string name="missed_call_text">%d مكالمات فائتة</string>
-  <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز bluetooth</string>
   <string name="open_camera_hint_text">مرّر لليسار لفتح %s</string>
   <string name="open_remote_center_hint_text">مرّر لليمين لفتح %s</string>
   <string name="open_wifi_settings">فتح شبكة اتصال</string>

@@ -52,7 +52,7 @@ Auth method: EAP-%5$s
   <string name="wifi_installer_fail_no_wifi">قم بتشغيل الـ Wi-Fi وحاول مرة أخرى.</string>
   <string name="wifi_installer_fail_no_wifi_title">تم إلغاء التثبيت</string>
   <string name="wifi_installer_fail_title">"لا يمكن تثبيت"</string>
-  <string name="wifi_installing_label">جاري التثبيت</string>
+  <string name="wifi_installing_label">جارٍ التثبيت</string>
   <string name="wifi_no_config">لا شيء</string>
   <string name="wifi_sim_config_text">"سيم: %s"</string>
   <string name="wifi_title">الـ Wi-Fi الشخصية</string>

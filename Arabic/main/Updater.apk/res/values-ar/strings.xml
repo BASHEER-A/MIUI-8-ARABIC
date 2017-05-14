@@ -116,7 +116,7 @@
   <string name="monthly_build">شهري</string>
   <string name="my_best_update">أفضل تحديث</string>
   <string name="my_expect_update">التوقعات</string>
-  <string name="my_rank">"حالة التحديث: u0020"</string>
+  <string name="my_rank">"حالة التحديث: \u0020"</string>
   <string name="my_update_feel">ملاحظاتي</string>
   <string name="my_worst_update">أسوأ تحديث</string>
   <string name="network_error">حدث خطأ في الشبكة</string>

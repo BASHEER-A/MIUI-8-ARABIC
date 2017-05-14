@@ -53,7 +53,7 @@
   <string name="receiver_file_current">استلام %2$d ملف من %1$s</string>
   <string name="receiver_file_num">%2$d ملف من %1$s</string>
   <string name="receiver_in_progress_summary">انتظر حتى يتم الانتهاء من النقل الحالي لإرسال ملفات جديدة</string>
-  <string name="receiver_in_progress_title">جار الإرسال\u2026</string>
+  <string name="receiver_in_progress_title">جارٍ الإرسال\u2026</string>
   <string name="receiver_insufficient_storage">لا توجد ذاكرة كافية</string>
   <string name="receiver_insufficient_storage_cannot_send">"لا يمكن الإرسال: لا توجد ذاكرة كافية"</string>
   <string name="receiver_interrupt_summary">"لا تقم بإيقاف تشغيل الـWi-Fi عند استقبال الملفات"</string>
@@ -87,8 +87,8 @@
   <string name="sender_scan_error">"تعذر المسح، ارسل مرة اخرى"</string>
   <string name="sender_select_device">اختر جهاز</string>
   <string name="sender_transfer_interrupt">"توقف النقل، لا تقم بإيقاف تشغيل الـWi-Fi خلال النقل"</string>
-  <string name="sender_wait">جار الإنتظار</string>
-  <string name="sender_wait_queue">جار الإنتظار</string>
+  <string name="sender_wait">جارٍ الإنتظار</string>
+  <string name="sender_wait_queue">جارٍ الإنتظار</string>
   <string name="transfer_interrupt">توقف النقل</string>
   <string name="transmission_click_send">ارسل</string>
   <string name="transmission_connect">"تعذر إيجاد مستلم؟"</string>

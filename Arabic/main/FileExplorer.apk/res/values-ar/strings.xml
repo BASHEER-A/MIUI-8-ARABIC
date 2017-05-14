@@ -15,7 +15,7 @@
   <string name="all_topic">كل المواضيع</string>
   <string name="already_liked">"لقد قمت لاضافة هذا العنصر الى المفضلة مسبقا"</string>
   <string name="app_name">مدير الملفات</string>
-  <string name="app_name_bluetooth">بلوتوث</string>
+  <string name="app_name_bluetooth">bluetooth</string>
   <string name="app_name_camera">الكاميرا</string>
   <string name="app_name_downloadedrom">حزم</string>
   <string name="app_name_downloads">التنزيلات</string>
@@ -55,7 +55,7 @@
   <string name="category">الفئات</string>
   <string name="category_all">الكل</string>
   <string name="category_apk">تطبيقات</string>
-  <string name="category_bluetooth">بلوتوث</string>
+  <string name="category_bluetooth">bluetooth</string>
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">مستندات</string>
   <string name="category_download">تنزيلات</string>
@@ -341,7 +341,7 @@
   <string name="operation_delete">حذف</string>
   <string name="operation_delete_confirm_message">حذف؟</string>
   <string name="operation_delete_confirm_message_folder">"سيتم حذف جميع محتويات المجلد."</string>
-  <string name="operation_deleting">جار ٍ الحذف\u2026</string>
+  <string name="operation_deleting">جارٍ ٍ الحذف\u2026</string>
   <string name="operation_favorite">المفضلة</string>
   <string name="operation_hide_sys">"لا تظهر الملفات المخفية"</string>
   <string name="operation_info">تفاصيل</string>
@@ -561,7 +561,7 @@
   <string name="upload_notification_title">جارٍ تحميل الفيديو</string>
   <string name="upload_user_photo">تحميل</string>
   <string name="upload_video_forbidden">لا تقم بتحميل نفس الفيديو</string>
-  <string name="uploading_video">جار تحميل الفيديو\u2026</string>
+  <string name="uploading_video">جارٍ تحميل الفيديو\u2026</string>
   <string name="usb_label">USB</string>
   <string name="used">مستخدم</string>
   <string name="user_cancel">تم الإلغاء</string>

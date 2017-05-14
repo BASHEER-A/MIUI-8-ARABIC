@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">بلوتوث MIUI</string>
-  <string name="ble_device_address">جهاز البلوتوث الذكي MAC</string>
-  <string name="ble_device_profile">تعريف جهاز البلوتوث</string>
+  <string name="app_name">bluetooth MIUI</string>
+  <string name="ble_device_address">جهاز الـbluetooth الذكي MAC</string>
+  <string name="ble_device_profile">تعريف جهاز الـbluetooth</string>
   <string name="ble_device_profile_header_title">الإعدادات</string>
-  <string name="ble_device_profile_title">جهاز البلوتوث الذكي المقترن</string>
+  <string name="ble_device_profile_title">جهاز الـbluetooth الذكي المقترن</string>
   <string name="ble_device_rename">إعادة التسمية</string>
   <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="ble_profile_2">ble_profile_mi_key</string>
@@ -16,7 +16,7 @@
   <string name="bluetooth_preference_found_devices">الأجهزة المتاحة</string>
   <string name="bluetooth_preference_scan_title">البحث عن أجهزة</string>
   <string name="bluetooth_search_for_devices">البحث عن أجهزة</string>
-  <string name="device_picker">إعدادات جهاز البلوتوث</string>
+  <string name="device_picker">إعدادات جهاز الـbluetooth</string>
   <string name="disconnect">إلغاء الإقتران</string>
   <string name="goto_package">فتح %1$s</string>
   <string name="install_package">تثبيت %1$s للمزيد من الوظائف</string>

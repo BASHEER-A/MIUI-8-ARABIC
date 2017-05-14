@@ -226,7 +226,7 @@
   <string name="document_ocr_result_copy">نسخ النص</string>
   <string name="document_ocr_result_save">حفظ في الملاحظات</string>
   <string name="document_ocr_result_title">صورة المستند</string>
-  <string name="document_ocr_tip_msg">جار القراءة\u2026</string>
+  <string name="document_ocr_tip_msg">جارٍ القراءة\u2026</string>
   <string name="document_recognize_fail_tip">"تعذر قراءة المستند"</string>
   <string name="document_rectify">تعديل</string>
   <string name="document_rectify_tip_msg">جارٍ التعديل\u2026</string>
@@ -300,7 +300,7 @@
   <string name="pref_camera_jpeg_quality_fine">fine</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
-  <string name="preparing_sd">جار إعداد التخزين الداخلي\u2026</string>
+  <string name="preparing_sd">جارٍ إعداد التخزين الداخلي\u2026</string>
   <string name="previous">رجوع</string>
   <string name="qr_code_details">تفاصيل رمز QR:</string>
   <string name="recognition_error_download_cancel">لاحقا</string>
@@ -311,7 +311,7 @@
   <string name="recognition_error_download_ok">تنزيل</string>
   <string name="recognition_error_download_success">تم التحميل بنجاح</string>
   <string name="recognition_error_download_title">التعرف على المحرك مطلوب</string>
-  <string name="recognition_error_downloading">جار تحميل محرك التعرف\u2026</string>
+  <string name="recognition_error_downloading">جارٍ تحميل محرك التعرف\u2026</string>
   <string name="recognize">مسح</string>
   <string name="recognize_fail">"تعذر قراءة الرمز"</string>
   <string name="scan_fail">"تعذر مسح الرمز"</string>
@@ -349,7 +349,7 @@
   <string name="translation_prompt_sentence">حدد نص للترجمة</string>
   <string name="translation_prompt_translating">جارٍ الترجمة\u2026</string>
   <string name="translation_prompt_translating_sentence">جارٍ الترجمة\u2026</string>
-  <string name="translation_prompt_translating_word">جاري التعرف\u2026</string>
+  <string name="translation_prompt_translating_word">جارٍ التعرف\u2026</string>
   <string name="translation_prompt_word">ضع الكلمة داخل الإطار</string>
   <string name="translation_see_more">عرض التعريف</string>
   <string name="translation_type_sentence">جملة</string>

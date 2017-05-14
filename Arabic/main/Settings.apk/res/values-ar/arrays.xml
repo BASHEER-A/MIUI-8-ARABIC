@@ -17,7 +17,7 @@
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
-    <item>جاري البحث &#8230;</item>
+    <item>جارٍ البحث &#8230;</item>
     <item>الاتصال %1$s &#8230;</item>
     <item>مصادقة مع %1$s &#8230;</item>
     <item>الحصول على عنوان IP من %1$s &#8230;</item>
@@ -345,7 +345,7 @@
     <item>وسائط التخزين</item>
     <item>حجم التنبيه</item>
     <item>حجم الاشعارات</item>
-    <item>حجم بلوتوث</item>
+    <item>حجم bluetooth</item>
     <item>تبقى مستيقظا</item>
     <item>الموقع</item>
     <item>الموقع</item>
@@ -844,7 +844,7 @@ Note: Only for Ubuntu 8.04!"</item>
   <string-array name="network_speed_slow_summary">
     <item>الشبكة بطيئة بسبب كثرة حركة الاتصالات</item>
     <item>الشبكة بطيئة بسبب ضعف قوة الإشارة</item>
-    <item>جار الانتقال\u2026</item>
+    <item>جارٍ الانتقال\u2026</item>
   </string-array>
   <string-array name="priority_storage_entries">
     <item>التخزين الداخلي</item>

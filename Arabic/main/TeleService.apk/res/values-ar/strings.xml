@@ -54,7 +54,7 @@
   <string name="areacode_set_default">افتراضي</string>
   <string name="atr_disable">تقارير المرور المنطقة لا تعمل</string>
   <string name="atr_enable">تقارير مرور المنطقة تعمل</string>
-  <string name="audio_mode_bluetooth">بلوتوث</string>
+  <string name="audio_mode_bluetooth">bluetooth</string>
   <string name="audio_mode_earpiece">وضع سماعات أذن الهاتف</string>
   <string name="audio_mode_speaker">سماعة</string>
   <string name="audio_mode_wired_headset">سماعات الرأس السلكية</string>
@@ -68,8 +68,8 @@
   <string name="auto_answer_pref_summary">الرد تلقائياً على المكالمات الواردة</string>
   <string name="auto_answer_pref_title">رد تلقائي</string>
   <string name="auto_answer_scenario_enteries_always">دائمًا</string>
-  <string name="auto_answer_scenario_enteries_bluetooth_only">البلوتوث فقط</string>
-  <string name="auto_answer_scenario_enteries_headset_bluetooth">سماعات الرأس أو البلوتوث فقط</string>
+  <string name="auto_answer_scenario_enteries_bluetooth_only">الـbluetooth فقط</string>
+  <string name="auto_answer_scenario_enteries_headset_bluetooth">سماعات الرأس أو الـbluetooth فقط</string>
   <string name="auto_answer_scenario_enteries_headset_only">سماعات الرأس فقط</string>
   <string name="auto_answer_scenario_title">إعدادات الرد التلقائي</string>
   <string name="auto_answer_setting_title">إعدادات الرد التلقائي</string>
@@ -183,7 +183,7 @@
   <string name="call_background_lock_wallpaper">خلفية شاشة القفل</string>
   <string name="call_background_setting">خلفية المكالمة</string>
   <string name="call_barring_sum">إعدادات حظر المكالمة الصوتية</string>
-  <string name="call_description_recording">جاري التسجيل\u2026</string>
+  <string name="call_description_recording">جارٍ التسجيل\u2026</string>
   <string name="call_forwarding_number_hint">إعادة توجيه المكالمات إلى</string>
   <string name="call_forwarding_settings">إعدادات إعادة توجيه المكالمات</string>
   <string name="call_forwarding_settings_with_label">إعدادات إعادة توجيه المكالمات (%s)</string>
@@ -440,8 +440,8 @@
   <string name="emergency_broadcast_enable">بث الطوارئ يعمل</string>
   <string name="emergency_call_area_code_edit_dialog_button">مكالمة</string>
   <string name="emergency_call_area_code_edit_dialog_hint">ادخل رمز المنطقة</string>
-  <string name="emergency_enable_radio_dialog_message">جار تشغيل الراديو\u2026</string>
-  <string name="emergency_enable_radio_dialog_retry">لا توجد خدمة. جار المحاولة مرة اخرى\u2026</string>
+  <string name="emergency_enable_radio_dialog_message">جارٍ تشغيل الراديو\u2026</string>
+  <string name="emergency_enable_radio_dialog_retry">لا توجد خدمة. جارٍ المحاولة مرة اخرى\u2026</string>
   <string name="emergency_enable_radio_dialog_title">مكالمة الطوارئ</string>
   <string name="empty_alert">"%s لا يمكن أن يكون فارغًا."</string>
   <string name="empty_networks_list">تعذر العثور على شبكة.</string>
@@ -1107,7 +1107,7 @@ Top up and start talking"</string>
   <string name="remain_mins_unit">min</string>
   <string name="remove">إزالة</string>
   <string name="remove_sip_account">ازالة الحساب</string>
-  <string name="removing_account">جار الإزالة\u2026</string>
+  <string name="removing_account">جارٍ الإزالة\u2026</string>
   <string name="requesting_unlock">جارٍ طلب إلغاء قفل شبكة SIM\u2026</string>
   <string name="respond_via_sms_canned_response_1">"لا يمكنني التحدث الآن. هل يمكنك الاتصال لاحقا؟"</string>
   <string name="respond_via_sms_canned_response_2">"سأرد الاتصال بك فورا."</string>

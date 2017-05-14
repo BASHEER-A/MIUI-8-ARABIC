@@ -11,9 +11,9 @@
   <string name="BTTestmode">BT Test Mode</string>
   <string name="BT_Enabled">تم تمكين Bluetooth وبدء المسح الضوئي...</string>
   <string name="BT_Enableing">تمكين BT، الرجاء الانتظار...</string>
-  <string name="BT_not_avalible">بلوتوث غير متوفر</string>
+  <string name="BT_not_avalible">bluetooth غير متوفر</string>
   <string name="BT_scan_over">BT مسح أكثر!</string>
-  <string name="Bluetooth">بلوتوث:</string>
+  <string name="Bluetooth">bluetooth:</string>
   <string name="CannotFindAtv">"لا يمكن العثور على تطبيق ATV"</string>
   <string name="CannotFindCALL">"لا يمكن العثور على تطبيق الهاتف"</string>
   <string name="CannotFindCamera">"لا يمكن العثور على تطبيق الكاميرا"</string>
@@ -231,10 +231,10 @@
   <string name="bluetooth_scan_mode_connectable">"can't be discoverable(can be connectable)"</string>
   <string name="bluetooth_scan_mode_discoverable">can be discoverable(can be connectable)</string>
   <string name="bluetooth_scan_mode_none">"can't be discoverable(can't be connectable)"</string>
-  <string name="bt_addr_test">عنوان بلوتوث</string>
-  <string name="bt_enable_error">خطأ في فتح بلوتوث</string>
+  <string name="bt_addr_test">عنوان bluetooth</string>
+  <string name="bt_enable_error">خطأ في فتح bluetooth</string>
   <string name="bt_result">[BT]:</string>
-  <string name="btdevicenum">رقم الجهاز بلوتوث:</string>
+  <string name="btdevicenum">رقم الجهاز bluetooth:</string>
   <string name="btdut">DUT mode for BT RF testing</string>
   <string name="btn_cancel">إلغاء الأمر</string>
   <string name="btn_discard_recording">تجاهل</string>
@@ -242,7 +242,7 @@
   <string name="btn_ok">موافق</string>
   <string name="btn_save_recording">حفظ</string>
   <string name="btn_yes">نعم</string>
-  <string name="btsearchwait">البحث عن أجهزة البلوتوث..., الرجاء الانتظار 12 ثانية.</string>
+  <string name="btsearchwait">البحث عن أجهزة الـbluetooth..., الرجاء الانتظار 12 ثانية.</string>
   <string name="build_num">رقم البنية:</string>
   <string name="build_number">رقم البنية</string>
   <string name="build_time">تاريخ الانشاء:</string>
@@ -816,7 +816,7 @@ mod:0-15"</string>
   <string name="wifi_result">[WIFI]:</string>
   <string name="wifi_test">Wifi</string>
   <string name="wifi_transmit">جهاز استقبال وأي فأي</string>
-  <string name="wifi_transmit_init">جار نقل WI FI...</string>
+  <string name="wifi_transmit_init">جارٍ نقل WI FI...</string>
   <string name="wifi_transmit_recv">WIFI RECV</string>
   <string name="wifi_transmit_send">WIFI SEND</string>
   <string name="wifistateunknown">وأي فأي الحالة غير معروف</string>

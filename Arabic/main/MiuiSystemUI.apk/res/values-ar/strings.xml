@@ -5,9 +5,9 @@
   <string name="accessibility_assistant">الكرة السريعة</string>
   <string name="accessibility_back">رجوع</string>
   <string name="accessibility_battery_level">البطارية %d في المئة.</string>
-  <string name="accessibility_bluetooth_connected">البلوتوث متصل.</string>
-  <string name="accessibility_bluetooth_disconnected">البلوتوث غير متصل.</string>
-  <string name="accessibility_bluetooth_tether">ربط البلوتوث.</string>
+  <string name="accessibility_bluetooth_connected">الـbluetooth متصل.</string>
+  <string name="accessibility_bluetooth_disconnected">الـbluetooth غير متصل.</string>
+  <string name="accessibility_bluetooth_tether">ربط الـbluetooth.</string>
   <string name="accessibility_camera_button">الكاميرا</string>
   <string name="accessibility_clear_all">حذف كل الإشعارات.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -113,7 +113,7 @@
   <string name="bluetooth_profile_sap">SIM Access</string>
   <string name="bluetooth_sap_profile_summary_connected">Connected to SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Use for SIM access</string>
-  <string name="bluetooth_tethered">ربط البلوتوث</string>
+  <string name="bluetooth_tethered">ربط الـbluetooth</string>
   <string name="call_status_dialing">جارٍ الإتصال</string>
   <string name="call_status_ringing">رنين</string>
   <string name="camera_key_action_app_title">فتح تطبيق</string>
@@ -224,7 +224,7 @@
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="quick_settings_bluetooth_detail_empty_text">لا توجد أجهزة مقترنة متاحة</string>
-  <string name="quick_settings_bluetooth_label">البلوتوث</string>
+  <string name="quick_settings_bluetooth_label">الـbluetooth</string>
   <string name="quick_settings_connect_success">متصل</string>
   <string name="quick_settings_connecting">جارٍ الاتصال</string>
   <string name="quick_settings_done">تم</string>

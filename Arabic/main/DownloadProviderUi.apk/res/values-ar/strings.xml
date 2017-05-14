@@ -119,7 +119,7 @@
   <string name="downloaded_empty">فارغة</string>
   <string name="downloading">تحميل…</string>
   <string name="downloading_empty">فارغة</string>
-  <string name="downloads_operating">جار العمل…</string>
+  <string name="downloads_operating">جارٍ العمل…</string>
   <string name="dredge_xunlei_account">قم بإنشاء حساب Xunlei</string>
   <string name="durationDayHour">%1$d day %2$d hr</string>
   <string name="durationDayHours">%1$d day %2$d hrs</string>

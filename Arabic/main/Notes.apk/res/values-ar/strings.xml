@@ -40,7 +40,7 @@
   <string name="dlg_title_password_reset">تحديث كلمة المرور</string>
   <string name="dlg_title_set_password">تعيين كلمة مرور</string>
   <string name="dlg_title_use_privacy_password">إستخدم كلمة مرور حماية الخصوصية</string>
-  <string name="dlg_unhide_message">جار الإظهار\u2026</string>
+  <string name="dlg_unhide_message">جارٍ الإظهار\u2026</string>
   <string name="empty_folder_hint">"لا المجلدات اضغط علامة زائد لإنشاء مجلد"</string>
   <string name="enable_sync">مزامنة</string>
   <string name="enable_sync_desc">قم بمزامنة ملاحظاتك مع حساب Mi (%1$s)؟</string>

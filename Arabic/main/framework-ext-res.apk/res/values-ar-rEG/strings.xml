@@ -74,7 +74,7 @@
   <string name="reboot_confirm_title">إعادة تشغيل الجهاز الآن؟</string>
   <string name="reboot_info_auto_boot">الجهاز مضبوط على وقت مُجدول لبدء التشغيل في %s</string>
   <string name="reboot_info_shutdown_alarm">سيصدر المنبه صوتاً في %s</string>
-  <string name="reboot_progress">جار إعادة التشغيل\u2026</string>
+  <string name="reboot_progress">جارٍ إعادة التشغيل\u2026</string>
   <string name="replace">استبدال</string>
   <string name="resource_select">تحديد</string>
   <string name="screen_button_notification_text">لتشغيلها، اضغط على زري الصفحة الرئيسية والطاقة في وقت واحد.</string>
@@ -100,14 +100,14 @@
   <string name="set_password_message">قم بتعيين كلمة مرور لأستخدام هذه الميزة.</string>
   <string name="set_password_title">تعيين كلمة المرور</string>
   <string name="shutdown_confirm_title">إيقاف تشغيل الجهاز الان؟</string>
-  <string name="shutdown_progress">جار إيقاف التشغيل\u2026</string>
+  <string name="shutdown_progress">جارٍ إيقاف التشغيل\u2026</string>
   <string name="sim_added_reboot_confirm">إعادة تشغيل</string>
   <string name="sim_added_reboot_title">سيتم تفعيل شريحة SIM بعد إعادة تشغيل جهازك.</string>
   <string name="softap_notifif_summary">%d متصل</string>
   <string name="softap_notifif_title">تم تشغيل نقطة الاتصال \"%s\"</string>
   <string name="start_security_permission_verify_text">تحقق من الأذونات باستخدام حساب Mi الخاص بك</string>
   <string name="status_bar_toggle_auto_brightness">السطوع</string>
-  <string name="status_bar_toggle_bluetooth">بلوتوث</string>
+  <string name="status_bar_toggle_bluetooth">bluetooth</string>
   <string name="status_bar_toggle_cast">Cast</string>
   <string name="status_bar_toggle_data">بيانات الهاتف</string>
   <string name="status_bar_toggle_edit">ترتيب</string>

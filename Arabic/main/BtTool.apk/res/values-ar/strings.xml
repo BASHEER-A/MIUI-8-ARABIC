@@ -26,7 +26,7 @@
   <string name="act_set_pref_systool_open_mtklogger_title">Open MtkLogger</string>
   <string name="act_set_pref_test_situation_dialog_title">حالة الاختبار</string>
   <string name="act_set_pref_test_situation_title">اختبار الحالة: %1$s</string>
-  <string name="act_set_prefs_bluetooth">أداة تسجيل بلوتوث</string>
+  <string name="act_set_prefs_bluetooth">أداة تسجيل bluetooth</string>
   <string name="act_set_prefs_systool">أداة النظام MTK</string>
   <string name="app_name">BT Tool</string>
   <string name="app_version">0.9.6</string>

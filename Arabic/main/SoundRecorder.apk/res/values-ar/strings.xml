@@ -90,7 +90,7 @@
   <string name="record_download_msg_reload">"هذا التسجيل غير موجود."</string>
   <string name="record_downloading_notification">جارٍ التنزيل\u2026</string>
   <string name="record_downloading_notification_complete">اكتمل التنزيل</string>
-  <string name="record_downloading_notification_count">%d جاري التنزيل</string>
+  <string name="record_downloading_notification_count">%d جارٍ التنزيل</string>
   <string name="record_list">التسجيلات</string>
   <string name="record_list_call">المكالمات المسجلة</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>

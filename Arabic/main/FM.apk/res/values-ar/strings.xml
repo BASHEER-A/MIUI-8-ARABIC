@@ -52,7 +52,7 @@
   <string name="toast_fm_recorder_access_error">"لا يمكن تسجيل وانت في وضع الضيف"</string>
   <string name="toast_fm_recorder_internal_error">خطأ في تسجيل FM</string>
   <string name="toast_fm_recorder_storage_full">"لا يمكن أن يستمر التسجيل: لا توجد مساحة كافية"</string>
-  <string name="toast_fm_seeking">جاري البحث…</string>
+  <string name="toast_fm_seeking">جارٍ البحث…</string>
   <string name="toast_fm_starting">Starting…</string>
   <string name="toast_removed_from_presets">إزالة من الإعدادات المسبقة</string>
   <string name="toast_sleep_mode">راديو التوقف عن اللعب في %s</string>

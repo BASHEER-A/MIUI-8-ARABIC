@@ -26,7 +26,7 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">تنزيل MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">الوصول للجذر</string>
-  <string name="Generic_Canceling">جار الإلغاء\u2026</string>
+  <string name="Generic_Canceling">جارٍ الإلغاء\u2026</string>
   <string name="Generic_Check">تحقق</string>
   <string name="Generic_Clean">تنظيف</string>
   <string name="Generic_Configuration">الإعدادات</string>
@@ -77,9 +77,9 @@
   <string name="HIPS_Perm_AutoStart">تشغيل عند البدء</string>
   <string name="HIPS_Perm_AutoStart_Desc">تشغيل عند البدء</string>
   <string name="HIPS_Perm_AutoStart_Hint">يمكن لتطبيقات %1$s العمل عند بدء التشغيل</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">تغيير اتصال البلوتوث</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">تشغيل البلوتوث أو إيقافه</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">تستطيع %1$s من التطبيقات تشغيل بلوتوث</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">تغيير اتصال الـbluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">تشغيل الـbluetooth أو إيقافه</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">تستطيع %1$s من التطبيقات تشغيل bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">أجهزة استشعار الجسم</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">أجهزة استشعار الجسم (مثل جهاز قياس ضربات القلب)</string>
   <string name="HIPS_Perm_Calendar">قراءة أحداث التقويم</string>

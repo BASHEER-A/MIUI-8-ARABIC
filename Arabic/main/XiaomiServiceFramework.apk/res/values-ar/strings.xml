@@ -73,10 +73,10 @@
   <string name="activate_popup_title_manual">تفعيل %s</string>
   <string name="activate_popup_title_new_sim_card">إعادة تفعيل %s</string>
   <string name="activate_popup_title_register_account">إنشاء حساب Mi</string>
-  <string name="activate_status_desc_acquire_phone_number">جار التحقق من رقم الهاتف\u2026</string>
+  <string name="activate_status_desc_acquire_phone_number">جارٍ التحقق من رقم الهاتف\u2026</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">حدث خطأ في الخادم أثناء التحقق من رقم الهاتف</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"تعذر التحقق من رقم الهاتف"</string>
-  <string name="activate_status_desc_checking_xiaomi_account">جار التحقق من حساب Mi\u2026</string>
+  <string name="activate_status_desc_checking_xiaomi_account">جارٍ التحقق من حساب Mi\u2026</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">حدث خطأ في الخادم أثناء التحقق من حساب Mi</string>
   <string name="activate_status_desc_completed_with_sms_sent">تم إرسال رسالة SMS لتفعيل شريحة SIM</string>
   <string name="activate_status_desc_device_id_error">IMEI غير صالح</string>

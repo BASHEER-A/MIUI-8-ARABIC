@@ -9,9 +9,9 @@
   <string name="media_feature_projection">شاشة المرآة</string>
   <string name="media_status_error">خطأ</string>
   <string name="media_status_started">متصل</string>
-  <string name="media_status_starting">جار الاتصال…</string>
+  <string name="media_status_starting">جارٍ الاتصال…</string>
   <string name="media_status_stopped">توقف</string>
-  <string name="media_status_stopping">جار الإيقاف…</string>
+  <string name="media_status_stopping">جارٍ الإيقاف…</string>
   <string name="noti_projection_status_desc_on">شاشة النسخ المتطابق</string>
   <string name="noti_projection_status_title">شاشة عرض MiPlay اللاسلكية</string>
   <string name="prjection_title">العرض اللاسلكي</string>
@@ -33,7 +33,7 @@
   <string name="wifi_display_session_info">معلومات الجلسة</string>
   <string name="wifi_display_settings_title">Cast</string>
   <string name="wifi_display_status_connected">متصل</string>
-  <string name="wifi_display_status_connecting">جار الاتصال</string>
+  <string name="wifi_display_status_connecting">جارٍ الاتصال</string>
   <string name="wifi_display_status_in_use">في الاستخدام</string>
   <string name="wifi_display_status_not_available">غير متاح</string>
   <string name="wifi_display_wps_config">تكوين WPS</string>

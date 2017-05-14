@@ -16,7 +16,7 @@
   <string name="backup_theme_dialog_ok">نسخ احتياطي</string>
   <string name="backup_theme_fail_trial_rights_message">"لا يمكن القيام بنسخة احتياطية لموارد الفترة التجريبية"</string>
   <string name="backup_theme_name">نسخ احتياطي للثيم</string>
-  <string name="backup_theme_progress_message">جار النسخ الاحتياطي\u2026</string>
+  <string name="backup_theme_progress_message">جارٍ النسخ الاحتياطي\u2026</string>
   <string name="backup_theme_success_message">تم إجراء نسخة احتياطية لإعدادات الثيم الحالي.</string>
   <string name="browser_local_resource">الموارد المحلية</string>
   <string name="change_host_hint">تغيير المضيف</string>
@@ -139,7 +139,7 @@
   <string name="resource_comment_current_version">الإصدار الحالي</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">إضافة تعليقات</string>
-  <string name="resource_comment_edit_comment_waiting">جار التحقق من السجل\u2026</string>
+  <string name="resource_comment_edit_comment_waiting">جارٍ التحقق من السجل\u2026</string>
   <string name="resource_comment_edit_text_default">كتابة تعليق</string>
   <string name="resource_comment_edit_title">تعليق حول %1$s</string>
   <string name="resource_comment_entry_tips">التعليقات (%1$s)</string>
@@ -170,7 +170,7 @@
   <string name="resource_delete">حذف</string>
   <string name="resource_delete_all">حذف %1$d من الموارد المحددة؟</string>
   <string name="resource_delete_confirm">حذف هذه الموارد؟</string>
-  <string name="resource_delta_update_failed">جار تنزيل الثيم مرة أخرى\u2026</string>
+  <string name="resource_delta_update_failed">جارٍ تنزيل الثيم مرة أخرى\u2026</string>
   <string name="resource_delta_update_successful">تم تحديث الثيم</string>
   <string name="resource_delta_update_total">%1$d تحديث دلتا تم حفظها %2$s </string>
   <string name="resource_detail">التفاصيل</string>
@@ -210,7 +210,7 @@
   <string name="resource_exchange_wrong_format_by_server">"لم يتم التحقق من الرمز. تأكد من إدخال الرمز بشكل صحيح."</string>
   <string name="resource_expand_full_text">توسيع</string>
   <string name="resource_failed_to_load_list">"لا يمكن تحميل الثيمات."</string>
-  <string name="resource_get_auth_checking">جار التحقق\u2026</string>
+  <string name="resource_get_auth_checking">جارٍ التحقق\u2026</string>
   <string name="resource_get_auth_exceed_max_limit_tips">تم التصريح لـ10 أجهزة على هذا الحساب مسبقا</string>
   <string name="resource_get_auth_exceed_max_limit_title">تم تجاوز عدد الأجهزة المسموح بها</string>
   <string name="resource_get_auth_has_been_undercarriaged">لم يعد هذا الثيم متاحا.</string>
@@ -220,7 +220,7 @@
   <string name="resource_hint">تنبيه</string>
   <string name="resource_import_failed">"لا يمكن الاستيراد"</string>
   <string name="resource_import_successful">اكتمل</string>
-  <string name="resource_importing">جار الاستيراد\u2026</string>
+  <string name="resource_importing">جارٍ الاستيراد\u2026</string>
   <string name="resource_list_title">تم تحديدها مؤخراً</string>
   <string name="resource_menu_refresh">تحديث</string>
   <string name="resource_mute">لا شيء</string>
@@ -246,7 +246,7 @@
   <string name="resource_purchase_getting_order">استرداد معلومات الطلب\u2026</string>
   <string name="resource_purchase_verifying_payment">جارٍ التحقق من معلومات الدفع\u2026</string>
   <string name="resource_purchase_vip_pay_failed">تعذر الدفع لـVIP</string>
-  <string name="resource_purchase_waiting_payment">جار انتظار معلومات الدفع\u2026</string>
+  <string name="resource_purchase_waiting_payment">جارٍ انتظار معلومات الدفع\u2026</string>
   <string name="resource_ranking">الشائعة</string>
   <string name="resource_ranking_free">مجاني</string>
   <string name="resource_ranking_purchase">مدفوع</string>
@@ -315,7 +315,7 @@
   <string name="theme_apply_audio_dialog_item_ringtone">نغمة الرنين</string>
   <string name="theme_apply_failured">"لا يمكن تعيين خلفية شاشة القفل"</string>
   <string name="theme_apply_success">تم تعيين شاشة القفل</string>
-  <string name="theme_applying">جار التعيين\u2026</string>
+  <string name="theme_applying">جارٍ التعيين\u2026</string>
   <string name="theme_batch_update_all">تحديث الكل</string>
   <string name="theme_batch_update_dlg_content">تحديث %1$s و%2$d ثيمات اخرى الآن؟</string>
   <string name="theme_batch_update_dlg_content_single">تحديث %1$s الآن؟</string>

@@ -56,7 +56,7 @@
   <string name="summary_international">"By using this feature, you're agreeing to our <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement</a> and <a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy</a>. This feature needs to connect to the internet to work normally.​"</string>
   <string name="theme_apply_failured">"تعذر التطبيق، أعد المحاولة لاحقا"</string>
   <string name="theme_apply_success">تم تطبيق قفل الشاشة</string>
-  <string name="theme_applying">جار التطبيق ...</string>
+  <string name="theme_applying">جارٍ التطبيق ...</string>
   <string name="wlan_download">تحديث عبر الـ Wi-Fi</string>
   <string name="wlan_download_cn">تحديث عبر الـ Wi-Fi</string>
 </resources>

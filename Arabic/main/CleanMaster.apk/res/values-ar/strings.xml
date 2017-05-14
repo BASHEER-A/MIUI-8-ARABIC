@@ -195,7 +195,7 @@
   <string name="hints_cache_msd_title">تحديث دلتا</string>
   <string name="hints_cleanfinish">انتهى التنظيف</string>
   <string name="hints_deepclean_list_item_from">من %s</string>
-  <string name="hints_deepclean_scanning">جار المسح %s</string>
+  <string name="hints_deepclean_scanning">جارٍ المسح %s</string>
   <string name="hints_finish_quick_cleanup">تم</string>
   <string name="hints_finish_quick_cleanup_title">تنظيف %s مهملات</string>
   <string name="hints_finish_quick_scan">انتهى الفحص</string>
@@ -387,7 +387,7 @@
   <string name="share">مشاركة</string>
   <string name="similar_image_desc">حذف الصور المماثلة</string>
   <string name="similar_image_empty">لم يتم العثور على تكرارات</string>
-  <string name="similar_image_scaning">جار الفحص\u2026</string>
+  <string name="similar_image_scaning">جارٍ الفحص\u2026</string>
   <string name="similar_image_title">صور</string>
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">إعلان مُموَّل</string>
@@ -444,7 +444,7 @@
   <string name="toast_network_switch">يستطيع هذا التطبيق الاتصال بالإنترنت</string>
   <string name="toast_removed_from_white_list">"تم الحذف من الإستثناءات بنجاح"</string>
   <string name="toast_resolve_apk_error">حل خطأ apk</string>
-  <string name="toast_scaning_similar_image">جار التحقق من الصور\u2026</string>
+  <string name="toast_scaning_similar_image">جارٍ التحقق من الصور\u2026</string>
   <string name="toast_select_image_need_delete">اختر صور للحذف</string>
   <string name="toast_select_white_need_remove">اختيار العناصر للإزالة</string>
   <string name="toast_selecte_group_restore_succeed">تمت استعادة الصور</string>

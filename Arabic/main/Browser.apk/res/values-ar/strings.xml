@@ -425,7 +425,7 @@
   <string name="download_complete">تم التحميل بنجاح</string>
   <string name="download_completed">المحمّلة</string>
   <string name="download_default_path_txt">تذكر هذا الإختيار</string>
-  <string name="download_dialog_default_path_invalid">"\"موقع التنزيل الذي قمت بتحديده غير صالح. جار الحفظ إلى الموقع الافتراضي \u2026\""</string>
+  <string name="download_dialog_default_path_invalid">"\"موقع التنزيل الذي قمت بتحديده غير صالح. جارٍ الحفظ إلى الموقع الافتراضي \u2026\""</string>
   <string name="download_dialog_file_length_hint_txt">"حجم الملف: "</string>
   <string name="download_dialog_file_length_lessthan1kb">أقل من 1 كيلو بايت</string>
   <string name="download_dialog_file_length_nolength_error_txt">"تعذر التنزيل"</string>
@@ -984,7 +984,7 @@
   <string name="video_download_unsupport">غير معتمد</string>
   <string name="video_download_wait_for_wifi">في انتظار Wi-Fi</string>
   <string name="video_downloaded_group">تحميل</string>
-  <string name="video_downloading_group">جاري التحميل</string>
+  <string name="video_downloading_group">جارٍ التحميل</string>
   <string name="video_edit">تحرير</string>
   <string name="video_float_window">Pop-up</string>
   <string name="video_float_window_playing">تشغيل ملف فيديو</string>

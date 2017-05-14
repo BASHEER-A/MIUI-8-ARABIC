@@ -974,7 +974,7 @@
   <string name="share">مشاركة</string>
   <string name="share_album">ألبوم المشاركة</string>
   <string name="share_album_needs_auto_upload_tip">"لا يمكن إيقاف تشغيل النسخ الاحتياطي لألبومات المشاركة"</string>
-  <string name="share_app_is_launching">{0,choice,0#إطلاق التطبيق\u2026|1#%s is جار إطلاق\u2026}</string>
+  <string name="share_app_is_launching">{0,choice,0#إطلاق التطبيق\u2026|1#%s is جارٍ إطلاق\u2026}</string>
   <string name="share_by_email_start">مشاركة %1$s في الخلفية</string>
   <string name="share_by_email_successfully">تمت مشاركة %1$s</string>
   <string name="share_public_url_text">"لقد قمت بمشاركة الألبوم %1$s معك. يمكنك عرضه على %2$s"</string>

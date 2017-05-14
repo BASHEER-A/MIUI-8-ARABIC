@@ -30,7 +30,7 @@
   <string name="mediasize_standard_japan">2</string>
   <string name="mediasize_standard_north_america">1</string>
   <string name="more_options_button">المزيد من الخيارات</string>
-  <string name="no_connection_to_printer">لا يوجد اتصال باللطابعة</string>
+  <string name="no_connection_to_printer">لا يوجد اتصال بالطابعة</string>
   <string name="page_description_template">الصفحة %1$d من %2$d</string>
   <string name="pages_range_example">مثل 1-5,8,11-13</string>
   <string name="permdesc_accessAllPrintJobs">يسمح لحامل للوصول إلى مهام الطباعة التي تم إنشاؤها بواسطة التطبيق آخر ينبغي أن تكون حاجة ابدأ لتطبيقات عادية.</string>
