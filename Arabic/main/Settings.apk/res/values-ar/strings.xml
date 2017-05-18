@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Accounts_settings_title">الحسابات</string>
-  <string name="aaid_info">معرف الإعلان هو دائم معرف فريد للجهاز الخاص بك. البائعين استخدامه لمحتوى الإعلان حدد التي ستكون أكثر فائدة لكم. </string>
-  <string name="about_settings">حول الهاتف</string>
+  <string name="about_ad_service_instructions">About ad services and privacy​</string>
+  <string name="about_phone_enter_xiaomi_net">Learn more</string>
+    <string name="about_settings">حول الهاتف</string>
   <string name="about_settings_summary">عرض المعلومات القانونية، ووضع وإصدار البرنامج</string>
   <string name="ac_enable_summary">تعيين كلمة مرور للتطبيقات الفردية</string>
   <string name="ac_enable_title">قفل التطبيقات</string>
@@ -85,6 +86,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="account_add">إضافة</string>
   <string name="account_autostar_label">تشغيل تلقائي</string>
   <string name="account_list">الحسابات الأخرى</string>
+  <string name="account_other">Other</string>
   <string name="account_settings">الحسابات</string>
   <string name="account_settings_menu_auto_sync">تلقائي-مزامنة البيانات</string>
   <string name="account_settings_menu_auto_sync_personal">تلقائي-مزامنة البيانات الشخصية</string>
@@ -162,7 +164,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_tips">تأكد من ملامسة الجهازين ثم أنقر على المحتوى الذي تريد إرساله.</string>
   <string name="android_beam_witch_label">شعاع الأندرويد</string>
   <string name="animator_duration_scale_title">مقياس مدة الرسوم المتحركة</string>
-  <string name="anr_record_interval_title">تسجيل فواصل ANR</string>
   <string name="anti_spam">قائمة الحظر</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">نوع المصادقة</string>
@@ -187,7 +188,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="apn_not_set">تعذر التعيين</string>
   <string name="apn_password">كلمة المرور</string>
   <string name="apn_ppp_number">رقم هاتف APN PPP</string>
-  <string name="apn_protocol">بروتوكول APN</string>
   <string name="apn_roaming_protocol">بروتوكول التجوال APN</string>
   <string name="apn_save">حفظ التغييرات؟</string>
   <string name="apn_save_msg">حفظ التغييرات إلى APN؟</string>
@@ -273,6 +273,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="apply_now_button_text">تحديث</string>
   <string name="apply_password_to_category_title">يتطلب إلغاء القفل</string>
   <string name="apply_update_fail">"تعذر التحديث"</string>
+  <string name="approve_title">التحقق</string>
   <string name="apps_storage">تطبيقات التخزين</string>
   <string name="apps_with_restrictions_header">التطبيقات مع القيود</string>
   <string name="apps_with_restrictions_settings_button">قم بتوسيع إعدادات التطبيق</string>
@@ -302,6 +303,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_disable_screenbuttons_auto">التعطيل دائماً</string>
   <string name="auto_disable_screenbuttons_cancel">إلغاء</string>
   <string name="auto_disable_screenbuttons_no">عدم التعطيل مطلقاً</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">When your device is in landscape mode, the navigation buttons will be blocked</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Block navigation buttons in landscape</string>
   <string name="auto_disable_screenbuttons_summary">تعطيل تلقائي لأزرار التنقل عند استخدام التطبيقات المحددة. أنقر نقرا مزدوجا على إي زر تنقل لإعادة تمكينها.</string>
   <string name="auto_disable_screenbuttons_title">تعطيل تلقائي لأزرار التنقل</string>
   <string name="auto_launch_disable_text">لم يتم تعيين الافتراضية.</string>
@@ -346,6 +349,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">نسخة Baseband</string>
   <string name="batch_delete_saved_network">إزالة الشبكات المحددة: %s؟</string>
+  <string name="batch_delete_saved_networks">إزالة جميع الشبكات المحددة</string>
   <string name="battery_action_app_details">معلومات التطبيق</string>
   <string name="battery_action_app_settings">إعدادات التطبيق</string>
   <string name="battery_action_bluetooth">إعدادات الـbluetooth</string>
@@ -440,12 +444,10 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_sugg_radio">قم بالتبديل إلى وضع الطائرة لحفظ الطاقة في المناطق التي لا توجد تغطية الخلية</string>
   <string name="battery_sugg_wifi">"إيقاف تشغيل Wi-Fi عند عدم استخدامه أو عندما يكون غير متوفر"</string>
   <string name="battery_summary">%1$d%% منذ آخر شحن كامل</string>
-  <string name="bearer">حامل</string>
   <string name="bind_xiaomi_account_cancel">إلغاء الأمر</string>
   <string name="bind_xiaomi_account_confirm">إضافة</string>
   <string name="bind_xiaomi_account_dialog_summery">"أنت على وشك إضافة حساب Mi %s. إذا كنت قد نسيت كلمة المرور الخاصة بك، يمكنك استخدام هذا الحساب لإعادة تعيينها."</string>
   <string name="bind_xiaomi_account_success">إضافة حساب Mi بنجاح</string>
-  <string name="binded_xiaomi_summary">الحساب الحالي: %s</string>
   <string name="ble_scan_notify_text">لتحسين دقة الموقع، خدمات وتطبيقات نظام يمكن اكتشاف ما زالت أجهزة Bluetooth. يمكنك تغيير هذا في LINK_BEGINscanning settingsLINK_END.</string>
   <string name="bluetooth">bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">الاتصال بوسائل الإعلام السمعية</string>
@@ -628,7 +630,9 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_add_device">إضافة جهاز</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">سيتم استبدال الجهاز القديم بآخر جديد.</string>
   <string name="bluetooth_unlock_change_matched_device">اختيار جهاز آخر</string>
-  <string name="bluetooth_unlock_confirm_device_text">أنقر على \"جهاز bluetooth\" للتأكيد.</string>
+  <string name="bluetooth_unlock_confirm_device_text">أنقر على \"bluetooth\" للتأكيد.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Tap the button on the watch to unlock.</string> 
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tap the button on device to unlock.</string>  
   <string name="bluetooth_unlock_delete_device">حذف هذا الجهاز</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">هل أنت متأكد من حذف هذا الجهاز؟</string>
   <string name="bluetooth_unlock_device_matched_text">استخدم هذا الجهاز لإلغاء القفل.</string>
@@ -672,7 +676,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bootloader_status_unlocked">غير مقفل</string>
   <string name="bootloader_status_unlocked_info">هذا الجهاز غير مقفل</string>
   <string name="bootloader_summary">تجديد نظام جهازك عبر USB</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">لون الإضاءة</string>
   <string name="breathing_light_color_summary">لون الإضاءة عند استلام إشعار جديد</string>
   <string name="breathing_light_freq_summary">وميض عند استلام إشعارات جديدة</string>
@@ -692,13 +695,17 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="build_number">رقم البنية</string>
   <string name="builtin_keyboard_settings_summary">إعدادات لوحة المفاتيح</string>
   <string name="builtin_keyboard_settings_title">لوحة المفاتيح الفعلية</string>
+  <string name="keyguard_advance_setting_title">Advanced settings</string>
   <string name="button_disconnect_network">قطع الاتصال بالشبكة</string>
   <string name="button_light_timeout">إبقاء أضواء الأزرار مًشغلة</string>
   <string name="button_text_accept">قبول</string>
   <string name="button_text_accept_timer">قبول (%d)</string>
+  <string name="button_text_cancel">Cancel</string>
   <string name="button_text_login">تسجيل الدخول</string>
   <string name="button_text_next_step">التالي</string>
   <string name="button_text_next_step_timer">(%d) التالي</string>
+  <string name="button_text_ok">موافق</string>
+  <string name="button_text_ok_timer">موافق(%d)</string>
   <string name="button_text_reboot_now">إعادة تشغيل</string>
   <string name="button_text_reject">رفض</string>
   <string name="cache_header_label">ذاكرة التخزين المؤقت</string>
@@ -785,6 +792,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="children_mode_title">وضع الطفل</string>
   <string name="choose_assist_title">اختر التطبيق المساعدة</string>
   <string name="choose_profile">اختر الملف شخصي</string>
+  <string name="choose_smartcover_type">اختر نوع الحالة</string>
   <string name="choose_timezone">اختر المنطقة الزمنية</string>
   <string name="choose_voice_input_title">اختر الإدخال الصوتي</string>
   <string name="cleaner">أداة التنظيف</string>
@@ -838,6 +846,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_erase">مسح</string>
   <string name="confirm_fingerprint_icon_content_description">استخدام بصمة الإصبع للاستمرار.</string>
   <string name="confirm_fingerprint_msg">ضع إصبعك على المستشعر</string>
+  <string name="confirm_install_and_connect">تثبيت &amp; اتصال</string>  
   <string name="confirm_new_backup_pw_prompt">أعد كتابة كلمة المرور الجديدة النسخ الاحتياطي الكاملة هنا</string>
   <string name="confirm_privacy_password">أدخل كلمة مرور الحماية الخصوصية</string>
   <string name="confirm_privacy_password_fingerprint">مسح بصمات الأصابع أو قم بإدخال كلمة مرور حماية الخصوصية</string>
@@ -923,6 +932,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="current_use_ese_wallet">"أنت تستخدم محفظة Mi. هذه المحفظة تسمح لك باستخدام دفع Mi و بطاقة نقل NFC."</string>
   <string name="current_use_hce_wallet">"أنت تستخدم محفظة HCE"</string>
   <string name="current_use_uicc_se">استخدام العنصر الآمن على شريحة SIM</string>
+  <string name="current_zone">(current)</string>  
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (الأحمر والأخضر)</string>
   <string name="daltonizer_mode_disabled">تعطيل</string>
   <string name="daltonizer_mode_monochromacy">أحادي اللون</string>
@@ -1055,6 +1065,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="debug_monitoring_category">مراقبة</string>
   <string name="debug_networking_category">الشبكات</string>
   <string name="debug_view_attributes">تمكين عرض ميزة المراقبة</string>
+  <string name="defalut_launcher_title">Default launcher</string>
   <string name="default_app">(افتراضي)</string>
   <string name="default_apps_title">تطبيقات الافتراضي</string>
   <string name="default_assist_none">لا شيء</string>
@@ -1079,7 +1090,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="details_title">استخدام تفاصيل</string>
   <string name="dev_settings_warning_message">وتهدف هذه الإعدادات لاستخدام التنمية فقط. أنها يمكن أن يسبب الجهاز الخاص بك والتطبيقات إلى كسر أو يسيئون التصرف.</string>
   <string name="dev_settings_warning_title">هل تريد السماح بإعدادات التطوير؟</string>
-  <string name="developer_build">" | إصدار تجريبي"</string>
+  <string name="developer_build">" | تجريبي"</string>
   <string name="development_enable">خيارات المطور</string>
   <string name="development_settings_not_available">لا تتوفر خيارات المطور لهذا المستخدم</string>
   <string name="development_settings_summary">تعيين خيارات لتطوير التطبيق</string>
@@ -1089,12 +1100,17 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="device_admin_status">نشط هذا المسؤول ويسمح %1$s التطبيق تنفيذ العمليات التالية:</string>
   <string name="device_admin_title">مسؤول الجهاز</string>
   <string name="device_admin_warning">تفعيل هذا المسؤول سيسمح %1$s التطبيق تنفيذ العمليات التالية:</string>
+  <string name="device_available_memory">الذاكرة المتوفرة</string>
+  <string name="device_battery">البطارية</string>
+  <string name="device_build_id">رقم الإصدار</string>
+  <string name="device_complete_parameters">كامل</string>  
   <string name="device_cpu">المعالج</string>
   <string name="device_cpu10_info">عشاري النواة</string>
   <string name="device_cpu2_info">مزدوج النواة</string>
   <string name="device_cpu4_info">رباعي النواة</string>
   <string name="device_cpu6_info">سداسي النواة</string>
   <string name="device_cpu8_info">رباعي النواة</string>
+  <string name="device_display_layout_title">Features</string>  
   <string name="device_edit_title">إعادة تسمية الهاتف</string>
   <string name="device_feedback">إرسال ملاحظات حول هذا الجهاز</string>
   <string name="device_info_default">مجهول</string>
@@ -1650,6 +1666,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="key_position_cat">أوضاع الأزرار</string>
   <string name="key_settings">الأزرار</string>
   <string name="key_settings_title">الأزرار</string>
+  <string name="keyboard_and_input_methods_category">Keyboard and input methods</string>
   <string name="keyboard_layout_default_label">افتراضي</string>
   <string name="keyboard_layout_dialog_setup_button">إعداد نسق لوحة المفاتيح</string>
   <string name="keyboard_layout_dialog_switch_hint">للتبديل، اضغط Spacebar التحكم</string>
@@ -1666,10 +1683,13 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="keyguard_shortcut_summary">تعيين اختصارات ل 2 تطبيقين على شاشة القفل</string>
   <string name="keyguard_shortcut_title">قفل شاشة اختصارات</string>
   <string name="keywords_accounts">حساب</string>
+  <string name="keywords_airplane">Airplane;Airplane mode;Aeroplane;Aeroplane mode;Flight;Flight mode</string>
   <string name="keywords_all_apps">تحميل تطبيقات نظام التطبيقات</string>
   <string name="keywords_app">الذاكرة العشوائية</string>
   <string name="keywords_app_permissions">تطبيقات أذونات الأمان</string>
   <string name="keywords_battery">power usage charge</string>
+  <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
+  <string name="keywords_data">4G;3G;Data;Mobile data;Cellular data;Traffic;Mobile internet</string>
   <string name="keywords_date_and_time">clock military</string>
   <string name="keywords_default_apps">تطبيقات الافتراضي</string>
   <string name="keywords_default_phone_app">الهاتف المسجل الافتراضي</string>
@@ -1680,9 +1700,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="keywords_display_font_size">حجم النص</string>
   <string name="keywords_display_night_mode">موضوع الظلام ليلة الوضع خافت عكس سطوع الشاشة</string>
   <string name="keywords_display_wallpaper">إضفاء طابع شخصي على خلفية تخصيص العرض</string>
+  <string name="keywords_do_not_disturb">DND;DND mode;Do not disturb;Sleep;Night;Busy</string>
   <string name="keywords_emergency_app">الجليد الطوارئ التطبيق الافتراضي</string>
   <string name="keywords_factory_data_reset">إزالة مسح حذف استعادة واضحة</string>
   <string name="keywords_home">launcher</string>
+  <string name="keywords_hotspot">Hotspot;Tether;Tethering;Personal hotspot;Portable hotspot</string>
   <string name="keywords_ignore_optimizations">ignore optimizations doze app standby</string>
   <string name="keywords_keyboard_and_ime">تصحيح النص الصحيح صوت يهتز لفتة لغة السيارات تشير إلى اقتراح موضوع كلمة هجومية نوع emoji الدولية</string>
   <string name="keywords_location">nearby location history reporting</string>
@@ -1691,15 +1713,21 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="keywords_more_default_sms_app">الرسائل النصية الرسائل النصية الرسائل</string>
   <string name="keywords_more_mobile_networks">cellular cell carrier wireless data 4g 3g 2g lte</string>
   <string name="keywords_network_reset">إعادة ضبط مصنع استعادة</string>
+  <string name="keywords_paper_mode">Flux;Read;Reading mode;Blue light;protect eyes</string>
   <string name="keywords_printing">الطابعة</string>
+  <string name="keywords_quick_ball">Quick ball;shortcut;shortcuts;toggles;toggle</string>
   <string name="keywords_reset_apps">تفضيلات إعادة تعيين الافتراضي</string>
+  <string name="keywords_silent">Silent;Mute;Turn off sound</string>
   <string name="keywords_sounds_and_notifications">مكبر صوت تنبيه</string>
   <string name="keywords_sounds_and_notifications_interruptions">لا عدم الإزعاج المقاطعة انقطاع فاصل</string>
   <string name="keywords_spell_checker">تدقيق إملائي قاموس التدقيق الإملائي التلقائي تصحيح</string>
   <string name="keywords_storage">استخدام مساحة القرص الصلب الجهاز</string>
+  <string name="keywords_sync">Sync;Synchronization;Cloud</string>
   <string name="keywords_system_alert_window">أعلى رسم الحوار إطار تنبيه النظام في تطبيقات أخرى</string>
   <string name="keywords_text_to_speech_output">الكلام معدل اللغة الافتراضية إمكانية تحويل النص إلى كلام يتحدث القارئ الأعمى</string>
+  <string name="keywords_torch">Flashlight;Torch</string>
   <string name="keywords_users">قيود تقيد مقيد</string>
+  <string name="keywords_vibrate">Vibrate;Vibration</string>
   <string name="keywords_voice_input">التعرف على الكلام الإدخال الكلام اللغة حر اليدين الاعتراف الحر كلمة هجومية التاريخ السمعي سماعة bluetooth</string>
   <string name="keywords_wifi">WiFi;WiFi;WiFi;Wi-Fi;Wi-Fi;WiFi</string>
   <string name="keywords_wifi_calling">wifi wi-fi call calling</string>
@@ -1711,9 +1739,12 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="large_font">كبيرة</string>
   <string name="last_synced">%1$s مزامن آخر</string>
   <string name="last_time_used_label">آخر مرة استخدمت</string>
+  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">يفتح بشكل افتراضي</string>
   <string name="launch_defaults_none">لم يتم تعيين أية إعدادات افتراضية</string>
   <string name="launch_defaults_some">تعيين بعض الإعدادات الافتراضية</string>
+  <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
+  <string name="launcher_title">Home screen</string>
   <string name="launching_cit">جارٍ تشغيل CIT</string>
   <string name="launching_pho">جارٍ تشغيل معلومات الهاتف، الرجاء الإنتظار.</string>
   <string name="launching_rep">جارٍ الإبلاغ\u2026</string>
