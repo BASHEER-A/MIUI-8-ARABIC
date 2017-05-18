@@ -1444,7 +1444,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="force_touch_enable_tips">اضغط على أيقونات التطبيقات في مشغل البرامج (Launcher) مع الكبس قليلا لعرض القائمات المختصرة عندما يكون لمس 3D يعمل.</string>
   <string name="forget">نسيان</string>
   <string name="forget_password_button_text">نسيت كلمة المرور</string>
-  <string name="forget_pattern"><u>نسيت النمط?</u></string>
+  <string name="forget_pattern">&lt;u&gt;نسيت النمط?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">إضافة حساب Mi</string>
   <string name="forget_privacy_password_summary">استخدام حساب Mi لإعادة تعيين كلمة المرور الخاصة بك</string>
   <string name="forget_wifi_message">هاتفك سيتوقف تلقائياً عن الاتصال بهذه الشبكة.</string>

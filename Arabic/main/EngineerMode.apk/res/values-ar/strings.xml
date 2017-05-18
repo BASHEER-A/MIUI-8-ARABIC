@@ -556,11 +556,11 @@
   <string name="SIM1">SIM1</string>
   <string name="SIM2">SIM2</string>
   <string name="SIMList">SIM Select</string>
-  <string name="SSPDebugMode"><b>Enable SSP debug mode</b></string>
-  <string name="SetSspDebugModeDisableFailure"><b>Disable failure (Hint: check feature option)</b></string>
-  <string name="SetSspDebugModeDisableSuccess"><b>Disable success (Take effects when next BT on)</b></string>
-  <string name="SetSspDebugModeEnableFailure"><b>Enable failure (Hint: check feature option)</b></string>
-  <string name="SetSspDebugModeEnableSuccess"><b>Enable success (Take effects when next BT on)</b></string>
+  <string name="SSPDebugMode">&lt;b&gt;Enable SSP debug mode&lt;/b&gt;</string>
+  <string name="SetSspDebugModeDisableFailure">&lt;b&gt;Disable failure (Hint: check feature option)&lt;/b&gt;</string>
+  <string name="SetSspDebugModeDisableSuccess">&lt;b&gt;Disable success (Take effects when next BT on)&lt;/b&gt;</string>
+  <string name="SetSspDebugModeEnableFailure">&lt;b&gt;Enable failure (Hint: check feature option)&lt;/b&gt;</string>
+  <string name="SetSspDebugModeEnableSuccess">&lt;b&gt;Enable success (Take effects when next BT on)&lt;/b&gt;</string>
   <string name="Settings">إعدادات</string>
   <string name="StrChannel">القناة:</string>
   <string name="StrFrequency">قناة Tx:</string>
@@ -2042,7 +2042,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="start_tone">Start tone</string>
   <string name="step_dailog_title">Set step</string>
   <string name="stop_tone">Stop tone</string>
-  <string name="strTestMode"><b>Enable test mode</b></string>
+  <string name="strTestMode">&lt;b&gt;Enable test mode&lt;/b&gt;</string>
   <string name="success">success</string>
   <string name="switch_to_mbim">Switching to MBIM Mode</string>
   <string name="switch_to_normal">Switching to Normal Mode</string>

@@ -746,66 +746,66 @@
   <string name="noContactsHelpText">"ليس لديك أي جهات اتصال لعرضها.
 
 
-	لإضافة جهات اتصال، المس "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
+	لإضافة جهات اتصال، المس "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
 	 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
-	"</li>&lt;/font&gt;</b>" 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
-	"</li>&lt;/font&gt;</b>" 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
-	"</li>&lt;/font&gt;</b>"
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 	"</string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
 	  <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
 
-	لإضافة جهات اتصال، المس "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
+	لإضافة جهات اتصال، المس "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
 	 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Accounts to add or set up an account with contacts you can sync to the phone
-	"</li>&lt;/font&gt;</b>" 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Display options to change which contacts are visible
-	"</li>&lt;/font&gt;</b>" 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"New contact to create a new contact from scratch
-	"</li>&lt;/font&gt;</b>" 
-	"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Import/Export to import contacts from your SIM or SD card
-	"</li>&lt;/font&gt;</b>"
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 	"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Accounts to add or set up an account with contacts you can sync to the phone
-"</li>&lt;/font&gt;</b>" 
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"New contact to create a new contact from scratch
-"</li>&lt;/font&gt;</b>" 
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Import/Export to import contacts from your SD card
-"</li>&lt;/font&gt;</b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
 <string name="noContactsNoSimHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
-To add contacts, touch "<b>&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;</b>", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Accounts to add or set up an account with contacts you can sync to the phone
-"</li>&lt;/font&gt;</b>" 
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Display options to change which contacts are visible
-"</li>&lt;/font&gt;</b>" 
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"New contact to create a new contact from scratch
-"</li>&lt;/font&gt;</b>" 
-"<b>&lt;font fgcolor="#ffffffff"&gt;<li>"Import/Export to import contacts from your SD card
-"</li>&lt;/font&gt;</b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsWithPhoneNumbers">لا توجد جهات اتصال بأرقام هاتف</string>
 <string name="noFavoritesHelpText">"ليس لديك أي جهات اتصال مفضلة.
 
 لإضافة جهة اتصال إلى قائمة المفضلة لديك:
 
-"<li>Touch the <b>Contacts</b>" tab
-"</li>" 
-"<li>"Touch the contact you want to add to your favorites
-"</li>" 
-"<li>"Touch the star next to the contact's name
-"</li>"
+"&lt;li&gt;Touch the &lt;b&gt;Contacts&lt;/b&gt;" tab
+"&lt;/li&gt;" 
+"&lt;li&gt;"Touch the contact you want to add to your favorites
+"&lt;/li&gt;" 
+"&lt;li&gt;"Touch the star next to the contact's name
+"&lt;/li&gt;"
 "</string>
   <string name="noGroups">لا توجد مجموعات</string>
   <string name="noMatchingContacts">لم يتم العثور على جهات اتصال مطابقة.</string>

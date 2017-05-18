@@ -22,7 +22,7 @@
   <string name="button_cancel">إلغاء</string>
   <string name="button_delete">حذف</string>
   <string name="button_next">التالي</string>
-  <string name="cancel_recover_settings"><u>إلغاء</u></string>
+  <string name="cancel_recover_settings">&lt;u&gt;إلغاء&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">أنقر للمحاولة مرة أخرى</string>
   <string name="cloud_app_backup_success">إنتهت عملية النسخ الاحتياطي للتطبيقات</string>
   <string name="cloud_app_check_data">جارٍ التحدث إلى Mi Cloud\u2026</string>
@@ -73,7 +73,7 @@
   <string name="confirm_restore">إستعادة</string>
   <string name="confirm_restore_summary">سيتم اعادة تشغيل الشاشة الرئيسية والتطبيقات سيتم تحميلها تلقائيا عند الاتصال بشكبة wifi</string>
   <string name="confirm_restore_title">إستعادة</string>
-  <string name="customization"><u>&#1578;&#1582;&#1589;&#1610;&#1589;</u></string>
+  <string name="customization">&lt;u&gt;&#1578;&#1582;&#1589;&#1610;&#1589;&lt;/u&gt;</string>
   <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
   <string name="deskclock_backup">ساعة منبهه</string>
   <string name="desktop_downloading">جارٍ التنزيل</string>

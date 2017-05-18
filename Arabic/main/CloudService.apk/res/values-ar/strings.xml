@@ -103,7 +103,7 @@
   <string name="find_device_status_ok">اعثر على جهازك من أي مكان عبر i.mi.com</string>
   <string name="find_device_status_ok_international">اعثر على جهازك من أي مكان على www.mi.com/micloud</string>
   <string name="find_device_success_title">العثور على الجهاز</string>
-  <string name="forget_password"><u>نسيت كلمة المرور</u></string>
+  <string name="forget_password">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
   <string name="free_space_has_received">لقد أضفت مساحة مجانية بالفعل هذا الشهر</string>
   <string name="free_space_receive_fail">"تتعذر الترقية"</string>
   <string name="get_first_month_gb">احصل على %s مساحة مجانية</string>
@@ -317,7 +317,7 @@
   <string name="micloud_space_applist_title">إدارة التطبيقات</string>
   <string name="micloud_space_duokan_detail">تنزيل وإدارة الكتب الإلكترونية بإستخدام تطبيق Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
- <string name="micloud_space_full_influence"><u>ماذا يحدث عند تمتلئ المساحة?</u></string>
+ <string name="micloud_space_full_influence">&lt;u&gt;ماذا يحدث عند تمتلئ المساحة?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">إدارة التسجييلات المخزنة على جهازك</string>
   <string name="micloud_space_soundrecorder_title">التسجيلات</string>
   <string name="micloud_storage">التخزين</string>

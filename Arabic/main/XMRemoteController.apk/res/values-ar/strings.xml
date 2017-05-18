@@ -521,7 +521,7 @@ wait a moment after the action."</string>
   <string name="my_favorite">Starred</string>
   <string name="my_notification">Notifications</string>
   <string name="my_room">My room</string>
-  <string name="my_room_underline"><u>My room</u></string>
+  <string name="my_room_underline">&lt;u&gt;My room&lt;/u&gt;</string>
   <string name="my_setting">Settings</string>
   <string name="network_diagnosis">Test network</string>
   <string name="network_no_connection">"Can't connect to the network. Check your network connection and try again."</string>
@@ -578,7 +578,7 @@ wait a moment after the action."</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_btn_return">Back</string>
   <string name="passport_button_cancel">Cancel</string>
-  <string name="passport_change_account"><u>Change account</u></string>
+  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>
@@ -619,7 +619,7 @@ To activate your account, follow the
   <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
-  <string name="passport_forget_password"><u>نسيت كلمة المرور</u></string>
+  <string name="passport_forget_password">&lt;u&gt;نسيت كلمة المرور&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
   <string name="passport_get_back_pwd">Retrieve account password</string>
   <string name="passport_get_verify_code">Get code</string>
@@ -644,7 +644,7 @@ To activate your account, follow the
   <string name="passport_login_notice">Signing in…</string>
   <string name="passport_login_short">Sign in</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
-  <string name="passport_login_with_email_or_id"><u>Sign in with email address or Mi Account ID</u></string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -664,7 +664,7 @@ To activate your account, follow the
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">Use email address</string>
-  <string name="passport_reg_type_other_ways"><u>Use your email address or an alternate number</u></string>
+  <string name="passport_reg_type_other_ways">&lt;u&gt;Use your email address or an alternate number&lt;/u&gt;</string>
   <string name="passport_reg_type_other_ways_title">Create a Mi Account</string>
   <string name="passport_reg_using_other_phone">Use alternate phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
@@ -674,7 +674,7 @@ To activate your account, follow the
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email"><u>Create an account using email address</u></string>
+  <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_reject_recycle_account">Nope</string>

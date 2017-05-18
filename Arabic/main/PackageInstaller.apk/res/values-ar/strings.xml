@@ -127,7 +127,7 @@
   <string name="permission_summary_enforced_by_policy">مفروضة من السياسة</string>
   <string name="permission_title">%1$s أذونات</string>
   <string name="permission_warning_template">السماح
-        <b>%1$s </b> إلى
+        &lt;b&gt;%1$s &lt;/b&gt; إلى
         %2$s؟</string>
   <string name="permlab_togglePermissions">تبديل الأذونات</string>
   <string name="privacyPerms">الخصوصية</string>
@@ -140,7 +140,7 @@
   <string name="system_warning">إذا قمت برفض الإذن، قد لا تعمل الميزات الأساسية على النحو المنشود.</string>
   <string name="uninstall_activity_text">هذا %1$s جزء من التطبيق التالي:</string>
   <string name="uninstall_application_text">هل تريد إلغاء التثبيت هذا التطبيق؟</string>
-<string name="uninstall_application_text_all_users">هل تريد إلغاء تثبيت هذا التطبيق ل<b>all</b> المستخدمين؟ سيتم إزالة التطبيق وبياناته من <b>all</b>المستخدمين على الجهاز.</string>
+<string name="uninstall_application_text_all_users">هل تريد إلغاء تثبيت هذا التطبيق ل&lt;b&gt;all&lt;/b&gt; المستخدمين؟ سيتم إزالة التطبيق وبياناته من &lt;b&gt;all&lt;/b&gt;المستخدمين على الجهاز.</string>
   <string name="uninstall_application_text_user">هل تريد إلغاء التثبيت هذا التطبيق للمستخدم %1$s؟</string>
   <string name="uninstall_application_title">إلغاء تثبيت التطبيق</string>
   <string name="uninstall_blocked_device_owner">"هذا التطبيق مطلوب

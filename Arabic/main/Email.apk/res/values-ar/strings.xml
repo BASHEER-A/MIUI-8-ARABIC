@@ -584,7 +584,7 @@
   <string name="more_context">More</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Move to another folder</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b>\"   %2$s\"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;\"   %2$s\"</string>
   <string name="mute">Mute</string>
   <string name="net_check_title">"Couldn't connect to the network. Check settings and try again."</string>
   <string name="network_error">No connection</string>

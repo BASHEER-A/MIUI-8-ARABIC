@@ -50,7 +50,7 @@
   <string name="error_qr">لا يمكن ترجمة رمز QR.</string>
   <string name="error_title">خطأ</string>
   <string name="error_uri">مفتاح غير معترف بها.</string>
-  <string name="forget_password"><u> نسيت كلمة السر </u></string>
+  <string name="forget_password">&lt;u&gt; نسيت كلمة السر &lt;/u&gt;</string>
   <string name="general_security_exception">General security exception</string>
   <string name="gif_not_support_camera_msg">Your device does not support video recording.</string>
   <string name="how_it_works_menu_item">How it works</string>
@@ -90,7 +90,7 @@
   <string name="lockpattern_tutorial_close_label">Close</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockpattern_tutorial_jump_label">Skip</string>
-  <string name="lockscreen_forgot_pattern_button_text"><u>نسيت كلمة مرور النمط</u></string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;نسيت كلمة مرور النمط&lt;/u&gt;</string>
   <string name="login">sign in</string>
   <string name="main_preference_screen_title">Settings</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
@@ -163,7 +163,7 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="title_updatepattern">تغيير كلمة السر</string>
   <string name="title_visible_pattern">إجعل النقش مرئيا</string>
   <string name="type_prompt">نوع المفتاح</string>
-  <string name="update_pattern_jump"><u>إزالة كلمة المرور</u></string>
+  <string name="update_pattern_jump">&lt;u&gt;إزالة كلمة المرور&lt;/u&gt;</string>
   <string name="version_preference_title">Version</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
   <string name="welcome_page_details">"— Keep your account safe.
