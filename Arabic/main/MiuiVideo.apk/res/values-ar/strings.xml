@@ -47,7 +47,7 @@
   <string name="app_wifi_mode">تحديث تلقائي</string>
   <string name="app_wifi_mode_summary">تحديث التطبيق تلقائياً عند بدء تشغيل التطبيق، والاتصال بالـ Wi-Fi</string>
   <string name="authenticated_failed">"لا يمكن تسجيل الدخول"</string>
-  <string name="authenticating">&lt;CDATA&gt;جاري التحقق&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating">جاري التحقق</string>
   <string name="authenticating_manually">"لا يمكن المصادقة"</string>
   <string name="average_score">متوسط التقييم</string>
   <string name="avg_score">%.1f</string>
@@ -65,7 +65,7 @@
   <string name="clarity_high">High</string>
   <string name="clarity_standard">Standard</string>
   <string name="clarity_supper">Super</string>
-  <string name="clarity_unknown">Unknown</string>
+  <string name="clarity_unknown">غير معروف</string>
   <string name="clear_cache">Clear cached images</string>
   <string name="clear_cache_success">Cache cleared</string>
   <string name="clear_cache_summary">Clear cached images from Video app</string>
@@ -195,7 +195,7 @@
   <string name="lekan">ليكان</string>
   <string name="letv">Letv</string>
   <string name="live">Live</string>
-  <string name="loading">&lt;CDATA&gt;جاري التحميل &lt;/CDATA&gt;</string>
+  <string name="loading">جاري التحميل</string>
   <string name="loading_video_netplay_label">جارٍ التحميل\u2026</string>
   <string name="loading_video_netplay_label_v5">جارٍ التحميل\u2026</string>
   <string name="local_favorite_empty_title">فارغة</string>
@@ -450,7 +450,7 @@
   <string name="vp_hint">تنبيه</string>
   <string name="vp_install">تثبيت</string>
   <string name="vp_install_title">تثبيت</string>
-  <string name="vp_loading">&lt;CDATA&gt;جاري التنزيل&lt;/CDATA&gt;</string>
+  <string name="vp_loading">جارٍ التنزيل</string>
   <string name="vp_loading_download">&lt;CDATA&gt;جاري التنزيل&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_loading_video">تحميل…</string>
   <string name="vp_low_definition">أقل</string>
@@ -507,7 +507,7 @@
   <string name="vp_using_4_3">فرض 4:3</string>
   <string name="vp_video_bad_network_condition">اتصال الإنترنت ضعيف. أعد المحاولة لاحقًا.</string>
   <string name="vp_video_invalid_cp_info">معلومات غير صالحة لمزود الفيديو، يرجى إعادة تشغيل التطبيق</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;جاري التحميل&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">جارٍالتنزيل</string>
   <string name="vp_video_plugin_installation">تثبيت%1$s\u2026</string>
   <string name="waiting_to_download">في انتظار</string>
   <string name="wasu">Wasu</string>
