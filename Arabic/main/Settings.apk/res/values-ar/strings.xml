@@ -3397,7 +3397,8 @@ To use screen pinning:
   <string name="sim_enter_old">رمز UIM PIN قديم</string>
   <string name="sim_enter_pin">رمز UIM PIN</string>
   <string name="sim_lock_change_not_supported">"لا يمكن تغيير قفل SIM."</string>
-  <string name="sim_lock_failed">لا يمكن تغيير حالة قفل بطاقة UIM.\nقد يكون رمز PIN غير صحيح.</string>
+  <string name="sim_lock_failed">"لا يمكن تغيير حالة قفل بطاقة UIM.
+قد يكون رمز PIN غير صحيح."</string>
   <string name="sim_lock_off">تتطلب PIN لاستخدام الهاتف</string>
   <string name="sim_lock_on">تتطلب PIN لاستخدام الهاتف</string>
   <string name="sim_lock_settings">إعدادات قفل SIM</string>
@@ -3621,11 +3622,11 @@ This ^1 is formatted to work on this device only. It won&#8217;t work on any oth
 
 After formatting, this ^1 will only work in this device. 
 
-\"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;\" To avoid losing the data, consider backing it up. "</string>
+"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
   <string name="storage_wizard_format_confirm_public_body">هذا يتطلب تهيأة ^1.
-        \n&lt;b&gt;التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.&lt;/b&gt; لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها.
-    </string>
+
+"&lt;b&gt;التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.&lt;/b&gt;" لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها. "</string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
   <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
