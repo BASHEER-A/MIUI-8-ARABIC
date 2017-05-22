@@ -675,7 +675,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_stats_duration">%1$s منذ توصيلها</string>
   <string name="battery_stats_flashlight_on_label">المصباح يعمل</string>
   <string name="battery_stats_gps_on_label">نظام تحديد المواقع يعمل</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s على البطارية</string>
   <string name="battery_stats_phone_signal_label">إشارة الشبكة الخلوية</string>
   <string name="battery_stats_screen_on_label">الشاشة تعمل</string>
@@ -2014,12 +2013,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="input_method">لوحة المفاتيح</string>
   <string name="input_method_selector">أسلوب الإدخال محدد</string>
   <string name="input_method_selector_always_hide_title">دائماً إخفاء</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">تظهر دائماً</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">تلقائي</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">إعدادات</string>
   <string name="input_method_settings_button">إعدادات</string>
   <string name="input_methods_and_subtype_enabler_title">اختيار أساليب الإدخال النشط</string>
@@ -5111,11 +5106,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
