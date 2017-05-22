@@ -458,8 +458,8 @@
   <string name="find_device_error_password_recently_changed">"لقد قمت بتغيير كلمة المرور الخاصة بك في غضون ٣ أيام الماضية. لا يمكن إيقاف العثور على الجهاز الآن لأسباب أمنية."</string>
   <string name="find_device_interrupted">انقطعت العملية، أعد المحاولة لاحقا</string>
   <string name="find_device_io_error">"تعذر الاتصال بالشبكة"</string>
-  <string name="find_device_locked_account_email" formatted="false"><xliff:g id="userId">%s</xliff:g>، البريد الإلكتروني المرتبط به: <xliff:g id="emailAddress">%s</xliff:g></string>
-  <string name="find_device_locked_account_phone" formatted="false"><xliff:g id="userId">%s</xliff:g>، رقم الهاتف المرتبط به: <xliff:g id="phoneNumber">%s</xliff:g></string>
+  <string name="find_device_locked_account_email" formatted="false">%s، البريد الإلكتروني المرتبط به: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s، رقم الهاتف المرتبط به: %s</string>
   <string name="find_device_null_credential_error">"لا يمكن الحصول على على معلومات الجهاز، قم بالتصال بخدمة الزبائن الخاصة بـMi"</string>
   <string name="find_device_operation_failed_error">حدث خطأ بسبب خطأ خادم، حاول مرة أخرى في وقت لاحقاً</string>
   <string name="find_device_operation_failed_error_unknown">حدث خطأ ما، أعد المحاولة لاحقا</string>

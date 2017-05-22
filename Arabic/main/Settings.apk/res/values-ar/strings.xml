@@ -706,8 +706,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_dialog_title">قطع الاتصال الآن؟</string>
   <string name="block_list_no_device">لا توجد أجهزة متصلة في قائمة الحظر</string>
-  <string name="block_list_remove_dialog_content">سيكون هذا الجهاز “<xliff:g id="DEVICE_NAME">%s</xliff:g>” قادر على الاتصال بنقطة اتصال هذه</string>
-  <string name="block_list_remove_dialog_title">حذف “<xliff:g id="DEVICE_NAME">%s</xliff:g>” من قائمة الحظر</string>
+  <string name="block_list_remove_dialog_content">سيكون هذا الجهاز “%s” قادر على الاتصال بنقطة اتصال هذه</string>
+  <string name="block_list_remove_dialog_title">حذف “%s” من قائمة الحظر</string>
   <string name="block_list_summary">عرض الأجهزة التي لا يسمح لها الإتصال \"بنقطة الاتصال\" هذه</string>
   <string name="block_list_title">قائمة الحظر</string>
   <string name="bluetooth">bluetooth</string>
@@ -2537,7 +2537,7 @@ You can set a new screen lock for both your device and your work profile, but an
   <string name="memory_media_usage">الوسائط</string>
   <string name="memory_music_usage">الصوت (الموسيقى، النغمات، دبليو، إلخ.)</string>
   <string name="memory_performance">الأداء</string>
-  <string name="memory_rightvalue">المتاحة: <xliff:g id="SIZE">%s</xliff:g></string>
+  <string name="memory_rightvalue">المتاحة: %s</string>
   <string name="memory_settings_title">الذاكرة</string>
   <string name="memory_size">إجمالي المساحة</string>
   <string name="memory_summary">Avg %1$s of %2$s memory used</string>
@@ -3967,7 +3967,7 @@ To use screen pinning:
   <string name="size_kilo_byte">كيلوبايت</string>
   <string name="size_mega_byte">ميغابايت</string>
   <string name="size_peta_byte">بنتابايت</string>
-  <string name="size_suffix"><xliff:g id="number" example="123">%1$s</xliff:g><xliff:g id="unit" example="KB">%2$s</xliff:g></string>
+  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">تيرابايت</string>
   <string name="skip_anyway_button_label">Skip anyway</string>
   <string name="skip_label">تخطي</string>
@@ -4176,7 +4176,7 @@ After formatting, this ^1 will only work in this device.
 
 \"&lt;b&gt;التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.&lt;/b&gt;\" لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها. \"</string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
-  <string name="storage_wizard_format_confirm_third_body">يتم تهيأة <xliff:g id="NAME_0">^1</xliff:g></string>
+  <string name="storage_wizard_format_confirm_third_body">يتم تهيأة ^1</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
   <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
   <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
