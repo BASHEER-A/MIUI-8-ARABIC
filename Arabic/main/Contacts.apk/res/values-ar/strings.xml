@@ -688,7 +688,6 @@
   <string name="miprofile_contact_header">جهات الاتصال مع بطاقات جهة اتصال</string>
   <string name="miprofile_contact_meaasge">جهات الاتصال المحلية</string>
   <string name="miprofile_contact_verifying">تحقق</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
   <string name="miprofile_error_accept_self">"لا يمكن تبادل بطاقة جهة الاتصال الخاصة بك"</string>
   <string name="miprofile_error_no_miaccount">تسجيل الدخول إلى حساب Mi</string>
