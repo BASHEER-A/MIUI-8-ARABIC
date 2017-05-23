@@ -45,7 +45,7 @@
   <string name="auto_nickname">تلقائي</string>
   <string name="auto_set_nickname">تلقائي</string>
   <string name="back_view_description">رجوع</string>
-  <string name="batch_delete">حذف الدفعة</string>
+  <string name="batch_delete">حذف جهات الاتصال دفعة</string>
   <string name="blacklist">حظر</string>
   <string name="bluetooth_connection_failed_toast">تقطع اتصال الـbluetooth</string>
   <string name="blurbJoinContactDataWith">اختر جهة الاتصال التي ترغب في دمجها مع %s:</string>
@@ -92,6 +92,7 @@
   <string name="call_settings">الإعدادات</string>
   <string name="call_sim1_menu_title">الطلب باستخدام شريحة SIM 1</string>
   <string name="call_sim2_menu_title">الطلب باستخدام شريحة SIM 2</string>
+  <string name="call_sim_menu_title_suffix"> (الأساسي)</string>
   <string name="call_telex">الاتصال بالتلكس</string>
   <string name="call_tty_tdd">الاتصال بـ TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s </string>
@@ -128,6 +129,7 @@
   <string name="callrecordview_menu_edit_call_note">تعديل ملاحظة مكالمة</string>
   <string name="callrecordview_menu_ip">طلب IP تلقائي</string>
   <string name="callrecordview_menu_livetalk">حزمة شحن الرصيد</string>
+  <string name="callrecordview_menu_misim">بطاقة Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">بيانات الشراء</string>
   <string name="callrecordview_menu_paste">لصق</string>
   <string name="callrecordview_menu_recharge">شحن الرصيد</string>
@@ -191,6 +193,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"></string>
   <string name="config_export_file_suffix"></string>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">الافتراضي</string>
   <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_delete_contact_all_call_logs">حذف سجل المكالمات؟</string>
   <string name="confirm_delete_selected_all_call_logs">حذف سجل المكالمات؟</string>
@@ -277,7 +281,6 @@
   <string name="data_left">البيانات المتبقية</string>
   <string name="data_unit_gb">غ.ب</string>
   <string name="data_unit_mb">م.ب</string>
-  <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
   <string name="date_time_set">تعيين</string>
   <string name="date_year_toggle">تقديم سنة</string>
   <string name="default_ringtone">النغمة الأساسية</string>
@@ -343,7 +346,6 @@
   <string name="deselect_all">إلغاء الكل</string>
   <string name="details_list_group_header_other">أخرى</string>
   <string name="device_bluetooth_title">نقل جهات الاتصال</string>
-  <string name="device_brand_title">Choose a brand</string>
   <string name="device_import_account_dialog_title">اختيار حساب</string>
   <string name="device_import_account_dialog_title_suffix">\n(تم العثور على %1$s جهات اتصال)</string>
   <string name="device_import_failed_message">"تعذر الاستيراد"</string>
@@ -355,15 +357,24 @@
   <string name="device_import_progress_toast">%1$d جهة اتصال تم استيرادها</string>
   <string name="device_import_title">استيراد</string>
   <string name="device_list_title">اختيار هاتف</string>
-  <string name="device_other_guide">"الهواتف الأخرى تدعم الـbluetooth؟"</string>
+  <string name="device_other_guide">الهواتف الأخرى تدعم الـbluetooth؟</string>
   <string name="device_other_title">استيراد من هواتف أخرى</string>
   <string name="device_paired_dialog_message">جارٍ جلب جهات الاتصال\u2026</string>
   <string name="device_paired_dialog_title">جارٍ جلب جهات الاتصال\u2026</string>
   <string name="device_pairing_dialog_message">جارٍ الاقتران\u2026</string>
   <string name="device_pairing_dialog_title">اقتران الأجهزة</string>
+  <string name="device_transfer_by_bluetooth_message">
+\"۱. يرجى تشغيل \" بلوتوث\" الهواتف الأخرى؛
+        \n\n-  أجهزة الأندرويد عادة ما ينبغي العثور على \"بلوتوث\" تحت قسم الشبكة 
+        \n- أجهزة iOS عادة ما ينبغي البحث على \"بلوتوث\" بداخل الإعدادات
+        \n\n۲. ينبعي على أجهزة الأندرويد تشغيل خيار \"قابل للاكتشاف\"؛
+        \n\n۳. اضغط \"التالي\" و اسمح لجهات الاتصال الوصول للأذونات في  الخطوة التالية.\"    </string>
+  <string name="device_transfer_by_sim_message">
+        \"۱. حفظ جهات الاتصال من الجهاز الآخر على بطاقة SIM؛
+        \n\n۲. افتح الإعدادات في تطبيق جهات الاتصال، ثم اذهب إلى \"استيراد/تصدير جهات الاتصال\" -- \"استيراد من بطاقة SIM\"،
+عقد أي اتصال SIM لتحديده، حدد كافة الاتصالات المطلوبة، واضغط على \"استيراد\" \".اضغط على أي جهة اتصال لتحديده، تحديد  كل الجهات الاتصال المطلوبه، و انقر \"استيراد\"</string>
   <string name="device_version_header_bluetooth">استيراد عبر الـbluetooth</string>
   <string name="device_version_header_no_bluetooth">استيراد عبر شريحة SIM</string>
-  <string name="device_version_title">اختيار نموذج</string>
   <string name="dial">طلب</string>
   <string name="dialerDialpadHintText">اطلب لإضافة مكالمة</string>
   <string name="dialerIconLabel">المكالمات الحديثة</string>
@@ -385,8 +396,13 @@
   <string name="dialog_phone_call_prohibited_message">تعذر إرسال المكالمة</string>
   <string name="dialog_sync_add">إضافة مجموعة المزامنة</string>
   <string name="dialog_voicemail_airplane_mode_message">للاتصال بالبريد الصوتي، عليك بإيقاف تشغيل وضع الطائرة.</string>
-  <string name="dialog_voicemail_not_ready_message">لإعداد بريد صوتي، اذهب إلى القائمة > الإعدادات.</string>
+  <string name="dialog_voicemail_not_ready_message">لإعداد بريد صوتي، اذهب إلى القائمة &gt; الإعدادات.</string>
   <string name="directory_search_label">دليل</string>
+  <string name="disclaimer_text">الصفحات الصفراء تحصل على معلومات حول رصيدك عن طريق إرسال رسالة نصية قصيرة(SMS).
+        شركة الاتصالات قد تقوم بتحديث هذه المعلومات متأخرة، لذلك الأرقام التي تحصل عليها قد لا تكون دقيقة.
+        إذا رأيت خطأ، يمكنك الإبلاغ عن طريق رسالة (SMS) الاستفسار لمساعدتنا على تحسين هذه الخدمة.
+        \n\nلتجنب الاستفسارات المتكررة، نقوم بتحديث معلومات الرصيد مرة واحدة في اليوم.</string>
+  <string name="disclaimer_title">إخلاء المسؤولية</string>
   <string name="display_all_contacts">جميع جهات الاتصال</string>
   <string name="display_more_groups">المزيد من المجموعات\u2026</string>
   <string name="display_only_phones">إخفاء الأرقام الغير مكتملة</string>
@@ -431,7 +447,7 @@
   <string name="export_to_sim2">تصدير إلى شريحة SIM 2</string>
   <string name="export_to_sim_prepare_title">جارٍالتجهيز\u2026</string>
   <string name="export_to_sim_title">جارٍ التصدير\u2026</string>
-  <string name="export_vcard_description">"تصدير vCard إلى بطاقة SD"</string>
+  <string name="export_vcard_description">تصدير vCard إلى بطاقة SD</string>
   <string name="exporting_contact_failed_message">تعذر تصدير بيانات جهة الاتصال.n\السبب: \"%s\"</string>
   <string name="exporting_contact_failed_title">"تعذر التصدير"</string>
   <string name="exporting_contact_list_message">جارٍ التصدير إلى %s.</string>
@@ -531,7 +547,7 @@
   <string name="import_to_xiaomi_account_progress_message">جارٍ الاستيراد\u2026</string>
   <string name="import_to_xiaomi_account_progress_title">استيراد جهات الاتصال إلى حساب Mi</string>
   <string name="import_to_xiaomi_account_title">استيراد إلى حساب Mi</string>
-  <string name="import_vcard_description">"استيراد جهات اتصال من بطاقة SD الخاصة بك"</string>
+  <string name="import_vcard_description">استيراد جهات اتصال من بطاقة SD الخاصة بك</string>
   <string name="import_vcard_dialog_message">استيراد vCard؟</string>
   <string name="import_weibo_dialog_title">استيراد جهات اتصال Weibo</string>
   <string name="import_weibo_error_no_matched_contacts">لا توجد جهات اتصال متطابقة</string>
@@ -575,6 +591,11 @@
   <string name="list_filter_customize">تخصيص</string>
   <string name="list_filter_phones">كل جهات الاتصال بأرقام هاتف</string>
   <string name="list_filter_single">جهة اتصال</string>
+  <string name="live_talk_switch_on_toast">تم تشغيل حزمة شحن الرصيد بنجاح</string>
+  <string name="livetalk_charge">شحن</string>
+  <string name="livetalk_left">المتبقي</string>
+  <string name="livetalk_switch_on">تشغيل</string>
+  <string name="livetalk_title">حزمة شحن الرصيد</string>
   <string name="loading_accounts">لحظة من فضلك\u2026</string>
   <string name="loading_group_members">لحظة من فضلك\u2026</string>
   <string name="loading_groups">لحظة من فضلك\u2026</string>
@@ -584,6 +605,7 @@
   <string name="local_search_label">جميع جهات الاتصال</string>
   <string name="locale_change_in_progress">جارٍ تحديث قائمة جهة الاتصال لإظهار تغير اللغة.</string>
   <string name="login_ok">تسجيل الدخول</string>
+  <string name="low_memory_toast">"لا يمكن إستخدام هذه الميزة بسبب ضعف الذاكرة."</string>
   <string name="lunarBirthdayLabelsGroup">تاريخ الميلاد القمري</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
@@ -666,6 +688,7 @@
   <string name="miprofile_contact_header">جهات الاتصال مع بطاقات جهة اتصال</string>
   <string name="miprofile_contact_meaasge">جهات الاتصال المحلية</string>
   <string name="miprofile_contact_verifying">تحقق</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
   <string name="miprofile_error_accept_self">"لا يمكن تبادل بطاقة جهة الاتصال الخاصة بك"</string>
   <string name="miprofile_error_no_miaccount">تسجيل الدخول إلى حساب Mi</string>
@@ -720,7 +743,7 @@
   <string name="multi_number_title">مكالمة جماعية</string>
   <string name="multipleContactDeleteConfirmation">حذف جهة الاتصال هذه سيؤدي إلى حذف كل المعلومات من حسابات متعددة.</string>
   <string name="multipleContactDeleteConfirmationDetail">حذف \"%s\" سيؤدي إلى حذف معلومات من عدة حسابات.</string>
-  <string name="my_phone_not_provider_bluetooth">"لا"</string>
+  <string name="my_phone_not_provider_bluetooth">لا</string>
   <string name="my_phone_provider_bluetooth">نعم</string>
   <string name="nameLabelsGroup">الاسم</string>
   <string name="name_family">اللقب</string>
@@ -746,66 +769,66 @@
   <string name="noContactsHelpText">"ليس لديك أي جهات اتصال لعرضها.
 
 
-	لإضافة جهات اتصال، المس "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
 	 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 	"</string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
-	  <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
+  <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
 
-	لإضافة جهات اتصال، المس "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
 	 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-	"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-	"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"حسابات لإضافة حساب به جهات اتصال يمكنك مزامنتها مع الكمبيوتر اللوحي
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"خيارات العرض لتغيير جهات الاتصال التي ستكون ظاهرة
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 	"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)"</string>
-  <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
+  <string name="noContactsNoSimHelpText">"You don\'t have any contacts to display.
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
-<string name="noContactsNoSimHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
+  <string name="noContactsNoSimHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"خيارات العرض لتغيير جهات الاتصال التي ستكون ظاهرة
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
+	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
   <string name="noContactsWithPhoneNumbers">لا توجد جهات اتصال بأرقام هاتف</string>
-<string name="noFavoritesHelpText">"ليس لديك أي جهات اتصال مفضلة.
+  <string name="noFavoritesHelpText">"ليس لديك أي جهات اتصال مفضلة.
 
 لإضافة جهة اتصال إلى قائمة المفضلة لديك:
 
-"&lt;li&gt;Touch the &lt;b&gt;Contacts&lt;/b&gt;" tab
-"&lt;/li&gt;" 
-"&lt;li&gt;"Touch the contact you want to add to your favorites
-"&lt;/li&gt;" 
-"&lt;li&gt;"Touch the star next to the contact's name
-"&lt;/li&gt;"
+\"&lt;li&gt;أنقر على &lt;b&gt;علامة تبويب&lt;/b&gt;\"جهات الاتصال
+\"&lt;/li&gt;\" 
+\"&lt;li&gt;\"أنقر على جهة الاتصال التي ترغب في إضافتها إلى قائمة المفضلة
+\"&lt;/li&gt;\" 
+\"&lt;li&gt;\"أنقر على النجمة الموجودة بجوار اسم جهة الاتصال
+\"&lt;/li&gt;\"
 "</string>
   <string name="noGroups">لا توجد مجموعات</string>
   <string name="noMatchingContacts">لم يتم العثور على جهات اتصال مطابقة.</string>
@@ -961,6 +984,8 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="preview_incall_show_entry">معاينة الفيديو</string>
   <string name="previous">السابق</string>
   <string name="private_num">رقم خاص</string>
+  <string name="profileSavedErrorToast">"تعذر حفظ تغييرات ملفي الشخصي"</string>
+  <string name="profileSavedToast">My profile saved</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">إعداد ملفي الشخصي</string>
   <string name="profile_name">ملفي الشخصي</string>
@@ -1016,6 +1041,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="remove_blacklist_dialog_message">عرض المكالمات والرسائل من هذا الرقم؟</string>
   <string name="remove_blacklist_dialog_title">إلغاء حظر رقم الهاتف هذا؟</string>
   <string name="remove_duplicate">سيساعدك MIUI على العثور و دمج جهات الاتصال المكررة. \n\n للبدء، أنقر أيقونة الدمج في أسفل الشاشة.</string>
+  <string name="report_inquiry_mms">الإبلاغ برسالة SMS</string>
   <string name="restore_nickname">إستعادة</string>
   <string name="ret_sign">\n</string>
   <string name="returnCall">الاتصال برقم مكالمة فائتة</string>
@@ -1035,7 +1061,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="search_contacts_display">جهات الاتصال؛ وعرض</string>
   <string name="search_contacts_more">تنظيم؛ جهات الاتصال</string>
   <string name="search_contacts_recovery">جهات الاتصال</string>
-  <string name="search_contacts_setting">إعدادات الاتصال؛ وعرض الصور والمعلومات؛ تعيين الصور الاتصال؛ والاستيراد والتصدير؛ حصة؛ استيراد من بطاقة SD; استيراد من شريحة SIM الاستيراد من هاتف آخر؛ تصدير من بطاقة الذاكرة الرقمية المؤمنة؛ تصدير من شريحة SIM؛ مشاركة جهات الاتصال؛ تفضيلات العرض؛ إخفاء أرقام غير كاملة؛ إظهار جهات الاتصال سيم؛ تكوين قوائم جهات الاتصال؛ المجموعات الذكية؛ وتنظيم الاتصالات؛ دمج جهات الاتصال المكررة؛ وحذف دفعة؛ بيانات واضحة؛ إعادة إنشاء الفهرس البيانات؛ t9؛ البطاقات؛ تخزين شريحة SIM؛ مقدمة استرداد جهات الاتصال</string>
+  <string name="search_contacts_setting">إعدادات الاتصال؛ وعرض الصور والمعلومات؛ تعيين الصور الاتصال؛ والاستيراد والتصدير؛ حصة؛ استيراد من بطاقة SD; استيراد من شريحة SIM الاستيراد من هاتف آخر؛ تصدير من بطاقة الذاكرة الرقمية المؤمنة؛ تصدير من شريحة SIM؛ مشاركة جهات الاتصال؛ تفضيلات العرض؛ إخفاء أرقام غير كاملة؛ إظهار جهات الاتصال سيم؛ تكوين قوائم جهات الاتصال؛ المجموعات الذكية؛ وتنظيم الاتصالات؛ دمج جهات الاتصال المكررة؛ وحذف جهات الاتصال دفعة؛ بيانات واضحة؛ إعادة إنشاء الفهرس البيانات؛ t9؛ البطاقات؛ تخزين شريحة SIM؛ مقدمة استرداد جهات الاتصال</string>
   <string name="search_display_only_phones">جهات الاتصال؛ وعرض</string>
   <string name="search_display_sim_contacts">جهات الاتصال؛ وعرض</string>
   <string name="search_export_to_sdcard">اتصالات؛ تصدير؛ التخزين</string>
@@ -1110,6 +1136,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="sim_export_loading">جارٍ قراءة شريحة SIM\u2026</string>
   <string name="sim_indexed_contact_not_exist">جهة الاتصال %1$d الموجود على شريحة SIM غير صالحة، ينبغي أن تكون بين %2$d و %3$d.</string>
   <string name="sim_no_contact">لا توجد جهات اتصال على شريحة SIM</string>
+  <string name="sim_unloaded">"بطاقة SIM غير مثبتة"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
@@ -1185,6 +1212,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="toast_making_personal_copy">يتم الآن إنشاء نسخة شخصية\u2026</string>
   <string name="toast_text_copied">تم نسخ النص</string>
   <string name="today">اليوم</string>
+  <string name="tomorrow">غداً</string>
   <string name="transfer_accounts">حسابات النقل</string>
   <string name="type_incoming">مكالمة واردة</string>
   <string name="type_missed">مكالمات فائتة</string>
@@ -1196,6 +1224,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="unknow_phone_number_mms_failed">"لا يمكن إرسال رسالة إلى رقم غير معروف"</string>
   <string name="unknown">غير معروف</string>
   <string name="unknown_contact_name">جهة اتصال غير معروفة</string>
+  <string name="update_sim_contact_photo_toast">"لا يمكن تعيين صور الملف الشخصي لجهات اتصال SIM"</string>
   <string name="upgrade_in_progress">جارٍ تحديث قائمة جهة الاتصال.</string>
   <string name="upgrade_out_of_memory">يتم الآن ترقية جهات الاتصال لديك.
     n\n\تتطلب عملية الترقية تقريبا %s
@@ -1248,6 +1277,8 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="wipe_data">حذف البيانات</string>
   <string name="yellowPageNavigationIconLabel">الصفحات الصفراء</string>
   <string name="yellowPageNavigationLabel">الصفحات الصفراء</string>
+  <string name="yellowpage_fc_toast">"لا يمكن إستخدام هذه الميزة بسبب تعطل الصفحات الصفراء."</string>
+  <string name="yellowpage_mi_family">小米之家</string>
   <string name="yellowpage_navigation_ad_hint">اعلان</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"تعذر التحقق من التوازن و بيانات الهاتف. أعد المحاولة لاحقاً."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">تم التحقق من التوازن و بيانات الهاتف</string>
@@ -1267,10 +1298,11 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="yellowpage_navigation_search_result_unknown_error">خطأ غير معروف</string>
   <string name="yellowpage_navigation_search_select_city">اختيار مدينة</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">جارٍ التنزيل\u2026</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">"\"تعذر الاتصال بالشبكة\"
-    "</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">"\"\"تعذر الاتصال بالشبكة\"
+    \""</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">تمت الإضافة إلى الشاشة الرئيسية</string>
   <string name="yellowpage_search_the_yellowpage">البحث عن الصفحات الصفراء</string>
   <string name="yellowpage_user_profile">الملف الشخصي</string>
+  <string name="yesterday">أمس</string>
   <string name="zero_items_selected">تحديد العناصر</string>
 </resources>
