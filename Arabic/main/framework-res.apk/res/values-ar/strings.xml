@@ -211,7 +211,6 @@
   <string name="common_name_prefixes"></string>
   <string name="common_name_suffixes"></string>
   <string name="condition_provider_service_binding_label">موفر الحالة</string>
-  <string name="config_activityRecognitionHardwarePackageName">\@null</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
   <string name="config_appsNotReportingCrashes"></string>
   <string name="config_cameraLaunchGestureSensorStringType"></string>
@@ -233,9 +232,7 @@
   <string name="config_forceVoiceInteractionServicePackage"></string>
   <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
   <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
-  <string name="config_geofenceProviderPackageName">\@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
-  <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
   <string name="config_isoImagePath"></string>
   <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
   <string name="config_mms_user_agent">Android-Mms/2.0</string>
@@ -328,7 +325,6 @@
   <string name="default_browser"></string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="default_sms_application">com.android.mms</string>
-  <string name="default_wallpaper_component">\@null</string>
   <string name="delete">حذف</string>
   <string name="deleteText">حذف</string>
   <string name="deleted_key">تم حذف %1$s</string>
@@ -1427,7 +1423,6 @@
   <string name="sync_undo_deletes">التراجع عن عمليات الحذف</string>
   <string name="system_error_manufacturer">"حدثت مشكلة داخلية في جهازك. يمكنك الاتصال بالمصنِّع للحصول على تفاصيل."</string>
   <string name="system_error_wipe_data">"حدثت مشكلة داخلية في جهازك، وقد لا يستقر وضعه حتى إجراء إعادة الضبط بحسب بيانات المصنع."</string>
-  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="taking_remote_bugreport_notification_title">جارٍ الحصول على تقرير الخطأ…</string>
   <string name="terabyteShort">تيرابايت</string>
   <string name="tethered_notification_message">أنقر للإعداد.</string>
