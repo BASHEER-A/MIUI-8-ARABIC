@@ -1508,8 +1508,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="encrypt_talkback_dialog_require_password">يتطلب كلمة مرور؟</string>
   <string name="encrypt_talkback_dialog_require_pattern">تتطلب نمط؟</string>
   <string name="encrypt_talkback_dialog_require_pin">يتطلب رقم PIN؟</string>
-  <string name="encryption_continue_button">Continue</string>
-  <string name="encryption_interstitial_header">Secure start-up</string>
+  <string name="encryption_continue_button">استمر</string>
+  <string name="encryption_interstitial_header">تأمين بدء التشغيل</string>
   <string name="encryption_interstitial_message_password">"يمكنك زيادة حماية هذا الجهاز من خلال طلب كلمة المرور قبل بدء التشغيل. حتى يبدأ تشغيل الجهاز، فإنه لا يمكن استقبال المكالمات والرسائل، أو الإخطارات، بما في ذلك الإنذارات.
 
 وهذا يساعد على حماية البيانات على الأجهزة المفقودة أو المسروقة."</string>
@@ -1551,9 +1551,9 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
   <string name="error_name_empty">لا يمكن أن يكون حقل الاسم فارغا.</string>
   <string name="error_title"></string>
-  <string name="ethernet">Ethernet</string>
-  <string name="ethernet_data_template">%1$s ethernet data</string>
-  <string name="ethernet_data_usage">Ethernet data usage</string>
+  <string name="ethernet">إيثرنت</string>
+  <string name="ethernet_data_template">%1$s بيانات إيثرنت</string>
+  <string name="ethernet_data_usage">استخدام بيانات إيثرنيت</string>
   <string name="every_day">كل يوم</string>
   <string name="experimental_preference">(تجريبية)</string>
   <string name="external_code_size_label">التطبيق تخزين USB</string>
@@ -1579,10 +1579,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="filter_dlg_title">اختر خيارات التصفية</string>
   <string name="filter_enabled_apps">تمكين</string>
   <string name="filter_notif_blocked_apps">حظر</string>
-  <string name="filter_notif_hide_notifications_apps">Never shown on lock screen</string>
+  <string name="filter_notif_hide_notifications_apps">لاتظهر على شاشة القفل</string>
   <string name="filter_notif_priority_apps">الأولوية</string>
   <string name="filter_notif_sensitive_apps">حساسية محتوى مخفي</string>
-  <string name="filter_notif_silent">Shown silently</string>
+  <string name="filter_notif_silent">إظهار بصمت</string>
   <string name="filter_overlay_apps">تطبيقات مع الإذن</string>
   <string name="filter_personal_apps">شخصية</string>
   <string name="filter_with_domain_urls_apps">مع عناوين المجال</string>
@@ -1591,7 +1591,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_add_max">يمكنك إضافة لبصمات %d</string>
   <string name="fingerprint_add_title">إضافة بصمات الأصابع</string>
   <string name="fingerprint_and_password_entrance_title">قفل الشاشة وبصمة الاصبع</string>
-  <string name="fingerprint_apply_to_privacy_password">Privacy protection password</string>
+  <string name="fingerprint_apply_to_privacy_password">حماية الخصوصية كلمة المرور</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">قفل الشاشة</string>
   <string name="fingerprint_enroll_button_add">إضافة آخر</string>
@@ -1608,14 +1608,14 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_list_title">بصمة الإصبع</string>
   <string name="fingerprint_lock_first">إلغاء قفل الفضاء الاول</string>
   <string name="fingerprint_lock_second">إلغاء قفل الفضاء الثاني</string>
-  <string name="fingerprint_manage">Manage fingerprints</string>
+  <string name="fingerprint_manage">إدارة بصمات الأصابع</string>
   <string name="fingerprint_manage_category_title">إدارة بصمات الأصابع</string>
   <string name="fingerprint_not_identified_msg">"لم أستطع قراءة بصمات الأصابع. أدخل كلمة المرور الخاصة بك"</string>
   <string name="fingerprint_not_recognized">لا يمكن التعرف عليها</string>
   <string name="fingerprint_removal_failed">"تعذر إزالة بصمة الاصبع، حاول مجددا لاحقا"</string>
-  <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
-  <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
-  <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">بصمة + كلمة السر</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">بصمة + نمط</string>
+  <string name="fingerprint_unlock_set_unlock_pin">بصمة + كلمة سر</string>
   <string name="fingerprint_usage_category_title">استخدام بصمات الأصابع على</string>
   <string name="finish_application">إيقاف إجباري</string>
   <string name="finish_button_label">إنهاء</string>
@@ -1627,8 +1627,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="font_size_exhuge">ضخم جداً</string>
   <string name="font_size_huge">ضخم</string>
   <string name="font_size_large">كبير جداً</string>
-  <string name="font_size_make_larger_desc">Make larger</string>
-  <string name="font_size_make_smaller_desc">Make smaller</string>
+  <string name="font_size_make_larger_desc">اجعله أكبر</string>
+  <string name="font_size_make_smaller_desc">اجعله أصغر</string>
   <string name="font_size_medium">كبير</string>
   <string name="font_size_normal">صغير</string>
   <string name="font_size_preview">MIUI</string>
@@ -1729,7 +1729,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">يؤثر هذا الإعداد على كافة المستخدمين على هذا الهاتف.</string>
   <string name="global_locale_change_title">تغيير اللغة</string>
-  <string name="go_back_button_label">Go back</string>
+  <string name="go_back_button_label">عودة</string>
   <string name="google_backup_enable">تشغيل النسخ الاحتياطية</string>
   <string name="google_backup_section_title">النسخ الاحتياطي لـ Google وإعادة التعيين</string>
   <string name="google_title">غوغل</string>
@@ -1768,7 +1768,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="header_category_wireless_networks">الشبكة</string>
   <string name="header_data_and_synchronization">البيانات والتزامن</string>
   <string name="heavy_weight_stop_description">لا يمكن إيقاف بأمان في هذا التطبيق. إذا قمت بإيقاف ذلك، فقد تفقد بعض العمل الحالي الخاص بك.</string>
-  <string name="help_feedback_label">Help &amp; feedback</string>
+  <string name="help_feedback_label">مساعدة &amp; ردود الفعل</string>
   <string name="help_label">تعليمات وملاحظات</string>
   <string name="help_uri_about"></string>
   <string name="help_uri_accessibility"></string>
@@ -1818,8 +1818,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="high_power_prompt_title">تجاهل تحسين البطارية؟</string>
   <string name="high_power_system">تحسين البطارية غير متوفر</string>
   <string name="history_details_title">تفاصيل محفوظات</string>
-  <string name="home">Settings Home</string>
-  <string name="home_app">Home app</string>
+  <string name="home">إعدادات الرئيسية</string>
+  <string name="home_app">التطبيق الرئيسي</string>
   <string name="home_app_uninstall_button">إلغاء تثبيت هذا التطبيق</string>
   <string name="home_key">الشاشة الرئيسية</string>
   <string name="home_settings">الصفحة الرئيسية</string>
@@ -1838,9 +1838,9 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="imei_information_title">معلومات IMEI</string>
   <string name="immediately_destroy_activities">لا تبقى الأنشطة</string>
   <string name="immediately_destroy_activities_summary">تدمير كل نشاط بمجرد أن يترك المستخدم</string>
-  <string name="importance_reset">Reset</string>
-  <string name="inactive_app_active_summary">Active. Touch to toggle.</string>
-  <string name="inactive_app_inactive_summary">Inactive. Touch to toggle.</string>
+  <string name="importance_reset">إعادة تعيين</string>
+  <string name="inactive_app_active_summary">نشط. ألمس للتبديل.</string>
+  <string name="inactive_app_inactive_summary">غير نشط. ألمس للتبديل.</string>
   <string name="inactive_apps_title">تطبيقات غير نشط</string>
   <string name="include_app_data_title">وتشمل بيانات التطبيق</string>
   <string name="incoming_call_breathing_light_color_title">لون إضاءة المكالمات</string>
@@ -1902,8 +1902,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="key_position_cat">أوضاع الأزرار</string>
   <string name="key_settings">الأزرار</string>
   <string name="key_settings_title">الأزرار</string>
-  <string name="keyboard_and_input_methods_category">Keyboard and input methods</string>
-  <string name="keyboard_assistance_category">Keyboard assistance</string>
+  <string name="keyboard_and_input_methods_category">لوحة المفاتيح وأساليب الإدخال</string>
+  <string name="keyboard_assistance_category">مساعدة لوحة المفاتيح</string>
   <string name="keyboard_layout_default_label">افتراضي</string>
   <string name="keyboard_layout_dialog_setup_button">إعداد نسق لوحة المفاتيح</string>
   <string name="keyboard_layout_dialog_switch_hint">للتبديل، اضغط Spacebar التحكم</string>
@@ -1911,9 +1911,9 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="keyboard_layout_picker_title">نسق لوحة المفاتيح</string>
   <string name="keyboard_settings_category">أساليب لوحة المفاتيح &amp; الإدخال</string>
   <string name="keyboard_settings_title">لوحة مفاتيح Android</string>
-  <string name="keyboard_shortcuts_helper">Keyboard shortcuts helper</string>
-  <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
-  <string name="keyguard_advance_setting_title">Advanced settings</string>
+  <string name="keyboard_shortcuts_helper">مساعد اختصارات لوحة المفاتيح</string>
+  <string name="keyboard_shortcuts_helper_summary">عرض الاختصارات المتاحة</string>
+  <string name="keyguard_advance_setting_title">إعدادات متقدمة</string>
   <string name="keyguard_left_function_chooser_hint_text">اختصار الأيسر تغيرت إلى %s</string>
   <string name="keyguard_left_function_chooser_title">التطبيق</string>
   <string name="keyguard_left_function_title">اليسار</string>
@@ -1928,7 +1928,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="keywords_app">الذاكرة العشوائية</string>
   <string name="keywords_app_permissions">تطبيقات أذونات الأمان</string>
   <string name="keywords_auto_rotate">دوران;تدوير الشاشة;التوجيه;توجيه الشاشة;وضع صورة شخصية;وضع منظر طبيعي;عمودي;أفقي</string>
-  <string name="keywords_battery">power usage charge</string>
+  <string name="keywords_battery">رسوم استخدام الطاقة</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
   <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, standard</string>
   <string name="keywords_color_temperature">color temperature D65 D73 white yellow blue warm cool</string>
@@ -1955,7 +1955,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="keywords_lockscreen">slide password pattern pin</string>
   <string name="keywords_more_default_sms_app">الرسائل النصية الرسائل النصية الرسائل</string>
   <string name="keywords_more_mobile_networks">cellular cell carrier wireless data 4g 3g 2g lte</string>
-  <string name="keywords_network_name_display">network name displayed</string>
+  <string name="keywords_network_name_display">تم عرض اسم الشبكة</string>
   <string name="keywords_network_reset">إعادة ضبط مصنع استعادة</string>
   <string name="keywords_paper_mode">Flux;Read;Reading mode;Blue light;protect eyes</string>
   <string name="keywords_printing">الطابعة</string>
