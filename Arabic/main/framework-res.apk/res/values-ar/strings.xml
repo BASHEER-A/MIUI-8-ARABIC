@@ -308,9 +308,6 @@
   <string name="date_time_set">تعيين</string>
   <string name="day">يوم</string>
   <string name="days">أيام</string>
-  <string name="db_default_journal_mode">PERSIST</string>
-  <string name="db_default_sync_mode">كامل</string>
-  <string name="db_wal_sync_mode">كامل</string>
   <string name="decline">رفض</string>
   <string name="decline_remote_bugreport_action">رفض</string>
   <string name="def_custom_bt_defname"></string>
