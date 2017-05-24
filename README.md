@@ -1,4 +1,4 @@
-<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
+<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/YqLJqWu.jpg" border="0" alt="MIUI8_logo"></a></dd></dl>
 
 
 
