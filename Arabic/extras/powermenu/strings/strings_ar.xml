@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">وضع الطيران</string>
+    <string name="label_silent_mode">صامت</string>
+    <string name="label_reboot">إعادة التشغيل</string>
+    <string name="label_shutdown">إيقاف التشغيل</string>
+    <string name="label_alert_reboot">أنقر للتنشيط</string>
+    <string name="label_alert_shutdown">أنقر للإيقاف</string>
+    <string name="label_blank">رجوع</string>
+</resources>
