@@ -1202,7 +1202,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="date_and_time_settings_title_setup_wizard">ضبط التاريخ والوقت</string>
   <string name="date_picker_title">تاريخ</string>
   <string name="date_time_24hour">استخدام تنسيق 24 ساعة</string>
-  <string name="date_time_24hour_title">تنسيق 24‑hour</string>
+  <string name="date_time_24hour_title">تنسيق 24 ساعة</string>
   <string name="date_time_auto">الوقت والتاريخ تلقائياً</string>
   <string name="date_time_auto_summaryOff">استخدام الوقت الذي توفره الشبكة</string>
   <string name="date_time_auto_summaryOn">استخدام الوقت الذي توفره الشبكة</string>
