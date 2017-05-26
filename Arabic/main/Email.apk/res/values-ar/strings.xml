@@ -433,7 +433,8 @@
   <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">إلى الأمام</string>
   <string name="forward_attachment">إلى الأمام</string>
-  <string name="forward_attribution">---رسالة توجيهها---<br> من: %1$s &amp;lt;br&amp;gt; التاريخ: %2$s &amp;lt;br&amp;gt; الموضوع: %3$s &amp;lt;br&amp;gt; إلى: %4$s <br></string>  <string name="forward_attribution_no_headers">---رسالة توجيهها--</string>
+  <string name="forward_attribution">---رسالة توجيهها---&lt;br&gt; من: %1$s &amp;lt;br&amp;gt; التاريخ: %2$s &amp;lt;br&amp;gt; الموضوع: %3$s &amp;lt;br&amp;gt; إلى: %4$s &lt;br&gt;</string>
+  <string name="forward_attribution_no_headers">---رسالة توجيهها--</string>
   <string name="forward_download_failed_ticker">"لا يمكن إعادة توجيه واحد أو أكثر من المرفقات."</string>
   <string name="forward_download_failed_title">المرفقات التي لم ترسل</string>
   <string name="from_heading">"من: "</string>
