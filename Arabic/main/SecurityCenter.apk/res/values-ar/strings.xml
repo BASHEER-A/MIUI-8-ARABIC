@@ -678,20 +678,20 @@
   <string name="network_roaming_exception_tips">"يتعذر استخدام بيانات الهاتف أثناء التجوال للاتصال بالشبكة."</string>
   <string name="network_route_exception_detail">"قد تكون هناك مشكلة في جهاز التوجيه الذي تتصل به:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "<b>"1. Public WLAN network issues
+"</b>"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+ 2."<b>" Internet service provider issues
+M"</b>"ake sure that your account is in good standing with your Internet Service Provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ 3."<b>" Router hardware issues
+T"</b>"ry rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ 4."<b>" Other router issues
+R"</b>"ead the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+ 5."<b>" Make sure your router is connected properly
+T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
   <string name="network_sim_exception_detail">قد تكون هناك مشكلة في شريحة SIM الخاصة بك:\n\n
          ١. تأكد من أن حسابك في وضع جيدة مع شركة الاتصالات الخاصة بك. جرب استخدام شريحة SIM خاصة بصديق لك وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n
          ٢. إذا كنت تستخدم بطاقتي SIM، جرب الانتقال إلى البطاقة الأخرى وتاكد إذا كان بإمكانك الاتصال بشكل طبيعي.\n\n

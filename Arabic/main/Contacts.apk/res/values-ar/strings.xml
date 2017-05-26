@@ -766,66 +766,66 @@
   <string name="noContactsHelpText">"ليس لديك أي جهات اتصال لعرضها.
 
 
-	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
+	لإضافة جهات اتصال،أنقر \"<b>&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;</b>\", ثم أنقر على:
 	 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"جهة اتصال جديدة لإنشاء جهة اتصال جديدة من البداية
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"استيراد / تصدير لاستيراد جهات الاتصال من بطاقة SIM أو SD
+	\"</li>&lt;/font&gt;</b>\"
 	"</string>
   <string name="noContactsHelpTextForCreateShortcut">"لا توجد لديك أية جهات اتصال لعرضها."</string>
   <string name="noContactsHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
 
-	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
+	لإضافة جهات اتصال،أنقر \"<b>&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;</b>\", ثم أنقر على:
 	 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"حسابات لإضافة حساب به جهات اتصال يمكنك مزامنتها مع الكمبيوتر اللوحي
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"خيارات العرض لتغيير جهات الاتصال التي ستكون ظاهرة
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"حسابات لإضافة حساب به جهات اتصال يمكنك مزامنتها مع الكمبيوتر اللوحي
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"خيارات العرض لتغيير جهات الاتصال التي ستكون ظاهرة
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
+	\"</li>&lt;/font&gt;</b>\"
 	"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"لا توجد أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب للتو، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)"</string>
   <string name="noContactsNoSimHelpText">"You don\'t have any contacts to display.
 
-	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
+	لإضافة جهات اتصال،أنقر \"<b>&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;</b>\", ثم أنقر على:
  
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
+	\"</li>&lt;/font&gt;</b>\"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"ليس لديك أي جهات اتصال لعرضها. (إذا أضفت حسابا، فقد يستغرق الأمر بضع دقائق لمزامنة جهات الاتصال.)
 
-	لإضافة جهات اتصال،أنقر \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;&lt;/b&gt;\", ثم أنقر على:
+	لإضافة جهات اتصال،أنقر \"<b>&lt;font fgcolor=\"#ffffffff\"&gt;القائمة&lt;/font&gt;</b>\", ثم أنقر على:
  
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"خيارات العرض لتغيير جهات الاتصال التي ستكون ظاهرة
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-	\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
-	\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"الحسابات لإضافة أو انشاء حساب مع جهات الاتصال التي يمكن مزامنتها مع الهاتف
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"خيارات العرض لتغيير جهات الاتصال التي ستكون ظاهرة
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"جهة اتصال جديدة إنشاء جهة اتصال جديدة من البداية
+	\"</li>&lt;/font&gt;</b>\" 
+	\"<b>&lt;font fgcolor=\"#ffffffff\"&gt;<li>\"استيراد/تصدير استيراد جهات الاتصال من بطاقة SIM أو بطاقة SD‏
+	\"</li>&lt;/font&gt;</b>\"
 "</string>
   <string name="noContactsWithPhoneNumbers">لا توجد جهات اتصال بأرقام هاتف</string>
   <string name="noFavoritesHelpText">"ليس لديك أي جهات اتصال مفضلة.
 
 لإضافة جهة اتصال إلى قائمة المفضلة لديك:
 
-\"&lt;li&gt;أنقر على &lt;b&gt;علامة تبويب&lt;/b&gt;\"جهات الاتصال
-\"&lt;/li&gt;\" 
-\"&lt;li&gt;\"أنقر على جهة الاتصال التي ترغب في إضافتها إلى قائمة المفضلة
-\"&lt;/li&gt;\" 
-\"&lt;li&gt;\"أنقر على النجمة الموجودة بجوار اسم جهة الاتصال
-\"&lt;/li&gt;\"
+\"<li>أنقر على <b>علامة تبويب</b>\"جهات الاتصال
+\"</li>\" 
+\"<li>\"أنقر على جهة الاتصال التي ترغب في إضافتها إلى قائمة المفضلة
+\"</li>\" 
+\"<li>\"أنقر على النجمة الموجودة بجوار اسم جهة الاتصال
+\"</li>\"
 "</string>
   <string name="noGroups">لا توجد مجموعات</string>
   <string name="noMatchingContacts">لم يتم العثور على جهات اتصال مطابقة.</string>

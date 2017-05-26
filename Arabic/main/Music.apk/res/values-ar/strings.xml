@@ -259,7 +259,7 @@
   <string name="enable_auto_payment_fail_message">"تعذر تفعيل التجديد التلقائي"</string>
   <string name="enable_auto_payment_success">التجديد تلقائيًا</string>
   <string name="enable_auto_payment_success_message">تفعيل التجديد التلقائي. سوف يتم الدفع القادم في %s.</string>
-  <string name="enabled">مفعل</string>
+  <string name="enabled">تم</string>
   <string name="english_female">فنانات (أمريكا/أوروبا)</string>
   <string name="english_group">فرق (أمريكا/أوروبا)</string>
   <string name="english_male">فنانين (أمريكا/أوروبا)</string>

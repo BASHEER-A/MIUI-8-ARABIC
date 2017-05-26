@@ -101,8 +101,8 @@
   <string name="accessibility_screen_magnification_summary">\"عند تشغيل هذه الميزة، يمكنك التكبير والتصغير من خلال النقر الثلاثي على الشاشة.
 
 أثناء التكبير، يمكنك:
-\"&lt;li&gt;&lt;ul&gt;\" بأن تسحب إصبعين أو أكثر عبر الشاشة.
-\"&lt;li&gt; ضبط مستوى التكبير والتصغير: قرصة إصبعين أو أكثر معا أو  فصلهما.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;\"
+\"<li><ul>\" بأن تسحب إصبعين أو أكثر عبر الشاشة.
+\"<li> ضبط مستوى التكبير والتصغير: قرصة إصبعين أو أكثر معا أو  فصلهما.</li></ul></li>\"
 
 يمكنك أيضا التكبير &amp;#8217; مؤقتا من خلال النقر الثلاثي بإصبعك مع الاستمرار. في هذه الحالة المكبرة، يمكنك سحب إصبعك لاستكشاف أجزاء مختلفة من الشاشة. ارفع إصبعك للعودة إلى حالتك السابقة.
 
@@ -565,7 +565,7 @@
   <string name="bluetooth_broadcasting_explaination">"When this feature is turned on, your phone can communicate with other devices nearby.
 
 Broadcasting uses low-power Bluetooth signals."</string>
-  <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Make sure it is showing this passkey:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">To pair with:<br><b>%1$s</b><br><br>Make sure it is showing this passkey:<br><b>%2$s</b></string>
   <string name="bluetooth_connect_specific_profiles_title">الاتصال…</string>
   <string name="bluetooth_connected">متصل</string>
   <string name="bluetooth_connected_no_a2dp">متصل (بلا وسائط)</string>
@@ -597,11 +597,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_devices">أجهزة Bluetooth</string>
   <string name="bluetooth_disable_absolute_volume">Disable absolute volume</string>
   <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
-  <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">This will disable:<br><b>%1$s</b><br><br>From:<br><b>%2$s</b></string>
   <string name="bluetooth_disable_profile_title">تعطيل الملف شخصي؟</string>
   <string name="bluetooth_disabled">Disabled</string>
   <string name="bluetooth_disconnect_a2dp_profile">سيتم قطع اتصال %1$s من وسائل السمعية.</string>
-  <string name="bluetooth_disconnect_all_profiles">This will end your connection with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">This will end your connection with:<br><b>%1$s</b></string>
   <string name="bluetooth_disconnect_headset_profile">سيتم قطع اتصال %1$s من الصوت يدوي.</string>
   <string name="bluetooth_disconnect_hid_profile">سيتم قطع اتصال %1$s من جهاز الإدخال.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">سيتم قطع اتصال %1$s من مشاركة اتصال إنترنت هذا الهاتف.</string>
@@ -609,7 +609,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_disconnect_title">قطع الاتصال؟</string>
   <string name="bluetooth_disconnected">قطع الاتصال</string>
   <string name="bluetooth_disconnecting">قطع الاتصال…</string>
-  <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">To pair with:<br><b>%1$s</b><br><br>Type on it:<br><b>%2$s</b>, then press Return or Enter.</string>
   <string name="bluetooth_dock_settings">Dock Settings</string>
   <string name="bluetooth_dock_settings_a2dp">للموسيقى والوسائط</string>
   <string name="bluetooth_dock_settings_headset">كمكبر لصوت الهاتف</string>
@@ -629,7 +629,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_headset_profile_summary_use_for">استخدام لصوت الهاتف</string>
   <string name="bluetooth_hid_profile_summary_connected">متصل بأجهزة الإدخال</string>
   <string name="bluetooth_hid_profile_summary_use_for">استخدام للإدخال</string>
-  <string name="bluetooth_incoming_pairing_msg">From:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pair with this device?</string>
+  <string name="bluetooth_incoming_pairing_msg">From:<br><b>%1$s</b><br><br>Pair with this device?</string>
   <string name="bluetooth_is_disconnect_question">قطع %1$s؟</string>
   <string name="bluetooth_is_discoverable">مرئية لجميع الاجهزة القريبة Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">جعل هذا الجهاز مرئي لكل أجهزة الـbluetooth القريبة</string>
@@ -1881,7 +1881,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="internal_format">مسح سعة التخزين الداخلية</string>
   <string name="internal_format_summary">"مسح كل بيانات سعة التخزين الداخلية للجهاز"</string>
   <string name="internal_media_format_button_text">مسح سعة التخزين الداخلية</string>
-  <string name="internal_media_format_desc">مسح سعة التخزين الداخلية؟ سيتم حذف &lt;b&gt;كل&lt;/b&gt; من بياناتك! سيتم إعادة تشغيل هاتفك بعد مسح سعة التخزين الداخلية.</string>
+  <string name="internal_media_format_desc">مسح سعة التخزين الداخلية؟ سيتم حذف <b>كل</b> من بياناتك! سيتم إعادة تشغيل هاتفك بعد مسح سعة التخزين الداخلية.</string>
   <string name="internal_media_format_final_desc">"محو سعة التخزين الداخلية؟ لا يمكن التراجع عن هذا الإجراء! سيتم إعادة تشغيل هاتفك بعد مسح سعة التخزين الداخلية."</string>
   <string name="internal_media_format_title">مسح سعة التخزين الداخلية</string>
   <string name="internal_memory">وحدة تخزين داخلية</string>
@@ -2297,17 +2297,17 @@ You can set a new screen lock for both your device and your work profile, but an
   <string name="master_clear_apply_title">تنبيه</string>
   <string name="master_clear_button_text">إعادة تعيين الهاتف</string>
   <string name="master_clear_confirm_title">إعادة تعيين؟</string>
-  <string name="master_clear_desc">سيؤدي هذا إلى محو جميع البيانات من &lt;b&gt;الذاكرة الداخلية&lt;/b&gt;\", بمافي ذلك:
+  <string name="master_clear_desc">سيؤدي هذا إلى محو جميع البيانات من <b>الذاكرة الداخلية</b>\", بمافي ذلك:
 
-\"&lt;li&gt;حسابك في قوقل&lt;/li&gt;\"
-\"&lt;li&gt;إعدادات وبيانات النظام والتطبيقات&lt;/li&gt;\"
-\"&lt;li&gt;التطبيقات المنزلة&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;الموسيقى&lt;/li&gt;\"
-\"&lt;li&gt;الصور&lt;/li&gt;\"
-\"&lt;li&gt;بيانات المستخدم الأخرى&lt;/li&gt;</string>
+\"<li>حسابك في قوقل</li>\"
+\"<li>إعدادات وبيانات النظام والتطبيقات</li>\"
+\"<li>التطبيقات المنزلة</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>الموسيقى</li>\"
+\"<li>الصور</li>\"
+\"<li>بيانات المستخدم الأخرى</li></string>
   <string name="master_clear_desc_erase_external_storage">\"
 
-لحذف الموسيقى والصور وبيانات المستخدم الأخرى،, يجب تهيئة \"&lt;b&gt;USB تخزين&lt;/b&gt;.</string>
+لحذف الموسيقى والصور وبيانات المستخدم الأخرى،, يجب تهيئة \"<b>USB تخزين</b>.</string>
   <string name="master_clear_erase_application_progress">جارٍ مسح التطبيقات\u2026</string>
   <string name="master_clear_failed">لم يتم إجراء إعادة تعيين بسبب عدم توفر خدمة "مسح النظام".</string>
   <string name="master_clear_final_button_text">محو كل شيء</string>
@@ -3132,11 +3132,11 @@ You can set a new screen lock for both your device and your work profile, but an
   <string name="reset_app_preferences_button">إعادة تعيين التطبيقات</string>
   <string name="reset_app_preferences_desc">"This will reset all preferences for:
 
- \"&lt;li&gt;Disabled apps&lt;/li&gt;\"
- \"&lt;li&gt;Disabled app notifications&lt;/li&gt;\"
- \"&lt;li&gt;Default applications for actions&lt;/li&gt;\"
- \"&lt;li&gt;Background data restrictions for apps&lt;/li&gt;\"
- \"&lt;li&gt;Any permission restrictions&lt;/li&gt;\"
+ \"<li>Disabled apps</li>\"
+ \"<li>Disabled app notifications</li>\"
+ \"<li>Default applications for actions</li>\"
+ \"<li>Background data restrictions for apps</li>\"
+ \"<li>Any permission restrictions</li>\"
 
  You will not lose any app data."</string>
   <string name="reset_app_preferences_title">إعادة تعيين تفضيلات التطبيق؟</string>
@@ -3146,9 +3146,9 @@ You can set a new screen lock for both your device and your work profile, but an
   <string name="reset_network_confirm_title">إعادة تعيين؟</string>
   <string name="reset_network_desc">\"هذا إلى إعادة تعيين كافة إعدادات شبكة الاتصال، بما في ذلك:
 
-\"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;\"
-\"&lt;li&gt;Cellular data&lt;/li&gt;\"
-\"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+\"<li>Wi&amp;#8209;Fi</li>\"
+\"<li>Cellular data</li>\"
+\"<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">إعادة تعيين الإعدادات</string>
   <string name="reset_network_final_desc">إعادة تعيين كافة إعدادات شبكة الاتصال؟ لا يمكنك التراجع عن هذا الإجراء!</string>
   <string name="reset_network_title">إعادة تعيين إعدادات شبكة الاتصال</string>
@@ -3954,13 +3954,13 @@ To use screen pinning:
 
 All data on this ^1 will be erased. Consider backing up first. 
 
-\"&lt;b&gt;Back up photos &amp; other media&lt;/b&gt;\" 
+\"<b>Back up photos &amp; other media</b>\" 
 Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
 
-\"&lt;b&gt;Back up apps&lt;/b&gt;\" 
+\"<b>Back up apps</b>\" 
 All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
   <string name="storage_internal_title">تخزين خارج النظام</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.&lt;/b&gt;\" 
+  <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>\" 
 
 This ^1 is formatted to work on this device only. It won&#8217;t work on any others.\"</string>
   <string name="storage_label">التخزين</string>
@@ -4002,11 +4002,11 @@ This ^1 is formatted to work on this device only. It won&#8217;t work on any oth
 
 After formatting, this ^1 will only work in this device. 
 
-\"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;\" To avoid losing the data, consider backing it up. "</string>
+\"<b>Formatting erases all data currently stored on the ^1.</b>\" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
   <string name="storage_wizard_format_confirm_public_body">هذا يتطلب تهيأة ^1.
 
-\"&lt;b&gt;التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.&lt;/b&gt;\" لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها. \"</string>
+\"<b>التهيأة تمحو كافة البيانات المخزنة حاليا في  ^1.</b>\" لتجنب فقدان البيانات، قم بالنظر في القيام بنسخة إحتياطية لها. \"</string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
   <string name="storage_wizard_format_confirm_third_body">يتم تهيأة ^1</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
@@ -4019,7 +4019,7 @@ After formatting, this ^1 will only work in this device.
   <string name="storage_wizard_init_title">Set up your ^1</string>
   <string name="storage_wizard_migrate_body">يمكنك نقل الصور والملفات الخاصة بك وبعض التطبيقات لهذه ^1 الجديدة.
 عملية النقل تأخذ حوالي ^2 و ستقوم بتوفير ^3 في التخزين الداخلي. بعض التطبيقات لن تعمل عند النقل.</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>The move takes about ^1. It will free ^2 on ^3.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Move</string>
   <string name="storage_wizard_migrate_confirm_title">نقل البيانات الآن</string>
   <string name="storage_wizard_migrate_details">"During the move: 
@@ -4142,14 +4142,14 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tether_share_qrcode_title">مشاركة رمز QR</string>
   <string name="tethering_help_button_text">Help</string>
-  <string name="tethering_help_dialog_text">&lt;b&gt;USB tethering&lt;/b&gt;\" 
+  <string name="tethering_help_dialog_text"><b>USB tethering</b>\" 
  You can tether your Android device to your computer with a USB cable, to share your device\'s Internet connection with your computer. 
 
 1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
 
 2.If your device has an SD card or USB storage, you can\'t mount it on your computer when USB tethered. 
 
- \"&lt;b&gt;Portable WLAN hotspot &lt;/b&gt;\"
+ \"<b>Portable WLAN hotspot </b>\"
  You can turn your Android device into a portable WLAN hotspot, to share your Android device\'s Internet connection with one or more computers or other devices. 
 
 1.When your device is serving as a WLAN hotspot, you can\'t use your device\'s applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
@@ -4711,11 +4711,11 @@ U kunt een woord toevoegen door op de knop \'Toevoegen\' (+) te tikken."</string
   <string name="wifi_allow_scan_with_traffic_summary">السماح/عدم السماح بالتجول مسح Wi-Fi استناداً إلى مقدار حركة مرور البيانات الحالية في الواجهة</string>
   <string name="wifi_and_mobile_skipped_message">"\"Als u Wi-Fi overslaat:
 
-\"&lt;li&gt;Zal uw telefoon geen verbinding met internet hebben.&lt;/li&gt;\"
+\"<li>Zal uw telefoon geen verbinding met internet hebben.</li>\"
 
-\"&lt;li&gt;Zal u geen software-updates krijgen tot u verbonden bent met internet.&lt;/li&gt;\"
+\"<li>Zal u geen software-updates krijgen tot u verbonden bent met internet.</li>\"
 
-\"&lt;li&gt;Kan u geen beschermingsfuncties van het apparaat activeren.&lt;/li&gt;"</string>
+\"<li>Kan u geen beschermingsfuncties van het apparaat activeren.</li>"</string>
   <string name="wifi_ap_band_config">Select AP Band</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -4973,8 +4973,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_back">الى الخلف</string>
   <string name="wifi_setup_cancel">إلغاء</string>
   <string name="wifi_setup_connect">اتصال</string>
-  <string name="wifi_setup_description_connected">أنقر&lt;b&gt;التالي&lt;/b&gt; لمتابعة التثبيت.
-أنقر&lt;b&gt;رجوع&lt;/b&gt; للاتصال بشبكة Wi-Fi مختلفة.</string>
+  <string name="wifi_setup_description_connected">أنقر<b>التالي</b> لمتابعة التثبيت.
+أنقر<b>رجوع</b> للاتصال بشبكة Wi-Fi مختلفة.</string>
   <string name="wifi_setup_description_connecting">الاتصال يمكن أن يستغرق ذلك بضع دقائق…</string>
   <string name="wifi_setup_detail">تفاصيل الشبكة</string>
   <string name="wifi_setup_eap_not_supported">"لا يمكنك تهيئة اتصال شبكة EAP Wi-Fi أثناء الإعداد. يمكنك بعد الإعداد الذهاب إلى الإعدادات &gt; الـ Wi-Fi."</string>
