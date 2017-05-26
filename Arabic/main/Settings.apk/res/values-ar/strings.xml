@@ -629,7 +629,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_headset_profile_summary_use_for">استخدام لصوت الهاتف</string>
   <string name="bluetooth_hid_profile_summary_connected">متصل بأجهزة الإدخال</string>
   <string name="bluetooth_hid_profile_summary_use_for">استخدام للإدخال</string>
-  <string name="bluetooth_incoming_pairing_msg">From:<br><b>%1$s</b><br><br>Pair with this device?</string>
+  <string name="bluetooth_incoming_pairing_msg">From:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pair with this device?</string>
   <string name="bluetooth_is_disconnect_question">قطع %1$s؟</string>
   <string name="bluetooth_is_discoverable">مرئية لجميع الاجهزة القريبة Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">جعل هذا الجهاز مرئي لكل أجهزة الـbluetooth القريبة</string>
