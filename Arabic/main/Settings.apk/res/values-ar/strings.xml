@@ -1593,9 +1593,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_and_password_entrance_title">قفل الشاشة وبصمة الاصبع</string>
   <string name="fingerprint_apply_to_privacy_password">حماية الخصوصية كلمة المرور</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">حماية الخصوصية كلمة السر يحمي الرسائل والصور والملفات والملاحظات والتطبيقات.</string>
-  <string name="fingerprint_apply_to_privacy_password">كلمة المرور حماية الخصوصية</string>
-  <string name="fingerprint_apply_to_privacy_password_scenarios">حماية الخصوصية كلمة السر يحمي الرسائل والصور والملفات والملاحظات والتطبيقات
-اقتراح تعديل.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">قفل الشاشة</string>
   <string name="fingerprint_enroll_button_add">إضافة آخر</string>
   <string name="fingerprint_enroll_button_next">القادم</string>
@@ -1619,7 +1616,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_unlock_set_unlock_password">بصمة + كلمة السر</string>
   <string name="fingerprint_unlock_set_unlock_pattern">بصمة + نمط</string>
   <string name="fingerprint_unlock_set_unlock_pin">بصمة + كلمة سر</string>
-  <string name="fingerprint_unlock_set_unlock_pin">بصمة + PIN</string>
   <string name="fingerprint_usage_category_title">استخدام بصمات الأصابع على</string>
   <string name="finish_application">إيقاف إجباري</string>
   <string name="finish_button_label">إنهاء</string>
