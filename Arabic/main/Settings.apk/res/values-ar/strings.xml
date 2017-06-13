@@ -1390,7 +1390,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="dndm_repeated_call_summary_none">كتم صوت المكالمات المتكررة من نفس الرقم</string>
   <string name="dndm_special_call_setting_group">الإستثناءات</string>
   <string name="dndm_summary">المكالمات والإشعارات سيتم اسكاتها عندما يتم تفعيل وضع عدم الازعاج.</string>
-  <string name="dndm_summary_for_pad">Notifications that arrive while Do not disturb is on will be silenced.</string>
+  <string name="dndm_summary_for_pad">سيتم إسكات الإشعارات التي تصل أثناء عدم الإزعاج.</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">السماح للمكالمات الواردة من الاستثناءات</string>
@@ -1591,19 +1591,25 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_add_max">يمكنك إضافة لبصمات %d</string>
   <string name="fingerprint_add_title">إضافة بصمات الأصابع</string>
   <string name="fingerprint_and_password_entrance_title">قفل الشاشة وبصمة الاصبع</string>
+<<<<<<< Updated upstream
   <string name="fingerprint_apply_to_privacy_password">حماية الخصوصية كلمة المرور</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
+=======
+  <string name="fingerprint_apply_to_privacy_password">كلمة المرور حماية الخصوصية</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">حماية الخصوصية كلمة السر يحمي الرسائل والصور والملفات والملاحظات والتطبيقات
+اقتراح تعديل.</string>
+>>>>>>> Stashed changes
   <string name="fingerprint_enable_keyguard_toggle_title">قفل الشاشة</string>
   <string name="fingerprint_enroll_button_add">إضافة آخر</string>
   <string name="fingerprint_enroll_button_next">القادم</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Fingerprint (set Lock screen password before using it)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">البصمة (تعيين قفل الشاشة كلمة المرور قبل الاستخدامه)</string>
   <string name="fingerprint_for_keyguard_disabled">تم تعطيل بصمة الإصبع بواسطة إعدادات الأمان.</string>
   <string name="fingerprint_identify_input_password_msg">ادخل كلمة المرور</string>
   <string name="fingerprint_identify_msg">جارٍ قراءة بصمة الاصبع\u2026</string>
   <string name="fingerprint_identify_try_again_msg">"تعذر قراءة بصمة الاصبع، حاول مجددا"</string>
   <string name="fingerprint_last_delete_confirm">نعم، إزالة</string>
   <string name="fingerprint_last_delete_message">"لن تتمكن من استخدام بصمات أصابعك لفتح هاتفك أو الإذن بشراء، أو تسجيل الدخول إلى تطبيقات معهم."</string>
-  <string name="fingerprint_last_delete_message_profile_challenge">"You won't be able to use your fingerprints to unlock your work profile, authorize purchases, or sign in to work apps."</string>
+  <string name="fingerprint_last_delete_message_profile_challenge">"لن تتمكن من استخدام بصمات أصابعك لإلغاء تأمين الملف الشخصي للعمل أو تفويض عمليات الشراء أو تسجيل الدخول إلى تطبيقات العمل."</string>
   <string name="fingerprint_last_delete_title">إزالة جميع بصمات الأصابع؟</string>
   <string name="fingerprint_list_title">بصمة الإصبع</string>
   <string name="fingerprint_lock_first">إلغاء قفل الفضاء الاول</string>
@@ -1615,7 +1621,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_removal_failed">"تعذر إزالة بصمة الاصبع، حاول مجددا لاحقا"</string>
   <string name="fingerprint_unlock_set_unlock_password">بصمة + كلمة السر</string>
   <string name="fingerprint_unlock_set_unlock_pattern">بصمة + نمط</string>
+<<<<<<< Updated upstream
   <string name="fingerprint_unlock_set_unlock_pin">بصمة + كلمة سر</string>
+=======
+  <string name="fingerprint_unlock_set_unlock_pin">بصمة + PIN</string>
+>>>>>>> Stashed changes
   <string name="fingerprint_usage_category_title">استخدام بصمات الأصابع على</string>
   <string name="finish_application">إيقاف إجباري</string>
   <string name="finish_button_label">إنهاء</string>
