@@ -273,7 +273,7 @@
   <string name="cdma_labelCFNRc_cta">Forward when unreachable</string>
   <string name="cdma_labelCFNRy">Forward when unanswered</string>
   <string name="cdma_labelCFU">Always forward</string>
-  <string name="cdma_label_do_not_disturb">Do not disturb</string>
+  <string name="cdma_label_do_not_disturb">عدم إلازعاج</string>
   <string name="cdma_label_voice_message_retrieve">Voice message retrieve</string>
   <string name="cdma_lte_data_service">إعداد خدمة البيانات</string>
   <string name="cdma_options">خيارات CDMA</string>
