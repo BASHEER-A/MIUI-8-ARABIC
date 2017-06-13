@@ -3695,7 +3695,7 @@ To use screen pinning:
   <string name="share_remote_bugreport_dialog_title">Share bug report?</string>
   <string name="sharing_remote_bugreport_dialog_message">This bug report is being shared with your IT admin. Contact them for more details.</string>
   <string name="short_summary_font_size">Make text larger or smaller</string>
-  <string name="show_all_anrs">إظهار جميع الإيدز</string>
+  <string name="show_all_anrs">إظهار الجميع </string>
   <string name="show_all_anrs_summary">إظهار مربع الحوار \"التطبيق لا يستجيب\" لتطبيقات الخلفية</string>
   <string name="show_background_processes">إظهار العمليات المخزنة مؤقتاً</string>
   <string name="show_connected_devices_summary">عرض الأجهزة المتصلة</string>
@@ -3970,7 +3970,7 @@ This ^1 is formatted to work on this device only. It won&#8217;t work on any oth
   <string name="storage_label">التخزين</string>
   <string name="storage_low_summary">بعض وظائف النظام، مثل المزامنة، قد لا تعمل بشكل صحيح. حاول تحرير مساحة بحذف أو الفتح العناصر، مثل محتوى تطبيقات أو وسائل الإعلام.</string>
   <string name="storage_low_title">نفاد مساحة التخزين</string>
-  <string name="storage_menu_cleanup">Storage Cleanup</string>
+  <string name="storage_menu_cleanup">تنظيف التخزين</string>
   <string name="storage_menu_explore">استكشاف</string>
   <string name="storage_menu_forget">نسيان</string>
   <string name="storage_menu_format">تهيئة</string>
@@ -3978,8 +3978,8 @@ This ^1 is formatted to work on this device only. It won&#8217;t work on any oth
   <string name="storage_menu_format_public">تهيئة الذاكرة الخارجية</string>
   <string name="storage_menu_migrate">Migrate data</string>
   <string name="storage_menu_mount">Mount</string>
-  <string name="storage_menu_rename">Rename</string>
-  <string name="storage_menu_set_up">Set up</string>
+  <string name="storage_menu_rename">إعادة تسمية</string>
+  <string name="storage_menu_set_up">أنشأت</string>
   <string name="storage_menu_unmount">Eject</string>
   <string name="storage_mount_failure">Couldn’t mount %1$s</string>
   <string name="storage_mount_success">%1$s is mounted</string>
