@@ -1591,14 +1591,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_add_max">يمكنك إضافة لبصمات %d</string>
   <string name="fingerprint_add_title">إضافة بصمات الأصابع</string>
   <string name="fingerprint_and_password_entrance_title">قفل الشاشة وبصمة الاصبع</string>
-<<<<<<< Updated upstream
   <string name="fingerprint_apply_to_privacy_password">حماية الخصوصية كلمة المرور</string>
-  <string name="fingerprint_apply_to_privacy_password_scenarios">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
-=======
+  <string name="fingerprint_apply_to_privacy_password_scenarios">حماية الخصوصية كلمة السر يحمي الرسائل والصور والملفات والملاحظات والتطبيقات.</string>
   <string name="fingerprint_apply_to_privacy_password">كلمة المرور حماية الخصوصية</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">حماية الخصوصية كلمة السر يحمي الرسائل والصور والملفات والملاحظات والتطبيقات
 اقتراح تعديل.</string>
->>>>>>> Stashed changes
   <string name="fingerprint_enable_keyguard_toggle_title">قفل الشاشة</string>
   <string name="fingerprint_enroll_button_add">إضافة آخر</string>
   <string name="fingerprint_enroll_button_next">القادم</string>
@@ -1621,11 +1618,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="fingerprint_removal_failed">"تعذر إزالة بصمة الاصبع، حاول مجددا لاحقا"</string>
   <string name="fingerprint_unlock_set_unlock_password">بصمة + كلمة السر</string>
   <string name="fingerprint_unlock_set_unlock_pattern">بصمة + نمط</string>
-<<<<<<< Updated upstream
   <string name="fingerprint_unlock_set_unlock_pin">بصمة + كلمة سر</string>
-=======
   <string name="fingerprint_unlock_set_unlock_pin">بصمة + PIN</string>
->>>>>>> Stashed changes
   <string name="fingerprint_usage_category_title">استخدام بصمات الأصابع على</string>
   <string name="finish_application">إيقاف إجباري</string>
   <string name="finish_button_label">إنهاء</string>
