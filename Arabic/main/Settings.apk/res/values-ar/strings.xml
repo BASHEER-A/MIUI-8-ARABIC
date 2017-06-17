@@ -675,8 +675,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_pb_remember_choice">عدم السؤال مرة أخرى</string>
   <string name="bluetooth_permission_request">طلب إذن bluetooth</string>
   <string name="bluetooth_phonebook_request">وصول الطلب لدليل الهاتف</string>
-  <string name="bluetooth_pin_values_hint">عادة ما يكون 0000 أو 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">يجب أن يكون رقم 16</string>
   <string name="bluetooth_preference_connected_devices">الأجهزة المتصلة</string>
   <string name="bluetooth_preference_device_settings">إعدادات الجهاز</string>
   <string name="bluetooth_preference_found_devices">الأجهزة المتوفرة</string>
@@ -1888,7 +1886,6 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="internal_storage">وحدة تخزين داخلية</string>
   <string name="internal_storage_sentence">وحدة تخزين داخلية</string>
   <string name="invalid_location">موقع التثبيت غير صالح.</string>
-  <string name="invalid_size_value">لا يمكن حساب حجم الحزمة.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s و %2$s</string>
@@ -2369,7 +2366,6 @@ You can set a new screen lock for both your device and your work profile, but an
   <string name="memory_media_usage">الوسائط</string>
   <string name="memory_music_usage">الصوت (الموسيقى، النغمات، دبليو، إلخ.)</string>
   <string name="memory_performance">الأداء</string>
-  <string name="memory_rightvalue">المتاحة: %s</string>
   <string name="memory_settings_title">الذاكرة</string>
   <string name="memory_size">إجمالي المساحة</string>
   <string name="memory_summary">Avg %1$s of %2$s memory used</string>
@@ -4669,8 +4665,6 @@ U kunt een woord toevoegen door op de knop \'Toevoegen\' (+) te tikken."</string
   <string name="wait_for_debugger_summary">ينتظر تطبيق مصحح مصحح الأخطاء إرفاق قبل تنفيذ</string>
   <string name="wakeup_for_keyguard_notification_title">إيقاظ شاشة القفل للإشعارات</string>
   <string name="wallpaper_attributions">الخلفيات</string>
-  <string name="wallpaper_attributions_values">"Satellite imagery providers:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">الشاشة الرئيسية</string>
   <string name="wallpaper_live">خلفية متحركة</string>
   <string name="wallpaper_lockscreen">شاشة القفل</string>

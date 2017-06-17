@@ -3,7 +3,6 @@
   <string name="configure">تكوين</string>
   <string name="data_received">تم التسليم:</string>
   <string name="data_transmitted">أرسل:</string>
-  <string name="data_value_format">وحدات البايت %1$s/الحزم %2$s</string>
   <string name="disconnect">قطع الاتصال</string>
   <string name="duration">المدة:</string>
   <string name="legacy_title">اتصال VPN</string>

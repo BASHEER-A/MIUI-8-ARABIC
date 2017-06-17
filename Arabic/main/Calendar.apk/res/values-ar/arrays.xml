@@ -49,12 +49,6 @@
     <item>男</item>
     <item>女</item>
   </string-array>
-  <string-array name="quick_response_defaults">
-    <item>تشغيل فقط بضع دقائق في وقت متأخر.</item>
-    <item>أن يكون هناك في حوالي 10 دقائق.</item>
-    <item>المضي قدما والبدء دوني.</item>
-    <item>"آسف، لا يمكن أن تجعل. ونحن سوف تضطر لإعادة جدولة."</item>
-  </string-array>
   <string-array name="widget_style_list">
     <item>شفاف</item>
     <item>خلفية بيضاء</item>
@@ -64,18 +58,6 @@
     <item>في وقت الحدث</item>
     <item>5 دقائق قبل</item>
     <item>قبل 10 دقائق من</item>
-    <item>15 minutes before</item>
-    <item>30 minutes before</item>
-    <item>1 hour before</item>
-    <item>1 day before</item>
-    <item>2 days before</item>
-    <item>1 week before</item>
-  </string-array>
-  <string-array name="miui_preferences_default_reminder_labels">
-    <item>No reminder</item>
-    <item>At event time</item>
-    <item>5 minutes before</item>
-    <item>10 minutes before</item>
     <item>15 minutes before</item>
     <item>30 minutes before</item>
     <item>1 hour before</item>
