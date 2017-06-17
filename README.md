@@ -21,11 +21,4 @@ Official Website . http://www.mi2ar.com
 For Any problems
 http://www.mi2ar.com
 
-WhatsApp
-009647709900643
-
-Or
-
-Email : irxx@live.com 
-
 
