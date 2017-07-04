@@ -6,8 +6,6 @@
   <string name="ble_device_profile_header_title">الإعدادات</string>
   <string name="ble_device_profile_title">جهاز الـbluetooth الذكي المقترن</string>
   <string name="ble_device_rename">إعادة التسمية</string>
-  <string name="ble_profile_1">ble_profile_mi_band</string>
-  <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_connected">مقترن</string>
   <string name="bluetooth_connecting">جارٍ الإقتران\u2026</string>
   <string name="bluetooth_disconnected">غير مقترن</string>

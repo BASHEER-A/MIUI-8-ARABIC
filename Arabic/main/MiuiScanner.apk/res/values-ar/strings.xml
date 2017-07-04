@@ -222,7 +222,6 @@
   <string name="document_grayscale">رمادي</string>
   <string name="document_grayscale_tip_msg">جارٍ التحويل إلى رمادي\u2026</string>
   <string name="document_ocr">OCR</string>
-  <string name="document_ocr_language_key">pref_document_ocr_language</string>
   <string name="document_ocr_result_copy">نسخ النص</string>
   <string name="document_ocr_result_save">حفظ في الملاحظات</string>
   <string name="document_ocr_result_title">صورة المستند</string>
