@@ -1339,6 +1339,7 @@ Use it for Top-up package?"</string>
   <string name="voicemail_notification_ringtone_title">صوت</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">الاهتزاز</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
+  <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">اهتزاز</string>
   <string name="voicemail_number_not_set">&lt;غير معين&gt;</string>
   <string name="voicemail_provider">خدمة البريد الصوتي</string>

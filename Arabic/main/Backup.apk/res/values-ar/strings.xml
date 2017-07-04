@@ -86,6 +86,7 @@
   <string name="delete_backup_title">حذف النسخة الاحتياطية</string>
   <string name="delete_failed_backup_confirm">تحتوي هذه النسخة احتياطية على أخطاء.</string>
   <string name="deselect_all">إلغاء تحديد الكل</string>
+  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">إيقاف التشفير</string>
   <string name="enable_encrypt">تشغيل التشفير</string>
@@ -322,6 +323,7 @@
   <string name="user_notice_message">بعض الميزات تتطلب الإتصال بالإنترنت لتعمل بشكل طبيعي.</string>
   <string name="user_notice_title">تنبيه</string>
   <string name="wifi_title">إعدادات Wi-Fi</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sبايت</string>
   <string name="xiaomi_connect_download_manager_fail">"تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية."</string>
   <string name="xiaomi_external_storage_unavailable">"التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك."</string>

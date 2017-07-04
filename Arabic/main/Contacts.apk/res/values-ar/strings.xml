@@ -888,6 +888,8 @@
   <string name="path_wipe_data">تطبيقات نظام / اتصالات / تنظيم الاتصالات / حذف البيانات</string>
   <string name="payphone">هاتف عمومي</string>
   <string name="people">جهات الاتصال</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">الهاتف</string>
   <string name="phone_call_type_livetalk">حزمة شحن الرصيد</string>
   <string name="phone_call_type_voip">صوت Mi</string>

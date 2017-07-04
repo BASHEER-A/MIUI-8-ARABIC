@@ -125,4 +125,5 @@
   <string name="start_recover">استعادة \"%s\"</string>
   <string name="success_open_cloudbackup">تفعيل النسخ الاحتياطي لتطبيقات الشاشة الرئيسية</string>
   <string name="wait_icon_download">تنزيل أيقونات التطبيقات</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -145,4 +145,5 @@
   <string name="toast_uninstall_fileexplorer">"مدير التطبيق غير مثبت"</string>
   <string name="wifi_recommended_body" formatted="false">سيؤدي استخدام اتصال بيانات شبكة الجوال لتنزيل هذا الملف (%s) إلى زيادة استخدام بياناتك. في حال تجاوزك حد استخدام البيانات المسموح به، فأن شركة الاتصالات قد تفرض عليك رسوماً إضافية. لإنتظارالاتصال بشبكة Wi-Fi لتنزيل الملف، أنقر%s.</string>
   <string name="wifi_recommended_title">تحذير استخدام البيانات</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
