@@ -984,6 +984,7 @@
   <string name="slideshow_interval_dialog_title">ادخل الفاصل الزمني</string>
   <string name="slideshow_interval_invalid">يجب أن يكون الفاصل الزمني ما بين ٣ و ٣٦٠٠ ثانية</string>
   <string name="slideshow_interval_title">إظهار كل شريحة لمدة</string>
+  <string name="slideshow_interval_value">%1$d ثانية</string>
   <string name="slim_after_backuped_summary">استبدل الصور ذات الدقة الكاملة في المحلي مع الإصدارات المحسنة بعد أن تم نسخها احتياطيا إلى Mi Cloud. الصور ذات الدقة الكاملة ستبقى مخزنة في Mi Cloud. يمكن لهذا ان يوفر الكثير من التخزين المحلي.</string>
   <string name="slim_after_backuped_title">تحسين التخزين المحلي بعد مايتم النسخ الاحتياطي</string>
   <string name="slim_introduce">استبدل الصور ذات الدقة الكاملة مع الإصدارات المحسنة بعد أن تم نسخها احتياطيا إلى Mi Cloud. الصور ذات الدقة الكاملة ستبقى مخزنة في Mi Cloud.</string>

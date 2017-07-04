@@ -300,6 +300,7 @@
   <string name="cpu_title">CPU :</string>
   <string name="credibility">Cred%</string>
   <string name="cta_version">CTA Version:</string>
+  <string name="current_value">"Current value: "</string>
   <string name="custombt">[BT]:</string>
   <string name="customft">[FT]:</string>
   <string name="customsn">[SN]:</string>

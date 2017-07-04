@@ -544,6 +544,7 @@
   <string name="lock_screen_warning_category">إشعارات شاشة القفل</string>
   <string name="lock_screen_warning_switch_summary">إظهار تحذير على شاشة القفل عند تجاوز استخدام البيانات لقدر معين</string>
   <string name="lock_screen_warning_switch_title">إظهارتحذيرات على شاشة القفل</string>
+  <string name="lock_screen_warning_value">تحذير استخدام البيانات</string>
   <string name="lock_settings_title">قفل الشاشة وكلمة المرور</string>
   <string name="lockpassword_confirm_your_password_header">تأكيد كلمة المرور</string>
   <string name="lockpassword_confirm_your_pattern_header">تأكيد النقش</string>
@@ -955,6 +956,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="pref_title_traffic_speed_state">عرض سرعة الشبكة</string>
   <string name="pref_title_update_notification">إشعارات استخدام البيانات</string>
   <string name="pref_version">الإصدار%s</string>
+  <string name="pref_warning_values">مستوى تحذير استخدام البيانات</string>
   <string name="pref_whitelist_setting">استثناءات تجوال البيانات</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
@@ -1030,6 +1032,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="quick_optimize_no_issue_subtitle">كل شي يبدو جيداً</string>
   <string name="quick_optimize_no_issue_title">"تعذر العثور على مشاكل في البطارية"</string>
   <string name="quick_optimize_sub_summary_text">تم إضافة %s إلى عمر البطارية</string>
+  <string name="reach_daily_limit_value_body">تقليل استخدام بيانات جوالك.</string>
+  <string name="reach_daily_limit_value_title">تم الوصول إلى حد البيانات اليومي</string>
   <string name="recently_reject_message">تم رفض تنصيب %1$s و%2$d تطبيق اخر</string>
   <string name="recently_reject_message_one">تم رفض طلب تنصيب %1$s</string>
   <string name="recommend_app">تطبيقات موصى بها</string>

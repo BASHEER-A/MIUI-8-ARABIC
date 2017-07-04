@@ -43,6 +43,7 @@
   <string name="hide_mode_ultimate_desc">الوضع الأقصى مُفعل. سيتم ايقاف التطبيقات في الخلف. قم بإيقاف تشغيل توفير شحن البطارية للخروج من الوضع الأقصى.</string>
   <string name="high">الأداء</string>
   <string name="hints_loading_text">لحظة من فضلك\u2026</string>
+  <string name="invalid_size_value">"تعذر الحصول على حجم الحزمة."</string>
   <string name="location_disable_description">التطبيقات في الخلفية يمكنها الوصول الى خدمات الموقع فقط لفترة زمنية محدودة عندما يكون الاتصال بالشبكة محدود</string>
   <string name="location_disable_title">تقييد</string>
   <string name="location_enable_description">التطبيقات التي يمكنها استخدام خدمات الموقع في الخلفية عندما يكون الاتصال بالشبكة محدود</string>
