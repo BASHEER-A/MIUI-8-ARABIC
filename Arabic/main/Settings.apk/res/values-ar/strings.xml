@@ -104,7 +104,7 @@
 \"<li><ul>\" بأن تسحب إصبعين أو أكثر عبر الشاشة.
 \"<li> ضبط مستوى التكبير والتصغير: قرصة إصبعين أو أكثر معا أو  فصلهما.</li></ul></li>\"
 
-يمكنك أيضا التكبير &amp;#8217; مؤقتا من خلال النقر الثلاثي بإصبعك مع الاستمرار. في هذه الحالة المكبرة، يمكنك سحب إصبعك لاستكشاف أجزاء مختلفة من الشاشة. ارفع إصبعك للعودة إلى حالتك السابقة.
+يمكنك أيضا التكبير مؤقتا من خلال النقر الثلاثي بإصبعك مع الاستمرار. في هذه الحالة المكبرة، يمكنك سحب إصبعك لاستكشاف أجزاء مختلفة من الشاشة. ارفع إصبعك للعودة إلى حالتك السابقة.
 
 ملاحظة: تعمل ميزة النقر الثلاثي للتكبير في كل مكان باستثناء لوحة المفاتيح وشريط التنقل.\"</string>
   <string name="accessibility_screen_magnification_title">إيماءات التكبير</string>
@@ -3712,13 +3712,13 @@ To use screen pinning:
   <string name="show_mem_info_title">Show memory status</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_owner_info_on_lockscreen_label">إظهار معلومات المستخدم على شاشة القفل</string>
-  <string name="show_password">Make passwords visible</string>
-  <string name="show_profile_info_on_lockscreen_label">Show profile info on lock screen</string>
+  <string name="show_password">جعل كلمات المرور مرئية/string>
+  <string name="show_profile_info_on_lockscreen_label">عرض معلومات الملف الشخصي على شاشة القفل</string>
   <string name="show_rounded_corners">إظهار زوايا مستديرة</string>
-  <string name="show_running_services">Show running services</string>
-  <string name="show_screen_updates">Show surface updates</string>
-  <string name="show_screen_updates_summary">Flash entire window surfaces when they update</string>
-  <string name="show_silently">Show silently</string>
+  <string name="show_running_services">عرض الخدمات قيد التشغيل</string>
+  <string name="show_screen_updates">إظهار التحديثات السطحية</string>
+  <string name="show_screen_updates_summary">فلاش أسطح النافذة بأكملها عند تحديثها</string>
+  <string name="show_silently">عرض بصمت</string>
   <string name="show_silently_summary">"Don't make sound, vibrate, or peek these notifications into view on the current screen."</string>
   <string name="show_touches">Show touches</string>
   <string name="show_touches_summary">Show visual feedback for touches</string>
@@ -4746,13 +4746,13 @@ WLAN Assistant"</string>
   <string name="wifi_calling_mode_title">Calling preference</string>
   <string name="wifi_calling_off_explanation">When WLAN calling is on, your phone can route calls via WLAN networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.</string>
   <string name="wifi_calling_settings_title">WLAN calling</string>
-  <string name="wifi_calling_suggestion_summary">Use WLAN instead of mobile network</string>
-  <string name="wifi_calling_suggestion_title">Turn on WLAN Calling</string>
-  <string name="wifi_cancel">Cancel</string>
+  <string name="wifi_calling_suggestion_summary">استخدم الشبكة المحلية اللاسلكية بدلا من شبكة الجوال</string>
+  <string name="wifi_calling_suggestion_title">تشغيل اتصال WLAN</string>
+  <string name="wifi_cancel">إلغاء</string>
   <string name="wifi_certificate">شهادة</string>
-  <string name="wifi_click_share_wlan">أنقر لمشاركة كلمة المرور</string>
-  <string name="wifi_config_info">WLAN config</string>
-  <string name="wifi_configure_titlebar">Configure Wi?Fi</string>
+  <string name="wifi_click_share_wlan">أنقر لمشاركة كلمةالمرور</string>
+  <string name="wifi_config_info">تكوين WLAN</string>
+  <string name="wifi_configure_titlebar">تكوين WiFi</string>
   <string name="wifi_configured_ap_list">نقاط الوصول المهيئة مسبقاً</string>
   <string name="wifi_connect">Connect</string>
   <string name="wifi_connect_cmcc_dialog_cancel">إلغاء</string>
@@ -4761,7 +4761,7 @@ WLAN Assistant"</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"عدم الإظهار مرة أخرى"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC متصل</string>
   <string name="wifi_connect_failed_message">تعذر الاتصال بشبكة Wi-Fi</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
+  <string name="wifi_connected_no_internet">متصلة،لايوجد إنترنت</string>
   <string name="wifi_context_menu_change_password">تغيير كلمة المرور</string>
   <string name="wifi_context_menu_change_wapi_certificate">تغيير شهادة WAPI</string>
   <string name="wifi_context_menu_connect">توصيل</string>
@@ -4770,9 +4770,9 @@ WLAN Assistant"</string>
   <string name="wifi_data_usage">WLAN data usage</string>
   <string name="wifi_datanetwork_switch_not_remind">"عدم الإظهار مرة أخرى"</string>
   <string name="wifi_dialog_remind_type_title">شبكة بيانات الهاتف</string>
-  <string name="wifi_disabled_generic">Disabled</string>
+  <string name="wifi_disabled_generic">تعطيل</string>
   <string name="wifi_disabled_help">تم فصل اتصال شبكة Wi-Fi نظراً لضعف الاتصال</string>
-  <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+  <string name="wifi_disabled_network_failure">فشل تكوين IP</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
   <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
   <string name="wifi_disconnected_notification_summary">"لست متصلا بشبكة Wi-Fi."</string>
@@ -4791,8 +4791,8 @@ WLAN Assistant"</string>
   <string name="wifi_display_options_forget">Forget</string>
   <string name="wifi_display_options_name">Name</string>
   <string name="wifi_display_options_title">Wireless display options</string>
-  <string name="wifi_display_pause">Pause</string>
-  <string name="wifi_display_resume">Resume</string>
+  <string name="wifi_display_pause">إيقاف مؤقت</string>
+  <string name="wifi_display_resume">استئنف</string>
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_settings_empty_list_wifi_display_disabled">"لا يمكن استخدام العرض اللاسلكي عندما تكون شبكة الـWi-Fi في حالة إيقاف"</string>
   <string name="wifi_display_settings_title">Cast</string>
@@ -5137,19 +5137,19 @@ Allow this for all apps that want to scan?"</string>
   <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
   <string name="work_sim_title">Work SIM</string>
   <string name="work_space_delete">Delete Work space</string>
-  <string name="work_space_delete_confirm">Delete now</string>
+  <string name="work_space_delete_confirm">حذف الآن</string>
   <string name="work_space_delete_description">"You won't be able to enter Work space after you delete it. All data will be moved or deleted."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">التأكد من أن جهاز التوجية يدعم ويشتمل على WPS مفعل</string>
   <string name="wps_connect_title">توصيل WPS</string>
-  <string name="write_settings">Modify system settings</string>
+  <string name="write_settings">تعديل إعدادات النظام</string>
   <string name="write_settings_description">This permission allows an app to modify system settings.</string>
-  <string name="write_settings_off">No</string>
-  <string name="write_settings_on">Yes</string>
-  <string name="write_settings_preference">App modify system settings permission</string>
+  <string name="write_settings_off">لا</string>
+  <string name="write_settings_on">نعم</string>
+  <string name="write_settings_preference">التطبيق تعديل الإذن إعدادات النظام</string>
   <string name="write_settings_summary" formatted="false">%d of %d apps allowed to modify system settings</string>
   <string name="write_settings_title">Can modify system settings</string>
-  <string name="write_system_settings">Modify system settings</string>
+  <string name="write_system_settings">تعديل إعدادات النظام</string>
   <string name="write_tag">Write</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">حساب Mi</string>

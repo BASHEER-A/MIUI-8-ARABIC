@@ -379,7 +379,7 @@
   <string name="pref_delivery_ringtone">صوت التسليم</string>
   <string name="pref_edit_smsc_address">مركز خدمة الرسائل القصيرة (SMSC)</string>
   <string name="pref_forward_title">إعادة توجيه</string>
-  <string name="pref_message_recovery_introduction_title">Recover messages</string>
+  <string name="pref_message_recovery_introduction_title">استرداد الرسائل</string>
   <string name="pref_messages_to_save">تعيين عدد الرسائل المراد حفظها</string>
   <string name="pref_mms_settings_title">(MMS) رسائل الوسائط</string>
   <string name="pref_notification_settings_title">الإشعارات</string>
