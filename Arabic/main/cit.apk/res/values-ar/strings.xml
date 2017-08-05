@@ -724,7 +724,7 @@ mod:0-15"</string>
   <string name="start_get_service">get GPS service</string>
   <string name="stat_notif_frequency">FM radio station %1$sMHz</string>
   <string name="station_empty_text">No stations found</string>
-  <string name="station_rename_hint">Enter station name</string>
+  <string name="station_rename_hint">أدخل اسم المحطة</string>
   <string name="station_searching_tips">Getting stations</string>
   <string name="station_title">Radio Stations</string>
   <string name="status_unavailable">unavailable</string>
@@ -782,7 +782,7 @@ mod:0-15"</string>
   <string name="toast_sdcard_insufficient_space">Insufficient SD card space!</string>
   <string name="toast_sdcard_missing">Your SD card is missing!</string>
   <string name="toast_start_recording">Start recording...</string>
-  <string name="toast_station_renamed">The station has been renamed</string>
+  <string name="toast_station_renamed">تمت إعادة تسمية المحطة</string>
   <string name="toast_station_searched">Searched out available stations:</string>
   <string name="touchpanel_test">Touchpanel</string>
   <string name="tp_multi_point">And click on the screen of the two points or two gray round, if be blue said it through!</string>

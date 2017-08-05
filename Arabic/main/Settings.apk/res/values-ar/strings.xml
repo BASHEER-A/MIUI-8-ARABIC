@@ -3980,7 +3980,7 @@ This ^1 is formatted to work on this device only. It won&#8217;t work on any oth
   <string name="storage_mount_failure">Couldn’t mount %1$s</string>
   <string name="storage_mount_success">%1$s is mounted</string>
   <string name="storage_other_users">مستخدمون آخرون</string>
-  <string name="storage_rename_title">Rename storage</string>
+  <string name="storage_rename_title">إعادة تسمية وحدة التخزين</string>
   <string name="storage_settings">التخزين</string>
   <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>

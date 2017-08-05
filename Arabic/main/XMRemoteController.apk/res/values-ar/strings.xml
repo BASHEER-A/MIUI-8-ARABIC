@@ -204,7 +204,7 @@
   <string name="dvb_bind_epg">(Current)</string>
   <string name="edit">Edit</string>
   <string name="edit_controller">Edit remote</string>
-  <string name="edit_ir_device">Rename device</string>
+  <string name="edit_ir_device">إعادة تسمية الجهاز</string>
   <string name="eject">﻿Eject</string>
   <string name="empty_name_tip">Give a name to this remote</string>
   <string name="epg_add_fav_bind_stb_dlg">绑定机顶盒后可以添加收藏</string>
@@ -393,7 +393,7 @@
   <string name="loading_ir_data">Just a sec…</string>
   <string name="loading_more">正在加载更多内容</string>
   <string name="locate_current_place">Find current location</string>
-  <string name="location_select">Rename device</string>
+  <string name="location_select">إعادة تسمية الجهاز</string>
   <string name="login">Sign in</string>
   <string name="login_directly">Sign in</string>
   <string name="login_done">Signed in</string>
@@ -778,7 +778,7 @@ To activate your account, follow the
   <string name="rematch">Pair again</string>
   <string name="remote_controller_name">Mi Remote</string>
   <string name="remove_fav_channel">取消收藏</string>
-  <string name="rename">Rename</string>
+  <string name="rename">إعادة تسمية</string>
   <string name="rename_hint">"Enter device's name"</string>
   <string name="repeat_diagnosis">Test again</string>
   <string name="report_problem">Report problem</string>
