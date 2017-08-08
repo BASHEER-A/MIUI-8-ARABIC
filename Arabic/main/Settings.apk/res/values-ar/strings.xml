@@ -3712,7 +3712,7 @@ To use screen pinning:
   <string name="show_mem_info_title">Show memory status</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_owner_info_on_lockscreen_label">إظهار معلومات المستخدم على شاشة القفل</string>
-  <string name="show_password">جعل كلمات المرور مرئية/string>
+  <string name="show_password">جعل كلمات المرور مرئية</string>
   <string name="show_profile_info_on_lockscreen_label">عرض معلومات الملف الشخصي على شاشة القفل</string>
   <string name="show_rounded_corners">إظهار زوايا مستديرة</string>
   <string name="show_running_services">عرض الخدمات قيد التشغيل</string>
