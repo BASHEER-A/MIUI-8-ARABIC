@@ -11,11 +11,11 @@ Official Website . http://www.mi2ar.com
 
 ###Credits:
 
-@PRInCEI7
+@PRInCEI7 (بشير احمد)
 
 @ingbrzy
 
-@abdullah almutiri
+@abdullah almutiri (عبد الله)
 
 
 For Any problems
